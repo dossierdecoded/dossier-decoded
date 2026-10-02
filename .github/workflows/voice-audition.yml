@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "dossier-bot"
           git config user.email "dossierdecoded@gmail.com"
-          git add auditions || true
+          git add -A
           git diff --cached --quiet || git commit -m "Voice audition results"
           git pull --rebase origin main && git push origin HEAD:main

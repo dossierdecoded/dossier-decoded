@@ -13,7 +13,13 @@ def main():
     body = {"voice_name": job["name"], "voice_description": job["description"],
             "generated_voice_id": job["generated_voice_id"]}
     vid, errs = None, []
-    for path in ("/v1/text-to-voice", "/v1/text-to-voice/create", "/v1/text-to-voice/create-voice-from-preview"):
+    lst = requests.get(API + "/v2/voices", headers=H, params={"search": job["name"], "page_size": 50}, timeout=60)
+    existing = [v for v in (lst.json().get("voices", []) if lst.ok else []) if v.get("name") == job["name"]]
+    if existing:
+        vid = existing[0]["voice_id"]
+        print("reusing existing voice", vid, "count", len(existing))
+    paths = () if vid else ("/v1/text-to-voice", "/v1/text-to-voice/create", "/v1/text-to-voice/create-voice-from-preview")
+    for path in paths:
         r = requests.post(API + path, headers=H, json=body, timeout=120)
         if r.status_code == 200 and r.json().get("voice_id"):
             vid = r.json()["voice_id"]; break
