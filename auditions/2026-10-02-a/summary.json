@@ -1,0 +1,90 @@
+{
+  "text": "In 1962, America's top military chiefs signed off on a plan... to attack America. Not for real. They wanted to fake it. Staged hijackings. Bombs in Miami. [whispers] Even funerals for victims who never existed. The plan was called Operation Northwoods. President Kennedy rejected it... and the file stayed secret for thirty-five years.",
+  "candidates": [
+    {
+      "n": 1,
+      "kind": "library",
+      "name": "David - Deep, Attractive, Mysterious",
+      "voice_id": "K3TeN3ZVK8WnOeJ0NYqZ",
+      "public_owner_id": "371d6d792ea62609fe7ffb2a4fbcecd89bd491dcd40aff6680cc97f5ed273d47",
+      "gender": "male",
+      "accent": "latin american",
+      "age": "young",
+      "descriptive": "calm",
+      "use_case": "narrative_story",
+      "cloned_by_count": 83787,
+      "notice_period": 730,
+      "description": "Deep, attractive, and mysterious male voice designed for viral horror, true crime, investigations, creepypastas, and dark storytelling.\n\nCinematic tone with stable, immersive delivery\u2014perfect for Soci",
+      "my_voice_id": "K3TeN3ZVK8WnOeJ0NYqZ",
+      "file": "01-library-david.mp3"
+    },
+    {
+      "n": 2,
+      "kind": "library",
+      "name": "Michael Dan - British Documentary Narrator",
+      "voice_id": "QngvLQR8bsLR5bzoa6Vv",
+      "public_owner_id": "d396af315ee8681a2edbd4739b7c111101366f851614b6d67562a5f62a619e20",
+      "gender": "male",
+      "accent": "british",
+      "age": "middle_aged",
+      "descriptive": "casual",
+      "use_case": "narrative_story",
+      "cloned_by_count": 83024,
+      "notice_period": 730,
+      "description": "A warm, mature British male narrator with clear diction, natural pacing, and steady authority. Well-suited to history documentaries, factual video narration, educational explainers, and e-learning. He",
+      "my_voice_id": "QngvLQR8bsLR5bzoa6Vv",
+      "file": "02-library-michael.mp3"
+    },
+    {
+      "n": 3,
+      "kind": "library",
+      "name": "Monika Sogam - Deep and Captivating",
+      "voice_id": "6qL48o1LBmtR94hIYAQh",
+      "public_owner_id": "7398804d9eaf2f463899a907587c33a390591775784f87857b6d0e1e4e3e66f6",
+      "gender": "female",
+      "accent": "indian",
+      "age": "young",
+      "descriptive": "serious",
+      "use_case": "narrative_story",
+      "cloned_by_count": 74993,
+      "notice_period": 730,
+      "description": "Monika Sogam's voice has already been loved by the audience on ElevenLabs, with over 400 million characters generated. Since many people have used her voice for narration, we've brought her back to re",
+      "my_voice_id": "6qL48o1LBmtR94hIYAQh",
+      "file": "03-library-monika.mp3"
+    },
+    {
+      "n": 4,
+      "kind": "library",
+      "name": "Zane - Deep, Captivating and Dramatic",
+      "voice_id": "mfxPGiKweaQEsXJix2Ve",
+      "public_owner_id": "7398804d9eaf2f463899a907587c33a390591775784f87857b6d0e1e4e3e66f6",
+      "gender": "male",
+      "accent": "british",
+      "age": "middle_aged",
+      "descriptive": "deep",
+      "use_case": "narrative_story",
+      "cloned_by_count": 56850,
+      "notice_period": 730,
+      "description": "Zane\u2019s voice is deep, slow-burning, and drenched in suspense, perfect for stories that demand mood, tension, and a captivating edge. \r\n\r\nThis voice profile is especially suited for mystery podcasts, h",
+      "my_voice_id": "mfxPGiKweaQEsXJix2Ve",
+      "file": "04-library-zane.mp3"
+    },
+    {
+      "n": 5,
+      "kind": "custom",
+      "name": "investigator",
+      "description": "Deep, calm American male narrator in his 40s with a slight gravel. Measured, deliberate pace, low and intimate, like an investigator reading classified files late at night. Clean studio recording, documentary tone.",
+      "generated_voice_id": "faGwr3ZJF9DyDXTzJi99",
+      "file": "05-custom-investigator.mp3"
+    },
+    {
+      "n": 6,
+      "kind": "custom",
+      "name": "archivist",
+      "description": "Warm, low American female narrator in her 30s. Composed, confident and slightly mysterious, measured pace, crisp diction, like a true-crime documentary host revealing a secret. Clean studio recording.",
+      "generated_voice_id": "XZATdRIDitJqAdNEIQaI",
+      "file": "06-custom-archivist.mp3"
+    }
+  ],
+  "errors": []
+}
