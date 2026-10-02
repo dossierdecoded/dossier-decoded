@@ -27,6 +27,7 @@ def main():
     if not vid:
         fail("\n".join(errs))
     cfg_path = ROOT / "config" / "channel.json"
+    cfg_path.parent.mkdir(exist_ok=True)
     cfg = json.loads(cfg_path.read_text()) if cfg_path.exists() else {}
     cfg["narrator"] = {"name": job["name"], "voice_id": vid, "model_id": "eleven_v3",
                        "description": job["description"]}
