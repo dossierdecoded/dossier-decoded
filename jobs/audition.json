@@ -1,0 +1,20 @@
+{
+  "run": "2026-10-02-a",
+  "tts_model": "eleven_v3",
+  "text": "In 1962, America's top military chiefs signed off on a plan... to attack America. Not for real. They wanted to fake it. Staged hijackings. Bombs in Miami. [whispers] Even funerals for victims who never existed. The plan was called Operation Northwoods. President Kennedy rejected it... and the file stayed secret for thirty-five years.",
+  "design_text": "In 1962, America's top military chiefs signed off on a plan to attack America. Not for real. They wanted to fake it. Staged hijackings. Bombs in Miami. Even funerals for victims who never existed. The plan was called Operation Northwoods. President Kennedy rejected it, and the file stayed secret for thirty-five years.",
+  "library_queries": [
+    {"use_cases": "narrative_story", "gender": "male"},
+    {"use_cases": "informative_educational", "gender": "male"},
+    {"search": "documentary"},
+    {"search": "mystery"},
+    {"use_cases": "narrative_story", "gender": "female"}
+  ],
+  "min_notice_days": 365,
+  "skip_most_popular": 10,
+  "library_per_gender": {"male": 3, "female": 1},
+  "designs": [
+    {"slug": "investigator", "description": "Deep, calm American male narrator in his 40s with a slight gravel. Measured, deliberate pace, low and intimate, like an investigator reading classified files late at night. Clean studio recording, documentary tone."},
+    {"slug": "archivist", "description": "Warm, low American female narrator in her 30s. Composed, confident and slightly mysterious, measured pace, crisp diction, like a true-crime documentary host revealing a secret. Clean studio recording."}
+  ]
+}
