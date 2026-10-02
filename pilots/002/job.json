@@ -1,0 +1,52 @@
+{
+  "slug": "002-molasses",
+  "script": "[serious] January 15th, 1919. Boston. Just after noon, witnesses heard a sound like machine-gun fire. Rivets, bursting out of a steel tank fifty feet tall. Inside it: two point three million gallons of molasses. In seconds, a wave up to twenty-five feet high tore through the North End at thirty-five miles an hour. It flattened buildings. It swept away wagons, horses, people. Then the air cooled... and the molasses thickened like glue. [whispers] Rescuers couldn't pull people free. Twenty-one people died. About a hundred and fifty were hurt. And here's what makes it worse. The tank had leaked from the start. The fix? Paint it brown, so the leaks wouldn't show. Neighbors used to collect the dripping molasses to take home. After three years in court, the company was found liable. And for decades, locals swore that on hot summer days... the North End still smelled sweet. This is Dossier Decoded. Case file number two. Which file should we open next?",
+  "pdf": null,
+  "commons": [
+    {
+      "slug": "aftermath",
+      "query": "Boston molasses disaster 1919",
+      "n": 5
+    },
+    {
+      "slug": "newspaper",
+      "query": "molasses tank explosion Boston newspaper 1919"
+    },
+    {
+      "slug": "tank",
+      "query": "Purity Distilling molasses tank"
+    }
+  ],
+  "sfx": [
+    {
+      "slug": "rivets",
+      "text": "steel rivets popping rapidly like machine gun fire, metal tank groaning and bursting",
+      "seconds": 2.5
+    },
+    {
+      "slug": "wave",
+      "text": "huge thick liquid wave rushing and crashing through a street, wood splintering",
+      "seconds": 3.0
+    },
+    {
+      "slug": "stamp",
+      "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "paper",
+      "text": "a single sheet of paper being slid across a desk and flipped, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "drone",
+      "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+      "seconds": 22
+    },
+    {
+      "slug": "hit",
+      "text": "deep cinematic boom impact with short reverb tail, trailer hit",
+      "seconds": 2.0
+    }
+  ]
+}

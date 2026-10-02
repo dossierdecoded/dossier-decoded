@@ -59,6 +59,7 @@ def _():
 
 @step("pdf")
 def _():
+    if not JOB.get("pdf"): return
     r = requests.get(JOB["pdf"], headers=UA, timeout=120); r.raise_for_status()
     pdf = A / "source.pdf"; pdf.write_bytes(r.content)
     subprocess.run(["pdftoppm", "-r", "150", "-png", str(pdf), str(A / "doc")], check=True)
@@ -71,27 +72,30 @@ def _():
 
 @step("commons")
 def _():
-    lic = []
-    for c in JOB["commons"]:
+    lic, seen = [], set()
+    for c in JOB.get("commons", []):
+      for k in range(c.get("n", 1)):
         q = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=60, params={
             "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6,
-            "gsrsearch": c["query"], "gsrlimit": 5, "prop": "imageinfo",
+            "gsrsearch": c["query"], "gsrlimit": 15, "prop": "imageinfo",
             "iiprop": "url|extmetadata|size", "iiurlwidth": 1600}).json()
         pages = sorted(q.get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
         for p in pages:
+            if p["title"] in seen: continue
             ii = p["imageinfo"][0]; em = ii.get("extmetadata", {})
             lname = (em.get("LicenseShortName", {}).get("value") or "")
-            if not ii.get("thumburl") or not any(k in lname.lower() for k in ("public domain", "pd", "cc0", "cc by")):
+            if not ii.get("thumburl") or not any(kw in lname.lower() for kw in ("public domain", "pd", "cc0", "cc by")):
                 continue
             img = requests.get(ii["thumburl"], headers=UA, timeout=120); img.raise_for_status()
             ext = ".png" if ii["thumburl"].lower().endswith(".png") else ".jpg"
-            (A / f"photo-{c['slug']}{ext}").write_bytes(img.content)
-            lic.append({"slug": c["slug"], "title": p["title"], "license": lname,
+            seen.add(p["title"]); slug = c["slug"] + (f"-{k+1}" if c.get("n", 1) > 1 else "")
+            (A / f"photo-{slug}{ext}").write_bytes(img.content)
+            lic.append({"slug": slug, "title": p["title"], "license": lname,
                         "artist": em.get("Artist", {}).get("value", "")[:200],
                         "page": ii.get("descriptionurl")})
             break
         else:
-            errors.append(f"commons: nothing usable for {c['query']}")
+            errors.append(f"commons: nothing usable for {c['query']} #{k+1}")
     (A / "photo_licenses.json").write_text(json.dumps(lic, indent=1))
 
 (A / "meta.json").write_text(json.dumps(meta, indent=1))
