@@ -1,0 +1,26 @@
+{
+  "run": "2026-10-02-c-blend",
+  "text": "In 1962, America's top military chiefs signed off on a plan... to attack America. Not for real. They wanted to fake it. Staged hijackings. Bombs in Miami. Even funerals for victims who never existed. The plan was called Operation Northwoods. President Kennedy rejected it... and the file stayed secret for thirty-five years.",
+  "variants": [
+    {
+      "slug": "blend-close",
+      "description": "Deep American male narrator in his late 40s, warm baritone with a slight gravel. Intense, suspenseful delivery that builds tension: hushed and intimate on secrets, sharper and more urgent on reveals, with deliberate dramatic pauses. Like a seasoned investigator narrating a classified case file late at night. Clean studio recording, cinematic documentary tone.",
+      "reference": "auditions/2026-10-02-a/05-custom-investigator.mp3",
+      "prompt_strength": 0.6,
+      "keep": 2
+    },
+    {
+      "slug": "blend-intense",
+      "description": "Deep American male narrator in his late 40s, warm baritone with a slight gravel. Intense, suspenseful delivery that builds tension: hushed and intimate on secrets, sharper and more urgent on reveals, with deliberate dramatic pauses. Like a seasoned investigator narrating a classified case file late at night. Clean studio recording, cinematic documentary tone.",
+      "reference": "auditions/2026-10-02-a/05-custom-investigator.mp3",
+      "prompt_strength": 0.85,
+      "keep": 1
+    },
+    {
+      "slug": "fresh",
+      "description": "Deep, resonant American male narrator in his late 40s with a subtle gravelly texture. Suspense-thriller energy held under control: low, close-to-the-mic and confiding when revealing secrets, then crisp and urgent on the twist. Slow, deliberate pacing with weighted pauses. Cinematic true-crime documentary host. Clean studio recording.",
+      "guidance_scale": 8,
+      "keep": 1
+    }
+  ]
+}

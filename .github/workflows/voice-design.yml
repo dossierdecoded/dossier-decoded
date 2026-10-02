@@ -1,0 +1,33 @@
+name: Voice design
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - jobs/design.json
+
+permissions:
+  contents: write
+
+jobs:
+  design:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Design voices
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python scripts/design_voice.py
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "dossier-bot"
+          git config user.email "dossierdecoded@gmail.com"
+          git add auditions || true
+          git diff --cached --quiet || git commit -m "Voice design results"
+          git pull --rebase origin main && git push origin HEAD:main
