@@ -1,0 +1,8 @@
+{
+  "narrator": {
+    "name": "Dossier Narrator",
+    "voice_id": "SPXdnjqRDoMLfILaDoz4",
+    "model_id": "eleven_v3",
+    "description": "Deep American male narrator in his late 40s, warm baritone with a slight gravel. Intense, suspenseful delivery that builds tension: hushed and intimate on secrets, sharper and more urgent on reveals, with deliberate dramatic pauses. Like a seasoned investigator narrating a classified case file late at night. Clean studio recording, cinematic documentary tone."
+  }
+}
