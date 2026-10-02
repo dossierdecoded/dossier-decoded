@@ -70,9 +70,9 @@ def ok(v):
 
 
 cands = [v for v in pool.values() if ok(v)]
+lo, hi = JOB.get("clone_range", [0, 10**9])  # avoid voices every channel uses
+cands = [v for v in cands if lo <= (v.get("cloned_by_count") or 0) <= hi]
 cands.sort(key=lambda v: v.get("cloned_by_count") or 0, reverse=True)
-skip = JOB.get("skip_most_popular", 10)  # avoid the voices every channel uses
-cands = cands[skip:]
 picked, n_by_gender = [], {}
 for v in cands:
     g = (v.get("gender") or "unknown").lower()
@@ -118,7 +118,7 @@ for v in picked:
     time.sleep(1)
 
 # ---------- 2. Custom designed voices ----------
-for d in JOB["designs"]:
+for d in JOB.get("designs", []):
     try:
         r = requests.post(
             f"{API}/v1/text-to-voice/design",
