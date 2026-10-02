@@ -1,0 +1,154 @@
+{
+  "title": "THE MOLASSES FLOOD",
+  "case": "002",
+  "scenes": [
+    {
+      "at": "January",
+      "type": "card",
+      "text": "BOSTON\n1919",
+      "sub": "15 JANUARY · JUST AFTER NOON"
+    },
+    {
+      "at": "Just",
+      "type": "photo",
+      "photo": "photo-aftermath-3.jpg",
+      "focus": [
+        0.62,
+        0.5
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "THE TANK · 529 COMMERCIAL STREET",
+      "sfx_at": [
+        [
+          "rivets",
+          "machine-gun"
+        ]
+      ]
+    },
+    {
+      "at": "Inside",
+      "type": "card",
+      "text": "2,300,000\nGALLONS",
+      "sub": "OF MOLASSES"
+    },
+    {
+      "at": "In",
+      "type": "photo",
+      "photo": "photo-tank.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "zoom": [
+        1.0,
+        1.1
+      ],
+      "label": "WAVE UP TO 25 FT · 35 MPH",
+      "sfx_at": [
+        [
+          "wave",
+          "wave"
+        ]
+      ]
+    },
+    {
+      "at": "It",
+      "type": "photo",
+      "photo": "photo-aftermath-1.jpg",
+      "focus": [
+        0.45,
+        0.55
+      ],
+      "zoom": [
+        1.0,
+        1.15
+      ],
+      "label": "COMMERCIAL STREET · 15 JAN 1919"
+    },
+    {
+      "at": "Then",
+      "type": "photo",
+      "photo": "photo-aftermath-5.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "zoom": [
+        1.05,
+        1.18
+      ],
+      "label": "THE ELEVATED RAILWAY, BUCKLED"
+    },
+    {
+      "at": "Twenty-one",
+      "type": "card",
+      "text": "21 DEAD",
+      "sub": "ABOUT 150 INJURED",
+      "red": true
+    },
+    {
+      "at": "here's",
+      "type": "photo",
+      "photo": "photo-aftermath-3.jpg",
+      "focus": [
+        0.7,
+        0.45
+      ],
+      "zoom": [
+        1.1,
+        1.25
+      ],
+      "stamp": "LEAKING",
+      "stamp_at": "leaked"
+    },
+    {
+      "at": "fix?",
+      "type": "card",
+      "text": "THE FIX:\nPAINT IT\nBROWN.",
+      "red": true
+    },
+    {
+      "at": "Neighbors",
+      "type": "photo",
+      "photo": "photo-aftermath-1.jpg",
+      "focus": [
+        0.25,
+        0.6
+      ],
+      "zoom": [
+        1.1,
+        1.2
+      ],
+      "label": "THE NORTH END"
+    },
+    {
+      "at": "After",
+      "type": "photo",
+      "photo": "photo-aftermath-2.jpg",
+      "focus": [
+        0.5,
+        0.18
+      ],
+      "zoom": [
+        1.0,
+        1.1
+      ],
+      "label": "NEWSPAPER REPORT · JAN 1919",
+      "stamp": "LIABLE",
+      "stamp_at": "liable."
+    },
+    {
+      "at": "smelled",
+      "type": "card",
+      "text": "STILL\nSMELLED\nSWEET",
+      "sub": "FOR DECADES AFTER"
+    },
+    {
+      "at": "This",
+      "type": "end"
+    }
+  ]
+}

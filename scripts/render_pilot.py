@@ -113,7 +113,7 @@ def vignette():
         _vig = m.filter(ImageFilter.GaussianBlur(70))
     return _vig
 
-def crop_fit(src, cx, cy, cw, ch, zoom):
+def crop_fit(src, cx, cy, cw, ch, zoom, pad_col=PAPER_LIGHT):
     """crop a (cw/zoom x ch/zoom) window centred on cx,cy, sized to the view aspect."""
     asp = VW / VH
     if cw / ch > asp: ch = cw / asp
@@ -121,7 +121,7 @@ def crop_fit(src, cx, cy, cw, ch, zoom):
     cw, ch = cw / zoom, ch / zoom
     x0 = max(0, min(src.width - cw, cx - cw / 2)); y0 = max(0, min(src.height - ch, cy - ch / 2))
     if cw > src.width or ch > src.height:  # pad
-        pad = Image.new("RGB", (int(max(cw, src.width)) + 2, int(max(ch, src.height)) + 2), PAPER_LIGHT)
+        pad = Image.new("RGB", (int(max(cw, src.width)) + 2, int(max(ch, src.height)) + 2), pad_col)
         pad.paste(src, (0, 0)); src = pad
     return src.crop((int(x0), int(y0), int(x0 + cw), int(y0 + ch))).resize((VW, VH), Image.LANCZOS), (x0, y0, cw / VW)
 
@@ -163,7 +163,11 @@ def draw_photo(fr, sc, t):
     p = (t - sc["t0"]) / max(0.1, sc["t1"] - sc["t0"])
     z = sc["zoom"][0] + (sc["zoom"][1] - sc["zoom"][0]) * ease(p)
     fx, fy = sc["focus"]
-    view, _ = crop_fit(im, im.width * fx, im.height * fy, im.width, im.width * VH / VW, z)
+    if im.width / im.height > VW / VH:   # landscape: fill height, pan across
+        cw, ch = im.height * VW / VH, im.height
+    else:
+        cw, ch = im.width, im.width * VH / VW
+    view, _ = crop_fit(im, im.width * fx, im.height * fy, cw, ch, z, INK)
     fr.paste(Image.composite(view, Image.new("RGB", (VW, VH), INK), vignette()), VIEW[:2])
     if sc.get("label"):
         tag(fr, sc["label"], VIEW[3] - 70)
