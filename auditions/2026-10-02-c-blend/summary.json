@@ -1,0 +1,42 @@
+{
+  "text": "In 1962, America's top military chiefs signed off on a plan... to attack America. Not for real. They wanted to fake it. Staged hijackings. Bombs in Miami. Even funerals for victims who never existed. The plan was called Operation Northwoods. President Kennedy rejected it... and the file stayed secret for thirty-five years.",
+  "candidates": [
+    {
+      "n": 1,
+      "slug": "blend-close",
+      "file": "1-blend-close-1.mp3",
+      "generated_voice_id": "VbJAlUxXkapDI4dOhGKH",
+      "description": "Deep American male narrator in his late 40s, warm baritone with a slight gravel. Intense, suspenseful delivery that builds tension: hushed and intimate on secrets, sharper and more urgent on reveals, with deliberate dramatic pauses. Like a seasoned investigator narrating a classified case file late at night. Clean studio recording, cinematic documentary tone.",
+      "reference": "auditions/2026-10-02-a/05-custom-investigator.mp3",
+      "prompt_strength": 0.6
+    },
+    {
+      "n": 2,
+      "slug": "blend-close",
+      "file": "2-blend-close-2.mp3",
+      "generated_voice_id": "EI1gE85YXG5dBPwLVwb1",
+      "description": "Deep American male narrator in his late 40s, warm baritone with a slight gravel. Intense, suspenseful delivery that builds tension: hushed and intimate on secrets, sharper and more urgent on reveals, with deliberate dramatic pauses. Like a seasoned investigator narrating a classified case file late at night. Clean studio recording, cinematic documentary tone.",
+      "reference": "auditions/2026-10-02-a/05-custom-investigator.mp3",
+      "prompt_strength": 0.6
+    },
+    {
+      "n": 3,
+      "slug": "blend-intense",
+      "file": "3-blend-intense.mp3",
+      "generated_voice_id": "SPXdnjqRDoMLfILaDoz4",
+      "description": "Deep American male narrator in his late 40s, warm baritone with a slight gravel. Intense, suspenseful delivery that builds tension: hushed and intimate on secrets, sharper and more urgent on reveals, with deliberate dramatic pauses. Like a seasoned investigator narrating a classified case file late at night. Clean studio recording, cinematic documentary tone.",
+      "reference": "auditions/2026-10-02-a/05-custom-investigator.mp3",
+      "prompt_strength": 0.85
+    },
+    {
+      "n": 4,
+      "slug": "fresh",
+      "file": "4-fresh.mp3",
+      "generated_voice_id": "MeV38BGqv4Rr8et7R5hp",
+      "description": "Deep, resonant American male narrator in his late 40s with a subtle gravelly texture. Suspense-thriller energy held under control: low, close-to-the-mic and confiding when revealing secrets, then crisp and urgent on the twist. Slow, deliberate pacing with weighted pauses. Cinematic true-crime documentary host. Clean studio recording.",
+      "reference": null,
+      "prompt_strength": null
+    }
+  ],
+  "errors": []
+}
