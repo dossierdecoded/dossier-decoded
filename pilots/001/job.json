@@ -1,0 +1,18 @@
+{
+  "slug": "001-northwoods",
+  "script": "[serious] March 13th, 1962. America's top general signs a plan... to attack America. Not for real. To fake it. The plan was called Operation Northwoods, and the memo still exists. Stage a terror campaign in Miami. Explode a few plastic bombs in \"carefully chosen spots.\" Fake hijackings. Blow up a U.S. ship in Guantanamo Bay... and blame Cuba. [whispers] It even suggests funerals... for mock victims. Why? In their own words, casualty lists in U.S. newspapers would cause \"a helpful wave of national indignation.\" The goal was a reason to invade Cuba. President Kennedy said no. That same year, the general who signed it was out as America's top officer. And the memo? Kept secret for thirty-five years, until 1997. This is Dossier Decoded. Case file number one. Which file should we open next?",
+  "pdf": "https://nsarchive2.gwu.edu/news/20010430/northwoods.pdf",
+  "commons": [
+    {"slug": "lemnitzer", "query": "Lyman Lemnitzer portrait"},
+    {"slug": "kennedy", "query": "John F. Kennedy official portrait 1961"},
+    {"slug": "mcnamara", "query": "Robert McNamara official portrait"},
+    {"slug": "guantanamo", "query": "Guantanamo Bay naval base 1960s aerial"}
+  ],
+  "sfx": [
+    {"slug": "stamp", "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up", "seconds": 1.2},
+    {"slug": "typewriter", "text": "old mechanical typewriter typing a short burst of keys, close up, dry room", "seconds": 2.0},
+    {"slug": "paper", "text": "a single sheet of paper being slid across a desk and flipped, close up", "seconds": 1.2},
+    {"slug": "drone", "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless", "seconds": 22},
+    {"slug": "hit", "text": "deep cinematic boom impact with short reverb tail, trailer hit", "seconds": 2.0}
+  ]
+}

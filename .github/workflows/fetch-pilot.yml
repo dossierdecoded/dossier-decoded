@@ -1,0 +1,40 @@
+name: Fetch pilot assets
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - pilots/*/job.json
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr >/dev/null
+      - run: pip install requests
+      - name: Fetch assets for changed pilots
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          for d in pilots/*/; do
+            n=$(basename "$d")
+            if [ ! -f "$d/assets/voice.mp3" ] || [ "$d/job.json" -nt "$d/assets/voice.mp3" ]; then
+              python scripts/fetch_pilot.py "$n"
+            fi
+          done
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "dossier-bot"
+          git config user.email "dossierdecoded@gmail.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Pilot assets"
+          git pull --rebase origin main && git push origin HEAD:main
