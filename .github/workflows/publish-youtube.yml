@@ -1,0 +1,41 @@
+name: Publish to YouTube
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - pilots/*/publish.json
+
+permissions:
+  contents: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Upload new publish jobs
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          for d in pilots/*/; do
+            n=$(basename "$d")
+            if [ -f "$d/publish.json" ] && ! grep -q '"ok": true' "$d/youtube.json" 2>/dev/null; then
+              python scripts/upload_youtube.py "$n"
+            fi
+          done
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "dossier-bot"
+          git config user.email "dossierdecoded@gmail.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "YouTube publish result"
+          git pull --rebase origin main && git push origin HEAD:main
