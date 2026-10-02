@@ -1,0 +1,39 @@
+name: Publish to Instagram
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - pilots/*/instagram_job.json
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Publish pending reels
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          for d in pilots/*/; do
+            n=$(basename "$d")
+            if [ -f "$d/instagram_job.json" ] && ! grep -q '"ok": true' "$d/instagram.json" 2>/dev/null; then
+              python scripts/publish_instagram.py "$n"
+            fi
+          done
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "dossier-bot"
+          git config user.email "dossierdecoded@gmail.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Instagram publish result"
+          git pull --rebase origin main && git push origin HEAD:main
