@@ -1,0 +1,33 @@
+name: Save voice
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - jobs/save_voice.json
+
+permissions:
+  contents: write
+
+jobs:
+  save:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Save voice and test
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python scripts/save_voice.py
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "dossier-bot"
+          git config user.email "dossierdecoded@gmail.com"
+          git add config auditions || true
+          git diff --cached --quiet || git commit -m "Save Dossier Narrator voice"
+          git pull --rebase origin main && git push origin HEAD:main
