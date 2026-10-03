@@ -1,0 +1,64 @@
+{
+  "slug": "004-dbcooper",
+  "script": "[serious] November 24th, 1971. The day before Thanksgiving. A quiet man in a dark suit buys a one-way ticket from Portland to Seattle, under the name Dan Cooper. He orders a drink... then hands the flight attendant a note. [whispers] He has a bomb in his briefcase. His demands: two hundred thousand dollars in twenty-dollar bills, and four parachutes. In Seattle, he gets both, and lets every passenger go. Then the plane takes off again. Somewhere over southwest Washington, at night, in the rain, he lowers the rear stairs... and jumps. He was never seen again. Nine years later, an eight-year-old boy by the Columbia River dug up five thousand eight hundred dollars of the ransom, still in rubber bands. Over a thousand suspects. Forty-five years. In 2016, the FBI stopped actively investigating. It's still the only unsolved hijacking of its kind in American aviation history. This is Dossier Decoded. Case file number four. Which file should we open next?",
+  "pdf": null,
+  "commons": [
+    {
+      "slug": "sketch",
+      "query": "D. B. Cooper FBI composite sketch",
+      "n": 2
+    },
+    {
+      "slug": "poster",
+      "query": "D. B. Cooper wanted poster FBI"
+    },
+    {
+      "slug": "plane",
+      "query": "Northwest Orient Boeing 727"
+    },
+    {
+      "slug": "stairs",
+      "query": "Boeing 727 aft airstair ventral stairs"
+    },
+    {
+      "slug": "money",
+      "query": "D. B. Cooper ransom money found 1980"
+    },
+    {
+      "slug": "tie",
+      "query": "D. B. Cooper tie FBI evidence"
+    }
+  ],
+  "sfx": [
+    {
+      "slug": "cabin",
+      "text": "airplane cabin ambience, jet engine hum, 1970s airliner interior, muffled",
+      "seconds": 4.0
+    },
+    {
+      "slug": "wind",
+      "text": "violent wind and rain rushing through an open aircraft door at night",
+      "seconds": 3.0
+    },
+    {
+      "slug": "stamp",
+      "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "paper",
+      "text": "a single sheet of paper being slid across a desk and flipped, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "drone",
+      "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+      "seconds": 22
+    },
+    {
+      "slug": "hit",
+      "text": "deep cinematic boom impact with short reverb tail, trailer hit",
+      "seconds": 2.0
+    }
+  ]
+}
