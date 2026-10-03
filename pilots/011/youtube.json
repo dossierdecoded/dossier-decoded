@@ -1,0 +1,5 @@
+{
+  "ok": false,
+  "error": "Traceback (most recent call last):\n  File \"/home/runner/work/dossier-decoded/dossier-decoded/scripts/upload_youtube.py\", line 28, in <module>\n    init.raise_for_status()\n  File \"/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/site-packages/requests/models.py\", line 1167, in raise_for_status\n    raise HTTPError(http_error_msg, response=self)\nrequests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet%2Cstatus\n",
+  "response": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\n    \"errors\": [\n      {\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\n        \"domain\": \"youtube.video\",\n        \"reason\": \"uploadLimitExceeded\"\n      }\n    ]\n  }\n}\n"
+}
