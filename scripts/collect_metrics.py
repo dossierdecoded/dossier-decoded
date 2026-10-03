@@ -20,6 +20,8 @@ for p in sorted(ROOT.glob("pilots/*")):
         try:
             v["title"] = json.loads((p / f).read_text())["youtube"]["title"]; break
         except Exception: pass
+    try: v["duration"] = round(json.loads((p / "meta.json").read_text())["duration"], 1)
+    except Exception: pass
     if "yt" in v or "ig" in v: videos[n] = v
 
 # ---------- YouTube ----------

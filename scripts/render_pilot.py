@@ -320,4 +320,5 @@ if __name__ == "__main__":
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", *inputs, "-filter_complex", ";".join(filt), "-map", "0:v",
                     "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-t", f"{DUR:.2f}", str(out)], check=True)
     silent.unlink()
+    (PDIR / "meta.json").write_text(json.dumps({"duration": round(DUR, 2)}))
     print("wrote", out)
