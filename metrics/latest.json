@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T03:23:10+00:00",
+ "updated": "2026-10-03T03:25:30+00:00",
  "youtube_channel": {
   "subscribers": 1,
   "views": 0
@@ -34,7 +34,8 @@
     "total_interactions": 0,
     "avg_watch_sec": 15.7
    },
-   "title": "The US Military's Secret Plan to Attack America | Operation Northwoods"
+   "title": "The US Military's Secret Plan to Attack America | Operation Northwoods",
+   "duration": 52.0
   },
   {
    "case": "002",
@@ -42,7 +43,7 @@
    "yt": {
     "id": "uWBQ5abkeIM",
     "url": "https://youtube.com/shorts/uWBQ5abkeIM",
-    "views": 17,
+    "views": 19,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -60,7 +61,8 @@
     "total_interactions": 0,
     "avg_watch_sec": 22.3
    },
-   "title": "A 25-Foot Wave of Molasses Killed 21 People | The Great Molasses Flood"
+   "title": "A 25-Foot Wave of Molasses Killed 21 People | The Great Molasses Flood",
+   "duration": 56.5
   },
   {
    "case": "003",
@@ -86,7 +88,8 @@
     "total_interactions": 0,
     "avg_watch_sec": 5.4
    },
-   "title": "Sherlock Holmes' Creator Fell for This Hoax | The Cottingley Fairies"
+   "title": "Sherlock Holmes' Creator Fell for This Hoax | The Cottingley Fairies",
+   "duration": 67.7
   },
   {
    "case": "004",
@@ -94,7 +97,7 @@
    "yt": {
     "id": "BafR4vjnksU",
     "url": "https://youtube.com/shorts/BafR4vjnksU",
-    "views": 118,
+    "views": 123,
     "likes": 6,
     "comments": 0,
     "privacy": "public",
@@ -112,7 +115,8 @@
     "total_interactions": 0,
     "avg_watch_sec": 2.4
    },
-   "title": "He Hijacked a Plane and Vanished Forever | D. B. Cooper"
+   "title": "He Hijacked a Plane and Vanished Forever | D. B. Cooper",
+   "duration": 61.1
   },
   {
    "case": "005",
@@ -138,7 +142,8 @@
     "total_interactions": 0,
     "avg_watch_sec": 0.0
    },
-   "title": "The CIA Ordered These Files Destroyed. They Missed Some. | MKUltra"
+   "title": "The CIA Ordered These Files Destroyed. They Missed Some. | MKUltra",
+   "duration": 66.1
   },
   {
    "case": "006",
@@ -162,9 +167,10 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 4.0
    },
-   "title": "In 1518, a Whole City Couldn't Stop Dancing | The Dancing Plague"
+   "title": "In 1518, a Whole City Couldn't Stop Dancing | The Dancing Plague",
+   "duration": 61.2
   },
   {
    "case": "007",
@@ -188,9 +194,10 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 5.7
    },
-   "title": "Found Drifting. Nobody on Board. | The Mary Celeste"
+   "title": "Found Drifting. Nobody on Board. | The Mary Celeste",
+   "duration": 58.3
   },
   {
    "case": "008",
@@ -216,7 +223,8 @@
     "total_interactions": 0,
     "avg_watch_sec": 0.0
    },
-   "title": "Science's Biggest Fake Fooled Experts for 40 Years | Piltdown Man"
+   "title": "Science's Biggest Fake Fooled Experts for 40 Years | Piltdown Man",
+   "duration": 63.8
   },
   {
    "case": "009",
@@ -233,7 +241,7 @@
    "ig": {
     "id": "18014992118958854",
     "url": "https://www.instagram.com/reel/DeBBdF8Dls0/",
-    "views": 0,
+    "views": 1,
     "reach": 0,
     "likes": 0,
     "comments": 0,
@@ -242,7 +250,8 @@
     "total_interactions": 0,
     "avg_watch_sec": 0.0
    },
-   "title": "The Rocket to the Moon Was Built With a Secret | Operation Paperclip"
+   "title": "The Rocket to the Moon Was Built With a Secret | Operation Paperclip",
+   "duration": 57.0
   },
   {
    "case": "010",
@@ -268,7 +277,8 @@
     "total_interactions": 0,
     "avg_watch_sec": 0.0
    },
-   "title": "A Dead Man, a Secret Code, and Two Words | The Somerton Man"
+   "title": "A Dead Man, a Secret Code, and Two Words | The Somerton Man",
+   "duration": 56.0
   }
  ],
  "errors": []
