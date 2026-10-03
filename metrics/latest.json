@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T06:14:09+00:00",
+ "updated": "2026-10-03T06:54:59+00:00",
  "youtube_channel": {
   "subscribers": 3,
   "views": 0
@@ -16,7 +16,7 @@
    "yt": {
     "id": "gFVvXGu5uh4",
     "url": "https://youtube.com/shorts/gFVvXGu5uh4",
-    "views": 3,
+    "views": 5,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -43,7 +43,7 @@
    "yt": {
     "id": "uWBQ5abkeIM",
     "url": "https://youtube.com/shorts/uWBQ5abkeIM",
-    "views": 22,
+    "views": 21,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -70,7 +70,7 @@
    "yt": {
     "id": "JVjyiSnL5yI",
     "url": "https://youtube.com/shorts/JVjyiSnL5yI",
-    "views": 19,
+    "views": 26,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -97,8 +97,8 @@
    "yt": {
     "id": "BafR4vjnksU",
     "url": "https://youtube.com/shorts/BafR4vjnksU",
-    "views": 356,
-    "likes": 10,
+    "views": 413,
+    "likes": 11,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T00:40:50Z"
@@ -151,7 +151,7 @@
    "yt": {
     "id": "5P_Ay1Yi2dA",
     "url": "https://youtube.com/shorts/5P_Ay1Yi2dA",
-    "views": 1,
+    "views": 2,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -178,8 +178,8 @@
    "yt": {
     "id": "7xBFnPHuK7o",
     "url": "https://youtube.com/shorts/7xBFnPHuK7o",
-    "views": 2,
-    "likes": 1,
+    "views": 0,
+    "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:47:22Z"
@@ -187,14 +187,14 @@
    "ig": {
     "id": "18636215074056384",
     "url": "https://www.instagram.com/reel/DeBBShfD6e4/",
-    "views": 8,
-    "reach": 7,
+    "views": 9,
+    "reach": 8,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 3.8
+    "avg_watch_sec": 3.6
    },
    "title": "Found Drifting. Nobody on Board. | The Mary Celeste",
    "duration": 58.3
@@ -215,13 +215,13 @@
     "id": "18089774651678493",
     "url": "https://www.instagram.com/reel/DeBBX4QHX5L/",
     "views": 2,
-    "reach": 1,
+    "reach": 2,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 2.6
+    "avg_watch_sec": 2.0
    },
    "title": "Science's Biggest Fake Fooled Experts for 40 Years | Piltdown Man",
    "duration": 63.8
@@ -241,14 +241,14 @@
    "ig": {
     "id": "18014992118958854",
     "url": "https://www.instagram.com/reel/DeBBdF8Dls0/",
-    "views": 32,
-    "reach": 22,
+    "views": 35,
+    "reach": 26,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 15.2
+    "avg_watch_sec": 14.6
    },
    "title": "The Rocket to the Moon Was Built With a Secret | Operation Paperclip",
    "duration": 57.0
@@ -259,8 +259,8 @@
    "yt": {
     "id": "MheENVQxwuQ",
     "url": "https://youtube.com/shorts/MheENVQxwuQ",
-    "views": 1,
-    "likes": 1,
+    "views": 0,
+    "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:49:32Z"
