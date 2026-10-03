@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T05:07:02+00:00",
+ "updated": "2026-10-03T05:45:29+00:00",
  "youtube_channel": {
   "subscribers": 3,
   "views": 0
@@ -43,8 +43,8 @@
    "yt": {
     "id": "uWBQ5abkeIM",
     "url": "https://youtube.com/shorts/uWBQ5abkeIM",
-    "views": 19,
-    "likes": 1,
+    "views": 21,
+    "likes": 2,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-02T23:42:33Z"
@@ -70,7 +70,7 @@
    "yt": {
     "id": "JVjyiSnL5yI",
     "url": "https://youtube.com/shorts/JVjyiSnL5yI",
-    "views": 17,
+    "views": 24,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -97,8 +97,8 @@
    "yt": {
     "id": "BafR4vjnksU",
     "url": "https://youtube.com/shorts/BafR4vjnksU",
-    "views": 276,
-    "likes": 8,
+    "views": 331,
+    "likes": 9,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T00:40:50Z"
@@ -106,7 +106,7 @@
    "ig": {
     "id": "18022679708718461",
     "url": "https://www.instagram.com/reel/DeAyzqvDLFi/",
-    "views": 7,
+    "views": 8,
     "reach": 6,
     "likes": 0,
     "comments": 0,
@@ -124,8 +124,8 @@
    "yt": {
     "id": "bSRzb4l7KlU",
     "url": "https://youtube.com/shorts/bSRzb4l7KlU",
-    "views": 0,
-    "likes": 0,
+    "views": 1,
+    "likes": 1,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:44:43Z"
@@ -134,7 +134,7 @@
     "id": "18147613744520560",
     "url": "https://www.instagram.com/reel/DeBA9uElZQb/",
     "views": 16,
-    "reach": 14,
+    "reach": 15,
     "likes": 0,
     "comments": 0,
     "shares": 0,
@@ -151,8 +151,8 @@
    "yt": {
     "id": "5P_Ay1Yi2dA",
     "url": "https://youtube.com/shorts/5P_Ay1Yi2dA",
-    "views": 1,
-    "likes": 1,
+    "views": 0,
+    "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:45:40Z"
@@ -187,7 +187,7 @@
    "ig": {
     "id": "18636215074056384",
     "url": "https://www.instagram.com/reel/DeBBShfD6e4/",
-    "views": 5,
+    "views": 6,
     "reach": 5,
     "likes": 0,
     "comments": 0,
@@ -241,14 +241,14 @@
    "ig": {
     "id": "18014992118958854",
     "url": "https://www.instagram.com/reel/DeBBdF8Dls0/",
-    "views": 15,
-    "reach": 12,
+    "views": 25,
+    "reach": 16,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 7.2
+    "avg_watch_sec": 11.9
    },
    "title": "The Rocket to the Moon Was Built With a Secret | Operation Paperclip",
    "duration": 57.0
