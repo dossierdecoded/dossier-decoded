@@ -1,0 +1,44 @@
+[
+ {
+  "slug": "island",
+  "title": "File:Alcatraz Island aerial view.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ralf_Baechle&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ralf Baechle (page does not exist)\">Ralf Baechle</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_aerial_view.jpg"
+ },
+ {
+  "slug": "morris",
+  "title": "File:Frank Morris.jpg",
+  "license": "Public domain",
+  "artist": "US Federal Government",
+  "page": "https://commons.wikimedia.org/wiki/File:Frank_Morris.jpg"
+ },
+ {
+  "slug": "head-1",
+  "title": "File:Dummy head made by Frank Morris to facilitate his escape from Alcatraz in 1962.jpg",
+  "license": "Public domain",
+  "artist": "FBI",
+  "page": "https://commons.wikimedia.org/wiki/File:Dummy_head_made_by_Frank_Morris_to_facilitate_his_escape_from_Alcatraz_in_1962.jpg"
+ },
+ {
+  "slug": "head-2",
+  "title": "File:Dummy heads.jpg",
+  "license": "Public domain",
+  "artist": "Federal Bureau of Investigation",
+  "page": "https://commons.wikimedia.org/wiki/File:Dummy_heads.jpg"
+ },
+ {
+  "slug": "cellhouse",
+  "title": "File:Utility corridor inside Alcatraz cellblock.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Grendelkhan\" title=\"User:Grendelkhan\">Grendelkhan</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Utility_corridor_inside_Alcatraz_cellblock.jpg"
+ },
+ {
+  "slug": "bay",
+  "title": "File:Byways around San Francisco Bay (IA bywaysaroundsanf00hutc).pdf",
+  "license": "Public domain",
+  "artist": "<div class=\"fn value\">\nHutchinson, William E., b. 1856</div>",
+  "page": "https://commons.wikimedia.org/wiki/File:Byways_around_San_Francisco_Bay_(IA_bywaysaroundsanf00hutc).pdf"
+ }
+]
