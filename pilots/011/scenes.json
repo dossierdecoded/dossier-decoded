@@ -1,0 +1,213 @@
+{
+ "title": "THE ALCATRAZ ESCAPE",
+ "case": "011",
+ "scenes": [
+  {
+   "at": "Three",
+   "type": "photo",
+   "photo": "photo-head-1.jpg",
+   "focus": [
+    0.45,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FBI EVIDENCE · DECOY HEAD · 1962",
+   "stamp": "ESCAPED",
+   "stamp_at": "behind."
+  },
+  {
+   "at": "June,",
+   "type": "photo",
+   "photo": "photo-island.jpg",
+   "focus": [
+    0.45,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "ALCATRAZ · SAN FRANCISCO BAY",
+   "sfx": [
+    [
+     "waves",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "bunks,",
+   "type": "photo",
+   "photo": "photo-head-2.jpg",
+   "focus": [
+    0.48,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "label": "FBI EVIDENCE · THE DUMMY HEADS",
+   "sfx_at": [
+    [
+     "door",
+     "guards"
+    ]
+   ]
+  },
+  {
+   "at": "soap,",
+   "type": "photo",
+   "photo": "photo-head-1.jpg",
+   "focus": [
+    0.6,
+    0.35
+   ],
+   "zoom": [
+    1.3,
+    1.45
+   ],
+   "label": "SOAP · TOILET PAPER · REAL HAIR"
+  },
+  {
+   "at": "Frank",
+   "type": "photo",
+   "photo": "photo-morris.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "label": "FRANK LEE MORRIS · ALCATRAZ 1441"
+  },
+  {
+   "at": "vents",
+   "type": "photo",
+   "photo": "photo-cellhouse.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "UTILITY CORRIDOR BEHIND THE CELLS"
+  },
+  {
+   "at": "raft",
+   "type": "card",
+   "text": "50+\nRAINCOATS",
+   "sub": "ONE HOMEMADE RAFT",
+   "red": true,
+   "sfx": [
+    [
+     "waves",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Searchers",
+   "type": "doc",
+   "page": "doc-002.png",
+   "window": [
+    480,
+    1220,
+    1260,
+    1400
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     545,
+     1275,
+     1250,
+     1300
+    ],
+    [
+     545,
+     1322,
+     1222,
+     1347
+    ]
+   ],
+   "reveal": "paddle,",
+   "label": "FBI MEMO · 13 JUNE 1962"
+  },
+  {
+   "at": "sealed",
+   "type": "card",
+   "text": "FAMILY\nPHOTOS",
+   "sub": "SEALED · RECOVERED FROM THE BAY"
+  },
+  {
+   "at": "Did",
+   "type": "doc",
+   "page": "doc-002.png",
+   "window": [
+    240,
+    500,
+    1230,
+    660
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     248,
+     600,
+     1012,
+     628
+    ]
+   ],
+   "reveal": "drown,",
+   "label": "FBI MEMO · 12 JUNE 1962"
+  },
+  {
+   "at": "FBI",
+   "type": "card",
+   "text": "FBI CASE\nCLOSED",
+   "sub": "31 DECEMBER 1979",
+   "stamp": "CLOSED",
+   "stamp_at": "seventy-nine."
+  },
+  {
+   "at": "Marshals",
+   "type": "photo",
+   "photo": "photo-morris.jpg",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "U.S. MARSHALS · CASE STILL OPEN",
+   "stamp": "UNSOLVED",
+   "stamp_at": "have.",
+   "sfx_at": [
+    [
+     "hit",
+     "have."
+    ]
+   ]
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
