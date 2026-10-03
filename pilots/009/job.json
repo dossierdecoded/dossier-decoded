@@ -1,0 +1,51 @@
+{
+  "slug": "009-paperclip",
+  "script": "[serious] 1945. Nazi Germany has fallen. And the United States starts quietly recruiting its scientists. The program was called Operation Paperclip, named for the paperclips officers attached to the files of the experts they wanted. More than sixteen hundred German scientists and engineers came to America. President Truman's order said to keep out committed Nazis. But some files were rewritten... to hide their pasts. The most famous recruit was Wernher von Braun. In Germany, he'd been an officer in the SS, and his V-2 rockets were built by prisoners from a concentration camp. In America, he led the team that built the Saturn V, the rocket that took humans to the Moon. Another Paperclip engineer, Arthur Rudolph, gave up his U.S. citizenship in 1984 rather than face prosecution. [whispers] The Moon rocket... was built, in part, by men whose pasts were rewritten to get them in. This is Dossier Decoded. Case file number nine. Which file should we open next?",
+  "pdf": null,
+  "commons": [
+    {
+      "slug": "vonbraun",
+      "query": "Wernher von Braun Saturn V Marshall",
+      "n": 2
+    },
+    {
+      "slug": "group",
+      "query": "Operation Paperclip German scientists Fort Bliss 1946"
+    },
+    {
+      "slug": "v2",
+      "query": "V-2 rocket launch 1940s"
+    },
+    {
+      "slug": "saturn",
+      "query": "Saturn V launch Apollo 11"
+    }
+  ],
+  "sfx": [
+    {
+      "slug": "stamp",
+      "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "paper",
+      "text": "a single sheet of paper being slid across a desk and flipped, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "drone",
+      "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+      "seconds": 22
+    },
+    {
+      "slug": "hit",
+      "text": "deep cinematic boom impact with short reverb tail, trailer hit",
+      "seconds": 2.0
+    },
+    {
+      "slug": "rocket",
+      "text": "huge rocket engine ignition and liftoff rumble, distant, powerful",
+      "seconds": 3.0
+    }
+  ]
+}

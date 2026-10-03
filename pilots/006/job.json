@@ -1,0 +1,47 @@
+{
+  "slug": "006-dancing",
+  "script": "[serious] July 1518. Strasbourg. A woman named Frau Troffea steps into the street... and starts to dance. No music. No reason. She dances for days. Within a week, more than thirty people have joined her. By August, some accounts say hundreds. They danced until their feet bled. Some collapsed from exhaustion. And the city's response? [whispers] More dancing. The council believed the cure was to dance it out. They opened up guildhalls, built a stage, and hired musicians to keep everyone going. It made things worse. Finally, they banned public music and sent the dancers to a mountain shrine, to pray to Saint Vitus, in red shoes. Slowly, it stopped. What caused it? The leading theory: a city pushed to its breaking point by famine and disease... and a mass panic of the mind. Others blame poisoned grain. Nobody knows for sure. This is Dossier Decoded. Case file number six. Which file should we open next?",
+  "pdf": null,
+  "commons": [
+    {
+      "slug": "engraving",
+      "query": "dancing mania Hondius Bruegel",
+      "n": 2
+    },
+    {
+      "slug": "strasbourg",
+      "query": "Strasbourg 1493 Nuremberg Chronicle"
+    },
+    {
+      "slug": "vitus",
+      "query": "Saint Vitus dance medieval"
+    }
+  ],
+  "sfx": [
+    {
+      "slug": "stamp",
+      "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "paper",
+      "text": "a single sheet of paper being slid across a desk and flipped, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "drone",
+      "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+      "seconds": 22
+    },
+    {
+      "slug": "hit",
+      "text": "deep cinematic boom impact with short reverb tail, trailer hit",
+      "seconds": 2.0
+    },
+    {
+      "slug": "fiddle",
+      "text": "frantic medieval fiddle and drum folk dance music, short loop",
+      "seconds": 4.0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "010-somerton",
+  "script": "[serious] December 1st, 1948. Somerton beach, Australia. A man is found dead, propped against the seawall, legs crossed. No wallet. No ID. Every label cut from his clothes. Months later, police find a tiny scrap of paper in a hidden pocket. Two words: Tamám Shud. Persian, for \"it is finished.\" It was torn from the last page of a book of poetry, the Rubaiyat of Omar Khayyam. Then someone hands in the exact copy, found in a car. In the back: a phone number, and five lines of letters that look like a code. Nobody has ever cracked it. For seventy-four years, he had no name. Then, in 2022, a researcher used DNA from his hair to name him: Carl Webb, an electrical engineer from Melbourne. Police haven't confirmed it. And how he died... is still unknown. This is Dossier Decoded. Case file number ten. Which file should we open next?",
+  "pdf": null,
+  "commons": [
+    {
+      "slug": "code",
+      "query": "Tamam Shud code Rubaiyat"
+    },
+    {
+      "slug": "scrap",
+      "query": "Tamam Shud scrap paper Somerton"
+    },
+    {
+      "slug": "man",
+      "query": "Somerton Man police photograph 1948"
+    },
+    {
+      "slug": "beach",
+      "query": "Somerton Park beach Adelaide"
+    }
+  ],
+  "sfx": [
+    {
+      "slug": "stamp",
+      "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "paper",
+      "text": "a single sheet of paper being slid across a desk and flipped, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "drone",
+      "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+      "seconds": 22
+    },
+    {
+      "slug": "hit",
+      "text": "deep cinematic boom impact with short reverb tail, trailer hit",
+      "seconds": 2.0
+    },
+    {
+      "slug": "surf",
+      "text": "gentle ocean waves on a beach at dawn, distant gulls, calm",
+      "seconds": 4.0
+    }
+  ]
+}

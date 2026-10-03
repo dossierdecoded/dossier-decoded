@@ -1,0 +1,50 @@
+{
+  "slug": "008-piltdown",
+  "script": "[serious] 1912. An amateur archaeologist named Charles Dawson announces the find of the century. Near Piltdown, in England, he's found a skull... and a jaw. Proof, experts said, of the missing link between apes and humans. The Natural History Museum backed him. It was named Dawson's Dawn Man. For forty years, it was in the textbooks. More than two hundred and fifty papers were written about it. Then, in 1953, scientists ran a new chemical test. [whispers] The skull and the jaw were from different times... and different species. The skull was a medieval human's. The jaw, an orangutan's. The teeth had been filed down by hand and stained to look ancient. Under a microscope, you could see the file marks. And Dawson? A historian later documented at least thirty-eight other fakes linked to him. This is Dossier Decoded. Case file number eight. Which file should we open next?",
+  "pdf": null,
+  "commons": [
+    {
+      "slug": "gang",
+      "query": "Piltdown gang painting John Cooke"
+    },
+    {
+      "slug": "skull",
+      "query": "Piltdown man skull reconstruction"
+    },
+    {
+      "slug": "dawson",
+      "query": "Charles Dawson Piltdown"
+    },
+    {
+      "slug": "site",
+      "query": "Piltdown gravel pit excavation"
+    }
+  ],
+  "sfx": [
+    {
+      "slug": "stamp",
+      "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "paper",
+      "text": "a single sheet of paper being slid across a desk and flipped, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "drone",
+      "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+      "seconds": 22
+    },
+    {
+      "slug": "hit",
+      "text": "deep cinematic boom impact with short reverb tail, trailer hit",
+      "seconds": 2.0
+    },
+    {
+      "slug": "file",
+      "text": "metal file scraping on bone, slow strokes, close up, quiet room",
+      "seconds": 2.0
+    }
+  ]
+}

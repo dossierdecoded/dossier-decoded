@@ -1,0 +1,50 @@
+{
+  "slug": "007-celeste",
+  "script": "[serious] December 4th, 1872. The middle of the Atlantic. A ship called the Dei Gratia spots another vessel drifting under partial sail. No one at the wheel. They board her. She's the Mary Celeste. And she's empty. Ten people are gone: Captain Benjamin Briggs, his wife Sarah, their two-year-old daughter Sophia, and seven crew. The lifeboat is missing. But the cargo, one thousand seven hundred and one barrels of alcohol, is nearly untouched. Six months of food and water. The captain's belongings, undisturbed. No sign of a struggle. The last log entry was nine days earlier. A court in Gibraltar suspected murder, or fraud. It found nothing. Then a young writer named Arthur Conan Doyle wrote a sensational story about it, and many of his invented details are still repeated as fact. The leading theory today? Fumes from the cargo, a panic... and a lifeboat that never made it back. This is Dossier Decoded. Case file number seven. Which file should we open next?",
+  "pdf": null,
+  "commons": [
+    {
+      "slug": "ship",
+      "query": "Mary Celeste Amazon 1861 painting"
+    },
+    {
+      "slug": "briggs",
+      "query": "Benjamin Briggs captain Mary Celeste"
+    },
+    {
+      "slug": "deigratia",
+      "query": "Dei Gratia brigantine"
+    },
+    {
+      "slug": "sea",
+      "query": "brigantine sailing ship 1870s Atlantic"
+    }
+  ],
+  "sfx": [
+    {
+      "slug": "stamp",
+      "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "paper",
+      "text": "a single sheet of paper being slid across a desk and flipped, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "drone",
+      "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+      "seconds": 22
+    },
+    {
+      "slug": "hit",
+      "text": "deep cinematic boom impact with short reverb tail, trailer hit",
+      "seconds": 2.0
+    },
+    {
+      "slug": "waves",
+      "text": "creaking wooden sailing ship on open sea, waves and wind, rigging, eerie",
+      "seconds": 4.0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "005-mkultra",
+  "script": "[serious] In 1973, the director of the CIA gave an order: destroy the files. All of them. The program was called MKUltra. For twenty years, the agency had been testing mind-control techniques on people... many of whom never agreed to it. LSD, slipped into drinks. Sensory deprivation. Hypnosis. Electroshock. More than eighty institutions were involved: universities, hospitals, prisons. In San Francisco, the CIA ran safe houses where men were drugged and watched through one-way mirrors. It was called Operation Midnight Climax. One Army scientist, Frank Olson, was secretly dosed in 1953. Nine days later, he fell to his death from a New York hotel window. But here's the thing about destroying files. [whispers] You might miss some. In 1977, a records request turned up about twenty thousand documents that had been stored somewhere else. And the cover-up became a Senate hearing. This is Dossier Decoded. Case file number five. Which file should we open next?",
+  "pdf": null,
+  "commons": [
+    {
+      "slug": "doc",
+      "query": "MKUltra document CIA",
+      "n": 3
+    },
+    {
+      "slug": "gottlieb",
+      "query": "Sidney Gottlieb"
+    },
+    {
+      "slug": "helms",
+      "query": "Richard Helms CIA director portrait"
+    },
+    {
+      "slug": "hearing",
+      "query": "Church Committee hearing 1975"
+    }
+  ],
+  "sfx": [
+    {
+      "slug": "stamp",
+      "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "paper",
+      "text": "a single sheet of paper being slid across a desk and flipped, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "drone",
+      "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+      "seconds": 22
+    },
+    {
+      "slug": "hit",
+      "text": "deep cinematic boom impact with short reverb tail, trailer hit",
+      "seconds": 2.0
+    },
+    {
+      "slug": "shred",
+      "text": "paper shredder shredding documents, close up, office",
+      "seconds": 2.5
+    }
+  ]
+}
