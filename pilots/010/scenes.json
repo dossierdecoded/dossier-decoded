@@ -1,0 +1,106 @@
+{
+  "title": "THE SOMERTON MAN",
+  "case": "010",
+  "scenes": [
+    {
+      "at": "December",
+      "type": "card",
+      "text": "1 DEC\n1948",
+      "sub": "SOMERTON BEACH, AUSTRALIA",
+      "sfx": [
+        [
+          "surf",
+          0.0
+        ]
+      ]
+    },
+    {
+      "at": "A",
+      "type": "photo",
+      "photo": "photo-man.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "THE SOMERTON MAN"
+    },
+    {
+      "at": "No",
+      "type": "card",
+      "text": "NO WALLET.\nNO ID.\nLABELS CUT.",
+      "red": true
+    },
+    {
+      "at": "Months",
+      "type": "photo",
+      "photo": "photo-scrap.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "zoom": [
+        1.0,
+        1.05
+      ],
+      "label": "FOUND IN A HIDDEN POCKET",
+      "fit": "contain"
+    },
+    {
+      "at": "torn",
+      "type": "card",
+      "text": "THE RUBAIYAT\nOF OMAR\nKHAYYAM",
+      "sub": "LAST PAGE TORN OUT"
+    },
+    {
+      "at": "Then",
+      "type": "photo",
+      "photo": "photo-code.jpg",
+      "focus": [
+        0.32,
+        0.62
+      ],
+      "zoom": [
+        1.7,
+        1.85
+      ],
+      "label": "THE CODE · INSIDE THE BOOK",
+      "stamp": "UNCRACKED",
+      "stamp_at": "it."
+    },
+    {
+      "at": "For",
+      "type": "card",
+      "text": "74 YEARS\nNO NAME"
+    },
+    {
+      "at": "Then,",
+      "type": "photo",
+      "photo": "photo-man.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "zoom": [
+        1.05,
+        1.15
+      ],
+      "label": "CARL WEBB?",
+      "stamp": "UNCONFIRMED",
+      "stamp_at": "it."
+    },
+    {
+      "at": "And",
+      "type": "card",
+      "text": "CAUSE OF\nDEATH:\nUNKNOWN.",
+      "red": true
+    },
+    {
+      "at": "This",
+      "type": "end"
+    }
+  ]
+}

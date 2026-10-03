@@ -1,0 +1,113 @@
+{
+  "title": "THE PILTDOWN MAN",
+  "case": "008",
+  "scenes": [
+    {
+      "at": "1912.",
+      "type": "card",
+      "text": "SUSSEX\n1912",
+      "sub": "PILTDOWN, ENGLAND"
+    },
+    {
+      "at": "An",
+      "type": "photo",
+      "photo": "photo-dawson.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "CHARLES DAWSON"
+    },
+    {
+      "at": "Near",
+      "type": "photo",
+      "photo": "photo-skull.jpg",
+      "focus": [
+        0.4,
+        0.3
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "PILTDOWN MAN · RECONSTRUCTION"
+    },
+    {
+      "at": "Natural",
+      "type": "photo",
+      "photo": "photo-gang.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "EXPERTS EXAMINE THE SKULL · 1915"
+    },
+    {
+      "at": "For",
+      "type": "card",
+      "text": "40 YEARS\nIN TEXTBOOKS",
+      "sub": "250+ PAPERS"
+    },
+    {
+      "at": "Then,",
+      "type": "card",
+      "text": "1953:\nTHE TEST",
+      "sub": "FLUORINE DATING"
+    },
+    {
+      "at": "The",
+      "type": "photo",
+      "photo": "photo-skull.jpg",
+      "focus": [
+        0.5,
+        0.75
+      ],
+      "zoom": [
+        1.1,
+        1.25
+      ],
+      "stamp": "FAKE",
+      "stamp_at": "orangutan's."
+    },
+    {
+      "at": "teeth",
+      "type": "card",
+      "text": "FILED.\nSTAINED.\nFAKED.",
+      "red": true,
+      "sfx_at": [
+        [
+          "file",
+          "filed"
+        ]
+      ]
+    },
+    {
+      "at": "Dawson?",
+      "type": "photo",
+      "photo": "photo-dawson.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "zoom": [
+        1.1,
+        1.2
+      ],
+      "label": "CHARLES DAWSON",
+      "stamp": "FRAUD",
+      "stamp_at": "him."
+    },
+    {
+      "at": "This",
+      "type": "end"
+    }
+  ]
+}

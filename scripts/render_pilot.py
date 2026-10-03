@@ -163,7 +163,7 @@ def draw_photo(fr, sc, t):
     p = (t - sc["t0"]) / max(0.1, sc["t1"] - sc["t0"])
     z = sc["zoom"][0] + (sc["zoom"][1] - sc["zoom"][0]) * ease(p)
     fx, fy = sc["focus"]
-    if im.width / im.height > VW / VH:   # landscape: fill height, pan across
+    if im.width / im.height > VW / VH and sc.get('fit') != 'contain':   # landscape: fill height, pan across
         cw, ch = im.height * VW / VH, im.height
     else:
         cw, ch = im.width, im.width * VH / VW

@@ -1,0 +1,124 @@
+{
+  "title": "THE MARY CELESTE",
+  "case": "007",
+  "scenes": [
+    {
+      "at": "December",
+      "type": "card",
+      "text": "4 DEC\n1872",
+      "sub": "THE MIDDLE OF THE ATLANTIC",
+      "sfx": [
+        [
+          "waves",
+          0.0
+        ]
+      ]
+    },
+    {
+      "at": "A",
+      "type": "photo",
+      "photo": "photo-ship.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "MARY CELESTE (AS 'AMAZON'), 1861"
+    },
+    {
+      "at": "And",
+      "type": "card",
+      "text": "SHE'S\nEMPTY.",
+      "red": true
+    },
+    {
+      "at": "Ten",
+      "type": "photo",
+      "photo": "photo-briggs.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "CAPT. BENJAMIN BRIGGS"
+    },
+    {
+      "at": "The",
+      "type": "card",
+      "text": "10 GONE.\nLIFEBOAT\nMISSING.",
+      "red": true
+    },
+    {
+      "at": "But",
+      "type": "card",
+      "text": "1,701\nBARRELS",
+      "sub": "OF ALCOHOL · NEARLY UNTOUCHED"
+    },
+    {
+      "at": "Six",
+      "type": "photo",
+      "photo": "photo-ship.jpg",
+      "focus": [
+        0.45,
+        0.55
+      ],
+      "zoom": [
+        1.2,
+        1.35
+      ],
+      "label": "NO SIGN OF A STRUGGLE",
+      "sfx": [
+        [
+          "waves",
+          0.0
+        ]
+      ]
+    },
+    {
+      "at": "court",
+      "type": "card",
+      "text": "GIBRALTAR\nINQUIRY",
+      "sub": "SUSPECTED MURDER · FOUND NOTHING"
+    },
+    {
+      "at": "Then",
+      "type": "photo",
+      "photo": "photo-doyle.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "ARTHUR CONAN DOYLE · 1884 STORY"
+    },
+    {
+      "at": "The",
+      "type": "photo",
+      "photo": "photo-ship.jpg",
+      "focus": [
+        0.55,
+        0.5
+      ],
+      "zoom": [
+        1.05,
+        1.15
+      ],
+      "label": "LEADING THEORY: CARGO FUMES",
+      "stamp": "UNSOLVED",
+      "stamp_at": "back."
+    },
+    {
+      "at": "This",
+      "type": "end"
+    }
+  ]
+}

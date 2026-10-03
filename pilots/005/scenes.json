@@ -1,0 +1,118 @@
+{
+  "title": "MKULTRA",
+  "case": "005",
+  "scenes": [
+    {
+      "at": "In",
+      "type": "card",
+      "text": "1973:\nDESTROY\nTHE FILES.",
+      "sub": "ORDER OF THE CIA DIRECTOR",
+      "red": true,
+      "sfx_at": [
+        [
+          "shred",
+          "destroy"
+        ]
+      ]
+    },
+    {
+      "at": "program",
+      "type": "photo",
+      "photo": "photo-doc-2.jpg",
+      "focus": [
+        0.5,
+        0.3
+      ],
+      "zoom": [
+        1.05,
+        1.2
+      ],
+      "label": "DECLASSIFIED CIA DOCUMENT",
+      "stamp": "MKULTRA",
+      "stamp_at": "MKUltra."
+    },
+    {
+      "at": "For",
+      "type": "photo",
+      "photo": "photo-doc-1.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "zoom": [
+        1.1,
+        1.25
+      ],
+      "label": "CIA MEMORANDUM · 1953"
+    },
+    {
+      "at": "LSD,",
+      "type": "photo",
+      "photo": "photo-gottlieb.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "SIDNEY GOTTLIEB · HEAD OF MKULTRA"
+    },
+    {
+      "at": "More",
+      "type": "card",
+      "text": "80+\nINSTITUTIONS",
+      "sub": "UNIVERSITIES · HOSPITALS · PRISONS"
+    },
+    {
+      "at": "In",
+      "type": "card",
+      "text": "OPERATION\nMIDNIGHT\nCLIMAX",
+      "sub": "SAN FRANCISCO"
+    },
+    {
+      "at": "One",
+      "type": "card",
+      "text": "FRANK OLSON\n1953",
+      "sub": "SECRETLY DOSED · DEAD 9 DAYS LATER",
+      "red": true
+    },
+    {
+      "at": "But",
+      "type": "photo",
+      "photo": "photo-doc-3.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "zoom": [
+        1.05,
+        1.2
+      ],
+      "label": "SURVIVING DOCUMENT",
+      "stamp": "SURVIVED",
+      "stamp_at": "some."
+    },
+    {
+      "at": "In",
+      "type": "photo",
+      "photo": "photo-hearing.jpg",
+      "focus": [
+        0.5,
+        0.3
+      ],
+      "zoom": [
+        1.0,
+        1.1
+      ],
+      "label": "U.S. SENATE INVESTIGATION",
+      "stamp": "EXPOSED",
+      "stamp_at": "hearing."
+    },
+    {
+      "at": "This",
+      "type": "end"
+    }
+  ]
+}

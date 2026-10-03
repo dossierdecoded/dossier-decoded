@@ -1,0 +1,39 @@
+name: Publish scheduled
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: publish-scheduled
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Publish anything due
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: python scripts/publish_due.py
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "dossier-bot"
+          git config user.email "dossierdecoded@gmail.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Scheduled publish results"
+          git pull --rebase origin main && git push origin HEAD:main

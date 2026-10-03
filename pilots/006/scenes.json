@@ -1,0 +1,115 @@
+{
+  "title": "THE DANCING PLAGUE",
+  "case": "006",
+  "scenes": [
+    {
+      "at": "July",
+      "type": "card",
+      "text": "STRASBOURG\n1518",
+      "sub": "JULY"
+    },
+    {
+      "at": "A",
+      "type": "photo",
+      "photo": "photo-strasbourg.jpg",
+      "focus": [
+        0.4,
+        0.6
+      ],
+      "zoom": [
+        1.1,
+        1.25
+      ],
+      "label": "STRASBOURG · NUREMBERG CHRONICLE, 1493"
+    },
+    {
+      "at": "No",
+      "type": "photo",
+      "photo": "photo-engraving-2.jpg",
+      "focus": [
+        0.5,
+        0.6
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "THE DANCING MANIA · AFTER BRUEGEL",
+      "sfx": [
+        [
+          "fiddle",
+          0.2
+        ]
+      ]
+    },
+    {
+      "at": "Within",
+      "type": "card",
+      "text": "30+\nIN A WEEK",
+      "sub": "HUNDREDS BY AUGUST, BY SOME ACCOUNTS"
+    },
+    {
+      "at": "They",
+      "type": "photo",
+      "photo": "photo-engraving-2.jpg",
+      "focus": [
+        0.35,
+        0.65
+      ],
+      "zoom": [
+        1.25,
+        1.4
+      ]
+    },
+    {
+      "at": "And",
+      "type": "card",
+      "text": "THE CURE:\nMORE\nDANCING.",
+      "red": true
+    },
+    {
+      "at": "council",
+      "type": "photo",
+      "photo": "photo-engraving-1.jpg",
+      "focus": [
+        0.5,
+        0.6
+      ],
+      "zoom": [
+        1.0,
+        1.15
+      ],
+      "label": "GUILDHALLS · A STAGE · MUSICIANS",
+      "sfx": [
+        [
+          "fiddle",
+          0.2
+        ]
+      ]
+    },
+    {
+      "at": "Finally,",
+      "type": "photo",
+      "photo": "photo-vitus.jpg",
+      "focus": [
+        0.55,
+        0.4
+      ],
+      "zoom": [
+        1.0,
+        1.1
+      ],
+      "label": "19TH-CENTURY STUDY OF THE DANCING MANIA"
+    },
+    {
+      "at": "What",
+      "type": "card",
+      "text": "FAMINE.\nDISEASE.\nPANIC.",
+      "sub": "THE LEADING THEORY"
+    },
+    {
+      "at": "This",
+      "type": "end"
+    }
+  ]
+}

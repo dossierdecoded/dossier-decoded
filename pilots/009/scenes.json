@@ -1,0 +1,123 @@
+{
+  "title": "OPERATION PAPERCLIP",
+  "case": "009",
+  "scenes": [
+    {
+      "at": "1945.",
+      "type": "card",
+      "text": "1945",
+      "sub": "NAZI GERMANY HAS FALLEN"
+    },
+    {
+      "at": "And",
+      "type": "photo",
+      "photo": "photo-group.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "zoom": [
+        1.0,
+        1.15
+      ],
+      "label": "PAPERCLIP SCIENTISTS · FORT BLISS, TEXAS"
+    },
+    {
+      "at": "program",
+      "type": "card",
+      "text": "OPERATION\nPAPERCLIP"
+    },
+    {
+      "at": "More",
+      "type": "card",
+      "text": "1,600+\nSCIENTISTS",
+      "sub": "BROUGHT TO AMERICA"
+    },
+    {
+      "at": "President",
+      "type": "card",
+      "text": "\"NO COMMITTED\nNAZIS\"",
+      "sub": "TRUMAN'S ORDER",
+      "stamp": "REWRITTEN",
+      "stamp_at": "pasts."
+    },
+    {
+      "at": "most",
+      "type": "photo",
+      "photo": "photo-vonbraun-2.jpg",
+      "focus": [
+        0.5,
+        0.6
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "WERNHER VON BRAUN"
+    },
+    {
+      "at": "Germany,",
+      "type": "card",
+      "text": "SS OFFICER",
+      "sub": "V-2 ROCKETS BUILT BY CAMP PRISONERS",
+      "red": true
+    },
+    {
+      "at": "America,",
+      "type": "photo",
+      "photo": "photo-vonbraun-1.jpg",
+      "focus": [
+        0.5,
+        0.6
+      ],
+      "zoom": [
+        1.05,
+        1.15
+      ],
+      "label": "VON BRAUN · SATURN V ENGINES"
+    },
+    {
+      "at": "Saturn",
+      "type": "photo",
+      "photo": "photo-saturn.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "APOLLO 11 · 1969",
+      "sfx": [
+        [
+          "rocket",
+          0.0
+        ]
+      ]
+    },
+    {
+      "at": "Another",
+      "type": "card",
+      "text": "ARTHUR\nRUDOLPH",
+      "sub": "GAVE UP U.S. CITIZENSHIP · 1984"
+    },
+    {
+      "at": "Moon",
+      "type": "photo",
+      "photo": "photo-saturn.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "zoom": [
+        1.15,
+        1.3
+      ]
+    },
+    {
+      "at": "This",
+      "type": "end"
+    }
+  ]
+}
