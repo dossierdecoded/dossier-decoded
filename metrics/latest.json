@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T08:40:24+00:00",
+ "updated": "2026-10-03T09:08:44+00:00",
  "youtube_channel": {
   "subscribers": 3,
   "views": 0
@@ -80,13 +80,13 @@
     "id": "17999513666810758",
     "url": "https://www.instagram.com/reel/DeAxhp6AUbS/",
     "views": 1,
-    "reach": 0,
+    "reach": 1,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 5.4
+    "avg_watch_sec": 3.0
    },
    "title": "Sherlock Holmes' Creator Fell for This Hoax | The Cottingley Fairies",
    "duration": 67.7
@@ -97,8 +97,8 @@
    "yt": {
     "id": "BafR4vjnksU",
     "url": "https://youtube.com/shorts/BafR4vjnksU",
-    "views": 512,
-    "likes": 11,
+    "views": 586,
+    "likes": 10,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T00:40:50Z"
@@ -124,7 +124,7 @@
    "yt": {
     "id": "bSRzb4l7KlU",
     "url": "https://youtube.com/shorts/bSRzb4l7KlU",
-    "views": 2,
+    "views": 1,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -241,7 +241,7 @@
    "ig": {
     "id": "18014992118958854",
     "url": "https://www.instagram.com/reel/DeBBdF8Dls0/",
-    "views": 41,
+    "views": 44,
     "reach": 34,
     "likes": 0,
     "comments": 0,
