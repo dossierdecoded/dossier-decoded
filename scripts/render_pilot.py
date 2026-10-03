@@ -10,7 +10,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 PDIR = ROOT / "pilots" / sys.argv[1]
 A = PDIR / "assets"
 SPEC = json.loads((PDIR / "scenes.json").read_text())
-FONTS = pathlib.Path.home() / ".fonts"
+FONTS = ROOT / "fonts"  # OFL fonts committed to the repo (Big Shoulders Display, IBM Plex Mono)
 W, H, FPS = 1080, 1920, 30
 INK, MANILA, RED, MUTED = (17, 20, 24), (234, 219, 184), (224, 74, 43), (150, 143, 128)
 PAPER_DARK, PAPER_LIGHT = (28, 26, 24), (238, 229, 208)
@@ -145,7 +145,7 @@ def draw_doc(fr, sc, t):
         view, (ox, oy, sc_) = crop_fit(pg, cx, cy, x1 - x0, y1 - y0, z)
     d = ImageDraw.Draw(view, "RGBA")
     rt = sc.get("reveal_t", sc["t0"] + 0.4)
-    k = ease((t - rt) / 0.45)
+    k = 1.0 if sc.get("instant") else ease((t - rt) / 0.45)  # instant: highlight already revealed (hook frame)
     for (lx0, ly0, lx1, ly1) in lines:
         a = ((lx0 - ox) / sc_ - 10, (ly0 - oy) / sc_ - 8, (lx1 - ox) / sc_ + 10, (ly1 - oy) / sc_ + 8)
         if k > 0:  # red marker under revealed text

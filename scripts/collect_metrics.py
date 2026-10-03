@@ -10,7 +10,10 @@ PILLAR = {"001": "Turned out true", "002": "Strange but true", "003": "Exposed",
           "009": "Turned out true", "010": "Unsolved"}
 errors, videos = [], {}
 for p in sorted(ROOT.glob("pilots/*")):
-    n = p.name; v = {"case": n, "pillar": PILLAR.get(n, "Other")}
+    n = p.name
+    try: pil = json.loads((p / "job.json").read_text()).get("pillar")
+    except Exception: pil = None
+    v = {"case": n, "pillar": pil or PILLAR.get(n, "Other")}
     for f, k in (("youtube.json", "yt"), ("instagram.json", "ig")):
         try:
             j = json.loads((p / f).read_text())

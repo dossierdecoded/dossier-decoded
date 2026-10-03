@@ -62,12 +62,25 @@ def _():
     if not JOB.get("pdf"): return
     r = requests.get(JOB["pdf"], headers=UA, timeout=120); r.raise_for_status()
     pdf = A / "source.pdf"; pdf.write_bytes(r.content)
-    subprocess.run(["pdftoppm", "-r", "150", "-png", str(pdf), str(A / "doc")], check=True)
-    texts = {}
+    rng = JOB.get("pages")  # optional [first, last] to avoid rasterising huge files
+    extra = ["-f", str(rng[0]), "-l", str(rng[1])] if rng else []
+    subprocess.run(["pdftoppm", "-r", "150", *extra, "-png", str(pdf), str(A / "doc")], check=True)
+    texts, boxes = {}, {}
     for png in sorted(A.glob("doc-*.png")):
         out = subprocess.run(["tesseract", str(png), "-", "--psm", "3"], capture_output=True, text=True)
         texts[png.name] = out.stdout
+        tsv = subprocess.run(["tesseract", str(png), "-", "--psm", "3", "tsv"], capture_output=True, text=True).stdout
+        lines = {}
+        for row in tsv.splitlines()[1:]:
+            c = row.split("\t")
+            if len(c) < 12 or not c[11].strip() or float(c[10]) < 30: continue
+            k = (c[2], c[3], c[4]); x, y, w, h = map(int, c[6:10])
+            L = lines.setdefault(k, {"text": [], "box": [x, y, x + w, y + h]})
+            L["text"].append(c[11]); b = L["box"]
+            L["box"] = [min(b[0], x), min(b[1], y), max(b[2], x + w), max(b[3], y + h)]
+        boxes[png.name] = [{"text": " ".join(v["text"]), "box": v["box"]} for v in lines.values()]
     (A / "ocr.json").write_text(json.dumps(texts, indent=1))
+    (A / "ocr_lines.json").write_text(json.dumps(boxes, indent=1))  # line boxes in page pixels, for scenes.json "lines"
     pdf.unlink()  # keep repo small; pages are kept as PNG
 
 @step("commons")

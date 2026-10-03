@@ -1,21 +1,92 @@
 """Publish queued pilots whose time has come. Reads pilots/<n>/queue.json:
 {"publish_at": ISO8601, "youtube": {...publish.json youtube block...}, "file": "...", "instagram": {"video_url","caption"}}
-Writes publish.json / instagram_job.json at publish time, then runs the uploaders."""
-import datetime as dt, json, pathlib, subprocess, sys
+Writes publish.json / instagram_job.json at publish time, then runs the uploaders.
+
+Instagram needs a public video URL. When video_url points at https://dossierdecoded.github.io/media/,
+this script hosts the file on the site repo (SITE_TOKEN), waits for GitHub Pages to serve it,
+publishes, then removes it again."""
+import datetime as dt, json, os, pathlib, shutil, subprocess, sys, time
+import requests
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
+SITE_URL = "https://dossierdecoded.github.io/media/"
+SITE_DIR = pathlib.Path("/tmp/site")
 now = dt.datetime.now(dt.timezone.utc)
+
+
+def sh(*a, **kw):
+    return subprocess.run(a, cwd=SITE_DIR, check=True, capture_output=True, text=True, **kw)
+
+
+def site():
+    if not SITE_DIR.exists():
+        tok = os.environ["SITE_TOKEN"]
+        subprocess.run(["git", "clone", "--depth", "1",
+                        f"https://x-access-token:{tok}@github.com/dossierdecoded/dossierdecoded.github.io.git",
+                        str(SITE_DIR)], check=True, capture_output=True)
+        sh("git", "config", "user.name", "dossier-bot")
+        sh("git", "config", "user.email", "dossierdecoded@gmail.com")
+    return SITE_DIR
+
+
+def push(msg):
+    sh("git", "add", "-A")
+    if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=SITE_DIR).returncode == 0:
+        return
+    sh("git", "commit", "-m", msg)
+    for _ in range(4):
+        try:
+            sh("git", "pull", "--rebase", "origin", "main"); sh("git", "push", "origin", "HEAD:main"); return
+        except subprocess.CalledProcessError:
+            time.sleep(10)
+    raise RuntimeError("could not push site repo")
+
+
+def host(n, src, url):
+    dst = site() / "media" / url.rsplit("/", 1)[1]
+    dst.parent.mkdir(exist_ok=True)
+    if not dst.exists():
+        shutil.copy(src, dst); push(f"Host {n} for Instagram")
+    size = src.stat().st_size
+    for _ in range(90):  # Pages deploys usually take 1-3 min
+        try:
+            r = requests.head(url, timeout=30, allow_redirects=True)
+            if r.status_code == 200 and int(r.headers.get("content-length", size)) == size:
+                return True
+        except requests.RequestException:
+            pass
+        time.sleep(10)
+    return False
+
+
+def unhost(url):
+    f = site() / "media" / url.rsplit("/", 1)[1]
+    if f.exists():
+        f.unlink(); push("Remove hosted video after publishing")
+
+
 for q in sorted(ROOT.glob("pilots/*/queue.json")):
     P, n = q.parent, q.parent.name
     job = json.loads(q.read_text())
     if dt.datetime.fromisoformat(job["publish_at"]) > now:
         continue
+
     def done(f):
         try: return json.loads((P / f).read_text()).get("ok") is True
         except Exception: return False
+
     if not done("youtube.json"):
         (P / "publish.json").write_text(json.dumps({"file": job["file"], "youtube": job["youtube"]}, indent=2, ensure_ascii=False))
         subprocess.run([sys.executable, str(ROOT / "scripts" / "upload_youtube.py"), n])
-    if not done("instagram.json") and job.get("instagram"):
-        (P / "instagram_job.json").write_text(json.dumps(job["instagram"], indent=2, ensure_ascii=False))
-        subprocess.run([sys.executable, str(ROOT / "scripts" / "publish_instagram.py"), n])
+    ig = job.get("instagram")
+    if ig:
+        url = ig["video_url"]; ours = url.startswith(SITE_URL)
+        if not done("instagram.json"):
+            if ours and not host(n, P / job["file"], url):
+                (P / "instagram.json").write_text(json.dumps({"ok": False, "error": "hosted file not served in time"}))
+            else:
+                (P / "instagram_job.json").write_text(json.dumps(ig, indent=2, ensure_ascii=False))
+                subprocess.run([sys.executable, str(ROOT / "scripts" / "publish_instagram.py"), n])
+        if done("instagram.json") and ours:
+            unhost(url)
     print(n, "youtube", done("youtube.json"), "instagram", done("instagram.json"))
