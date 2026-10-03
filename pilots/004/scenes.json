@@ -1,0 +1,131 @@
+{
+  "title": "THE D. B. COOPER HIJACKING",
+  "case": "004",
+  "scenes": [
+    {
+      "at": "November",
+      "type": "card",
+      "text": "24 NOV\n1971",
+      "sub": "THE DAY BEFORE THANKSGIVING",
+      "sfx": [
+        [
+          "cabin",
+          0.0
+        ]
+      ]
+    },
+    {
+      "at": "A",
+      "type": "photo",
+      "photo": "photo-sketch-2.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "FBI COMPOSITE SKETCH"
+    },
+    {
+      "at": "He",
+      "type": "photo",
+      "photo": "photo-plane.jpg",
+      "focus": [
+        0.55,
+        0.55
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "label": "NORTHWEST ORIENT · BOEING 727",
+      "sfx": [
+        [
+          "cabin",
+          0.0
+        ]
+      ]
+    },
+    {
+      "at": "demands:",
+      "type": "card",
+      "text": "$200,000\n+ 4 PARACHUTES",
+      "sub": "IN $20 BILLS",
+      "red": true
+    },
+    {
+      "at": "In",
+      "type": "photo",
+      "photo": "photo-plane.jpg",
+      "focus": [
+        0.3,
+        0.55
+      ],
+      "zoom": [
+        1.15,
+        1.25
+      ],
+      "label": "SEATTLE · PASSENGERS RELEASED"
+    },
+    {
+      "at": "Then",
+      "type": "card",
+      "text": "10,000 FT\nNIGHT.\nRAIN.",
+      "sub": "OVER SOUTHWEST WASHINGTON",
+      "sfx_at": [
+        [
+          "wind",
+          "stairs..."
+        ],
+        [
+          "hit",
+          "jumps."
+        ]
+      ]
+    },
+    {
+      "at": "never",
+      "type": "photo",
+      "photo": "photo-sketch-1.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "zoom": [
+        1.0,
+        1.1
+      ],
+      "label": "FBI COMPOSITE SKETCH B",
+      "stamp": "MISSING",
+      "stamp_at": "again."
+    },
+    {
+      "at": "Nine",
+      "type": "card",
+      "text": "$5,800\nFOUND",
+      "sub": "COLUMBIA RIVER · 1980"
+    },
+    {
+      "at": "Over",
+      "type": "photo",
+      "photo": "photo-poster.jpg",
+      "focus": [
+        0.5,
+        0.3
+      ],
+      "zoom": [
+        1.0,
+        1.1
+      ],
+      "label": "FBI BULLETIN · 1971",
+      "stamp": "UNSOLVED",
+      "stamp_at": "history."
+    },
+    {
+      "at": "This",
+      "type": "end"
+    }
+  ]
+}
