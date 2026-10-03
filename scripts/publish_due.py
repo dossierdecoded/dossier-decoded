@@ -87,6 +87,8 @@ for q in sorted(ROOT.glob("pilots/*/queue.json")):
             else:
                 (P / "instagram_job.json").write_text(json.dumps(ig, indent=2, ensure_ascii=False))
                 subprocess.run([sys.executable, str(ROOT / "scripts" / "publish_instagram.py"), n])
-        if done("instagram.json") and ours:
-            unhost(url)
+        recent = now - dt.datetime.fromisoformat(job["publish_at"]) < dt.timedelta(days=2)
+        if done("instagram.json") and ours and recent:
+            try: unhost(url)
+            except Exception as e: print(n, "unhost failed:", e)
     print(n, "youtube", done("youtube.json"), "instagram", done("instagram.json"))
