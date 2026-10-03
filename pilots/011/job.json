@@ -1,0 +1,80 @@
+{
+  "slug": "011-alcatraz",
+  "pillar": "Unsolved",
+  "format": "case-file",
+  "script": "[serious] Three men vanished from America's most escape-proof prison — and left their own heads behind. June, nineteen sixty-two. Alcatraz. In three bunks, guards found sleeping men... made of soap, toilet paper and real hair. Frank Morris and the Anglin brothers dug through their vents with spoons, and launched a raft of over fifty raincoats. Searchers found something in the water: a paddle, and a sealed packet of family photos. Did they drown, or pack them planning to live? The FBI closed the case in nineteen seventy-nine. The U.S. Marshals never have. This is Dossier Decoded. Case file number eleven. Which file should we open next?",
+  "pdf": "https://vault.fbi.gov/Alcatraz%20Escape/Alcatraz%20Escape%20Part%2001/at_download/file",
+  "pages": [
+    1,
+    12
+  ],
+  "commons": [
+    {
+      "slug": "island",
+      "query": "Alcatraz Island aerial view",
+      "n": 1
+    },
+    {
+      "slug": "morris",
+      "query": "Frank Morris Alcatraz mugshot",
+      "n": 1
+    },
+    {
+      "slug": "anglins",
+      "query": "John Anglin Clarence Anglin mugshot",
+      "n": 2
+    },
+    {
+      "slug": "head",
+      "query": "Alcatraz escape dummy head 1962",
+      "n": 2
+    },
+    {
+      "slug": "vent",
+      "query": "Alcatraz cell vent escape Morris",
+      "n": 1
+    },
+    {
+      "slug": "cellhouse",
+      "query": "Alcatraz cellblock interior cells",
+      "n": 1
+    },
+    {
+      "slug": "bay",
+      "query": "San Francisco Bay Alcatraz water fog",
+      "n": 1
+    }
+  ],
+  "sfx": [
+    {
+      "slug": "drone",
+      "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+      "seconds": 22
+    },
+    {
+      "slug": "stamp",
+      "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "paper",
+      "text": "a single sheet of paper being slid across a desk and flipped, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "hit",
+      "text": "deep cinematic impact hit, single boom, short tail",
+      "seconds": 1.5
+    },
+    {
+      "slug": "waves",
+      "text": "cold dark ocean waves lapping against rocks at night, foghorn in the distance",
+      "seconds": 4.0
+    },
+    {
+      "slug": "door",
+      "text": "heavy steel prison cell door slamming shut, metallic echo",
+      "seconds": 1.5
+    }
+  ]
+}
