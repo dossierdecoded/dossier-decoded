@@ -1,0 +1,56 @@
+{
+  "slug": "003-cottingley",
+  "script": "[serious] 1917. Yorkshire, England. Two cousins, Elsie, sixteen, and Frances, nine, come back from the stream with a photograph. In it: Frances... surrounded by dancing fairies. Elsie's father suspected a prank. But the photos kept coming. And then they reached the most famous believer imaginable. Sir Arthur Conan Doyle. The man who created Sherlock Holmes. In 1920, he published them in The Strand Magazine as evidence that fairies were real. A photography expert examined the negatives, and called them \"entirely genuine, unfaked photographs.\" Kodak found no signs of faking. For more than sixty years, the cousins kept their secret. [whispers] Then, in 1983, as old women, they confessed. The fairies were paper cut-outs, copied from a children's book... and held up with hatpins. But there's a twist. Until the day she died, Frances swore that one photo, the fifth, was real. This is Dossier Decoded. Case file number three. Which file should we open next?",
+  "pdf": null,
+  "commons": [
+    {
+      "slug": "fairies",
+      "query": "Cottingley Fairies photograph",
+      "n": 5
+    },
+    {
+      "slug": "doyle",
+      "query": "Arthur Conan Doyle portrait photograph"
+    },
+    {
+      "slug": "strand",
+      "query": "Strand Magazine 1920 cover"
+    },
+    {
+      "slug": "giftbook",
+      "query": "Princess Mary's Gift Book Shepperson"
+    }
+  ],
+  "sfx": [
+    {
+      "slug": "shutter",
+      "text": "old box camera shutter click, vintage, close up",
+      "seconds": 1.0
+    },
+    {
+      "slug": "stream",
+      "text": "gentle forest stream and birdsong, early 1900s countryside, soft",
+      "seconds": 4.0
+    },
+    {
+      "slug": "stamp",
+      "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "paper",
+      "text": "a single sheet of paper being slid across a desk and flipped, close up",
+      "seconds": 1.2
+    },
+    {
+      "slug": "drone",
+      "text": "eerie low ambient drone, mysterious music box undertone, slow, no melody, seamless",
+      "seconds": 22
+    },
+    {
+      "slug": "hit",
+      "text": "deep cinematic boom impact with short reverb tail, trailer hit",
+      "seconds": 2.0
+    }
+  ]
+}
