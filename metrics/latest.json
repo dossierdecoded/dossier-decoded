@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-04T10:58:45+00:00",
+ "updated": "2026-10-04T16:13:25+00:00",
  "youtube_channel": {
   "subscribers": 3,
-  "views": 0
+  "views": 864
  },
  "instagram_account": {
   "followers_count": 0,
-  "media_count": 11,
+  "media_count": 13,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -16,7 +16,7 @@
    "yt": {
     "id": "gFVvXGu5uh4",
     "url": "https://youtube.com/shorts/gFVvXGu5uh4",
-    "views": 12,
+    "views": 13,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -43,7 +43,7 @@
    "yt": {
     "id": "uWBQ5abkeIM",
     "url": "https://youtube.com/shorts/uWBQ5abkeIM",
-    "views": 43,
+    "views": 44,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -70,7 +70,7 @@
    "yt": {
     "id": "JVjyiSnL5yI",
     "url": "https://youtube.com/shorts/JVjyiSnL5yI",
-    "views": 77,
+    "views": 78,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
@@ -97,7 +97,7 @@
    "yt": {
     "id": "BafR4vjnksU",
     "url": "https://youtube.com/shorts/BafR4vjnksU",
-    "views": 709,
+    "views": 712,
     "likes": 10,
     "comments": 0,
     "privacy": "public",
@@ -124,7 +124,7 @@
    "yt": {
     "id": "bSRzb4l7KlU",
     "url": "https://youtube.com/shorts/bSRzb4l7KlU",
-    "views": 17,
+    "views": 18,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -286,7 +286,7 @@
    "yt": {
     "id": "fibH99ghCqE",
     "url": "https://youtube.com/shorts/fibH99ghCqE",
-    "views": 8,
+    "views": 9,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -295,17 +295,44 @@
    "ig": {
     "id": "18130395370770610",
     "url": "https://www.instagram.com/reel/DeDA3oSHXco/",
-    "views": 43,
-    "reach": 41,
+    "views": 48,
+    "reach": 45,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 4.7
+    "avg_watch_sec": 4.6
    },
    "title": "They Left Their Own Heads Behind | The 1962 Alcatraz Escape",
    "duration": 40.1
+  },
+  {
+   "case": "012",
+   "pillar": "Strange but true",
+   "yt": {
+    "id": "IhHQ0MAGrhU",
+    "url": "https://youtube.com/shorts/IhHQ0MAGrhU",
+    "views": 4,
+    "likes": 1,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-04T15:17:08Z"
+   },
+   "ig": {
+    "id": "18086868905285692",
+    "url": "https://www.instagram.com/reel/DeE78U6lbq4/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "The US Air Force Studied Nuking the Moon | Project A119",
+   "duration": 58.5
   }
  ],
  "errors": []
