@@ -10,6 +10,8 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 PDIR = ROOT / "pilots" / sys.argv[1]
 A = PDIR / "assets"
 SPEC = json.loads((PDIR / "scenes.json").read_text())
+# --platform yt (default) writes <case>-final.mp4 with a Subscribe end card; ig writes <case>-ig.mp4 with Follow (also used for TikTok)
+PLATFORM = sys.argv[sys.argv.index("--platform") + 1] if "--platform" in sys.argv else "yt"
 FONTS = ROOT / "fonts"  # OFL fonts committed to the repo (Big Shoulders Display, IBM Plex Mono)
 W, H, FPS = 1080, 1920, 30
 INK, MANILA, RED, MUTED = (17, 20, 24), (234, 219, 184), (224, 74, 43), (150, 143, 128)
@@ -230,9 +232,12 @@ def draw_end(fr, sc, t):
     for txt, f, col, y in [("DOSSIER", F_CARD, MANILA, 880), ("D E C O D E D", F_MONO, RED, 1060),
                            (f"CASE FILE #{SPEC['case']} · CLOSED", F_MONO_S, MUTED, 1140)]:
         tw = d.textlength(txt, font=f); d.text(((W - tw) / 2, y), txt, font=f, fill=col)
-    if t > sc["t0"] + 1.2:
-        q = "WHICH FILE NEXT? COMMENT ↓"
-        tw = d.textlength(q, font=F_MONO); d.text(((W - tw) / 2, 1290), q, font=F_MONO, fill=MANILA)
+    cta = {"yt": ("SUBSCRIBE · NEW FILE DAILY", "SHARE IT WITH SOMEONE ↗"),
+           "ig": ("FOLLOW · NEW FILE DAILY", "SEND THIS TO SOMEONE ↗")}[PLATFORM]
+    for i, q in enumerate(cta):  # platform-specific call to action, appears in two beats
+        if t > sc["t0"] + 1.0 + 0.6 * i:
+            tw = d.textlength(q, font=F_MONO)
+            d.text(((W - tw) / 2, 1290 + 70 * i), q, font=F_MONO, fill=MANILA if i == 0 else RED)
 
 
 def header(fr):
@@ -294,7 +299,7 @@ if __name__ == "__main__":
         for ts in sys.argv[sys.argv.index("--preview") + 1:]:
             fr = frame(float(ts)); p = PDIR / f"preview-{ts}.jpg"; fr.save(p, quality=85); out.append(str(p))
         print("\n".join(out)); sys.exit()
-    silent = PDIR / "video_noaudio.mp4"
+    silent = PDIR / f"video_noaudio-{PLATFORM}.mp4"
     ff = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
                            "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", "medium", "-crf", "18",
                            "-pix_fmt", "yuv420p", str(silent)], stdin=subprocess.PIPE)
@@ -316,7 +321,7 @@ if __name__ == "__main__":
         ms = max(0, int(at * 1000))
         filt.append(f"[{j}:a]volume={vol.get(name, 0.5)},adelay={ms}|{ms}[s{k}]"); mixes.append(f"[s{k}]")
     filt.append("".join(mixes) + f"amix=inputs={len(mixes)}:normalize=0,alimiter=limit=0.95[a]")
-    out = PDIR / f"{SPEC['case']}-final.mp4"
+    out = PDIR / (f"{SPEC['case']}-final.mp4" if PLATFORM == "yt" else f"{SPEC['case']}-ig.mp4")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", *inputs, "-filter_complex", ";".join(filt), "-map", "0:v",
                     "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-t", f"{DUR:.2f}", str(out)], check=True)
     silent.unlink()

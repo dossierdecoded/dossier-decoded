@@ -82,7 +82,7 @@ for q in sorted(ROOT.glob("pilots/*/queue.json")):
     if ig:
         url = ig["video_url"]; ours = url.startswith(SITE_URL)
         if not done("instagram.json"):
-            if ours and not host(n, P / job["file"], url):
+            if ours and not host(n, P / ig.get("file", job["file"]), url):
                 (P / "instagram.json").write_text(json.dumps({"ok": False, "error": "hosted file not served in time"}))
             else:
                 (P / "instagram_job.json").write_text(json.dumps(ig, indent=2, ensure_ascii=False))

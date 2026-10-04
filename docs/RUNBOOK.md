@@ -49,7 +49,7 @@ Rules from the strategy doc:
 2. **One open loop** early ("…but the FBI found something in the water"), paid off near the end.
 3. **Original analysis** in every script: why this matters, what the document reveals, what's still hidden. Never just describe what's on screen or read a document aloud (YouTube's inauthentic/reused content rules).
 4. **Length:** `target_seconds` from the backlog. Narration pace ≈ 2.85 words/second, plus ~3 s of tail. 38 s ≈ 95–100 words; 65 s ≈ 175–180 words.
-5. **Ending:** a line worth sending to a friend, then "This is Dossier Decoded. Case file number <N>." For `you-decide` end on the question; otherwise end "Which file should we open next?"
+5. **Ending (platform-neutral, because one narration serves all platforms):** a line worth sending to a friend ("Send this to someone who still trusts the official story."), then "This is Dossier Decoded. Case file number <N>. A new file every day." For `you-decide`, put the question just before "This is Dossier Decoded". Never say "subscribe" or "follow" in the narration: the end card does that per platform.
 6. ElevenLabs v3 tags allowed at the start or for one beat: `[serious]`, `[whispers]`. Spell numbers the way they should be spoken.
 7. Formats (rotate as the backlog says):
    - `case-file` — the story told chronologically through evidence.
@@ -113,7 +113,8 @@ Look at every page and photo with the Read tool before using it. Copy the struct
 Preview stills, look at them, fix framing, then render:
 ```
 python scripts/render_pilot.py <case> --preview 0.5 4 9 15 22    # writes pilots/<case>/preview-*.jpg
-python scripts/render_pilot.py <case>                            # writes <case>-final.mp4 and meta.json
+python scripts/render_pilot.py <case>                            # YouTube cut: <case>-final.mp4 (end card: SUBSCRIBE / SHARE)
+python scripts/render_pilot.py <case> --platform ig              # Instagram + TikTok cut: <case>-ig.mp4 (end card: FOLLOW / SEND)
 ```
 Check: the first frame is strong, text is readable on a phone, captions don't cover key text, no scene is
 blank, duration is within ±5 s of target. Delete `preview-*.jpg` afterwards.
@@ -134,6 +135,7 @@ Write `pilots/<case>/draft.json`:
     "containsSyntheticMedia": false
   },
   "instagram": {
+    "file": "<case>-ig.mp4",
     "video_url": "https://dossierdecoded.github.io/media/<case>.mp4",
     "caption": "<one-line hook> 📂 Case File #<case>: <Case name>\n\n<1 shareable line, e.g. 'Send this to someone who thinks this could never happen.'>\n\nImages: <short credit>.\n\n<exactly 5 specific hashtags>"
   },
@@ -159,7 +161,7 @@ When Tanmay says "post" / "approved" / "go":
 1. `git pull`. If the draft's slot has already passed, ask: post now, or the next free slot (`scripts/next_slot.py`)? "Now" = a `publish_at` a few minutes in the past.
 2. Write `pilots/<case>/queue.json` = `{"publish_at": <slot>, "file", "youtube", "instagram"}` copied from draft.json. Commit + push.
 3. The hourly **Publish scheduled** workflow (runs at :07 past each hour) uploads to YouTube, hosts the file on the site, publishes the Reel, and removes the hosted copy. Nothing else to trigger.
-4. Send Tanmay the TikTok file (full quality if ≤ 30 MB, otherwise re-encode at crf 22) and the `tiktok_caption`, with the reminder: post at 5 pm ET, turn on **"AI-generated content"** in TikTok's settings for the post, don't add TikTok music.
+4. Send Tanmay the TikTok file (`<case>-ig.mp4`) (full quality if ≤ 30 MB, otherwise re-encode at crf 22) and the `tiktok_caption`, with the reminder: post at 5 pm ET, turn on **"AI-generated content"** in TikTok's settings for the post, don't add TikTok music.
 5. If you are still in the session after 17:15 ET, `git pull` and read `youtube.json` / `instagram.json` in the case folder; tell him the links or any error.
 
 If he asks for changes: edit the script/scenes, push job.json again only if the narration changed (that re-runs voice), re-render, update draft.json, re-nudge.
