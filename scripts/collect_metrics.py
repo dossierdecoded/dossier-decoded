@@ -95,8 +95,26 @@ try:
 except Exception:
     errors.append("instagram: " + traceback.format_exc()[-600:])
 
+# ---------- Instagram carousels ----------
+carousels = []
+try:
+    T = os.environ["IG_ACCESS_TOKEN"]; G = "https://graph.instagram.com/v23.0"
+    for f in sorted(ROOT.glob("pilots/*/carousel_result.json")):
+        j = json.loads(f.read_text())
+        if not j.get("ok"): continue
+        c = {"case": f.parent.name, "id": j["media_id"], "url": j.get("permalink")}
+        try: c["published"] = json.loads((f.parent / "carousel_queue.json").read_text())["publish_at"]
+        except Exception: pass
+        for m in ["views", "reach", "likes", "comments", "shares", "saved", "total_interactions"]:
+            rr = requests.get(f"{G}/{c['id']}/insights", params={"metric": m, "access_token": T}, timeout=60).json()
+            for d in rr.get("data", []):
+                c[d["name"]] = d.get("values", [{}])[0].get("value") if d.get("values") else d.get("total_value", {}).get("value")
+        carousels.append(c)
+except Exception:
+    errors.append("carousels: " + traceback.format_exc()[-600:])
+
 latest = {"updated": now.isoformat(), "youtube_channel": channel, "instagram_account": account,
-          "videos": list(videos.values()), "errors": errors}
+          "videos": list(videos.values()), "carousels": carousels, "errors": errors}
 (OUT / "latest.json").write_text(json.dumps(latest, indent=1))
 hp = OUT / "history.json"
 hist = json.loads(hp.read_text()) if hp.exists() else []
