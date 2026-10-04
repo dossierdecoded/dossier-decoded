@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "steps": [
+    {
+      "call": "GET /18122843398745349",
+      "status": 200,
+      "body": "{\"status_code\":\"FINISHED\",\"id\":\"18122843398745349\"}"
+    },
+    {
+      "call": "POST /17841422360455121/media",
+      "status": 200,
+      "body": "{\"id\":\"18122843431745349\"}"
+    },
+    {
+      "call": "GET /18122843431745349",
+      "status": 200,
+      "body": "{\"status_code\":\"IN_PROGRESS\",\"id\":\"18122843431745349\"}"
+    },
+    {
+      "call": "GET /18122843431745349",
+      "status": 200,
+      "body": "{\"status_code\":\"FINISHED\",\"id\":\"18122843431745349\"}"
+    },
+    {
+      "call": "POST /17841422360455121/media_publish",
+      "status": 200,
+      "body": "{\"id\":\"17909742822481866\"}"
+    },
+    {
+      "call": "GET /17909742822481866",
+      "status": 200,
+      "body": "{\"permalink\":\"https:\\/\\/www.instagram.com\\/p\\/DeFB0AVkeWi\\/\",\"id\":\"17909742822481866\"}"
+    }
+  ],
+  "media_id": "17909742822481866",
+  "permalink": "https://www.instagram.com/p/DeFB0AVkeWi/"
+}
