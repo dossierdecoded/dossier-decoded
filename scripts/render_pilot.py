@@ -13,11 +13,13 @@ SPEC = json.loads((PDIR / "scenes.json").read_text())
 # --platform yt (default) writes <case>-final.mp4 with a Subscribe end card; ig writes <case>-ig.mp4 with Follow (also used for TikTok)
 PLATFORM = sys.argv[sys.argv.index("--platform") + 1] if "--platform" in sys.argv else "yt"
 FONTS = ROOT / "fonts"  # OFL fonts committed to the repo (Big Shoulders Display, IBM Plex Mono)
-W, H, FPS = 1080, 1920, 30
+LAND = bool(SPEC.get("landscape"))  # long-form: 1920x1080, full-frame media, subtitle-style captions
+W, H, FPS = (1920, 1080, 24) if LAND else (1080, 1920, 30)
+DY = -420 if LAND else 0  # vertical shift for end-card layout
 INK, MANILA, RED, MUTED = (17, 20, 24), (234, 219, 184), (224, 74, 43), (150, 143, 128)
 PAPER_DARK, PAPER_LIGHT = (28, 26, 24), (238, 229, 208)
 VOICE_OFFSET, TAIL = 0.35, 2.6
-VIEW = (60, 300, 1020, 1400)  # x0,y0,x1,y1 of the media panel
+VIEW = (0, 0, 1920, 1080) if LAND else (60, 300, 1020, 1400)  # x0,y0,x1,y1 of the media panel
 
 
 def font(name, size, wght=None):
@@ -26,7 +28,7 @@ def font(name, size, wght=None):
         f.set_variation_by_axes([wght])
     return f
 
-F_BIG = font("BigShouldersDisplay[wght].ttf", 104, 800)
+F_BIG = font("BigShouldersDisplay[wght].ttf", 64 if LAND else 104, 800)
 F_CARD = font("BigShouldersDisplay[wght].ttf", 168, 800)
 F_MONO = font("IBMPlexMono-SemiBold.ttf", 30)
 F_MONO_S = font("IBMPlexMono-Medium.ttf", 26)
@@ -81,7 +83,7 @@ scenes[-1]["t1"] = DUR
 groups, g = [], []
 for i, w in enumerate(words):
     g.append(i)
-    if len(g) >= 3 or re.search(r"[.,?!:;\"…]$", w["text"]) or w["text"].endswith("..."):
+    if len(g) >= (7 if LAND else 3) or re.search(r"[.,?!:;\"…]$", w["text"]) or w["text"].endswith("..."):
         groups.append(g); g = []
 if g: groups.append(g)
 end_start = next(s for s in scenes if s["type"] == "end")["t0"]
@@ -157,7 +159,7 @@ def draw_doc(fr, sc, t):
             d.rectangle((a[0] + (a[2] - a[0]) * k, a[1], a[2], a[3]), fill=(10, 10, 12, 255))
     fr.paste(Image.composite(view, Image.new("RGB", (VW, VH), INK), vignette()), VIEW[:2])
     if sc.get("label"):
-        tag(fr, sc["label"], VIEW[1] + 24)
+        tag(fr, sc["label"], VIEW[1] + (40 if LAND else 24))
 
 
 def draw_photo(fr, sc, t):
@@ -172,7 +174,7 @@ def draw_photo(fr, sc, t):
     view, _ = crop_fit(im, im.width * fx, im.height * fy, cw, ch, z, INK)
     fr.paste(Image.composite(view, Image.new("RGB", (VW, VH), INK), vignette()), VIEW[:2])
     if sc.get("label"):
-        tag(fr, sc["label"], VIEW[3] - 70)
+        tag(fr, sc["label"], VIEW[1] + 40 if LAND else VIEW[3] - 70)
     if sc.get("stamp"):
         stamp(fr, sc["stamp"], t - sc.get("stamp_at_t", 1e9), (W // 2, VIEW[1] + int(VH * 0.74)))
 
@@ -228,23 +230,24 @@ M_SMALL, M_BIG = mark(54), mark(300)
 def draw_end(fr, sc, t):
     d = ImageDraw.Draw(fr)
     k = ease((t - sc["t0"]) / 0.4)
-    fr.paste(M_BIG, ((W - M_BIG.width) // 2, 520 + int((1 - k) * 40)), M_BIG)
-    for txt, f, col, y in [("DOSSIER", F_CARD, MANILA, 880), ("D E C O D E D", F_MONO, RED, 1060),
-                           (f"CASE FILE #{SPEC['case']} · CLOSED", F_MONO_S, MUTED, 1140)]:
+    fr.paste(M_BIG, ((W - M_BIG.width) // 2, 520 + DY + int((1 - k) * 40)), M_BIG)
+    for txt, f, col, y in [("DOSSIER", F_CARD, MANILA, 880 + DY), ("D E C O D E D", F_MONO, RED, 1060 + DY),
+                           (f"CASE FILE #{SPEC['case']} · CLOSED", F_MONO_S, MUTED, 1140 + DY)]:
         tw = d.textlength(txt, font=f); d.text(((W - tw) / 2, y), txt, font=f, fill=col)
     cta = {"yt": ("SUBSCRIBE · NEW FILE DAILY", "SHARE IT WITH SOMEONE ↗"),
            "ig": ("FOLLOW · NEW FILE DAILY", "SEND THIS TO SOMEONE ↗")}[PLATFORM]
     for i, q in enumerate(cta):  # platform-specific call to action, appears in two beats
         if t > sc["t0"] + 1.0 + 0.6 * i:
             tw = d.textlength(q, font=F_MONO)
-            d.text(((W - tw) / 2, 1290 + 70 * i), q, font=F_MONO, fill=MANILA if i == 0 else RED)
+            d.text(((W - tw) / 2, 1290 + DY + 70 * i), q, font=F_MONO, fill=MANILA if i == 0 else RED)
 
 
 def header(fr):
     d = ImageDraw.Draw(fr)
-    fr.paste(M_SMALL, (60, 120), M_SMALL)
-    d.text((132, 122), f"DOSSIER #{SPEC['case']}", font=F_MONO, fill=MANILA)
-    d.text((132, 160), SPEC["title"], font=F_MONO_S, fill=MUTED)
+    x0, y0 = (48, 36) if LAND else (60, 120)
+    fr.paste(M_SMALL, (x0, y0), M_SMALL)
+    d.text((x0 + 72, y0 + 2), f"DOSSIER #{SPEC['case']}", font=F_MONO, fill=MANILA)
+    d.text((x0 + 72, y0 + 40), SPEC["title"], font=F_MONO_S, fill=MUTED)
 
 
 def captions(fr, t):
@@ -256,7 +259,11 @@ def captions(fr, t):
     sp = 24; widths = [d.textlength(x, font=F_BIG) for x in toks]
     total = sum(widths) + sp * (len(toks) - 1)
     lines = [list(range(len(toks)))] if total < W - 120 else [list(range(len(toks) - 1)), [len(toks) - 1]]
-    y = 1480
+    y = H - 170 if LAND else 1480
+    if LAND:  # subtitle plate so captions stay readable over photos
+        bw = max(sum(widths[j] for j in ln) + sp * (len(ln) - 1) for ln in lines)
+        bd = ImageDraw.Draw(fr, "RGBA")
+        bd.rounded_rectangle([(W - bw) / 2 - 28, y - 14, (W + bw) / 2 + 28, y + 76 * len(lines) + 4], 14, fill=(10, 10, 12, 170))
     for ln in lines:
         lw = sum(widths[j] for j in ln) + sp * (len(ln) - 1); x = (W - lw) / 2
         for j in ln:
@@ -265,7 +272,7 @@ def captions(fr, t):
                 d.text((x + dx, y + dy), toks[j], font=F_BIG, fill=(0, 0, 0))
             d.text((x, y), toks[j], font=F_BIG, fill=RED if active else MANILA)
             x += widths[j] + sp
-        y += 112
+        y += 76 if LAND else 112
 
 
 def frame(t):

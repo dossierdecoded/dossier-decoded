@@ -1,0 +1,40 @@
+name: Fetch extra photos
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - pilots/*/commons_extra.json
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Fetch extra Commons photos
+        env:
+          ELEVENLABS_API_KEY: unused
+          FETCH_ONLY: commons
+          JOB_FILE: commons_extra.json
+        run: |
+          for f in pilots/*/commons_extra.json; do
+            n=$(basename "$(dirname "$f")")
+            python scripts/fetch_pilot.py "$n"
+            mv "$f" "$(dirname "$f")/commons_extra.done.json"
+          done
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "dossier-bot"
+          git config user.email "dossierdecoded@gmail.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Extra photos"
+          git pull --rebase origin main && git push origin HEAD:main

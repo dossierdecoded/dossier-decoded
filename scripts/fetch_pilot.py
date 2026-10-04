@@ -5,7 +5,8 @@ import requests
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PDIR = ROOT / "pilots" / sys.argv[1]
-JOB = json.loads((PDIR / "job.json").read_text())
+JOB = json.loads((PDIR / os.environ.get("JOB_FILE", "job.json")).read_text())
+ONLY = os.environ.get("FETCH_ONLY")  # e.g. "commons": run just that step (extra photos for an existing pilot)
 A = PDIR / "assets"; A.mkdir(parents=True, exist_ok=True)
 CFG = json.loads((ROOT / "config" / "channel.json").read_text())
 EL = "https://api.elevenlabs.io"
@@ -15,6 +16,8 @@ errors, meta = [], {}
 
 def step(name):
     def deco(fn):
+        if ONLY and name != ONLY:
+            return
         try:
             fn()
         except Exception:
@@ -124,7 +127,11 @@ def _():
 
 @step("commons")
 def _():
-    lic, seen = [], set()
+    lf = A / "photo_licenses.json"
+    lic = json.loads(lf.read_text()) if lf.exists() else []
+    slugs = {c["slug"] for c in JOB.get("commons", [])}
+    lic = [x for x in lic if x["slug"].rsplit("-", 1)[0] not in slugs and x["slug"] not in slugs]
+    seen = {x["title"] for x in lic}
     for c in JOB.get("commons", []):
       for k in range(c.get("n", 1)):
         q = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=60, params={
@@ -133,7 +140,7 @@ def _():
             "iiprop": "url|extmetadata|size", "iiurlwidth": 1600}).json()
         pages = sorted(q.get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
         for p in pages:
-            if p["title"] in seen: continue
+            if p["title"] in seen or p["title"].lower().endswith((".pdf", ".djvu", ".tif", ".tiff", ".webm", ".ogv")): continue
             ii = p["imageinfo"][0]; em = ii.get("extmetadata", {})
             lname = (em.get("LicenseShortName", {}).get("value") or "")
             if not ii.get("thumburl") or not any(kw in lname.lower() for kw in ("public domain", "pd", "cc0", "cc by")):
@@ -148,7 +155,7 @@ def _():
             break
         else:
             errors.append(f"commons: nothing usable for {c['query']} #{k+1}")
-    (A / "photo_licenses.json").write_text(json.dumps(lic, indent=1))
+    lf.write_text(json.dumps(lic, indent=1))
 
 (A / "meta.json").write_text(json.dumps(meta, indent=1))
 (A / "errors.txt").write_text("\n\n".join(errors) or "none")
