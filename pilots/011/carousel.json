@@ -1,0 +1,113 @@
+{
+ "case": "011",
+ "slides": [
+  {
+   "type": "hook",
+   "text": "THE FBI'S\nFIRST MEMO\nON ALCATRAZ",
+   "sub": "12 JUNE 1962 · 7:28 PM",
+   "photo": "photo-head-1.jpg",
+   "focus": [
+    0.45,
+    0.5
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "photo-head-1.jpg",
+   "focus": [
+    0.45,
+    0.5
+   ],
+   "label": "FBI EVIDENCE · DECOY HEAD",
+   "caption": "Morning of 12 June 1962: guards found heads like this in three bunks. Soap, toilet paper and real hair."
+  },
+  {
+   "type": "doc",
+   "page": "doc-002.png",
+   "lines": [
+    [
+     374,
+     516,
+     1181,
+     542
+    ],
+    [
+     250,
+     544,
+     1116,
+     570
+    ],
+    [
+     249,
+     572,
+     1158,
+     597
+    ],
+    [
+     246,
+     596,
+     1216,
+     644
+    ]
+   ],
+   "label": "FBI MEMO · 12 JUNE 1962",
+   "caption": "That evening, San Francisco reported no trace of the three men: not on the island, not on the mainland, not in the water."
+  },
+  {
+   "type": "doc",
+   "page": "doc-002.png",
+   "lines": [
+    [
+     375,
+     981,
+     1185,
+     1007
+    ],
+    [
+     250,
+     1006,
+     1122,
+     1052
+    ]
+   ],
+   "label": "FBI MEMO · ACTION",
+   "caption": "The memo's action line: the search \"is being pressed vigorously\", and San Francisco must keep FBI headquarters advised of everything."
+  },
+  {
+   "type": "doc",
+   "page": "doc-002.png",
+   "lines": [
+    [
+     514,
+     1272,
+     1248,
+     1318
+    ],
+    [
+     492,
+     1315,
+     1220,
+     1348
+    ],
+    [
+     542,
+     1347,
+     1176,
+     1369
+    ]
+   ],
+   "label": "ADDENDUM · 13 JUNE · 7:40 AM",
+   "caption": "Next morning: the Coast Guard found a paddle of the type the men used, floating between Alcatraz and Angel Island."
+  },
+  {
+   "type": "text",
+   "text": "NO BODIES.\nNO SIGHTINGS.",
+   "sub": "The FBI closed the case in 1979. The U.S. Marshals still list it as open.",
+   "red": true
+  },
+  {
+   "type": "end",
+   "text": "THE FULL STORY IS IN OUR REEL"
+  }
+ ]
+}

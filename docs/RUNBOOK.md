@@ -19,7 +19,7 @@ Two stages:
 1. Attach the repo with push access: `add_repo(owner="dossierdecoded", repo="dossier-decoded", access="push")`, then clone it to `/home/claude/dossier-decoded` with the command it gives you.
 2. `git config user.name "Dossier Decoded"; git config user.email dossierdecoded@gmail.com`
 3. Fonts are committed in `fonts/` (OFL licence); nothing to install.
-4. `pip install --break-system-packages pillow requests` and check `which ffmpeg` (install with apt if missing).
+4. `pip install --break-system-packages pillow requests cairosvg` and check `which ffmpeg` (install with apt if missing).
 5. Load `SendUserMessage` and `SendUserFile` (ToolSearch) so you can reach Tanmay mid-task.
 
 Secrets (ElevenLabs, YouTube, Instagram, site token) live only in GitHub Actions secrets. You never see
@@ -182,3 +182,23 @@ If he asks for changes: edit the script/scenes, push job.json again only if the 
 In the Sunday run, after the nudge: read `metrics/latest.json`, compare viewed%/watch time by length, pillar and format,
 and append 3–5 concrete lines to `config/learnings.md` (e.g. "38 s cuts beat 65 s on YouTube viewed%: 41% vs 29%").
 Include a 3-line summary in the nudge message.
+
+## 11. Instagram carousels (Mon / Wed / Fri at 12:00 pm ET)
+
+Carousels are separate Instagram feed posts (not Reels), 3 a week, built from the documents of a case we
+already published as a Short — ideally the most recent one with a good primary document.
+
+**When:** in the **Sunday, Tuesday and Thursday** runs, after the daily Short is ready, also make a carousel for
+**the next day at 12:00 ET**. Send it in the same nudge; Tanmay's "post" approves both unless he says otherwise.
+
+1. Pick the case (recent, has `doc-*.png` pages or strong photos, no carousel yet: no `carousel.json`).
+2. Write `pilots/<case>/carousel.json` (schema at the top of `scripts/render_carousel.py`), 6–8 slides:
+   - `hook` — the document angle in ≤ 4 short lines ("THE FBI'S FIRST MEMO ON ALCATRAZ"), optional darkened photo behind.
+   - 3–5 `doc` / `photo` slides — real pages with `lines` boxes from `ocr_lines.json` highlighted; each `caption` 1–2 plain sentences (≤ 140 chars) saying what the line shows. Quote only what the page actually says.
+   - one `text` slide — the twist or open question.
+   - `end`.
+3. `python scripts/render_carousel.py <case>` → `carousel/slide-NN.jpg`. Look at every slide; the highlighted text must be readable on a phone.
+4. Write `pilots/<case>/carousel_draft.json`: `{"slot": "<next day>T12:00:00-04:00 (or -05:00 after 1 Nov)", "caption": "<hook line> 📂 Case File #<case>\n\n<one sentence of context>\n\nSwipe through the real pages. Full story in our Reels.\n\nSource: <document> (public domain).\n\n<5 specific hashtags>"}`. Commit + push.
+5. Nudge: also send a contact sheet of the slides (combine them into one image) and the caption.
+6. On approval: write `pilots/<case>/carousel_queue.json` = `{"publish_at": slot, "caption": ..., "slides": ["carousel/slide-01.jpg", ...]}` and push. `publish_due.py` hosts the images, posts the carousel, writes `carousel_result.json`, and removes the hosted images.
+7. ~20 min after noon: `git pull`, read `carousel_result.json`, send Tanmay the permalink (dispatch "Publish scheduled" if GitHub's cron hasn't run).

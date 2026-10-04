@@ -92,3 +92,44 @@ for q in sorted(ROOT.glob("pilots/*/queue.json")):
             try: unhost(url)
             except Exception as e: print(n, "unhost failed:", e)
     print(n, "youtube", done("youtube.json"), "instagram", done("instagram.json"))
+
+# ---------- Instagram carousels: pilots/<n>/carousel_queue.json {publish_at, caption, slides: ["carousel/slide-01.jpg", ...]} ----------
+for q in sorted(ROOT.glob("pilots/*/carousel_queue.json")):
+    P, n = q.parent, q.parent.name
+    job = json.loads(q.read_text())
+    if dt.datetime.fromisoformat(job["publish_at"]) > now:
+        continue
+    try: ok = json.loads((P / "carousel_result.json").read_text()).get("ok") is True
+    except Exception: ok = False
+    names = [f"c{n}-{i + 1:02d}.jpg" for i in range(len(job["slides"]))]
+    urls = [SITE_URL + x for x in names]
+    if not ok:
+        try:
+            media = site() / "media"; media.mkdir(exist_ok=True)
+            for src, name in zip(job["slides"], names):
+                if not (media / name).exists(): shutil.copy(P / src, media / name)
+            push(f"Host carousel {n}")
+            served = False
+            for _ in range(90):
+                try: served = all(requests.head(u, timeout=20).status_code == 200 for u in urls)
+                except requests.RequestException: served = False
+                if served: break
+                time.sleep(10)
+            if served:
+                (P / "carousel_job.json").write_text(json.dumps({"image_urls": urls, "caption": job["caption"]}, indent=2, ensure_ascii=False))
+                subprocess.run([sys.executable, str(ROOT / "scripts" / "publish_carousel.py"), n])
+                ok = json.loads((P / "carousel_result.json").read_text()).get("ok") is True
+            else:
+                (P / "carousel_result.json").write_text(json.dumps({"ok": False, "error": "slides not served in time"}))
+        except Exception as e:
+            print(n, "carousel failed:", e)
+    recent = now - dt.datetime.fromisoformat(job["publish_at"]) < dt.timedelta(days=2)
+    if ok and recent:
+        try:
+            media = site() / "media"; gone = False
+            for name in names:
+                if (media / name).exists(): (media / name).unlink(); gone = True
+            if gone: push(f"Remove hosted carousel {n}")
+        except Exception as e:
+            print(n, "carousel unhost failed:", e)
+    print(n, "carousel", ok)
