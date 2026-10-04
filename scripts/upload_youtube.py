@@ -30,8 +30,15 @@ try:
                       headers={**auth, "Content-Type": "video/mp4"})
     up.raise_for_status()
     v = up.json()
-    res = {"ok": True, "id": v["id"], "url": f"https://youtube.com/shorts/{v['id']}",
+    long = bool(pub["youtube"].get("long"))
+    res = {"ok": True, "id": v["id"], "url": f"https://youtube.com/{'watch?v=' if long else 'shorts/'}{v['id']}",
            "privacyStatus": v.get("status", {}).get("privacyStatus"), "uploadStatus": v.get("status", {}).get("uploadStatus")}
+    thumb = pub["youtube"].get("thumbnail")
+    if thumb:  # custom thumbnail needs a phone-verified channel; failure is recorded, not fatal
+        t = requests.post("https://www.googleapis.com/upload/youtube/v3/thumbnails/set", timeout=120,
+                          params={"videoId": v["id"], "uploadType": "media"},
+                          headers={**auth, "Content-Type": "image/jpeg"}, data=(P / thumb).read_bytes())
+        res["thumbnail"] = "ok" if t.ok else f"{t.status_code}: {t.text[:300]}"
 except Exception:
     res = {"ok": False, "error": traceback.format_exc()[-2000:]}
     try:

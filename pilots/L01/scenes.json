@@ -1,0 +1,1069 @@
+{
+ "title": "D. B. COOPER",
+ "case": "004",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "On",
+   "type": "photo",
+   "photo": "photo-sketch-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.05,
+    1.2
+   ],
+   "label": "FBI COMPOSITE SKETCH · 1971",
+   "stamp": "WANTED",
+   "stamp_at": "1971,"
+  },
+  {
+   "at": "two",
+   "type": "card",
+   "text": "$200,000",
+   "sub": "STRAPPED TO HIS BODY",
+   "red": true
+  },
+  {
+   "at": "rain,",
+   "type": "photo",
+   "photo": "photo-stairs.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "THE 727's REAR STAIRS"
+  },
+  {
+   "at": "disappeared.",
+   "type": "card",
+   "text": "GONE.",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "disappeared."
+    ]
+   ]
+  },
+  {
+   "at": "Fifty-five",
+   "type": "photo",
+   "photo": "photo-poster.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "label": "FBI BULLETIN · 1971",
+   "fit": "contain",
+   "stamp": "UNSOLVED",
+   "stamp_at": "name."
+  },
+  {
+   "at": "This",
+   "type": "card",
+   "text": "CASE FILE:\nD. B. COOPER",
+   "sub": "THE ONLY UNSOLVED U.S. AIRLINER HIJACKING"
+  },
+  {
+   "at": "November",
+   "type": "card",
+   "text": "THE MAN IN 18E",
+   "sub": "CHAPTER 1 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Portland",
+   "type": "photo",
+   "photo": "photo-portland.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "PORTLAND INTERNATIONAL AIRPORT (TODAY)"
+  },
+  {
+   "at": "quiet",
+   "type": "photo",
+   "photo": "photo-sketch-1.jpg",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "WITNESS DESCRIPTION · SKETCH B"
+  },
+  {
+   "at": "buys",
+   "type": "card",
+   "text": "ONE WAY\nTO SEATTLE",
+   "sub": "$20 · CASH · NAME: DAN COOPER"
+  },
+  {
+   "at": "Flight",
+   "type": "photo",
+   "photo": "photo-plane-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "NORTHWEST ORIENT · BOEING 727",
+   "sfx": [
+    [
+     "cabin",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Cooper",
+   "type": "photo",
+   "photo": "photo-cabin.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A 727 CABIN, 1970s"
+  },
+  {
+   "at": "orders",
+   "type": "card",
+   "text": "SEAT 18E",
+   "sub": "BOURBON AND SODA · A CIGARETTE"
+  },
+  {
+   "at": "At",
+   "type": "photo",
+   "photo": "photo-plane-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "2:50 P.M. · TAKEOFF FROM PORTLAND"
+  },
+  {
+   "at": "hands",
+   "type": "card",
+   "text": "A NOTE",
+   "sub": "TO FLIGHT ATTENDANT FLORENCE SCHAFFNER"
+  },
+  {
+   "at": "says:",
+   "type": "card",
+   "text": "“I HAVE A BOMB\nIN MY BRIEFCASE”",
+   "sub": "THE NOTE, AS SCHAFFNER RECALLED IT",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "bomb"
+    ]
+   ]
+  },
+  {
+   "at": "sits",
+   "type": "card",
+   "text": "THE DEMANDS",
+   "sub": "CHAPTER 2 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "cylinders,",
+   "type": "card",
+   "text": "RED CYLINDERS\nWIRES · BATTERY",
+   "sub": "WHAT SHE SAW IN THE BRIEFCASE"
+  },
+  {
+   "at": "Two",
+   "type": "card",
+   "text": "$200,000",
+   "sub": "IN $20 BILLS",
+   "red": true
+  },
+  {
+   "at": "Four",
+   "type": "card",
+   "text": "4\nPARACHUTES",
+   "sub": "TWO MAIN · TWO RESERVE"
+  },
+  {
+   "at": "fuel",
+   "type": "card",
+   "text": "FUEL TRUCK\n5:00 P.M.",
+   "sub": "“NO FUNNY STUFF”"
+  },
+  {
+   "at": "Notice",
+   "type": "card",
+   "text": "NOT CUBA.",
+   "sub": "MONEY AND PARACHUTES"
+  },
+  {
+   "at": "Four.",
+   "type": "card",
+   "text": "WHY FOUR?",
+   "red": true
+  },
+  {
+   "at": "sabotaged",
+   "type": "photo",
+   "photo": "photo-stairs.jpg",
+   "focus": [
+    0.6,
+    0.5
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "ANY CHUTE MIGHT GO TO A HOSTAGE"
+  },
+  {
+   "at": "small",
+   "type": "photo",
+   "photo": "photo-sketch-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "label": "HE HAD PLANNED EVERY STEP"
+  },
+  {
+   "at": "cockpit,",
+   "type": "photo",
+   "photo": "photo-cockpit.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A BOEING 727 FLIGHT DECK"
+  },
+  {
+   "at": "circles",
+   "type": "photo",
+   "photo": "photo-seatac.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SEATTLE-TACOMA · PUGET SOUND"
+  },
+  {
+   "at": "passengers",
+   "type": "photo",
+   "photo": "photo-cabin.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "“A MINOR MECHANICAL PROBLEM”"
+  },
+  {
+   "at": "Meanwhile",
+   "type": "card",
+   "text": "10,000\nBILLS",
+   "sub": "$20 EACH"
+  },
+  {
+   "at": "photograph",
+   "type": "card",
+   "text": "EVERY SERIAL\nNUMBER",
+   "sub": "RECORDED ON MICROFILM",
+   "red": true,
+   "stamp": "RECORDED",
+   "stamp_at": "microfilm."
+  },
+  {
+   "at": "At",
+   "type": "card",
+   "text": "SEATTLE",
+   "sub": "CHAPTER 3 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "taxis",
+   "type": "photo",
+   "photo": "photo-seatac.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.25
+   ],
+   "label": "SEA-TAC · 5:46 P.M."
+  },
+  {
+   "at": "employee",
+   "type": "photo",
+   "photo": "photo-stairs.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "label": "THE MONEY GOES UP THE REAR STAIRS"
+  },
+  {
+   "at": "releases",
+   "type": "card",
+   "text": "36 PASSENGERS\nRELEASED",
+   "sub": "HE KEEPS 4 CREW · INCLUDING TINA MUCKLOW"
+  },
+  {
+   "at": "plan,",
+   "type": "card",
+   "text": "THE FLIGHT\nPLAN",
+   "sub": "DESTINATION: MEXICO CITY"
+  },
+  {
+   "at": "lowest",
+   "type": "card",
+   "text": "~100 KNOTS",
+   "sub": "JUST ABOVE STALL SPEED"
+  },
+  {
+   "at": "Landing",
+   "type": "card",
+   "text": "GEAR DOWN\nFLAPS 15°",
+   "sub": "CABIN UNPRESSURISED"
+  },
+  {
+   "at": "maximum",
+   "type": "card",
+   "text": "10,000 FT",
+   "sub": "MAXIMUM ALTITUDE",
+   "red": true
+  },
+  {
+   "at": "Every",
+   "type": "card",
+   "text": "EVERY NUMBER\nMAKES A JUMP\nSURVIVABLE"
+  },
+  {
+   "at": "staircase",
+   "type": "photo",
+   "photo": "photo-stairs.jpg",
+   "focus": [
+    0.7,
+    0.5
+   ],
+   "zoom": [
+    1.1,
+    1.3
+   ],
+   "label": "THE 727's AFT AIRSTAIR",
+   "stamp": "CAN OPEN IN FLIGHT",
+   "stamp_at": "flight."
+  },
+  {
+   "at": "seven",
+   "type": "photo",
+   "photo": "photo-plane-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "7:40 P.M. · WHEELS UP AGAIN",
+   "sfx": [
+    [
+     "cabin",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "followed",
+   "type": "photo",
+   "photo": "photo-f106.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "TWO FIGHTERS FOLLOW AT A DISTANCE"
+  },
+  {
+   "at": "few",
+   "type": "card",
+   "text": "THE JUMP",
+   "sub": "CHAPTER 4 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Mucklow",
+   "type": "card",
+   "text": "STAY IN\nTHE COCKPIT",
+   "sub": "TINA MUCKLOW IS SENT FORWARD"
+  },
+  {
+   "at": "tying",
+   "type": "card",
+   "text": "SOMETHING\nROUND HIS WAIST",
+   "sub": "THE LAST THING SHE SAW"
+  },
+  {
+   "at": "warning",
+   "type": "card",
+   "text": "AFT STAIRS:\nOPEN",
+   "red": true,
+   "sfx": [
+    [
+     "wind",
+     0.3
+    ]
+   ]
+  },
+  {
+   "at": "anything.",
+   "type": "card",
+   "text": "“NO.”",
+   "sub": "HIS LAST KNOWN WORD"
+  },
+  {
+   "at": "eight",
+   "type": "card",
+   "text": "8:13 P.M.",
+   "sub": "OVER SOUTHWEST WASHINGTON",
+   "red": true
+  },
+  {
+   "at": "suddenly",
+   "type": "photo",
+   "photo": "photo-stairs.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.35
+   ],
+   "label": "THE TAIL PITCHES UP",
+   "sfx": [
+    [
+     "wind",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Think",
+   "type": "card",
+   "text": "NIGHT · RAIN\n15°F WIND CHILL",
+   "sub": "SUIT AND LOAFERS",
+   "sfx": [
+    [
+     "rain",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "forest,",
+   "type": "photo",
+   "photo": "photo-merwin.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "LAKE MERWIN, WASHINGTON"
+  },
+  {
+   "at": "problem.",
+   "type": "card",
+   "text": "ONE RESERVE\nWAS A DUMMY",
+   "sub": "SEWN SHUT FOR CLASSROOM TRAINING",
+   "red": true
+  },
+  {
+   "at": "cut",
+   "type": "card",
+   "text": "CORDS\nCUT OUT",
+   "sub": "FROM A RESERVE LEFT ON BOARD"
+  },
+  {
+   "at": "Reno",
+   "type": "photo",
+   "photo": "photo-reno.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "10:15 P.M. · RENO"
+  },
+  {
+   "at": "Cooper",
+   "type": "card",
+   "text": "GONE.",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "gone."
+    ]
+   ]
+  },
+  {
+   "at": "Left",
+   "type": "card",
+   "text": "8 CIGARETTE BUTTS\nA BLACK TIE\n2 PARACHUTES",
+   "sub": "WHAT HE LEFT BEHIND"
+  },
+  {
+   "at": "What",
+   "type": "card",
+   "text": "THE SEARCH",
+   "sub": "CHAPTER 5 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "agents",
+   "type": "photo",
+   "photo": "photo-forest.jpg",
+   "focus": [
+    0.5,
+    0.6
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CLARK AND COWLITZ COUNTIES"
+  },
+  {
+   "at": "Director",
+   "type": "photo",
+   "photo": "photo-hoover.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FBI DIRECTOR J. EDGAR HOOVER"
+  },
+  {
+   "at": "photograph",
+   "type": "photo",
+   "photo": "photo-sr71.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SR-71 BLACKBIRD"
+  },
+  {
+   "at": "Bad",
+   "type": "card",
+   "text": "PHOTOS\nRUINED",
+   "sub": "BAD WEATHER"
+  },
+  {
+   "at": "spring",
+   "type": "card",
+   "text": "~200 SOLDIERS",
+   "sub": "FORT LEWIS · SPRING 1972"
+  },
+  {
+   "at": "submarine",
+   "type": "photo",
+   "photo": "photo-merwin.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "label": "A SUBMARINE SEARCHES LAKE MERWIN"
+  },
+  {
+   "at": "found",
+   "type": "card",
+   "text": "NO PARACHUTE\nNO BODY\nNO MONEY",
+   "red": true
+  },
+  {
+   "at": "Meanwhile,",
+   "type": "card",
+   "text": "10,000 SERIALS\nCIRCULATED",
+   "sub": "WORLDWIDE"
+  },
+  {
+   "at": "turned",
+   "type": "card",
+   "text": "0 BILLS\nSPENT",
+   "red": true,
+   "stamp": "NOTHING",
+   "stamp_at": "up."
+  },
+  {
+   "at": "hijacker",
+   "type": "card",
+   "text": "“D. B.”?",
+   "sub": "A NAME HE NEVER USED"
+  },
+  {
+   "at": "reporter",
+   "type": "photo",
+   "photo": "photo-poster.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "THE NAME STUCK",
+   "fit": "contain"
+  },
+  {
+   "at": "For",
+   "type": "card",
+   "text": "THE MONEY ON THE RIVERBANK",
+   "sub": "CHAPTER 6 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "February",
+   "type": "card",
+   "text": "10 FEB 1980",
+   "sub": "BRIAN INGRAM, AGE 8"
+  },
+  {
+   "at": "Columbia",
+   "type": "photo",
+   "photo": "photo-columbia.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "COLUMBIA RIVER NEAR VANCOUVER, WA",
+   "sfx": [
+    [
+     "river",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "uncovered",
+   "type": "card",
+   "text": "3 PACKETS\nOF $20 BILLS",
+   "sub": "STILL IN RUBBER BANDS"
+  },
+  {
+   "at": "Five",
+   "type": "card",
+   "text": "$5,800",
+   "sub": "SERIAL NUMBERS MATCH",
+   "red": true,
+   "stamp": "MATCH",
+   "stamp_at": "money."
+  },
+  {
+   "at": "breakthrough.",
+   "type": "card",
+   "text": "IT MADE IT\nSTRANGER"
+  },
+  {
+   "at": "miles",
+   "type": "photo",
+   "photo": "photo-columbia.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "label": "MILES FROM THE SEARCH ZONE"
+  },
+  {
+   "at": "Did",
+   "type": "card",
+   "text": "DROWNED?\nBURIED?"
+  },
+  {
+   "at": "bundled",
+   "type": "card",
+   "text": "STILL IN\nORDER",
+   "sub": "AS THE FBI HANDED THEM OVER"
+  },
+  {
+   "at": "diatoms",
+   "type": "card",
+   "text": "2020:\nDIATOMS",
+   "sub": "WENT IN THE WATER IN SPRING"
+  },
+  {
+   "at": "dredging",
+   "type": "card",
+   "text": "1974\nDREDGING?",
+   "sub": "ANOTHER THEORY"
+  },
+  {
+   "at": "explanation",
+   "type": "card",
+   "text": "NO THEORY\nFITS EVERY FACT"
+  },
+  {
+   "at": "ninety-four",
+   "type": "card",
+   "text": "$194,200",
+   "sub": "NEVER FOUND",
+   "red": true,
+   "stamp": "MISSING",
+   "stamp_at": "surfaced."
+  },
+  {
+   "at": "Over",
+   "type": "card",
+   "text": "WHO WAS HE?",
+   "sub": "CHAPTER 7 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "eight",
+   "type": "card",
+   "text": "800+\nSUSPECTS",
+   "sub": "CONSIDERED BY THE FBI"
+  },
+  {
+   "at": "McCoy,",
+   "type": "photo",
+   "photo": "photo-mccoy.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "RICHARD McCOY · APRIL 1972"
+  },
+  {
+   "at": "caught",
+   "type": "card",
+   "text": "CAUGHT",
+   "sub": "BUT RULED OUT AS COOPER",
+   "stamp": "RULED OUT",
+   "stamp_at": "Cooper."
+  },
+  {
+   "at": "Christiansen",
+   "type": "card",
+   "text": "KENNETH\nCHRISTIANSEN",
+   "sub": "NORTHWEST PURSER · EX-PARATROOPER"
+  },
+  {
+   "at": "shorter",
+   "type": "card",
+   "text": "SHORTER\nLIGHTER",
+   "sub": "THAN THE MAN SHE DESCRIBED"
+  },
+  {
+   "at": "Rackstraw,",
+   "type": "card",
+   "text": "ROBERT\nRACKSTRAW",
+   "sub": "RULED OUT YEARS EARLIER"
+  },
+  {
+   "at": "alias",
+   "type": "card",
+   "text": "“DAN COOPER”",
+   "sub": "A BELGIAN COMIC-BOOK TEST PILOT"
+  },
+  {
+   "at": "translated",
+   "type": "card",
+   "text": "NEVER\nTRANSLATED",
+   "sub": "INTO ENGLISH"
+  },
+  {
+   "at": "2016,",
+   "type": "photo",
+   "photo": "photo-fbi.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FBI HEADQUARTERS",
+   "stamp": "SUSPENDED",
+   "stamp_at": "investigation."
+  },
+  {
+   "at": "particles",
+   "type": "card",
+   "text": "TITANIUM\nON THE TIE",
+   "sub": "AND OTHER RARE METALS"
+  },
+  {
+   "at": "aerospace",
+   "type": "photo",
+   "photo": "photo-cockpit.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "AN AEROSPACE WORKER?"
+  },
+  {
+   "at": "So,",
+   "type": "card",
+   "text": "WHAT THE FILE TELLS US",
+   "sub": "CHAPTER 8 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "against",
+   "type": "card",
+   "text": "AGAINST\nSURVIVAL",
+   "red": true
+  },
+  {
+   "at": "night",
+   "type": "photo",
+   "photo": "photo-merwin.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.35
+   ],
+   "label": "NIGHT · RAIN · FOREST",
+   "sfx": [
+    [
+     "rain",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Some",
+   "type": "card",
+   "text": "SOME AGENTS:\nHE DIED\nTHAT NIGHT"
+  },
+  {
+   "at": "suicide.",
+   "type": "card",
+   "text": "“SUICIDE”",
+   "sub": "ONE FBI CASE AGENT",
+   "red": true
+  },
+  {
+   "at": "chose",
+   "type": "photo",
+   "photo": "photo-stairs.jpg",
+   "focus": [
+    0.6,
+    0.5
+   ],
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "label": "THE ONLY AIRLINER WITH TAIL STAIRS"
+  },
+  {
+   "at": "asked",
+   "type": "card",
+   "text": "4 PARACHUTES",
+   "sub": "NONE COULD BE SABOTAGED"
+  },
+  {
+   "at": "speed,",
+   "type": "card",
+   "text": "SPEED\nALTITUDE · FLAPS",
+   "sub": "SET FOR A JUMP"
+  },
+  {
+   "at": "note,",
+   "type": "card",
+   "text": "HE TOOK\nTHE NOTE BACK",
+   "sub": "NO HANDWRITING LEFT"
+  },
+  {
+   "at": "calm,",
+   "type": "card",
+   "text": "5+ HOURS",
+   "sub": "CALM · POLITE · IN CONTROL"
+  },
+  {
+   "at": "chance.",
+   "type": "card",
+   "text": "NOT LUCK.\nA PLAN.",
+   "red": true
+  },
+  {
+   "at": "none",
+   "type": "card",
+   "text": "$0 SPENT",
+   "sub": "IN 55 YEARS",
+   "red": true
+  },
+  {
+   "at": "file",
+   "type": "photo",
+   "photo": "photo-fbi.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "66 VOLUMES",
+   "stamp": "NO NAME",
+   "stamp_at": "it."
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-sketch-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.3
+   ],
+   "label": "DID HE SURVIVE? COMMENT BELOW"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}

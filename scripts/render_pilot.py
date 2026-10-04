@@ -162,10 +162,29 @@ def draw_doc(fr, sc, t):
         tag(fr, sc["label"], VIEW[1] + (40 if LAND else 24))
 
 
+_bgcache = {}
+def land_contain(im, name, z):
+    """16:9 frame: whole photo centred over a blurred, darkened copy of itself (for portrait shots)."""
+    if name not in _bgcache:
+        s = max(W / im.width, H / im.height)
+        bg = im.resize((int(im.width * s) + 1, int(im.height * s) + 1)).crop((0, 0, W, H)).filter(ImageFilter.GaussianBlur(30))
+        _bgcache[name] = Image.blend(bg, Image.new("RGB", (W, H), INK), 0.55)
+    out = _bgcache[name].copy()
+    s = min((W - 160) / im.width, (H - 120) / im.height) * z
+    fg = im.resize((int(im.width * s), int(im.height * s)), Image.LANCZOS)
+    out.paste(fg, ((W - fg.width) // 2, (H - fg.height) // 2))
+    return out
+
+
 def draw_photo(fr, sc, t):
     im = photo(sc["photo"])
     p = (t - sc["t0"]) / max(0.1, sc["t1"] - sc["t0"])
     z = sc["zoom"][0] + (sc["zoom"][1] - sc["zoom"][0]) * ease(p)
+    if LAND and (im.width / im.height < 1.3 or sc.get("fit") == "contain"):
+        fr.paste(land_contain(im, sc["photo"], 0.92 + (z - 1) * 0.6), (0, 0))
+        if sc.get("label"): tag(fr, sc["label"], 40)
+        if sc.get("stamp"): stamp(fr, sc["stamp"], t - sc.get("stamp_at_t", 1e9), (W // 2 + 520, H // 2 + 120))
+        return
     fx, fy = sc["focus"]
     if im.width / im.height > VW / VH and sc.get('fit') != 'contain':   # landscape: fill height, pan across
         cw, ch = im.height * VW / VH, im.height
