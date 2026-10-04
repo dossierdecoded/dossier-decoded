@@ -1,0 +1,22 @@
+{
+ "slug": "012-a119",
+ "pillar": "Strange but true",
+ "format": "one-document",
+ "script": "[serious] In 1958, the United States Air Force studied blowing up a nuclear bomb on the Moon. This is the report. Its title sounds harmless: A Study of Lunar Research Flights. Code name: Project A119. Inside, it weighs nuclear detonations on and near the Moon. Why? Sputnik. The Soviets had just beaten America into space, and a flash on the Moon, visible from Earth, would show the world who was still ahead. Science was the official reason: dust, radiation, moonquakes. One of the young scientists modeling the glowing cloud of the blast was Carl Sagan. Then the plan was quietly shelved: fear of public backlash, and the danger to people on Earth if a launch went wrong. The world only learned about it around 2000, when the physicist who led it, Leonard Reiffel, confirmed it. Send this to someone who thinks the space race was only about science. This is Dossier Decoded. Case file number twelve. A new file every day.",
+ "pdf": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB479/docs/EBB-Moon02.pdf",
+ "pages": [1, 14],
+ "commons": [
+  {"slug": "moon", "query": "Full Moon photograph NASA Galileo", "n": 1},
+  {"slug": "sputnik", "query": "Sputnik 1 replica NASA", "n": 1},
+  {"slug": "sagan", "query": "Carl Sagan NASA portrait", "n": 1},
+  {"slug": "blast", "query": "Operation Hardtack nuclear test 1958 fireball", "n": 1},
+  {"slug": "report", "query": "A Study of Lunar Research Flights", "n": 2}
+ ],
+ "sfx": [
+  {"slug": "drone", "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless", "seconds": 22},
+  {"slug": "stamp", "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up", "seconds": 1.2},
+  {"slug": "paper", "text": "a single sheet of paper being slid across a desk and flipped, close up", "seconds": 1.2},
+  {"slug": "hit", "text": "deep cinematic impact hit, single boom, short tail", "seconds": 1.5},
+  {"slug": "boom", "text": "distant nuclear explosion rumble, deep low frequency roar rolling in, no music", "seconds": 3}
+ ]
+}
