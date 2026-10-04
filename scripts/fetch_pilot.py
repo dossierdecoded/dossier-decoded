@@ -21,8 +21,47 @@ def step(name):
             errors.append(f"[{name}]\n" + traceback.format_exc())
     return deco
 
+
+GAP = 0.8  # seconds of silence between long-form chapters
+
+
+def narrate_chapters():
+    """Long-form: one TTS call per chapter (keeps each under the model's text limit), then join.
+    Writes voice.mp3, alignment.json (merged, offset) and chapters.json [{title, start}]."""
+    vid = CFG["narrator"]["voice_id"]; model = CFG["narrator"].get("model_id", "eleven_v3")
+    chars, st, en, chaps, t0, parts = [], [], [], [], 0.0, []
+    for i, ch in enumerate(JOB["chapters"], 1):
+        f = A / f"voice-{i:02d}.mp3"
+        if not f.exists() or not (A / f"alignment-{i:02d}.json").exists():
+            r = requests.post(f"{EL}/v1/text-to-speech/{vid}/with-timestamps", headers=H, timeout=600,
+                              json={"text": ch["text"], "model_id": model}, params={"output_format": "mp3_44100_192"})
+            r.raise_for_status(); j = r.json()
+            f.write_bytes(base64.b64decode(j["audio_base64"]))
+            (A / f"alignment-{i:02d}.json").write_text(json.dumps(j.get("normalized_alignment") or j.get("alignment")))
+        al = json.loads((A / f"alignment-{i:02d}.json").read_text())
+        dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(f)],
+                                   capture_output=True, text=True).stdout.strip())
+        chaps.append({"title": ch["title"], "start": round(t0, 2)})
+        if chars: chars.append(" "); st.append(t0 - 0.01); en.append(t0)
+        chars += al["characters"]; st += [x + t0 for x in al["character_start_times_seconds"]]
+        en += [x + t0 for x in al["character_end_times_seconds"]]
+        parts.append(f); t0 += dur + GAP
+    sil = A / "gap.mp3"
+    subprocess.run(["ffmpeg", "-y", "-f", "lavfi", "-i", f"anullsrc=r=44100:cl=mono", "-t", str(GAP), "-b:a", "192k", str(sil)],
+                   check=True, capture_output=True)
+    lst = A / "concat.txt"
+    lst.write_text("".join(f"file '{p.name}'\n" + (f"file '{sil.name}'\n" if k < len(parts) - 1 else "") for k, p in enumerate(parts)))
+    subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(lst), "-ar", "44100", "-ac", "1", "-b:a", "192k",
+                    str(A / "voice.mp3")], check=True, capture_output=True)
+    (A / "alignment.json").write_text(json.dumps({"characters": chars, "character_start_times_seconds": st,
+                                                  "character_end_times_seconds": en}))
+    (A / "chapters.json").write_text(json.dumps(chaps, indent=1))
+    meta["alignment_source"] = "chapters"
+
 @step("narration")
 def _():
+    if JOB.get("chapters"):
+        return narrate_chapters()
     vid = CFG["narrator"]["voice_id"]
     body = {"text": JOB["script"], "model_id": CFG["narrator"].get("model_id", "eleven_v3")}
     r = requests.post(f"{EL}/v1/text-to-speech/{vid}/with-timestamps", headers=H, json=body,
