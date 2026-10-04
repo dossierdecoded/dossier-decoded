@@ -35,20 +35,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Northwest_Orient_727_(6961699414).jpg"
  },
  {
-  "slug": "money-1",
-  "title": "File:Federal Register 1980-11-13- Vol 45 Iss 221 (IA sim federal-register-find 1980-11-13 45 221).pdf",
-  "license": "Public domain",
-  "artist": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Federal_Register_1980-11-13-_Vol_45_Iss_221_(IA_sim_federal-register-find_1980-11-13_45_221).pdf"
- },
- {
-  "slug": "money-2",
-  "title": "File:Campbell Interurban Press 1909-10-08 (IA cacblm 000201).pdf",
-  "license": "Public domain",
-  "artist": "<div class=\"fn value\">\nCampbell Press</div>",
-  "page": "https://commons.wikimedia.org/wiki/File:Campbell_Interurban_Press_1909-10-08_(IA_cacblm_000201).pdf"
- },
- {
   "slug": "tie",
   "title": "File:State - Dispatches - Summaries , November 1944-March 1945 - DPLA - f73b8226616795e131d6dc61bfa35f90.pdf",
   "license": "Public domain",
@@ -70,27 +56,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lake_Merwin_in_Washington_(35085174512).jpg"
  },
  {
-  "slug": "columbia",
-  "title": "File:Columbia River High School.JPG",
-  "license": "Public domain",
-  "artist": "<a href=\"https://en.wikipedia.org/wiki/User:OPen2737\" class=\"extiw\" title=\"wikipedia:User:OPen2737\">OPen2737</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wi",
-  "page": "https://commons.wikimedia.org/wiki/File:Columbia_River_High_School.JPG"
- },
- {
-  "slug": "seatac",
-  "title": "File:HH Dilgo Khyentse Rinpoche displaying the vitarka mudr\u0101, Teaching, Giving Instruction, Reason, Preaching, Transmission of the Dharma mudra, after a visit to the Sakya Dharma Center, 1976, SeaTac Airport, Seattle, Washington, USA.jpg",
-  "license": "CC BY 2.0",
-  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/71401718@N00\">Wonderlane</a> from Seattle, USA",
-  "page": "https://commons.wikimedia.org/wiki/File:HH_Dilgo_Khyentse_Rinpoche_displaying_the_vitarka_mudr%C4%81,_Teaching,_Giving_Instruction,_Reason,_Preaching,_Transmission_of_the_Dharma_mudra,_after_a_visit_to_the_Sakya_Dharma_Center,_1976,_SeaTac_Airport,_Seattle,_Washington,_USA.jpg"
- },
- {
-  "slug": "portland",
-  "title": "File:Portland Metro Levee System feasibility study- Integrated feasibility report and environmental assessment, appendix H - cultural resources - USACE-p16021coll7-18446.pdf",
-  "license": "Public domain",
-  "artist": "United States. Army. Corps of Engineers. Portland District; Columbia Corridor Drainage Districts",
-  "page": "https://commons.wikimedia.org/wiki/File:Portland_Metro_Levee_System_feasibility_study-_Integrated_feasibility_report_and_environmental_assessment,_appendix_H_-_cultural_resources_-_USACE-p16021coll7-18446.pdf"
- },
- {
   "slug": "mccoy",
   "title": "File:Richard McCoy, Jr..jpg",
   "license": "Public domain",
@@ -98,17 +63,80 @@
   "page": "https://commons.wikimedia.org/wiki/File:Richard_McCoy,_Jr..jpg"
  },
  {
-  "slug": "forest",
-  "title": "File:Lewis & Clark Journal, February 1905 - JWtxt 00014.pdf",
-  "license": "Public domain",
-  "artist": "Lewis and Clark Corporation",
-  "page": "https://commons.wikimedia.org/wiki/File:Lewis_%26_Clark_Journal,_February_1905_-_JWtxt_00014.pdf"
- },
- {
   "slug": "hoover",
   "title": "File:Portrait of FBI Director J. Edgar Hoover. (no original caption) - NARA - 518187.jpg",
   "license": "Public domain",
   "artist": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_FBI_Director_J._Edgar_Hoover._(no_original_caption)_-_NARA_-_518187.jpg"
+ },
+ {
+  "slug": "columbia",
+  "title": "File:Vancouver Lake, aerial shot from Oregon.jpg",
+  "license": "CC BY 3.0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Peteforsyth\" title=\"User:Peteforsyth\">Pete Forsyth</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Vancouver_Lake,_aerial_shot_from_Oregon.jpg"
+ },
+ {
+  "slug": "seatac",
+  "title": "File:Seattle-Tacoma International Airport (6977286589).jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42603028@N05\">redlegsfan21</a> from Vandalia, OH, United States",
+  "page": "https://commons.wikimedia.org/wiki/File:Seattle-Tacoma_International_Airport_(6977286589).jpg"
+ },
+ {
+  "slug": "portland",
+  "title": "File:Portland International Airport Aerial August 2022.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Truflip99&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Truflip99 (page does not exist)\">Truflip99</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Portland_International_Airport_Aerial_August_2022.jpg"
+ },
+ {
+  "slug": "forest",
+  "title": "File:Williams Mine Fire on the Gifford Pinchot National Forest in August 2024 - 1.png",
+  "license": "Public domain",
+  "artist": "Forest Service Pacific Northwest Region",
+  "page": "https://commons.wikimedia.org/wiki/File:Williams_Mine_Fire_on_the_Gifford_Pinchot_National_Forest_in_August_2024_-_1.png"
+ },
+ {
+  "slug": "stairs",
+  "title": "File:Northwest Boeing 727 airstair (1975).jpg",
+  "license": "CC BY 2.5",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/135141530@N04\">Robert Rynerson</a> from Denver, U.S.A.",
+  "page": "https://commons.wikimedia.org/wiki/File:Northwest_Boeing_727_airstair_(1975).jpg"
+ },
+ {
+  "slug": "f106",
+  "title": "File:F-106 Delta Dart 5th IS.JPEG",
+  "license": "Public domain",
+  "artist": "SSGT Bill Thompson",
+  "page": "https://commons.wikimedia.org/wiki/File:F-106_Delta_Dart_5th_IS.JPEG"
+ },
+ {
+  "slug": "reno",
+  "title": "File:Slot machines at Reno-Tahoe International Airport.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sdkb\" title=\"User:Sdkb\">Sdkb</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Slot_machines_at_Reno-Tahoe_International_Airport.jpg"
+ },
+ {
+  "slug": "fbi",
+  "title": "File:FBI Headquarters - J. Edgar Hoover Building (53840035941).jpg",
+  "license": "CC BY 2.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/83136374@N05\">ajay_suresh</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:FBI_Headquarters_-_J._Edgar_Hoover_Building_(53840035941).jpg"
+ },
+ {
+  "slug": "cockpit",
+  "title": "File:Boeing 727 cockpit Aviation museum (29097199906).jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/14730981@N08\">James Petts</a> from London, England",
+  "page": "https://commons.wikimedia.org/wiki/File:Boeing_727_cockpit_Aviation_museum_(29097199906).jpg"
+ },
+ {
+  "slug": "cabin",
+  "title": "File:707 727 Interior (7108305469).jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23344035@N03\">clipperarctic</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:707_727_Interior_(7108305469).jpg"
  }
 ]
