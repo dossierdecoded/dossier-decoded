@@ -1,0 +1,37 @@
+[
+ {
+  "slug": "moon",
+  "title": "File:Full moon.png",
+  "license": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Full_moon.png"
+ },
+ {
+  "slug": "sputnik",
+  "title": "File:Sputnik 1 satellite replica.png",
+  "license": "Public domain",
+  "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Soyuz235&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Soyuz235 (page does not exist)\">Soyuz235</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Sputnik_1_satellite_replica.png"
+ },
+ {
+  "slug": "sagan",
+  "title": "File:Caltech 11 12 1971 symposium.jpg",
+  "license": "Public domain",
+  "artist": "NASA Jet Propulsion Laboratory/CalTech",
+  "page": "https://commons.wikimedia.org/wiki/File:Caltech_11_12_1971_symposium.jpg"
+ },
+ {
+  "slug": "report-1",
+  "title": "File:Study of Lunar Research Flights - Vol I - Cover.jpg",
+  "license": "Public domain",
+  "artist": "Armour Research Foundation",
+  "page": "https://commons.wikimedia.org/wiki/File:Study_of_Lunar_Research_Flights_-_Vol_I_-_Cover.jpg"
+ },
+ {
+  "slug": "report-2",
+  "title": "File:A Study of Lunar Research Flights.pdf",
+  "license": "Public domain",
+  "artist": "Leonard Reiffel",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Study_of_Lunar_Research_Flights.pdf"
+ }
+]
