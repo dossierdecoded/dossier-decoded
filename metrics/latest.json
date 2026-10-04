@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T17:51:10+00:00",
+ "updated": "2026-10-04T21:08:09+00:00",
  "youtube_channel": {
   "subscribers": 3,
   "views": 864
@@ -20,7 +20,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-02T23:06:58Z"
+    "published": "2026-10-02T23:06:58Z",
+    "avg_view_pct": 47.5,
+    "avg_view_sec": 24,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "17892777312611076",
@@ -43,11 +47,15 @@
    "yt": {
     "id": "uWBQ5abkeIM",
     "url": "https://youtube.com/shorts/uWBQ5abkeIM",
-    "views": 44,
+    "views": 52,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-02T23:42:33Z"
+    "published": "2026-10-02T23:42:33Z",
+    "avg_view_pct": 64.11,
+    "avg_view_sec": 36,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18146068216566506",
@@ -70,11 +78,15 @@
    "yt": {
     "id": "JVjyiSnL5yI",
     "url": "https://youtube.com/shorts/JVjyiSnL5yI",
-    "views": 78,
+    "views": 79,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T00:28:45Z"
+    "published": "2026-10-03T00:28:45Z",
+    "avg_view_pct": 63.96999999999999,
+    "avg_view_sec": 43,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "17999513666810758",
@@ -97,11 +109,15 @@
    "yt": {
     "id": "BafR4vjnksU",
     "url": "https://youtube.com/shorts/BafR4vjnksU",
-    "views": 712,
+    "views": 713,
     "likes": 10,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T00:40:50Z"
+    "published": "2026-10-03T00:40:50Z",
+    "avg_view_pct": 83,
+    "avg_view_sec": 51,
+    "shares": 2,
+    "subs_gained": 2
    },
    "ig": {
     "id": "18022679708718461",
@@ -124,11 +140,15 @@
    "yt": {
     "id": "bSRzb4l7KlU",
     "url": "https://youtube.com/shorts/bSRzb4l7KlU",
-    "views": 18,
+    "views": 20,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:44:43Z"
+    "published": "2026-10-03T02:44:43Z",
+    "avg_view_pct": 0,
+    "avg_view_sec": 0,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18147613744520560",
@@ -155,7 +175,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:45:40Z"
+    "published": "2026-10-03T02:45:40Z",
+    "avg_view_pct": 7.8100000000000005,
+    "avg_view_sec": 4,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18114489620110481",
@@ -182,7 +206,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:47:22Z"
+    "published": "2026-10-03T02:47:22Z",
+    "avg_view_pct": 38.56,
+    "avg_view_sec": 22,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18636215074056384",
@@ -209,7 +237,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:48:04Z"
+    "published": "2026-10-03T02:48:04Z",
+    "avg_view_pct": 13.170000000000002,
+    "avg_view_sec": 8,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18089774651678493",
@@ -236,7 +268,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:48:53Z"
+    "published": "2026-10-03T02:48:53Z",
+    "avg_view_pct": 40.02,
+    "avg_view_sec": 23,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18014992118958854",
@@ -263,7 +299,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:49:32Z"
+    "published": "2026-10-03T02:49:32Z",
+    "avg_view_pct": 89.68,
+    "avg_view_sec": 50,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18112514072026540",
@@ -286,7 +326,7 @@
    "yt": {
     "id": "fibH99ghCqE",
     "url": "https://youtube.com/shorts/fibH99ghCqE",
-    "views": 9,
+    "views": 13,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -295,8 +335,8 @@
    "ig": {
     "id": "18130395370770610",
     "url": "https://www.instagram.com/reel/DeDA3oSHXco/",
-    "views": 48,
-    "reach": 45,
+    "views": 50,
+    "reach": 46,
     "likes": 0,
     "comments": 0,
     "shares": 0,
@@ -313,7 +353,7 @@
    "yt": {
     "id": "IhHQ0MAGrhU",
     "url": "https://youtube.com/shorts/IhHQ0MAGrhU",
-    "views": 4,
+    "views": 12,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -322,17 +362,32 @@
    "ig": {
     "id": "18086868905285692",
     "url": "https://www.instagram.com/reel/DeE78U6lbq4/",
-    "views": 5,
-    "reach": 3,
-    "likes": 0,
+    "views": 141,
+    "reach": 135,
+    "likes": 5,
     "comments": 0,
     "shares": 0,
-    "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 14.8
+    "saved": 1,
+    "total_interactions": 6,
+    "avg_watch_sec": 7.5
    },
    "title": "The US Air Force Studied Nuking the Moon | Project A119",
    "duration": 58.5
+  },
+  {
+   "case": "L01",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "2MbcjuWesVY",
+    "url": "https://youtube.com/watch?v=2MbcjuWesVY",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-04T18:01:29Z"
+   },
+   "title": "D. B. Cooper: The Man Who Jumped and Vanished (Full Case File)",
+   "duration": 683.7
   }
  ],
  "errors": []
