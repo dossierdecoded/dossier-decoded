@@ -1,0 +1,15 @@
+{"title": "PROJECT A119", "case": "012", "scenes": [
+ {"at": "In", "type": "doc", "page": "doc-007.png", "window": [260, 260, 1140, 370], "zoom": [1.0, 1.08], "lines": [[314, 276, 1080, 295]], "instant": true, "label": "USAF REPORT · ABSTRACT · 1959"},
+ {"at": "This", "type": "photo", "photo": "photo-report-1.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.0, 1.06], "label": "AFSWC-TR-59-39 · 19 JUNE 1959", "sfx": [["paper", 0.0]]},
+ {"at": "Its", "type": "doc", "page": "doc-003.png", "window": [400, 1030, 1030, 1100], "zoom": [1.0, 1.08], "lines": [[472, 1053, 957, 1074]], "reveal": "Flights.", "label": "THE TITLE PAGE"},
+ {"at": "Code", "type": "card", "text": "PROJECT\nA119", "sub": "ARMOUR RESEARCH FOUNDATION · CHICAGO", "red": true, "sfx_at": [["hit", "A119."]]},
+ {"at": "Inside,", "type": "doc", "page": "doc-010.png", "window": [220, 420, 1070, 520], "zoom": [1.0, 1.08], "lines": [[225, 437, 1017, 457], [224, 486, 989, 506]], "reveal": "detonations", "label": "CHAPTER 1 · INTRODUCTION"},
+ {"at": "Sputnik.", "type": "photo", "photo": "photo-sputnik.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "SPUTNIK 1 · OCTOBER 1957"},
+ {"at": "flash", "type": "photo", "photo": "photo-moon.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.15], "label": "THE TARGET", "sfx": [["boom", 0.0]]},
+ {"at": "Science", "type": "doc", "page": "doc-007.png", "window": [260, 420, 1140, 480], "zoom": [1.0, 1.08], "lines": [[263, 431, 1125, 450], [263, 453, 1136, 473]], "reveal": "moonquakes.", "label": "THE SCIENCE CASE"},
+ {"at": "One", "type": "card", "text": "CARL\nSAGAN", "sub": "GRAD STUDENT · MODELED THE BLAST CLOUD"},
+ {"at": "Then", "type": "doc", "page": "doc-010.png", "window": [215, 1080, 1085, 1170], "zoom": [1.0, 1.08], "lines": [[220, 1090, 1044, 1108], [221, 1139, 1079, 1159]], "reveal": "backlash,", "label": "THE REPORT'S OWN WARNING"},
+ {"at": "world", "type": "card", "text": "KEPT QUIET\n41 YEARS", "sub": "REPORT 1959 · CONFIRMED 2000", "stamp": "SHELVED", "stamp_at": "confirmed"},
+ {"at": "Send", "type": "photo", "photo": "photo-moon.jpg", "focus": [0.5, 0.5], "zoom": [1.15, 1.25], "label": "PROJECT A119 · NEVER LAUNCHED"},
+ {"at": "This", "type": "end"}
+]}
