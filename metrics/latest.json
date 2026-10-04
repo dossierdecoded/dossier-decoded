@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T22:07:09+00:00",
+ "updated": "2026-10-04T22:19:59+00:00",
  "youtube_channel": {
   "subscribers": 3,
   "views": 864
@@ -47,8 +47,8 @@
    "yt": {
     "id": "uWBQ5abkeIM",
     "url": "https://youtube.com/shorts/uWBQ5abkeIM",
-    "views": 55,
-    "likes": 3,
+    "views": 52,
+    "likes": 2,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-02T23:42:33Z",
@@ -78,7 +78,7 @@
    "yt": {
     "id": "JVjyiSnL5yI",
     "url": "https://youtube.com/shorts/JVjyiSnL5yI",
-    "views": 82,
+    "views": 83,
     "likes": 6,
     "comments": 0,
     "privacy": "public",
@@ -353,7 +353,7 @@
    "yt": {
     "id": "IhHQ0MAGrhU",
     "url": "https://youtube.com/shorts/IhHQ0MAGrhU",
-    "views": 14,
+    "views": 12,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -362,7 +362,7 @@
    "ig": {
     "id": "18086868905285692",
     "url": "https://www.instagram.com/reel/DeE78U6lbq4/",
-    "views": 141,
+    "views": 142,
     "reach": 135,
     "likes": 5,
     "comments": 0,
@@ -388,6 +388,21 @@
    },
    "title": "D. B. Cooper: The Man Who Jumped and Vanished (Full Case File)",
    "duration": 683.7
+  }
+ ],
+ "carousels": [
+  {
+   "case": "011",
+   "id": "17909742822481866",
+   "url": "https://www.instagram.com/p/DeFB0AVkeWi/",
+   "published": "2026-10-04T16:04:37+00:00",
+   "views": 0,
+   "reach": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 0
   }
  ],
  "errors": []
