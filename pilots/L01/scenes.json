@@ -119,7 +119,7 @@
    "at": "buys",
    "type": "card",
    "text": "ONE WAY\nTO SEATTLE",
-   "sub": "$20 · CASH · NAME: DAN COOPER"
+   "sub": "PAID IN CASH · NAME: DAN COOPER"
   },
   {
    "at": "Flight",
@@ -159,7 +159,7 @@
    "at": "orders",
    "type": "card",
    "text": "SEAT 18E",
-   "sub": "BOURBON AND SODA · A CIGARETTE"
+   "sub": "BOURBON AND 7-UP · A CIGARETTE"
   },
   {
    "at": "At",
@@ -229,7 +229,7 @@
    "at": "fuel",
    "type": "card",
    "text": "FUEL TRUCK\n5:00 P.M.",
-   "sub": "“NO FUNNY STUFF”"
+   "sub": "ALL DEMANDS BY 5 P.M."
   },
   {
    "at": "Notice",
@@ -493,8 +493,7 @@
   {
    "at": "anything.",
    "type": "card",
-   "text": "“NO.”",
-   "sub": "HIS LAST KNOWN WORD"
+   "text": "HE DECLINES"
   },
   {
    "at": "eight",
@@ -574,7 +573,7 @@
     1.1,
     1.2
    ],
-   "label": "10:15 P.M. · RENO"
+   "label": "JUST AFTER 11 P.M. · RENO"
   },
   {
    "at": "Cooper",
@@ -860,7 +859,7 @@
    "at": "caught",
    "type": "card",
    "text": "CAUGHT",
-   "sub": "BUT RULED OUT AS COOPER",
+   "sub": "RULED OUT: DIDN'T MATCH THE DESCRIPTIONS",
    "stamp": "RULED OUT",
    "stamp_at": "Cooper."
   },
@@ -875,12 +874,6 @@
    "type": "card",
    "text": "SHORTER\nLIGHTER",
    "sub": "THAN THE MAN SHE DESCRIBED"
-  },
-  {
-   "at": "Rackstraw,",
-   "type": "card",
-   "text": "ROBERT\nRACKSTRAW",
-   "sub": "RULED OUT YEARS EARLIER"
   },
   {
    "at": "alias",
@@ -974,10 +967,10 @@
    "text": "SOME AGENTS:\nHE DIED\nTHAT NIGHT"
   },
   {
-   "at": "suicide.",
+   "at": "lead",
    "type": "card",
-   "text": "“SUICIDE”",
-   "sub": "ONE FBI CASE AGENT",
+   "text": "“HE DID NOT\nSURVIVE”",
+   "sub": "VIEW OF THE FBI'S 2000s LEAD INVESTIGATOR",
    "red": true
   },
   {
@@ -1007,10 +1000,10 @@
    "sub": "SET FOR A JUMP"
   },
   {
-   "at": "note,",
+   "at": "matchbook",
    "type": "card",
-   "text": "HE TOOK\nTHE NOTE BACK",
-   "sub": "NO HANDWRITING LEFT"
+   "text": "EVEN HIS\nMATCHBOOK",
+   "sub": "HE TOOK IT BACK"
   },
   {
    "at": "calm,",

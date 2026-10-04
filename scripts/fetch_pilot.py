@@ -128,6 +128,8 @@ def _():
 @step("commons")
 def _():
     lf = A / "photo_licenses.json"
+    if lf.exists() and not ONLY:  # re-run of an existing pilot (e.g. re-voicing): keep the vetted photos
+        return
     lic = json.loads(lf.read_text()) if lf.exists() else []
     slugs = {c["slug"] for c in JOB.get("commons", [])}
     lic = [x for x in lic if x["slug"].rsplit("-", 1)[0] not in slugs and x["slug"] not in slugs]
