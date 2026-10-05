@@ -1,0 +1,21 @@
+{
+ "slug": "013-hoffa",
+ "pillar": "Unsolved",
+ "format": "case-file",
+ "script": "[serious] At 2:45 p.m. on July 30th, 1975, the former boss of America's most powerful union stood in a restaurant parking lot outside Detroit. Then Jimmy Hoffa vanished. He had come to meet two men tied to the Mafia. Neither, they later said, ever showed up. No body. No witnesses. Only a borrowed car, where police dogs picked up his scent. The FBI's own memo concluded he was murdered on the orders of organized crime. Fifty-one years of digging, under a horse farm, under a landfill, have found nothing. Send this to someone who thinks nobody can just disappear. This is Dossier Decoded. Case file number thirteen. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {"slug": "hoffa", "query": "Jimmy Hoffa 1965 photograph", "n": 2},
+  {"slug": "teamsters", "query": "Teamsters union 1950s Hoffa", "n": 1},
+  {"slug": "detroit", "query": "Bloomfield Township Michigan", "n": 1},
+  {"slug": "car", "query": "1975 Mercury Marquis Brougham", "n": 1},
+  {"slug": "fbi", "query": "FBI seal", "n": 1}
+ ],
+ "sfx": [
+  {"slug": "drone", "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless", "seconds": 22},
+  {"slug": "stamp", "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up", "seconds": 1.2},
+  {"slug": "paper", "text": "a single sheet of paper being slid across a desk and flipped, close up", "seconds": 1.2},
+  {"slug": "hit", "text": "deep cinematic impact hit, single boom, short tail", "seconds": 1.5},
+  {"slug": "door", "text": "a 1970s car door slamming shut in a parking lot, single", "seconds": 1.5}
+ ]
+}
