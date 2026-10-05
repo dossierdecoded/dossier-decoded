@@ -1,0 +1,25 @@
+name: ElevenLabs usage
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 13 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  usage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests
+      - env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python scripts/elevenlabs_usage.py
+      - run: |
+          git config user.name "dossier-bot"; git config user.email "dossierdecoded@gmail.com"
+          git add metrics/elevenlabs.json
+          git diff --cached --quiet || git commit -m "ElevenLabs usage"
+          git pull --rebase origin main && git push origin HEAD:main
