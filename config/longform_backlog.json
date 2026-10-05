@@ -1,0 +1,7 @@
+{"_note": "Long-form documentaries, 7-8 min (~1,250-1,350 words), 2 a week: produced Wed + Sat morning, posted Thu + Sun 12:00 ET. Take the first entry whose folder doesn't exist. Reorder freely.",
+ "items": [
+  {"id": "L02", "case": "011", "topic": "The 1962 Alcatraz escape", "post": "2026-10-08T12:00:00-04:00", "reuse": "pilots/011 (FBI memo pages, decoy heads, Morris photo)"},
+  {"id": "L03", "case": "003", "topic": "The Cottingley Fairies and Arthur Conan Doyle", "post": "2026-10-11T12:00:00-04:00", "reuse": "pilots/003"},
+  {"id": "L04", "case": "001", "topic": "Operation Northwoods", "post": "2026-10-15T12:00:00-04:00", "reuse": "pilots/001 (JCS memo pages)"},
+  {"id": "L05", "case": "010", "topic": "The Somerton Man (Tamam Shud)", "post": "2026-10-18T12:00:00-04:00", "reuse": "pilots/010"}
+ ]}

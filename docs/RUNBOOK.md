@@ -202,3 +202,18 @@ already published as a Short — ideally the most recent one with a good primary
 5. Nudge: also send a contact sheet of the slides (combine them into one image) and the caption.
 6. On approval: write `pilots/<case>/carousel_queue.json` = `{"publish_at": slot, "caption": ..., "slides": ["carousel/slide-01.jpg", ...]}` and push. `publish_due.py` hosts the images, posts the carousel, writes `carousel_result.json`, and removes the hosted images.
 7. ~20 min after noon: `git pull`, read `carousel_result.json`, send Tanmay the permalink (dispatch "Publish scheduled" if GitHub's cron hasn't run).
+
+## 12. Long-form documentaries (2 a week: produced Wed + Sat, posted Thu + Sun at 12:00 ET)
+
+Template: `pilots/L01/` (D. B. Cooper) — copy its `script.py` and `scenes_src.py` patterns exactly.
+
+1. Take the next item in `config/longform_backlog.json` whose `pilots/<id>/` folder doesn't exist. Copy reusable assets from the Short's folder named in `reuse` into `pilots/<id>/assets/` (doc pages, ocr_lines.json, photos + photo_licenses.json).
+2. **Research + fact-check:** read at least two solid sources with WebFetch (official archive page + Wikipedia and its citations). Every claim in the script must be supported; drop anything you can't confirm (L01 needed 10 corrections on its second check — do that check BEFORE voicing).
+3. **Script:** 7–8 minutes = **1,250–1,350 words** (ElevenLabs budget: Creator plan ~100k chars/month shared with daily Shorts). 5–6 chapters, each under ~2,500 characters, written in `pilots/<id>/script.py` producing `job.json` with `"chapters": [{title, text}]`, `"pillar"`, `"format": "long-form"`, `pdf` if a new document is needed, extra `commons` queries only for missing images. Open with the most dramatic moment, end with our own analysis + "tell me in the comments" + "This is Dossier Decoded."
+4. Push `job.json` → Fetch workflow voices each chapter and writes `voice.mp3`, `alignment.json`, `chapters.json`. (On re-runs it keeps existing photos; delete a chapter's `voice-NN.mp3` + `alignment-NN.json` to re-voice just that chapter.) Extra photos only: push `commons_extra.json`.
+5. **Scenes:** `scenes_src.py` → `scenes.json` with `"landscape": true` and `"case"` = the Short's case number. A scene every 4–8 s; chapter title cards; the end scene triggers on "Dossier". Validate timings (see the snippet used for L01: print scenes shorter than 2.2 s or longer than 13 s and fix triggers). Preview stills, look at them.
+6. Render (`python scripts/render_pilot.py <id>`, ~45 min, run with nohup), then re-encode under GitHub's 100 MB limit:
+   `ffmpeg -i <case>-final.mp4 -c:v libx264 -preset slow -crf 25 -tune stillimage -c:a aac -b:a 160k -movflags +faststart out.mp4`
+7. Thumbnail 1280×720 `thumbnail.jpg` (pattern of L01: face/key image left, 2-line hook right in Big Shoulders, "STILL UNSOLVED"-style stamp; check nothing is cut off).
+8. `draft.json`: `{"slot": <post time from backlog>, "file", "youtube": {"long": true, "thumbnail": "thumbnail.jpg", title, description with chapter timestamps from chapters.json + sources + photo credits + "Narration voice: AI.", tags, categoryId "27", privacy "public", containsSyntheticMedia false}}`. Commit + push.
+9. Nudge (with that day's Short): 720p preview (`-vf scale=1280:720 -crf 30`), thumbnail, chapter list, fact-check notes. On approval write `queue.json` (no instagram block) and push; check-in 20 min after the slot, dispatch "Publish scheduled" if needed, send the link, and remind Tanmay to add it to the "Unsolved Case Files" playlist / set it as Related video on its Short.
