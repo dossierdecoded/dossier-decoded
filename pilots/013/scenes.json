@@ -1,0 +1,15 @@
+{"title": "JIMMY HOFFA", "case": "013", "scenes": [
+ {"at": "At", "type": "photo", "photo": "photo-hoffa-1.jpg", "focus": [0.5, 0.35], "zoom": [1.0, 1.12], "label": "JIMMY HOFFA · TEAMSTERS", "stamp": "MISSING", "stamp_at": "1975,"},
+ {"at": "former", "type": "card", "text": "FORMER\nTEAMSTERS\nPRESIDENT", "sub": "1957–1971"},
+ {"at": "restaurant", "type": "card", "text": "MACHUS\nRED FOX", "sub": "BLOOMFIELD TOWNSHIP, MICHIGAN", "sfx": [["door", 0.2]]},
+ {"at": "vanished.", "type": "card", "text": "GONE.", "red": true, "sfx_at": [["hit", "vanished."]]},
+ {"at": "meet", "type": "card", "text": "A 2:00 P.M.\nMEETING", "sub": "WITH TWO MEN TIED TO THE MAFIA"},
+ {"at": "Neither,", "type": "card", "text": "“NEVER\nSHOWED UP”", "sub": "THEIR STORY"},
+ {"at": "body.", "type": "card", "text": "NO BODY\nNO WITNESSES", "red": true},
+ {"at": "borrowed", "type": "photo", "photo": "photo-car.jpg", "focus": [0.45, 0.6], "zoom": [1.0, 1.1], "label": "A MERCURY MARQUIS · SAME MODEL LINE", "stamp": "HIS SCENT", "stamp_at": "scent."},
+ {"at": "FBI's", "type": "photo", "photo": "photo-fbi.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.06], "label": "FBI 'HOFFEX' MEMO · 1976"},
+ {"at": "murdered", "type": "card", "text": "“MURDERED AT\nTHE BEHEST OF\nORGANIZED CRIME”", "sub": "FBI HOFFEX MEMO", "red": true},
+ {"at": "Fifty-one", "type": "card", "text": "51 YEARS", "sub": "HORSE FARM 2006 · LANDFILL 2021"},
+ {"at": "Send", "type": "photo", "photo": "photo-hoffa-1.jpg", "focus": [0.5, 0.3], "zoom": [1.15, 1.3], "label": "DECLARED LEGALLY DEAD · 1982", "stamp": "UNSOLVED", "stamp_at": "disappear."},
+ {"at": "Dossier", "type": "end"}
+]}
