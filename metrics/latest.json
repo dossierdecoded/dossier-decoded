@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-05T18:46:49+00:00",
+ "updated": "2026-10-05T21:41:42+00:00",
  "youtube_channel": {
   "subscribers": 3,
   "views": 971
  },
  "instagram_account": {
   "followers_count": 0,
-  "media_count": 13,
+  "media_count": 14,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -16,14 +16,14 @@
    "yt": {
     "id": "gFVvXGu5uh4",
     "url": "https://youtube.com/shorts/gFVvXGu5uh4",
-    "views": 16,
+    "views": 17,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-02T23:06:58Z",
-    "avg_view_pct": 47.5,
-    "avg_view_sec": 24,
-    "shares": 0,
+    "avg_view_pct": 64.81,
+    "avg_view_sec": 33,
+    "shares": 3,
     "subs_gained": 0
    },
    "ig": {
@@ -52,8 +52,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-02T23:42:33Z",
-    "avg_view_pct": 64.11,
-    "avg_view_sec": 36,
+    "avg_view_pct": 58.60999999999999,
+    "avg_view_sec": 33,
     "shares": 0,
     "subs_gained": 0
    },
@@ -83,8 +83,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T00:28:45Z",
-    "avg_view_pct": 63.96999999999999,
-    "avg_view_sec": 43,
+    "avg_view_pct": 65.65,
+    "avg_view_sec": 44,
     "shares": 0,
     "subs_gained": 0
    },
@@ -109,13 +109,13 @@
    "yt": {
     "id": "BafR4vjnksU",
     "url": "https://youtube.com/shorts/BafR4vjnksU",
-    "views": 722,
+    "views": 726,
     "likes": 10,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T00:40:50Z",
-    "avg_view_pct": 83,
-    "avg_view_sec": 51,
+    "avg_view_pct": 79.89,
+    "avg_view_sec": 49,
     "shares": 2,
     "subs_gained": 2
    },
@@ -145,8 +145,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:44:43Z",
-    "avg_view_pct": 0,
-    "avg_view_sec": 0,
+    "avg_view_pct": 41.36,
+    "avg_view_sec": 27,
     "shares": 0,
     "subs_gained": 0
    },
@@ -176,8 +176,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:45:40Z",
-    "avg_view_pct": 7.8100000000000005,
-    "avg_view_sec": 4,
+    "avg_view_pct": 9.12,
+    "avg_view_sec": 5,
     "shares": 0,
     "subs_gained": 0
    },
@@ -238,8 +238,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:48:04Z",
-    "avg_view_pct": 13.170000000000002,
-    "avg_view_sec": 8,
+    "avg_view_pct": 47.27,
+    "avg_view_sec": 30,
     "shares": 0,
     "subs_gained": 0
    },
@@ -264,13 +264,13 @@
    "yt": {
     "id": "WQVGZl0N4iA",
     "url": "https://youtube.com/shorts/WQVGZl0N4iA",
-    "views": 9,
+    "views": 10,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:48:53Z",
-    "avg_view_pct": 40.02,
-    "avg_view_sec": 23,
+    "avg_view_pct": 48.44,
+    "avg_view_sec": 28,
     "shares": 0,
     "subs_gained": 0
    },
@@ -300,8 +300,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:49:32Z",
-    "avg_view_pct": 89.68,
-    "avg_view_sec": 50,
+    "avg_view_pct": 49.95,
+    "avg_view_sec": 27,
     "shares": 0,
     "subs_gained": 0
    },
@@ -330,7 +330,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T23:08:19Z"
+    "published": "2026-10-03T23:08:19Z",
+    "avg_view_pct": 49.51,
+    "avg_view_sec": 20,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18130395370770610",
@@ -373,6 +377,33 @@
    },
    "title": "The US Air Force Studied Nuking the Moon | Project A119",
    "duration": 58.5
+  },
+  {
+   "case": "013",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "DQN6liMW32w",
+    "url": "https://youtube.com/shorts/DQN6liMW32w",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-05T21:39:30Z"
+   },
+   "ig": {
+    "id": "18152651140532315",
+    "url": "https://www.instagram.com/reel/DeIMl7JDMLf/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "He Walked Into a Parking Lot and Vanished | Jimmy Hoffa",
+   "duration": 41.5
   },
   {
    "case": "L01",
