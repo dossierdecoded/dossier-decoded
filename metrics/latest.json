@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06T21:06:08+00:00",
+ "updated": "2026-10-06T21:25:11+00:00",
  "youtube_channel": {
   "subscribers": 4,
   "views": 1185
  },
  "instagram_account": {
   "followers_count": 1,
-  "media_count": 14,
+  "media_count": 15,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -408,6 +408,33 @@
    },
    "title": "He Walked Into a Parking Lot and Vanished | Jimmy Hoffa",
    "duration": 41.5
+  },
+  {
+   "case": "014",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "T4LHdmkHn0Y",
+    "url": "https://youtube.com/shorts/T4LHdmkHn0Y",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-06T21:22:10Z"
+   },
+   "ig": {
+    "id": "18628683979028997",
+    "url": "https://www.instagram.com/reel/DeKvUXmDABm/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "Her Last Words Were a Riddle | Amelia Earhart",
+   "duration": 79.5
   },
   {
    "case": "L01",
