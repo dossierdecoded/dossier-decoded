@@ -1,0 +1,22 @@
+{
+ "slug": "014-earhart",
+ "pillar": "Unsolved",
+ "format": "you-decide",
+ "script": "[serious] At 8:43 in the morning on July 2nd, 1937, Amelia Earhart's voice came over the radio for the last time: We are on the line, 157, 337. She and her navigator, Fred Noonan, were flying a Lockheed Electra toward Howland Island, a speck of land in the middle of the Pacific. They never arrived. She had already radioed that they must be close, but couldn't see the island, and fuel was running low. So what happened? One: they ran out of fuel and sank. That's the official answer. But a deep-sea sonar search of six hundred and thirty square miles found nothing. Two: they landed on Nikumaroro, an empty reef about 350 nautical miles away. In 1940, a British colonial officer found thirteen bones there, the remains of a shoe, and a sextant box. The bones were later lost. Three: they were captured by Japan. No record has ever proven it. Which do you believe? Send this to someone who loves an unsolved case. This is Dossier Decoded. Case file number fourteen. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {"slug": "earhart", "query": "Amelia Earhart portrait 1930s", "n": 2},
+  {"slug": "electra", "query": "Amelia Earhart Lockheed Electra 10E", "n": 1},
+  {"slug": "noonan", "query": "Fred Noonan navigator", "n": 1},
+  {"slug": "howland", "query": "Howland Island aerial", "n": 1},
+  {"slug": "itasca", "query": "USCGC Itasca 1937", "n": 1},
+  {"slug": "niku", "query": "Nikumaroro island", "n": 1}
+ ],
+ "sfx": [
+  {"slug": "drone", "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless", "seconds": 22},
+  {"slug": "stamp", "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up", "seconds": 1.2},
+  {"slug": "paper", "text": "a single sheet of paper being slid across a desk and flipped, close up", "seconds": 1.2},
+  {"slug": "hit", "text": "deep cinematic impact hit, single boom, short tail", "seconds": 1.5},
+  {"slug": "radio", "text": "1930s shortwave radio static crackle with faint morse beeps", "seconds": 4}
+ ]
+}
