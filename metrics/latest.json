@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-06T01:39:13+00:00",
+ "updated": "2026-10-06T01:56:23+00:00",
  "youtube_channel": {
   "subscribers": 3,
   "views": 971
  },
  "instagram_account": {
-  "followers_count": 0,
+  "followers_count": 1,
   "media_count": 14,
   "username": "dossierdecoded"
  },
@@ -47,7 +47,7 @@
    "yt": {
     "id": "uWBQ5abkeIM",
     "url": "https://youtube.com/shorts/uWBQ5abkeIM",
-    "views": 59,
+    "views": 58,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -78,7 +78,7 @@
    "yt": {
     "id": "JVjyiSnL5yI",
     "url": "https://youtube.com/shorts/JVjyiSnL5yI",
-    "views": 89,
+    "views": 88,
     "likes": 6,
     "comments": 0,
     "privacy": "public",
@@ -109,7 +109,7 @@
    "yt": {
     "id": "BafR4vjnksU",
     "url": "https://youtube.com/shorts/BafR4vjnksU",
-    "views": 728,
+    "views": 726,
     "likes": 10,
     "comments": 0,
     "privacy": "public",
@@ -140,7 +140,7 @@
    "yt": {
     "id": "bSRzb4l7KlU",
     "url": "https://youtube.com/shorts/bSRzb4l7KlU",
-    "views": 26,
+    "views": 24,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -171,7 +171,7 @@
    "yt": {
     "id": "5P_Ay1Yi2dA",
     "url": "https://youtube.com/shorts/5P_Ay1Yi2dA",
-    "views": 7,
+    "views": 6,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -233,7 +233,7 @@
    "yt": {
     "id": "rdrsTE9EGJc",
     "url": "https://youtube.com/shorts/rdrsTE9EGJc",
-    "views": 10,
+    "views": 9,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -264,7 +264,7 @@
    "yt": {
     "id": "WQVGZl0N4iA",
     "url": "https://youtube.com/shorts/WQVGZl0N4iA",
-    "views": 10,
+    "views": 13,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -326,8 +326,8 @@
    "yt": {
     "id": "fibH99ghCqE",
     "url": "https://youtube.com/shorts/fibH99ghCqE",
-    "views": 185,
-    "likes": 7,
+    "views": 148,
+    "likes": 8,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T23:08:19Z",
@@ -339,7 +339,7 @@
    "ig": {
     "id": "18130395370770610",
     "url": "https://www.instagram.com/reel/DeDA3oSHXco/",
-    "views": 55,
+    "views": 56,
     "reach": 50,
     "likes": 1,
     "comments": 0,
@@ -357,7 +357,7 @@
    "yt": {
     "id": "IhHQ0MAGrhU",
     "url": "https://youtube.com/shorts/IhHQ0MAGrhU",
-    "views": 18,
+    "views": 19,
     "likes": 1,
     "comments": 1,
     "privacy": "public",
@@ -366,13 +366,13 @@
    "ig": {
     "id": "18086868905285692",
     "url": "https://www.instagram.com/reel/DeE78U6lbq4/",
-    "views": 143,
+    "views": 144,
     "reach": 138,
-    "likes": 6,
+    "likes": 7,
     "comments": 0,
     "shares": 0,
     "saved": 1,
-    "total_interactions": 7,
+    "total_interactions": 8,
     "avg_watch_sec": 7.4
    },
    "title": "The US Air Force Studied Nuking the Moon | Project A119",
@@ -384,7 +384,7 @@
    "yt": {
     "id": "DQN6liMW32w",
     "url": "https://youtube.com/shorts/DQN6liMW32w",
-    "views": 123,
+    "views": 132,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -393,14 +393,14 @@
    "ig": {
     "id": "18152651140532315",
     "url": "https://www.instagram.com/reel/DeIMl7JDMLf/",
-    "views": 103,
-    "reach": 69,
-    "likes": 0,
+    "views": 125,
+    "reach": 94,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 11.4
+    "total_interactions": 1,
+    "avg_watch_sec": 12.9
    },
    "title": "He Walked Into a Parking Lot and Vanished | Jimmy Hoffa",
    "duration": 41.5
