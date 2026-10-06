@@ -185,6 +185,8 @@ Include a 3-line summary in the nudge message.
 
 ## 11. Instagram carousels (Mon / Wed / Fri at 12:00 pm ET)
 
+> **PAUSED since 6 Oct 2026 (Tanmay's decision):** the first carousel reached ~1 person at 0 followers. Do not make carousels until he asks to resume (suggested trigger: ~100 Instagram followers).
+
 Carousels are separate Instagram feed posts (not Reels), 3 a week, built from the documents of a case we
 already published as a Short — ideally the most recent one with a good primary document.
 
