@@ -1,0 +1,160 @@
+{
+ "title": "AMELIA EARHART",
+ "case": "014",
+ "scenes": [
+  {
+   "at": "At",
+   "type": "photo",
+   "photo": "photo-earhart-1.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "AMELIA EARHART",
+   "stamp": "MISSING",
+   "stamp_at": "time:",
+   "sfx": [
+    [
+     "radio",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "We",
+   "type": "card",
+   "text": "“WE ARE ON\nTHE LINE\n157 337”",
+   "sub": "8:43 A.M. · 2 JULY 1937 · HER LAST MESSAGE",
+   "red": true
+  },
+  {
+   "at": "navigator,",
+   "type": "photo",
+   "photo": "photo-electra.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A LOCKHEED ELECTRA (SIMILAR MODEL)"
+  },
+  {
+   "at": "Howland",
+   "type": "photo",
+   "photo": "photo-howland.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "HOWLAND ISLAND · THE TARGET"
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "NEVER\nARRIVED.",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "arrived."
+    ]
+   ]
+  },
+  {
+   "at": "already",
+   "type": "card",
+   "text": "“CAN’T SEE\nTHE ISLAND”",
+   "sub": "FUEL RUNNING LOW"
+  },
+  {
+   "at": "So",
+   "type": "card",
+   "text": "3 THEORIES",
+   "sub": "YOU DECIDE"
+  },
+  {
+   "at": "One:",
+   "type": "card",
+   "text": "1. CRASHED\nAND SANK",
+   "sub": "THE OFFICIAL ANSWER"
+  },
+  {
+   "at": "deep-sea",
+   "type": "card",
+   "text": "630 SQ MILES\nSEARCHED",
+   "sub": "DEEP-SEA SONAR · NOTHING FOUND",
+   "stamp": "NOTHING",
+   "stamp_at": "nothing."
+  },
+  {
+   "at": "Two:",
+   "type": "photo",
+   "photo": "photo-niku.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "2. NIKUMARORO · ~350 NM AWAY"
+  },
+  {
+   "at": "1940,",
+   "type": "card",
+   "text": "13 BONES\nA SHOE\nA SEXTANT BOX",
+   "sub": "FOUND IN 1940 · BONES LATER LOST",
+   "red": true
+  },
+  {
+   "at": "Three:",
+   "type": "photo",
+   "photo": "photo-noonan.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "3. PHOTO CLAIMED TO SHOW THEM · DISPUTED",
+   "stamp": "UNPROVEN",
+   "stamp_at": "it."
+  },
+  {
+   "at": "Which",
+   "type": "photo",
+   "photo": "photo-earhart-2.jpg",
+   "focus": [
+    0.75,
+    0.55
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "WHICH DO YOU BELIEVE? COMMENT ↓",
+   "stamp": "UNSOLVED",
+   "stamp_at": "case."
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
