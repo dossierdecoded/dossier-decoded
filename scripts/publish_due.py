@@ -65,6 +65,28 @@ def unhost(url):
         f.unlink(); push("Remove hosted video after publishing")
 
 
+
+def git(*a):
+    return subprocess.run(["git", *a], cwd=ROOT, capture_output=True, text=True)
+
+
+def claim(P, n, kind):
+    """Atomically claim a publish via a pushed lock file, so two overlapping runs can never both post.
+    Returns True if this run owns the publish."""
+    lock = P / f"{kind}.lock"
+    git("config", "user.name", "dossier-bot"); git("config", "user.email", "dossierdecoded@gmail.com")
+    git("pull", "--rebase", "-q", "origin", "main")
+    if lock.exists():
+        age = time.time() - float(lock.read_text().strip() or 0)
+        if age < 3600:
+            return False  # another run is publishing (or did) this
+    lock.write_text(str(time.time()))
+    git("add", str(lock)); git("commit", "-q", "-m", f"Claim {kind} publish {n}")
+    if git("push", "-q", "origin", "HEAD:main").returncode != 0:  # someone pushed first: re-check
+        git("reset", "-q", "--hard", "origin/main"); git("pull", "-q", "--rebase", "origin", "main")
+        return False
+    return True
+
 for q in sorted(ROOT.glob("pilots/*/queue.json")):
     P, n = q.parent, q.parent.name
     job = json.loads(q.read_text())
@@ -75,6 +97,8 @@ for q in sorted(ROOT.glob("pilots/*/queue.json")):
         try: return json.loads((P / f).read_text()).get("ok") is True
         except Exception: return False
 
+    if (not done("youtube.json") or (job.get("instagram") and not done("instagram.json"))) and not claim(P, n, "publish"):
+        print(n, "skipped: another run holds the publish claim"); continue
     if not done("youtube.json"):
         (P / "publish.json").write_text(json.dumps({"file": job["file"], "youtube": job["youtube"]}, indent=2, ensure_ascii=False))
         subprocess.run([sys.executable, str(ROOT / "scripts" / "upload_youtube.py"), n])
@@ -103,6 +127,8 @@ for q in sorted(ROOT.glob("pilots/*/carousel_queue.json")):
     except Exception: ok = False
     names = [f"c{n}-{i + 1:02d}.jpg" for i in range(len(job["slides"]))]
     urls = [SITE_URL + x for x in names]
+    if not ok and not claim(P, n, "carousel"):
+        print(n, "carousel skipped: claimed by another run"); continue
     if not ok:
         try:
             media = site() / "media"; media.mkdir(exist_ok=True)
