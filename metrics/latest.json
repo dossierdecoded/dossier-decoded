@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T18:46:12+00:00",
+ "updated": "2026-10-07T19:09:05+00:00",
  "youtube_channel": {
   "subscribers": 5,
   "views": 1557
@@ -21,8 +21,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-02T23:06:58Z",
-    "avg_view_pct": 69.61,
-    "avg_view_sec": 36,
+    "avg_view_pct": 72.34,
+    "avg_view_sec": 37,
     "shares": 4,
     "subs_gained": 0
    },
@@ -52,8 +52,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-02T23:42:33Z",
-    "avg_view_pct": 81.57,
-    "avg_view_sec": 46,
+    "avg_view_pct": 80.01,
+    "avg_view_sec": 45,
     "shares": 0,
     "subs_gained": 0
    },
@@ -83,7 +83,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T00:28:45Z",
-    "avg_view_pct": 65.25,
+    "avg_view_pct": 65.54,
     "avg_view_sec": 44,
     "shares": 0,
     "subs_gained": 0
@@ -109,12 +109,12 @@
    "yt": {
     "id": "BafR4vjnksU",
     "url": "https://youtube.com/shorts/BafR4vjnksU",
-    "views": 728,
+    "views": 729,
     "likes": 10,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T00:40:50Z",
-    "avg_view_pct": 80.15,
+    "avg_view_pct": 79.8,
     "avg_view_sec": 49,
     "shares": 2,
     "subs_gained": 2
@@ -145,8 +145,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:44:43Z",
-    "avg_view_pct": 46.75,
-    "avg_view_sec": 31,
+    "avg_view_pct": 53.949999999999996,
+    "avg_view_sec": 36,
     "shares": 0,
     "subs_gained": 0
    },
@@ -176,8 +176,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:45:40Z",
-    "avg_view_pct": 9.12,
-    "avg_view_sec": 5,
+    "avg_view_pct": 29.18,
+    "avg_view_sec": 18,
     "shares": 0,
     "subs_gained": 0
    },
@@ -207,8 +207,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:47:22Z",
-    "avg_view_pct": 38.56,
-    "avg_view_sec": 22,
+    "avg_view_pct": 41.1,
+    "avg_view_sec": 24,
     "shares": 0,
     "subs_gained": 0
    },
@@ -238,8 +238,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:48:04Z",
-    "avg_view_pct": 63.9,
-    "avg_view_sec": 40,
+    "avg_view_pct": 69.33,
+    "avg_view_sec": 44,
     "shares": 0,
     "subs_gained": 0
    },
@@ -269,8 +269,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:48:53Z",
-    "avg_view_pct": 37.41,
-    "avg_view_sec": 21,
+    "avg_view_pct": 40.75,
+    "avg_view_sec": 23,
     "shares": 0,
     "subs_gained": 0
    },
@@ -331,9 +331,9 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T23:08:19Z",
-    "avg_view_pct": 55.83,
-    "avg_view_sec": 22,
-    "shares": 0,
+    "avg_view_pct": 165.94,
+    "avg_view_sec": 68,
+    "shares": 1,
     "subs_gained": 0
    },
    "ig": {
@@ -362,7 +362,7 @@
     "comments": 1,
     "privacy": "public",
     "published": "2026-10-04T15:17:08Z",
-    "avg_view_pct": 63.47999999999999,
+    "avg_view_pct": 64.23,
     "avg_view_sec": 37,
     "shares": 0,
     "subs_gained": 0
@@ -388,11 +388,15 @@
    "yt": {
     "id": "DQN6liMW32w",
     "url": "https://youtube.com/shorts/DQN6liMW32w",
-    "views": 403,
+    "views": 406,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-05T21:39:30Z"
+    "published": "2026-10-05T21:39:30Z",
+    "avg_view_pct": 63.82,
+    "avg_view_sec": 26,
+    "shares": 1,
+    "subs_gained": 1
    },
    "ig": {
     "id": "18152651140532315",
@@ -415,7 +419,7 @@
    "yt": {
     "id": "T4LHdmkHn0Y",
     "url": "https://youtube.com/shorts/T4LHdmkHn0Y",
-    "views": 51,
+    "views": 58,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -442,7 +446,7 @@
    "yt": {
     "id": "2MbcjuWesVY",
     "url": "https://youtube.com/watch?v=2MbcjuWesVY",
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
