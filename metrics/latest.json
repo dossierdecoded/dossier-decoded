@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-07T19:09:05+00:00",
+ "updated": "2026-10-07T19:40:21+00:00",
  "youtube_channel": {
   "subscribers": 5,
-  "views": 1557
+  "views": 1455
  },
  "instagram_account": {
   "followers_count": 1,
@@ -207,8 +207,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:47:22Z",
-    "avg_view_pct": 41.1,
-    "avg_view_sec": 24,
+    "avg_view_pct": 45.26,
+    "avg_view_sec": 26,
     "shares": 0,
     "subs_gained": 0
    },
@@ -388,7 +388,7 @@
    "yt": {
     "id": "DQN6liMW32w",
     "url": "https://youtube.com/shorts/DQN6liMW32w",
-    "views": 406,
+    "views": 414,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
@@ -419,7 +419,7 @@
    "yt": {
     "id": "T4LHdmkHn0Y",
     "url": "https://youtube.com/shorts/T4LHdmkHn0Y",
-    "views": 58,
+    "views": 60,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
