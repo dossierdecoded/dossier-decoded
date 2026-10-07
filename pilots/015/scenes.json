@@ -1,0 +1,12 @@
+{"title": "ZODIAC 340", "case": "015", "scenes": [
+ {"at": "A", "type": "photo", "photo": "photo-cipher.jpg", "focus": [0.3, 0.6], "zoom": [1.3, 1.45], "label": "THE 340 CIPHER · SYMBOL KEY", "stamp": "UNREADABLE", "stamp_at": "symbols."},
+ {"at": "He", "type": "photo", "photo": "photo-sketch.jpg", "focus": [0.5, 0.4], "zoom": [1.0, 1.12], "label": "SFPD COMPOSITE SKETCH · 1969"},
+ {"at": "For", "type": "card", "text": "51 YEARS\nUNSOLVED", "sub": "MAILED NOVEMBER 1969", "red": true},
+ {"at": "Then,", "type": "card", "text": "DECEMBER\n2020", "sub": "VIRGINIA · BELGIUM · AUSTRALIA", "sfx": [["typewriter", 0.1]]},
+ {"at": "FBI", "type": "card", "text": "CONFIRMED", "sub": "FBI", "red": true, "sfx_at": [["stamp", "real."]]},
+ {"at": "message:", "type": "card", "text": "“I HOPE YOU ARE\nHAVING LOTS OF FUN\nIN TRYING TO\nCATCH ME”", "sub": "THE DECODED MESSAGE"},
+ {"at": "not", "type": "card", "text": "“I AM NOT\nAFRAID OF THE\nGAS CHAMBER”", "red": true},
+ {"at": "But", "type": "card", "text": "NO NAME.", "red": true, "sfx_at": [["hit", "name."]]},
+ {"at": "man", "type": "photo", "photo": "photo-sketch.jpg", "focus": [0.5, 0.35], "zoom": [1.15, 1.3], "label": "NEVER IDENTIFIED", "stamp": "UNSOLVED", "stamp_at": "identified."},
+ {"at": "Dossier", "type": "end"}
+]}
