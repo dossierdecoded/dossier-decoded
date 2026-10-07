@@ -1,0 +1,20 @@
+{
+ "slug": "015-zodiac-340",
+ "pillar": "Unsolved",
+ "format": "one-document",
+ "script": "[serious] A serial killer mailed this to a newspaper. Three hundred and forty symbols. He called himself the Zodiac. For fifty-one years, nobody on Earth could read it. Then, in December 2020, three amateur codebreakers, in Virginia, Belgium and Australia, finally cracked it. The FBI confirmed it was real. The message: I hope you are having lots of fun in trying to catch me. I am not afraid of the gas chamber. But there was no name. No clue. The man who wrote it has never been identified. Send this to someone who loves a cold case. This is Dossier Decoded. Case file number fifteen. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {"slug": "cipher", "query": "Zodiac 340 cipher", "n": 1},
+  {"slug": "letter", "query": "Zodiac Killer letter San Francisco Chronicle", "n": 1},
+  {"slug": "sketch", "query": "Zodiac Killer police composite sketch", "n": 1},
+  {"slug": "sf", "query": "San Francisco Chronicle building", "n": 1}
+ ],
+ "sfx": [
+  {"slug": "drone", "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless", "seconds": 22},
+  {"slug": "stamp", "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up", "seconds": 1.2},
+  {"slug": "paper", "text": "a single sheet of paper being slid across a desk and flipped, close up", "seconds": 1.2},
+  {"slug": "hit", "text": "deep cinematic impact hit, single boom, short tail", "seconds": 1.5},
+  {"slug": "typewriter", "text": "fast mechanical typewriter keys clacking, short burst", "seconds": 2}
+ ]
+}

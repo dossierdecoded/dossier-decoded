@@ -39,12 +39,12 @@
   },
   {
    "case": "015",
-   "slug": "sea-spray",
-   "topic": "Operation Sea-Spray: the US Navy sprayed bacteria over San Francisco (1950)",
-   "pillar": "Turned out true",
-   "format": "case-file",
-   "target_seconds": 38,
-   "hints": "1977 Senate subcommittee hearings on Army biological testing"
+   "slug": "zodiac-340",
+   "topic": "The Zodiac Killer's 340 cipher, cracked in 2020 while the killer stays unnamed",
+   "pillar": "Unsolved",
+   "format": "one-document",
+   "target_seconds": 40,
+   "hints": "FBI Vault Zodiac file; avoid graphic crime-scene detail"
   },
   {
    "case": "016",
@@ -102,12 +102,12 @@
   },
   {
    "case": "022",
-   "slug": "zodiac-340",
-   "topic": "The Zodiac Killer's 340 cipher, cracked in 2020 while the killer stays unnamed",
-   "pillar": "Unsolved",
-   "format": "one-document",
-   "target_seconds": 65,
-   "hints": "FBI Vault Zodiac file; avoid graphic crime-scene detail"
+   "slug": "sea-spray",
+   "topic": "Operation Sea-Spray: the US Navy sprayed bacteria over San Francisco (1950)",
+   "pillar": "Turned out true",
+   "format": "case-file",
+   "target_seconds": 38,
+   "hints": "1977 Senate subcommittee hearings on Army biological testing"
   },
   {
    "case": "023",
