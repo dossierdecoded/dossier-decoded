@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-07T21:07:56+00:00",
+ "updated": "2026-10-07T21:41:56+00:00",
  "youtube_channel": {
   "subscribers": 5,
   "views": 1557
  },
  "instagram_account": {
   "followers_count": 1,
-  "media_count": 15,
+  "media_count": 16,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -419,7 +419,7 @@
    "yt": {
     "id": "T4LHdmkHn0Y",
     "url": "https://youtube.com/shorts/T4LHdmkHn0Y",
-    "views": 58,
+    "views": 62,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -429,7 +429,7 @@
     "id": "18628683979028997",
     "url": "https://www.instagram.com/reel/DeKvUXmDABm/",
     "views": 71,
-    "reach": 66,
+    "reach": 68,
     "likes": 0,
     "comments": 0,
     "shares": 0,
@@ -439,6 +439,33 @@
    },
    "title": "Her Last Words Were a Riddle | Amelia Earhart",
    "duration": 79.5
+  },
+  {
+   "case": "015",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "MRt0ALKzgp0",
+    "url": "https://youtube.com/shorts/MRt0ALKzgp0",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-07T21:22:09Z"
+   },
+   "ig": {
+    "id": "18127684009852452",
+    "url": "https://www.instagram.com/reel/DeNUGfxj6oX/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "A Killer's Code, Cracked After 51 Years | The Zodiac 340 Cipher",
+   "duration": 37.8
   },
   {
    "case": "L01",
