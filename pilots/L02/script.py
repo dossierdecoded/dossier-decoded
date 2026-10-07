@@ -1,0 +1,31 @@
+"""Builds pilots/L02/job.json — The Alcatraz Escape (long-form, ~7-8 min).
+Facts: FBI memos of 12-13 June 1962 (FBI Records Vault, pages in assets/), History.com, CBS News (2013 letter),
+plus facts already verified for Short #011."""
+import json, pathlib, re
+
+CH = [
+ ("Three heads in three beds", """[serious] At seven in the morning on June 12th, 1962, a guard at Alcatraz walked down a cellblock doing the morning count. In cell after cell, men were getting up. But in three cells, the prisoners didn't move. A guard reached through the bars and touched one of them. The head rolled off the pillow and onto the floor. It wasn't a head. It was a dummy, made of soap, toilet paper, paint and real human hair taken from the prison barbershop. The men it was meant to hide, Frank Morris and the brothers John and Clarence Anglin, were gone. Alcatraz was supposed to be escape-proof. A rock in the middle of San Francisco Bay, surrounded by cold water and strong currents. In nearly thirty years, no one had made it off the island and been seen alive again. This is the complete case file on the only escape from Alcatraz that may have worked. Let's open it."""),
+ ("The plan", """Frank Morris arrived at Alcatraz in 1960. He was a career criminal and, by the prison's own testing, unusually intelligent. The Anglin brothers, bank robbers from Florida, arrived soon after. Their cells were next to each other, and so was a fourth man's, Allen West. Over months, the four men built an escape in plain sight. Behind each cell was a small air vent leading into an unguarded utility corridor. Using sharpened spoons, and a drill improvised from the motor of a stolen vacuum cleaner, they slowly widened the vents, hiding the holes behind cardboard painted to look like the wall. Every night, music hour helped cover the noise. In the utility corridor they climbed to the top of the cellblock and built a secret workshop. There, they made the heads. They made paddles. They made life vests. And, from more than fifty stolen raincoats, sealed with the heat of the prison's steam pipes, they made a raft."""),
+ ("The night of June 11th", """On the night of June 11th, the dummies went into the beds. Morris and the Anglins crawled out through their vents. Allen West could not. His vent cover was stuck, and by the time he got it open, the others were gone. He would later tell investigators everything. The three men climbed up through the corridor, out through a ventilator onto the roof, down a pipe to the ground, and over two fences to the shore. Somewhere on the northeast side of the island, they inflated the raft, and pushed off into the dark water of the bay. That is the last time anyone can say for certain where they were."""),
+ ("What the FBI found", """By morning, the FBI was running the biggest manhunt of its kind. The FBI's own memo, written that evening at 7:28 p.m., reports that investigation has failed to locate the subjects at the prison or on the island, and no trace of them has been found on the mainland or in the water. Over the next days, the search turned up pieces. The next morning, the Coast Guard found a paddle of the type the men used, floating in the bay between Alcatraz and Angel Island. Then, a waterproof packet wrapped in rubber, holding photographs and addresses of the Anglins' family and friends. Later, scraps of the rafts and the life vests. No bodies were ever found. And that packet raises the question that has haunted the case ever since. If you planned to drown, why would you seal your family's addresses in waterproof rubber? In 1979, the FBI closed its investigation. It concluded the men were unlikely to have survived the cold water and currents. The U.S. Marshals Service disagreed. Their case is still open."""),
+ ("Did they make it?", """The case against survival is simple. The water in the bay is cold enough to kill in an hour. The currents are strong. Three men on a homemade raft at night, with no sign that anyone ever helped them on shore. But there is another side. In 2013, the San Francisco Police received a letter. It said: My name is John Anglin. I escaped from Alcatraz in June 1962 with my brother Clarence and Frank Morris. I'm 83 years old and in bad shape. I have cancer. It said all three of them made it that night, but barely. The FBI tested the letter for fingerprints, DNA and handwriting. The results were inconclusive. Then, in 2015, a television documentary presented a photograph, said to show the Anglin brothers on a farm in Brazil in 1975. That, too, has never been proven. Here is what the file really tells us. These men planned for months, and they planned to live. They took life vests, paddles, and their family's addresses, sealed against the water. Whether the bay took them that night, or whether three men got away with the most famous escape in American history, nobody has ever proven. The U.S. Marshals are still looking. So, did they make it? Tell me in the comments. This is Dossier Decoded. Case file: The Alcatraz Escape. Closed by the FBI. Still open."""),
+]
+
+job = {
+ "slug": "L02-alcatraz", "pillar": "Unsolved", "format": "long-form",
+ "script": " ".join(t for _, t in CH),
+ "chapters": [{"title": t, "text": x} for t, x in CH],
+ "pdf": None, "commons": [],
+ "sfx": [
+  {"slug": "drone", "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless", "seconds": 22},
+  {"slug": "stamp", "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up", "seconds": 1.2},
+  {"slug": "paper", "text": "a single sheet of paper being slid across a desk and flipped, close up", "seconds": 1.2},
+  {"slug": "hit", "text": "deep cinematic impact hit, single boom, short tail", "seconds": 1.5},
+  {"slug": "waves", "text": "cold choppy bay water lapping against rocks at night, wind", "seconds": 8},
+  {"slug": "door", "text": "heavy steel prison cell door slamming shut, echo in a cellblock", "seconds": 2},
+  {"slug": "scrape", "text": "metal spoon scraping slowly against concrete, close up", "seconds": 3}
+ ]}
+p = pathlib.Path(__file__).parent
+(p / "job.json").write_text(json.dumps(job, indent=1, ensure_ascii=False))
+w = len(re.sub(r"\[.*?\]", "", job["script"]).split())
+print("words", w, "est min", round(w / 2.85 / 60, 1), [len(x) for _, x in CH])
