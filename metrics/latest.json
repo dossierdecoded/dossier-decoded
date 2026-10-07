@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T00:10:17+00:00",
+ "updated": "2026-10-07T00:50:49+00:00",
  "youtube_channel": {
   "subscribers": 5,
   "views": 1185
@@ -357,7 +357,7 @@
    "yt": {
     "id": "IhHQ0MAGrhU",
     "url": "https://youtube.com/shorts/IhHQ0MAGrhU",
-    "views": 25,
+    "views": 26,
     "likes": 1,
     "comments": 1,
     "privacy": "public",
@@ -388,7 +388,7 @@
    "yt": {
     "id": "DQN6liMW32w",
     "url": "https://youtube.com/shorts/DQN6liMW32w",
-    "views": 315,
+    "views": 335,
     "likes": 4,
     "comments": 0,
     "privacy": "public",
@@ -415,7 +415,7 @@
    "yt": {
     "id": "T4LHdmkHn0Y",
     "url": "https://youtube.com/shorts/T4LHdmkHn0Y",
-    "views": 8,
+    "views": 23,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -424,14 +424,14 @@
    "ig": {
     "id": "18628683979028997",
     "url": "https://www.instagram.com/reel/DeKvUXmDABm/",
-    "views": 67,
-    "reach": 18,
+    "views": 69,
+    "reach": 63,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 1.5
+    "avg_watch_sec": 1.6
    },
    "title": "Her Last Words Were a Riddle | Amelia Earhart",
    "duration": 79.5
