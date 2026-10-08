@@ -1,0 +1,15 @@
+{"commons": [
+ {"slug": "anglin-j", "query": "John Anglin Alcatraz mugshot", "n": 1},
+ {"slug": "anglin-c", "query": "Clarence Anglin Alcatraz mugshot", "n": 1},
+ {"slug": "west", "query": "Allen West Alcatraz", "n": 1},
+ {"slug": "vent", "query": "Alcatraz cell vent escape hole 1962", "n": 2},
+ {"slug": "cell", "query": "Alcatraz cell interior", "n": 1},
+ {"slug": "block", "query": "Alcatraz cellblock corridor", "n": 1},
+ {"slug": "capone", "query": "Al Capone mugshot 1931", "n": 1},
+ {"slug": "angel", "query": "Angel Island from Alcatraz", "n": 1},
+ {"slug": "gate", "query": "Golden Gate Bridge fog from Alcatraz", "n": 1},
+ {"slug": "raft", "query": "Alcatraz escape raft replica raincoats", "n": 1},
+ {"slug": "roof", "query": "Alcatraz cellhouse roof", "n": 1},
+ {"slug": "shore", "query": "Alcatraz island shoreline rocks", "n": 1},
+ {"slug": "marshals", "query": "United States Marshals Service seal", "n": 1}
+]}
