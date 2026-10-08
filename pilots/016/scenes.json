@@ -1,0 +1,20 @@
+{"title": "THE GHOST ARMY", "case": "016", "scenes": [
+ {"at": "The", "type": "photo", "photo": "photo-soldiers.jpg", "fit": "contain", "focus": [0.45, 0.3], "zoom": [1.35, 1.5], "label": "THE GHOST ARMY · WWII", "stamp": "TOP SECRET", "stamp_at": "balloons."},
+ {"at": "1944,", "type": "card", "text": "~1,100\nSOLDIERS", "sub": "23RD HEADQUARTERS SPECIAL TROOPS"},
+ {"at": "art", "type": "card", "text": "ARTISTS\nAD MEN", "sub": "RECRUITED FROM ART SCHOOLS AND AGENCIES"},
+ {"at": "fakes.", "type": "card", "text": "AN ARMY\nOF FAKES", "red": true, "sfx_at": [["hit", "fakes."]]},
+ {"at": "Inflatable", "type": "card", "text": "INFLATABLE\nTANKS", "sfx": [["inflate", 0.0]]},
+ {"at": "Fake", "type": "card", "text": "FAKE\nARTILLERY"},
+ {"at": "speakers", "type": "card", "text": "RECORDED\nSOUND", "sub": "TROOPS · CONSTRUCTION · AT NIGHT"},
+ {"at": "radio", "type": "card", "text": "FAKE RADIO\nTRAFFIC", "sfx": [["radio", 0.0]]},
+ {"at": "pretended", "type": "photo", "photo": "photo-decoy.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "WWII DECOYS · DUMMY LANDING CRAFT"},
+ {"at": "final", "type": "photo", "photo": "photo-rhine.jpg", "focus": [0.5, 0.4], "zoom": [1.0, 1.1], "label": "THE RHINE CROSSING · MARCH 1945"},
+ {"at": "forty", "type": "card", "text": "40,000\nMEN", "sub": "IMPERSONATED · 600+ INFLATABLES", "red": true},
+ {"at": "drew", "type": "card", "text": "THE ENEMY\nLOOKED THE\nWRONG WAY", "red": true},
+ {"at": "Bill", "type": "card", "text": "BILL BLASS", "sub": "FUTURE FASHION DESIGNER"},
+ {"at": "Ellsworth", "type": "photo", "photo": "photo-kelly.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.0, 1.1], "label": "ELLSWORTH KELLY · PAINTER"},
+ {"at": "silent.", "type": "card", "text": "CLASSIFIED\nFOR DECADES", "red": true, "sfx_at": [["stamp", "decades."]]},
+ {"at": "credited", "type": "card", "text": "THOUSANDS\nOF LIVES", "sub": "CREDITED WITH SAVING"},
+ {"at": "2024,", "type": "photo", "photo": "photo-soldiers.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "CONGRESSIONAL GOLD MEDAL", "stamp": "HONORED", "stamp_at": "Medal."},
+ {"at": "Dossier", "type": "end"}
+]}
