@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-08T18:46:50+00:00",
+ "updated": "2026-10-08T19:09:41+00:00",
  "youtube_channel": {
   "subscribers": 5,
   "views": 1694
  },
  "instagram_account": {
-  "followers_count": 1,
+  "followers_count": 2,
   "media_count": 16,
   "username": "dossierdecoded"
  },
@@ -145,8 +145,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:44:43Z",
-    "avg_view_pct": 53.949999999999996,
-    "avg_view_sec": 36,
+    "avg_view_pct": 57.35,
+    "avg_view_sec": 38,
     "shares": 0,
     "subs_gained": 0
    },
@@ -362,8 +362,8 @@
     "comments": 1,
     "privacy": "public",
     "published": "2026-10-04T15:17:08Z",
-    "avg_view_pct": 64.23,
-    "avg_view_sec": 37,
+    "avg_view_pct": 65.49,
+    "avg_view_sec": 38,
     "shares": 0,
     "subs_gained": 0
    },
@@ -388,15 +388,15 @@
    "yt": {
     "id": "DQN6liMW32w",
     "url": "https://youtube.com/shorts/DQN6liMW32w",
-    "views": 434,
+    "views": 435,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-05T21:39:30Z",
-    "avg_view_pct": 63.82,
-    "avg_view_sec": 26,
+    "avg_view_pct": 67.65,
+    "avg_view_sec": 28,
     "shares": 1,
-    "subs_gained": 1
+    "subs_gained": 3
    },
    "ig": {
     "id": "18152651140532315",
@@ -423,7 +423,11 @@
     "likes": 3,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-06T21:22:10Z"
+    "published": "2026-10-06T21:22:10Z",
+    "avg_view_pct": 50.580000000000005,
+    "avg_view_sec": 40,
+    "shares": 0,
+    "subs_gained": 1
    },
    "ig": {
     "id": "18628683979028997",
