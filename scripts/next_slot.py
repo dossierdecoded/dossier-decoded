@@ -12,6 +12,8 @@ now = dt.datetime.now(ET)
 
 taken, pending, stale = set(), [], []
 for d in sorted(ROOT.glob("pilots/*")):
+    if d.name.startswith("L"):  # long-forms post at 12:00 and do not take the 5 pm Short slot
+        continue
     q, dr = d / "queue.json", d / "draft.json"
     if q.exists():
         taken.add(dt.datetime.fromisoformat(json.loads(q.read_text())["publish_at"]).astimezone(ET).date())
