@@ -15,7 +15,7 @@ try:
     auth = {"Authorization": "Bearer " + tok.json()["access_token"]}
     video = P / pub["file"]
     body = {
-        "snippet": {"title": pub["youtube"]["title"], "description": pub["youtube"]["description"],
+        "snippet": {"title": pub["youtube"]["title"], "description": pub["youtube"]["description"].replace("<", "‹").replace(">", "›")[:4900],
                     "tags": pub["youtube"].get("tags", []), "categoryId": pub["youtube"].get("categoryId", "27")},
         "status": {"privacyStatus": pub["youtube"].get("privacy", "public"), "selfDeclaredMadeForKids": False,
                    "containsSyntheticMedia": pub["youtube"].get("containsSyntheticMedia", False)},
