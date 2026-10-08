@@ -55,7 +55,7 @@ S=[
  D("FBI's",[240,500,1230,660],[[248,572,1158,597],[246,596,1216,644]],"water.","FBI MEMO · 12 JUNE 1962 · 7:28 P.M."),
  D("paddle",[480,1220,1260,1400],[[514,1272,1248,1318],[492,1315,1220,1348]],"Island.","FBI MEMO ADDENDUM · 13 JUNE 1962"),
  C("packet","A PACKET\nSEALED IN RUBBER","LETTERS AND PHOTOS OF THE ANGLINS"),
- C("rubber","BITS OF RUBBER","IN THE WATER"),
+ C("Bits","BITS OF RUBBER","IN THE WATER"),
  C("Cronkhite.","A LIFE VEST","FORT CRONKHITE"),
  C("bodies","NO BODIES",None,red=True,sfx_at=[["hit","found."]]),
  C("expected","WHY WATERPROOF\nYOUR LETTERS?",None,red=True),
