@@ -15,6 +15,8 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -24,10 +26,15 @@ jobs:
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: |
+          # Only pilots whose job.json changed in this push (file mtimes are meaningless on a fresh checkout),
+          # plus pilots with no voice yet, plus long-forms with a missing chapter voice file.
+          CHANGED=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" 2>/dev/null | grep '/job.json$' || true)
           for d in pilots/*/; do
             n=$(basename "$d")
-            if [ ! -f "$d/assets/voice.mp3" ] || [ "$d/job.json" -nt "$d/assets/voice.mp3" ]; then
-              python scripts/fetch_pilot.py "$n"
+            missing_ch=$(python -c "import json,pathlib,sys;d=pathlib.Path('$d');j=json.loads((d/'job.json').read_text()) if (d/'job.json').exists() else {};print(any(not (d/'assets'/f'voice-{i:02d}.mp3').exists() for i in range(1,len(j.get('chapters') or [])+1)))")
+            if [ ! -f "$d/job.json" ]; then continue; fi
+            if [ ! -f "$d/assets/voice.mp3" ] || echo "$CHANGED" | grep -qx "pilots/$n/job.json" || [ "$missing_ch" = "True" ]; then
+              echo "fetching $n"; python scripts/fetch_pilot.py "$n"
             fi
           done
       - name: Commit results
