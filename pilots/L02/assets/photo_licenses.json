@@ -33,5 +33,68 @@
   "license": "CC BY-SA 4.0",
   "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Grendelkhan\" title=\"User:Grendelkhan\">Grendelkhan</a>",
   "page": "https://commons.wikimedia.org/wiki/File:Utility_corridor_inside_Alcatraz_cellblock.jpg"
+ },
+ {
+  "slug": "anglin-j",
+  "title": "File:John Anglin 1960 Mugshot by FBI (cropped).jpg",
+  "license": "Public domain",
+  "artist": "<a href=\"https://en.wikipedia.org/wiki/FBI\" class=\"extiw\" title=\"w:FBI\">FBI</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:John_Anglin_1960_Mugshot_by_FBI_(cropped).jpg"
+ },
+ {
+  "slug": "west",
+  "title": "File:Allen West (criminal).jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Earl_Of_Sandwish&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Earl Of Sandwish (page does not exist)\">Earl Of Sandwish</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Allen_West_(criminal).jpg"
+ },
+ {
+  "slug": "cell",
+  "title": "File:Alcatraz, interior, cell blocks (January 2009)(3207688501).jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22147358@N04\">Eddie Maloney</a> from  North Las Vegas, USA",
+  "page": "https://commons.wikimedia.org/wiki/File:Alcatraz,_interior,_cell_blocks_(January_2009)(3207688501).jpg"
+ },
+ {
+  "slug": "block",
+  "title": "File:Main corridor inside Alcatraz.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Grendelkhan\" title=\"User:Grendelkhan\">Grendelkhan</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Main_corridor_inside_Alcatraz.jpg"
+ },
+ {
+  "slug": "capone",
+  "title": "File:AlCaponemugshotCPD.jpg",
+  "license": "Public domain",
+  "artist": "United States Bureau of Prisons",
+  "page": "https://commons.wikimedia.org/wiki/File:AlCaponemugshotCPD.jpg"
+ },
+ {
+  "slug": "angel",
+  "title": "File:Angel Island from Alcatraz Island (TK).JPG",
+  "license": "CC BY-SA 3.0",
+  "artist": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:TheTokl\" class=\"extiw\" title=\"de:Benutzer:TheTokl\">Tobias Kleinlercher / Wikipedia</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Angel_Island_from_Alcatraz_Island_(TK).JPG"
+ },
+ {
+  "slug": "gate",
+  "title": "File:Pano of Golden Gate Bridge and San Francisco from Twin Peaks 1 1.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://sites.google.com/site/thebrockeninglory/\">Brocken Inaglory</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Pano_of_Golden_Gate_Bridge_and_San_Francisco_from_Twin_Peaks_1_1.jpg"
+ },
+ {
+  "slug": "roof",
+  "title": "File:Alcatraz 1962 false grid.jpg",
+  "license": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_1962_false_grid.jpg"
+ },
+ {
+  "slug": "marshals",
+  "title": "File:Seal of the United States Marshals Service.png",
+  "license": "Public domain",
+  "artist": "<ul><li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Chasingsol\" title=\"User:Chasingsol\">Chasingsol</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Chasingsol\" title=\"User talk:Cha",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Marshals_Service.png"
  }
 ]
