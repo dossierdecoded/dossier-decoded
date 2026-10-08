@@ -1,7 +1,10 @@
-commons: nothing usable for inflatable dummy tank M4 Sherman decoy World War II #1
+commons: nothing usable for rubber dummy tank #1
 
-commons: nothing usable for inflatable dummy tank M4 Sherman decoy World War II #2
-
-commons: nothing usable for Ghost Army inflatable tank #1
-
-commons: nothing usable for SCR-300 radio soldier 1944 #1
+[commons]
+Traceback (most recent call last):
+  File "/home/runner/work/dossier-decoded/dossier-decoded/scripts/fetch_pilot.py", line 22, in deco
+    fn()
+  File "/home/runner/work/dossier-decoded/dossier-decoded/scripts/fetch_pilot.py", line 146, in _
+    ii = p["imageinfo"][0]; em = ii.get("extmetadata", {})
+         ~^^^^^^^^^^^^^
+KeyError: 'imageinfo'

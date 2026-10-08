@@ -1,8 +1,7 @@
 {"commons": [
- {"slug": "tank", "query": "inflatable dummy tank M4 Sherman decoy World War II", "n": 2},
- {"slug": "tank2", "query": "Ghost Army inflatable tank", "n": 1},
- {"slug": "decoy", "query": "dummy tank decoy 1944", "n": 1},
- {"slug": "radio2", "query": "SCR-300 radio soldier 1944", "n": 1},
- {"slug": "blass", "query": "Bill Blass", "n": 1},
- {"slug": "kelly", "query": "Ellsworth Kelly", "n": 1}
+ {"slug": "tank", "query": "rubber dummy tank", "n": 1},
+ {"slug": "tank3", "query": "inflatable decoy tank", "n": 1},
+ {"slug": "tank4", "query": "dummy Sherman tank", "n": 1},
+ {"slug": "tank5", "query": "Category:Dummy tanks", "n": 1},
+ {"slug": "speaker", "query": "loudspeaker truck World War II US Army", "n": 1}
 ]}
