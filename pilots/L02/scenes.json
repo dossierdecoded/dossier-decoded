@@ -1,0 +1,886 @@
+{
+ "title": "THE ALCATRAZ ESCAPE",
+ "case": "011",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "On",
+   "type": "photo",
+   "photo": "photo-head-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "label": "DUMMY HEAD FOUND IN A BED · 12 JUNE 1962",
+   "fit": "contain",
+   "stamp": "ESCAPED",
+   "stamp_at": "gone."
+  },
+  {
+   "at": "guards",
+   "type": "photo",
+   "photo": "photo-block.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE MORNING COUNT",
+   "sfx": [
+    [
+     "door",
+     0.2
+    ]
+   ]
+  },
+  {
+   "at": "three",
+   "type": "card",
+   "text": "3 CELLS\nNOBODY MOVED",
+   "red": true
+  },
+  {
+   "at": "rolled",
+   "type": "card",
+   "text": "THE HEAD\nROLLED OFF",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "floor."
+    ]
+   ]
+  },
+  {
+   "at": "dummy,",
+   "type": "photo",
+   "photo": "photo-head-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SOAP · TOILET PAPER · PAINT · REAL HAIR",
+   "fit": "contain"
+  },
+  {
+   "at": "Frank",
+   "type": "photo",
+   "photo": "photo-morris.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FRANK MORRIS · ALCATRAZ #1441",
+   "fit": "contain"
+  },
+  {
+   "at": "brothers",
+   "type": "photo",
+   "photo": "photo-anglin-j.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "JOHN ANGLIN · FBI MUGSHOT",
+   "fit": "contain"
+  },
+  {
+   "at": "escape-proof.",
+   "type": "photo",
+   "photo": "photo-island.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ALCATRAZ · SAN FRANCISCO BAY",
+   "sfx": [
+    [
+     "waves",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "twenty-nine",
+   "type": "card",
+   "text": "36 MEN\nTRIED",
+   "sub": "IN 29 YEARS"
+  },
+  {
+   "at": "Almost",
+   "type": "card",
+   "text": "CAUGHT · SHOT\nOR DROWNED",
+   "red": true
+  },
+  {
+   "at": "complete",
+   "type": "card",
+   "text": "CASE FILE:\nTHE ALCATRAZ\nESCAPE",
+   "sub": "THE ONE ESCAPE THAT MAY HAVE WORKED"
+  },
+  {
+   "at": "Alcatraz",
+   "type": "card",
+   "text": "THE ROCK",
+   "sub": "CHAPTER 2 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "1934.",
+   "type": "photo",
+   "photo": "photo-island.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "label": "FEDERAL PRISON · 1934–1963"
+  },
+  {
+   "at": "Capone",
+   "type": "photo",
+   "photo": "photo-capone.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "AL CAPONE · INMATE",
+   "fit": "contain"
+  },
+  {
+   "at": "cell.",
+   "type": "photo",
+   "photo": "photo-cell.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ONE MAN · ONE CELL"
+  },
+  {
+   "at": "final",
+   "type": "photo",
+   "photo": "photo-gate.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SAN FRANCISCO, ACROSS THE WATER",
+   "sfx": [
+    [
+     "waves",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "mile",
+   "type": "card",
+   "text": "1+ MILE",
+   "sub": "OF FREEZING WATER",
+   "red": true
+  },
+  {
+   "at": "January",
+   "type": "photo",
+   "photo": "photo-morris.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "ARRIVED JANUARY 1960",
+   "fit": "contain"
+  },
+  {
+   "at": "quiet",
+   "type": "card",
+   "text": "“QUIET AND\nVERY INTELLIGENT”",
+   "sub": "HOW HE WAS DESCRIBED"
+  },
+  {
+   "at": "Anglin",
+   "type": "photo",
+   "photo": "photo-anglin-j.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "BANK ROBBERS FROM FLORIDA",
+   "fit": "contain"
+  },
+  {
+   "at": "Allen",
+   "type": "photo",
+   "photo": "photo-west.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ALLEN WEST",
+   "fit": "contain"
+  },
+  {
+   "at": "side",
+   "type": "card",
+   "text": "SIDE BY SIDE",
+   "sub": "FOUR CELLS · FOUR MEN"
+  },
+  {
+   "at": "Starting",
+   "type": "card",
+   "text": "THE PLAN",
+   "sub": "CHAPTER 3 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "December",
+   "type": "card",
+   "text": "DECEMBER\n1961",
+   "sub": "THE DIGGING BEGINS"
+  },
+  {
+   "at": "vent",
+   "type": "photo",
+   "photo": "photo-roof.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A FAKE VENT GRILLE · ALCATRAZ 1962",
+   "fit": "contain",
+   "sfx": [
+    [
+     "scrape",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "corridor.",
+   "type": "photo",
+   "photo": "photo-cellhouse.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE UTILITY CORRIDOR"
+  },
+  {
+   "at": "spoons",
+   "type": "card",
+   "text": "SPOONS\nSAW BLADES",
+   "sub": "AND A DRILL",
+   "sfx": [
+    [
+     "scrape",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "vacuum",
+   "type": "card",
+   "text": "A VACUUM\nCLEANER MOTOR",
+   "sub": "TURNED INTO A DRILL",
+   "red": true
+  },
+  {
+   "at": "cardboard",
+   "type": "photo",
+   "photo": "photo-roof.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "PAINTED TO LOOK LIKE THE WALL",
+   "fit": "contain"
+  },
+  {
+   "at": "music",
+   "type": "card",
+   "text": "MUSIC HOUR",
+   "sub": "COVER FOR THE NOISE"
+  },
+  {
+   "at": "pipes",
+   "type": "photo",
+   "photo": "photo-cellhouse.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "UP THE PIPES · TO THE TOP"
+  },
+  {
+   "at": "workshop",
+   "type": "card",
+   "text": "A SECRET\nWORKSHOP",
+   "sub": "ON TOP OF THE CELLBLOCK"
+  },
+  {
+   "at": "heads.",
+   "type": "photo",
+   "photo": "photo-head-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "label": "THE HEADS",
+   "fit": "contain"
+  },
+  {
+   "at": "paddles.",
+   "type": "card",
+   "text": "PADDLES\nLIFE VESTS"
+  },
+  {
+   "at": "fifty",
+   "type": "card",
+   "text": "50+\nRAINCOATS",
+   "sub": "SEALED WITH STEAM PIPES",
+   "red": true
+  },
+  {
+   "at": "concertina,",
+   "type": "card",
+   "text": "A CONCERTINA",
+   "sub": "USED AS A PUMP"
+  },
+  {
+   "at": "soap.",
+   "type": "card",
+   "text": "A DUMMY BOLT\nMADE OF SOAP",
+   "red": true
+  },
+  {
+   "at": "On",
+   "type": "card",
+   "text": "THE NIGHT OF JUNE 11TH",
+   "sub": "CHAPTER 4 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "dummies",
+   "type": "photo",
+   "photo": "photo-head-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "INTO THE BEDS",
+   "fit": "contain"
+  },
+  {
+   "at": "Allen",
+   "type": "photo",
+   "photo": "photo-west.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "LEFT BEHIND",
+   "fit": "contain",
+   "stamp": "LEFT BEHIND",
+   "stamp_at": "gone."
+  },
+  {
+   "at": "investigators",
+   "type": "card",
+   "text": "HE TOLD\nINVESTIGATORS\nEVERYTHING"
+  },
+  {
+   "at": "climbed",
+   "type": "photo",
+   "photo": "photo-cellhouse.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.3
+   ],
+   "label": "UP THE CORRIDOR · ONTO THE ROOF"
+  },
+  {
+   "at": "northeast",
+   "type": "photo",
+   "photo": "photo-island.jpg",
+   "focus": [
+    0.7,
+    0.4
+   ],
+   "zoom": [
+    1.2,
+    1.35
+   ],
+   "label": "THE NORTHEAST SHORE"
+  },
+  {
+   "at": "pushed",
+   "type": "card",
+   "text": "INTO THE\nDARK WATER",
+   "red": true,
+   "sfx": [
+    [
+     "waves",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Angel",
+   "type": "photo",
+   "photo": "photo-angel.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ANGEL ISLAND · THE PLAN"
+  },
+  {
+   "at": "last",
+   "type": "card",
+   "text": "LAST KNOWN\nPOSITION:\nTHE BAY",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "were."
+    ]
+   ]
+  },
+  {
+   "at": "By",
+   "type": "card",
+   "text": "WHAT THE FBI FOUND",
+   "sub": "CHAPTER 5 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "lockdown,",
+   "type": "card",
+   "text": "LOCKDOWN",
+   "red": true
+  },
+  {
+   "at": "FBI's",
+   "type": "doc",
+   "page": "doc-002.png",
+   "window": [
+    240,
+    500,
+    1230,
+    660
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     248,
+     572,
+     1158,
+     597
+    ],
+    [
+     246,
+     596,
+     1216,
+     644
+    ]
+   ],
+   "reveal": "water.",
+   "label": "FBI MEMO · 12 JUNE 1962 · 7:28 P.M."
+  },
+  {
+   "at": "paddle",
+   "type": "doc",
+   "page": "doc-002.png",
+   "window": [
+    480,
+    1220,
+    1260,
+    1400
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     514,
+     1272,
+     1248,
+     1318
+    ],
+    [
+     492,
+     1315,
+     1220,
+     1348
+    ]
+   ],
+   "reveal": "Island.",
+   "label": "FBI MEMO ADDENDUM · 13 JUNE 1962"
+  },
+  {
+   "at": "packet",
+   "type": "card",
+   "text": "A PACKET\nSEALED IN RUBBER",
+   "sub": "LETTERS AND PHOTOS OF THE ANGLINS"
+  },
+  {
+   "at": "rubber",
+   "type": "card",
+   "text": "BITS OF RUBBER",
+   "sub": "IN THE WATER"
+  },
+  {
+   "at": "Cronkhite.",
+   "type": "card",
+   "text": "A LIFE VEST",
+   "sub": "FORT CRONKHITE"
+  },
+  {
+   "at": "bodies",
+   "type": "card",
+   "text": "NO BODIES",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "found."
+    ]
+   ]
+  },
+  {
+   "at": "expected",
+   "type": "card",
+   "text": "WHY WATERPROOF\nYOUR LETTERS?",
+   "red": true
+  },
+  {
+   "at": "1979,",
+   "type": "card",
+   "text": "1979",
+   "sub": "FBI CLOSES THE CASE",
+   "stamp": "CLOSED",
+   "stamp_at": "currents."
+  },
+  {
+   "at": "Marshals",
+   "type": "photo",
+   "photo": "photo-marshals.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "U.S. MARSHALS SERVICE",
+   "fit": "contain",
+   "stamp": "OPEN",
+   "stamp_at": "it."
+  },
+  {
+   "at": "1963,",
+   "type": "photo",
+   "photo": "photo-island.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.3
+   ],
+   "label": "ALCATRAZ CLOSES · 1963"
+  },
+  {
+   "at": "The",
+   "type": "card",
+   "text": "DID THEY MAKE IT?",
+   "sub": "CHAPTER 6 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "cold",
+   "type": "card",
+   "text": "AGAINST\nSURVIVAL",
+   "sub": "COLD WATER · STRONG CURRENTS",
+   "red": true
+  },
+  {
+   "at": "FBI",
+   "type": "card",
+   "text": "THE FBI:\n“DROWNED”"
+  },
+  {
+   "at": "December",
+   "type": "card",
+   "text": "DECEMBER\n1962",
+   "sub": "JOHN PAUL SCOTT ESCAPES"
+  },
+  {
+   "at": "Fort",
+   "type": "photo",
+   "photo": "photo-gate.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FORT POINT · BENEATH THE GOLDEN GATE"
+  },
+  {
+   "at": "crossed.",
+   "type": "card",
+   "text": "THE BAY\nCOULD BE CROSSED",
+   "red": true
+  },
+  {
+   "at": "Brizzi",
+   "type": "card",
+   "text": "BRAZIL?",
+   "sub": "A PHOTO “FROM 1975” · NEVER CONFIRMED"
+  },
+  {
+   "at": "2013,",
+   "type": "card",
+   "text": "2013",
+   "sub": "A LETTER TO SAN FRANCISCO POLICE",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Anglin.",
+   "type": "card",
+   "text": "“MY NAME IS\nJOHN ANGLIN”",
+   "red": true
+  },
+  {
+   "at": "83",
+   "type": "card",
+   "text": "“I'M 83 YEARS OLD…\nI HAVE CANCER”"
+  },
+  {
+   "at": "fingerprints,",
+   "type": "card",
+   "text": "INCONCLUSIVE",
+   "sub": "FINGERPRINTS · DNA · HANDWRITING",
+   "stamp": "UNPROVEN",
+   "stamp_at": "found."
+  },
+  {
+   "at": "Here",
+   "type": "card",
+   "text": "WHAT THE FILE TELLS US",
+   "sub": "CHAPTER 7 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "planned",
+   "type": "card",
+   "text": "THEY PLANNED\nTO LIVE",
+   "red": true
+  },
+  {
+   "at": "letters,",
+   "type": "photo",
+   "photo": "photo-head-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "LIFE VESTS · PADDLES · LETTERS",
+   "fit": "contain"
+  },
+  {
+   "at": "2022,",
+   "type": "photo",
+   "photo": "photo-morris.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "2022 · AGE-PROGRESSED IMAGES RELEASED",
+   "fit": "contain"
+  },
+  {
+   "at": "say",
+   "type": "photo",
+   "photo": "photo-marshals.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CASE STILL OPEN",
+   "fit": "contain"
+  },
+  {
+   "at": "fugitives.",
+   "type": "card",
+   "text": "FUGITIVES.",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "fugitives."
+    ]
+   ]
+  },
+  {
+   "at": "comments.",
+   "type": "photo",
+   "photo": "photo-island.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.3
+   ],
+   "label": "DID THEY MAKE IT? COMMENT BELOW"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
