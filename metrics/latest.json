@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-09T21:07:44+00:00",
+ "updated": "2026-10-09T21:23:36+00:00",
  "youtube_channel": {
   "subscribers": 14,
   "views": 1715
  },
  "instagram_account": {
   "followers_count": 2,
-  "media_count": 17,
+  "media_count": 18,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -450,7 +450,7 @@
    "yt": {
     "id": "MRt0ALKzgp0",
     "url": "https://youtube.com/shorts/MRt0ALKzgp0",
-    "views": 15,
+    "views": 16,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -490,17 +490,44 @@
    "ig": {
     "id": "18073370087754095",
     "url": "https://www.instagram.com/reel/DeQL9_EjJRW/",
-    "views": 185,
-    "reach": 170,
+    "views": 186,
+    "reach": 174,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 5.0
+    "avg_watch_sec": 5.1
    },
    "title": "The US Army Fought Hitler With Balloons | The Ghost Army",
    "duration": 59.8
+  },
+  {
+   "case": "017",
+   "pillar": "Strange but true",
+   "yt": {
+    "id": "DZmSNz_tQ-E",
+    "url": "https://youtube.com/shorts/DZmSNz_tQ-E",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-09T21:22:48Z"
+   },
+   "ig": {
+    "id": "18104077949180517",
+    "url": "https://www.instagram.com/reel/DeSdttiHR0u/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "America Set Off a Hydrogen Bomb in Space | Starfish Prime",
+   "duration": 64.9
   },
   {
    "case": "L01",
