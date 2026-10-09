@@ -57,114 +57,15 @@
   },
   {
    "case": "017",
-   "slug": "cointelpro",
-   "topic": "COINTELPRO and the 1971 Media, Pennsylvania FBI office burglary that exposed it",
-   "pillar": "Exposed",
-   "format": "then-vs-now",
-   "target_seconds": 38,
-   "hints": "FBI Vault COINTELPRO files; Church Committee report (senate.gov)"
+   "slug": "starfish",
+   "topic": "Starfish Prime: the 1962 nuclear test in space that knocked out Hawaii's streetlights",
+   "pillar": "Strange but true",
+   "format": "one-document",
+   "target_seconds": 65,
+   "hints": "DoD/DTRA declassified report; PD aurora photos"
   },
   {
    "case": "018",
-   "slug": "azorian",
-   "topic": "Project Azorian: the CIA's secret raising of a Soviet submarine and the birth of 'neither confirm nor deny'",
-   "pillar": "Exposed",
-   "format": "then-vs-now",
-   "target_seconds": 65,
-   "hints": "CIA reading room 'Project AZORIAN' declassified article (2010)"
-  },
-  {
-   "case": "019",
-   "slug": "tonkin",
-   "topic": "Gulf of Tonkin: the 4 August 1964 attack that NSA later found did not happen",
-   "pillar": "Turned out true",
-   "format": "one-document",
-   "target_seconds": 38,
-   "hints": "NSA declassified Hanyok study 'Skunks, Bogies, Silent Hounds' (2005)"
-  },
-  {
-   "case": "020",
-   "slug": "cyclops",
-   "topic": "USS Cyclops vanished with 306 aboard (1918)",
-   "pillar": "Unsolved",
-   "format": "you-decide",
-   "target_seconds": 65,
-   "hints": "US Navy Naval History and Heritage Command PD photos"
-  },
-  {
-   "case": "021",
-   "slug": "acoustic-kitty",
-   "topic": "Acoustic Kitty: the CIA tried to turn a cat into a listening device",
-   "pillar": "Strange but true",
-   "format": "case-file",
-   "target_seconds": 38,
-   "hints": "CIA memo 'Views on Trained Cats for [redacted] Use' (NSArchive)"
-  },
-  {
-   "case": "022",
-   "slug": "sea-spray",
-   "topic": "Operation Sea-Spray: the US Navy sprayed bacteria over San Francisco (1950)",
-   "pillar": "Turned out true",
-   "format": "case-file",
-   "target_seconds": 38,
-   "hints": "1977 Senate subcommittee hearings on Army biological testing"
-  },
-  {
-   "case": "023",
-   "slug": "iceworm",
-   "topic": "Project Iceworm and Camp Century: a nuclear base hidden under Greenland's ice",
-   "pillar": "Turned out true",
-   "format": "then-vs-now",
-   "target_seconds": 38,
-   "hints": "US Army Corps of Engineers PD photos and film stills"
-  },
-  {
-   "case": "024",
-   "slug": "radium-girls",
-   "topic": "The Radium Girls: painters told the glowing paint was safe",
-   "pillar": "Exposed",
-   "format": "case-file",
-   "target_seconds": 65,
-   "hints": "PD photos; court records; keep respectful"
-  },
-  {
-   "case": "025",
-   "slug": "flight-19",
-   "topic": "Flight 19: five Navy bombers lost off Florida (1945)",
-   "pillar": "Unsolved",
-   "format": "you-decide",
-   "target_seconds": 38,
-   "hints": "US Navy Board of Investigation report (PD)"
-  },
-  {
-   "case": "026",
-   "slug": "stargate",
-   "topic": "Project Stargate: the US government's psychic spies",
-   "pillar": "Strange but true",
-   "format": "one-document",
-   "target_seconds": 65,
-   "hints": "CIA reading room STARGATE collection; 1995 AIR evaluation"
-  },
-  {
-   "case": "027",
-   "slug": "popeye",
-   "topic": "Operation Popeye: cloud seeding as a weapon over the Ho Chi Minh Trail",
-   "pillar": "Turned out true",
-   "format": "case-file",
-   "target_seconds": 38,
-   "hints": "1974 Senate hearing transcript on weather modification"
-  },
-  {
-   "case": "028",
-   "slug": "philadelphia",
-   "topic": "The Philadelphia Experiment: how a hoax letter became a legend",
-   "pillar": "Exposed",
-   "format": "then-vs-now",
-   "target_seconds": 65,
-   "hints": "Office of Naval Research / NHHC public statement; USS Eldridge PD photos"
-  },
-  {
-   "case": "029",
    "slug": "tylenol",
    "topic": "The 1982 Chicago Tylenol murders, still unsolved",
    "pillar": "Unsolved",
@@ -173,13 +74,112 @@
    "hints": "FBI public statements; no victim photos"
   },
   {
-   "case": "030",
-   "slug": "starfish",
-   "topic": "Starfish Prime: the 1962 nuclear test in space that knocked out Hawaii's streetlights",
+   "case": "019",
+   "slug": "acoustic-kitty",
+   "topic": "Acoustic Kitty: the CIA tried to turn a cat into a listening device",
+   "pillar": "Strange but true",
+   "format": "case-file",
+   "target_seconds": 38,
+   "hints": "CIA memo 'Views on Trained Cats for [redacted] Use' (NSArchive)"
+  },
+  {
+   "case": "020",
+   "slug": "flight-19",
+   "topic": "Flight 19: five Navy bombers lost off Florida (1945)",
+   "pillar": "Unsolved",
+   "format": "you-decide",
+   "target_seconds": 38,
+   "hints": "US Navy Board of Investigation report (PD)"
+  },
+  {
+   "case": "021",
+   "slug": "iceworm",
+   "topic": "Project Iceworm and Camp Century: a nuclear base hidden under Greenland's ice",
+   "pillar": "Turned out true",
+   "format": "then-vs-now",
+   "target_seconds": 38,
+   "hints": "US Army Corps of Engineers PD photos and film stills"
+  },
+  {
+   "case": "022",
+   "slug": "cointelpro",
+   "topic": "COINTELPRO and the 1971 Media, Pennsylvania FBI office burglary that exposed it",
+   "pillar": "Exposed",
+   "format": "then-vs-now",
+   "target_seconds": 38,
+   "hints": "FBI Vault COINTELPRO files; Church Committee report (senate.gov)"
+  },
+  {
+   "case": "023",
+   "slug": "azorian",
+   "topic": "Project Azorian: the CIA's secret raising of a Soviet submarine and the birth of 'neither confirm nor deny'",
+   "pillar": "Exposed",
+   "format": "then-vs-now",
+   "target_seconds": 65,
+   "hints": "CIA reading room 'Project AZORIAN' declassified article (2010)"
+  },
+  {
+   "case": "024",
+   "slug": "tonkin",
+   "topic": "Gulf of Tonkin: the 4 August 1964 attack that NSA later found did not happen",
+   "pillar": "Turned out true",
+   "format": "one-document",
+   "target_seconds": 38,
+   "hints": "NSA declassified Hanyok study 'Skunks, Bogies, Silent Hounds' (2005)"
+  },
+  {
+   "case": "025",
+   "slug": "cyclops",
+   "topic": "USS Cyclops vanished with 306 aboard (1918)",
+   "pillar": "Unsolved",
+   "format": "you-decide",
+   "target_seconds": 65,
+   "hints": "US Navy Naval History and Heritage Command PD photos"
+  },
+  {
+   "case": "026",
+   "slug": "sea-spray",
+   "topic": "Operation Sea-Spray: the US Navy sprayed bacteria over San Francisco (1950)",
+   "pillar": "Turned out true",
+   "format": "case-file",
+   "target_seconds": 38,
+   "hints": "1977 Senate subcommittee hearings on Army biological testing"
+  },
+  {
+   "case": "027",
+   "slug": "radium-girls",
+   "topic": "The Radium Girls: painters told the glowing paint was safe",
+   "pillar": "Exposed",
+   "format": "case-file",
+   "target_seconds": 65,
+   "hints": "PD photos; court records; keep respectful"
+  },
+  {
+   "case": "028",
+   "slug": "stargate",
+   "topic": "Project Stargate: the US government's psychic spies",
    "pillar": "Strange but true",
    "format": "one-document",
    "target_seconds": 65,
-   "hints": "DoD/DTRA declassified report; PD aurora photos"
+   "hints": "CIA reading room STARGATE collection; 1995 AIR evaluation"
+  },
+  {
+   "case": "029",
+   "slug": "popeye",
+   "topic": "Operation Popeye: cloud seeding as a weapon over the Ho Chi Minh Trail",
+   "pillar": "Turned out true",
+   "format": "case-file",
+   "target_seconds": 38,
+   "hints": "1974 Senate hearing transcript on weather modification"
+  },
+  {
+   "case": "030",
+   "slug": "philadelphia",
+   "topic": "The Philadelphia Experiment: how a hoax letter became a legend",
+   "pillar": "Exposed",
+   "format": "then-vs-now",
+   "target_seconds": 65,
+   "hints": "Office of Naval Research / NHHC public statement; USS Eldridge PD photos"
   },
   {
    "case": "031",
