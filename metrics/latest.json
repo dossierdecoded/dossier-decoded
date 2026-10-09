@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T18:54:41+00:00",
+ "updated": "2026-10-09T19:07:31+00:00",
  "youtube_channel": {
   "subscribers": 12,
   "views": 1715
@@ -83,8 +83,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T00:28:45Z",
-    "avg_view_pct": 65.54,
-    "avg_view_sec": 44,
+    "avg_view_pct": 64.32,
+    "avg_view_sec": 43,
     "shares": 0,
     "subs_gained": 0
    },
@@ -207,8 +207,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:47:22Z",
-    "avg_view_pct": 45.26,
-    "avg_view_sec": 26,
+    "avg_view_pct": 40.57,
+    "avg_view_sec": 23,
     "shares": 0,
     "subs_gained": 0
    },
@@ -393,7 +393,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-05T21:39:30Z",
-    "avg_view_pct": 67.65,
+    "avg_view_pct": 67.63,
     "avg_view_sec": 28,
     "shares": 1,
     "subs_gained": 3
@@ -424,8 +424,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-06T21:22:10Z",
-    "avg_view_pct": 50.580000000000005,
-    "avg_view_sec": 40,
+    "avg_view_pct": 45.99,
+    "avg_view_sec": 36,
     "shares": 0,
     "subs_gained": 1
    },
@@ -454,7 +454,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-07T21:22:09Z"
+    "published": "2026-10-07T21:22:09Z",
+    "avg_view_pct": 45.89,
+    "avg_view_sec": 17,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18127684009852452",
@@ -477,7 +481,7 @@
    "yt": {
     "id": "5bgFVE2OyuE",
     "url": "https://youtube.com/shorts/5bgFVE2OyuE",
-    "views": 42,
+    "views": 41,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -486,8 +490,8 @@
    "ig": {
     "id": "18073370087754095",
     "url": "https://www.instagram.com/reel/DeQL9_EjJRW/",
-    "views": 160,
-    "reach": 148,
+    "views": 161,
+    "reach": 149,
     "likes": 0,
     "comments": 0,
     "shares": 0,
@@ -504,13 +508,13 @@
    "yt": {
     "id": "2MbcjuWesVY",
     "url": "https://youtube.com/watch?v=2MbcjuWesVY",
-    "views": 11,
+    "views": 5,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-04T18:01:29Z",
-    "avg_view_pct": 0,
-    "avg_view_sec": 0,
+    "avg_view_pct": 99.2,
+    "avg_view_sec": 678,
     "shares": 0,
     "subs_gained": 0
    },
