@@ -1,0 +1,18 @@
+{"title": "STARFISH PRIME", "case": "017", "scenes": [
+ {"at": "America", "type": "photo", "photo": "photo-aurora-1.jpg", "focus": [0.45, 0.4], "zoom": [1.15, 1.3], "label": "HONOLULU · THE NIGHT OF THE TEST", "stamp": "NUCLEAR", "stamp_at": "space.", "sfx": [["boom", 0.0]]},
+ {"at": "Two", "type": "card", "text": "250 MILES\nUP", "sub": "ABOVE THE PACIFIC", "red": true},
+ {"at": "called", "type": "card", "text": "STARFISH\nPRIME", "sub": "U.S. HIGH-ALTITUDE TEST · 1962"},
+ {"at": "night", "type": "photo", "photo": "photo-thor.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "JOHNSTON ISLAND · THOR LAUNCH SITE"},
+ {"at": "1.4", "type": "card", "text": "1.4\nMEGATONS", "sub": "A THERMONUCLEAR WARHEAD", "red": true, "sfx_at": [["hit", "atmosphere."]]},
+ {"at": "Hawaii,", "type": "photo", "photo": "photo-aurora-2.jpg", "focus": [0.5, 0.45], "zoom": [1.0, 1.15], "label": "ARTIFICIAL AURORA · SEEN FROM HONOLULU"},
+ {"at": "aurora", "type": "photo", "photo": "photo-aurora-1.jpg", "focus": [0.5, 0.35], "zoom": [1.0, 1.12], "label": "~900 MILES FROM THE BLAST"},
+ {"at": "fail.", "type": "card", "text": "THEN THE\nLIGHTS WENT OUT", "red": true, "sfx": [["static", 0.2]]},
+ {"at": "three", "type": "card", "text": "~300\nSTREETLIGHTS", "sub": "DARK ON OAHU"},
+ {"at": "Burglar", "type": "card", "text": "ALARMS\nPHONE LINKS", "sub": "TRIPPED AND KNOCKED OUT"},
+ {"at": "electromagnetic", "type": "card", "text": "AN EMP", "sub": "FAR STRONGER THAN EXPECTED", "red": true},
+ {"at": "belt", "type": "photo", "photo": "photo-belt.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "EARTH'S RADIATION BELTS (NASA)"},
+ {"at": "Telstar,", "type": "photo", "photo": "photo-telstar.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "TELSTAR 1 (MODEL)", "stamp": "DAMAGED", "stamp_at": "Atlantic."},
+ {"at": "year", "type": "card", "text": "1963", "sub": "TREATY BANS NUCLEAR TESTS IN SPACE", "stamp": "BANNED", "stamp_at": "space."},
+ {"at": "Send", "type": "photo", "photo": "photo-aurora-2.jpg", "focus": [0.5, 0.4], "zoom": [1.15, 1.3], "label": "STARFISH PRIME · 9 JULY 1962"},
+ {"at": "Dossier", "type": "end"}
+]}
