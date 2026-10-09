@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-08T23:40:47+00:00",
+ "updated": "2026-10-09T00:10:19+00:00",
  "youtube_channel": {
   "subscribers": 5,
   "views": 1694
  },
  "instagram_account": {
   "followers_count": 2,
-  "media_count": 16,
+  "media_count": 17,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -419,7 +419,7 @@
    "yt": {
     "id": "T4LHdmkHn0Y",
     "url": "https://youtube.com/shorts/T4LHdmkHn0Y",
-    "views": 71,
+    "views": 70,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -470,6 +470,33 @@
    },
    "title": "A Killer's Code, Cracked After 51 Years | The Zodiac 340 Cipher",
    "duration": 37.8
+  },
+  {
+   "case": "016",
+   "pillar": "Strange but true",
+   "yt": {
+    "id": "5bgFVE2OyuE",
+    "url": "https://youtube.com/shorts/5bgFVE2OyuE",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-09T00:08:46Z"
+   },
+   "ig": {
+    "id": "18073370087754095",
+    "url": "https://www.instagram.com/reel/DeQL9_EjJRW/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "The US Army Fought Hitler With Balloons | The Ghost Army",
+   "duration": 59.8
   },
   {
    "case": "L01",
