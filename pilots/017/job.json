@@ -1,0 +1,71 @@
+{
+ "slug": "017-starfish",
+ "pillar": "Strange but true",
+ "format": "one-document",
+ "script": "[serious] America set off a hydrogen bomb in space. Two hundred and fifty miles above the Pacific. They called it Starfish Prime. On the night of July 9th, 1962, a Thor rocket carried a 1.4 megaton warhead up from Johnston Island, and detonated it above the atmosphere. In Hawaii, nearly nine hundred miles away, the night sky turned green, yellow and red. An artificial aurora that lasted for minutes. Then, things on the ground started to fail. About three hundred streetlights went dark on Oahu. Burglar alarms went off. A telephone link between the islands was knocked out. The blast had produced an electromagnetic pulse far stronger than scientists expected. And it left something behind. A belt of radiation around the Earth, that slowly damaged satellites, including Telstar, the satellite that had just carried the first live TV pictures across the Atlantic. A year later, the U.S. and the Soviet Union signed a treaty, banning nuclear tests in space. Send this to someone who thinks space is empty. This is Dossier Decoded. Case file number seventeen. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "aurora",
+   "query": "Starfish Prime aurora Honolulu",
+   "n": 2
+  },
+  {
+   "slug": "thor",
+   "query": "Thor missile launch Johnston Island",
+   "n": 1
+  },
+  {
+   "slug": "johnston",
+   "query": "Johnston Atoll aerial",
+   "n": 1
+  },
+  {
+   "slug": "telstar",
+   "query": "Telstar 1 satellite",
+   "n": 1
+  },
+  {
+   "slug": "honolulu",
+   "query": "Honolulu 1960s night",
+   "n": 1
+  },
+  {
+   "slug": "belt",
+   "query": "Van Allen radiation belts diagram NASA",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "boom",
+   "text": "distant enormous muffled explosion, low rumble rolling across the sky",
+   "seconds": 3
+  },
+  {
+   "slug": "static",
+   "text": "electrical buzz and crackle as power fails, lights shutting off, short",
+   "seconds": 2
+  }
+ ]
+}
