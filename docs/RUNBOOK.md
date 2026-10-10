@@ -160,7 +160,7 @@ Commit everything (`pilots/<case>/` including the mp4) and push.
 When Tanmay says "post" / "approved" / "go":
 1. `git pull`. If the draft's slot has already passed, ask: post now, or the next free slot (`scripts/next_slot.py`)? "Now" = a `publish_at` a few minutes in the past.
 2. Write `pilots/<case>/queue.json` = `{"publish_at": <slot>, "file", "youtube", "instagram"}` copied from draft.json. Commit + push.
-3. The hourly **Publish scheduled** workflow (runs at :07 past each hour) uploads to YouTube, hosts the file on the site, publishes the Reel, and removes the hosted copy. Nothing else to trigger.
+3. The hourly **Publish scheduled** workflow (cron at :50 past each hour; GitHub typically starts it ~15 min late, so a 5:00 pm slot posts at about 5:05) uploads to YouTube, hosts the file on the site, publishes the Reel, and removes the hosted copy. Nothing else to trigger.
 4. Send Tanmay the TikTok file (`<case>-ig.mp4`) (full quality if ≤ 30 MB, otherwise re-encode at crf 22) and the `tiktok_caption`, with the reminder: post at 5 pm ET, turn on **"AI-generated content"** in TikTok's settings for the post, don't add TikTok music.
 5. If you are still in the session after 17:15 ET, `git pull` and read `youtube.json` / `instagram.json` in the case folder; tell him the links or any error.
 
