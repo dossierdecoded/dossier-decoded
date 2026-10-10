@@ -1,1 +1,58 @@
-[]
+[
+ {
+  "slug": "first",
+  "title": "File:Cottingley Fairies 5.jpg",
+  "license": "Public domain",
+  "artist": "Frances Griffiths and Elsie Wright",
+  "page": "https://commons.wikimedia.org/wiki/File:Cottingley_Fairies_5.jpg"
+ },
+ {
+  "slug": "gnome",
+  "title": "File:UK Cottingley (Bradford).jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Uksignpix\" title=\"User:Uksignpix\">Uksignpix</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:UK_Cottingley_(Bradford).jpg"
+ },
+ {
+  "slug": "gardner",
+  "title": "File:EdwardLGardner.jpg",
+  "license": "Public domain",
+  "artist": "unknown (no precision in the book)",
+  "page": "https://commons.wikimedia.org/wiki/File:EdwardLGardner.jpg"
+ },
+ {
+  "slug": "randi",
+  "title": "File:Preferred official head-shot from James Randi Educational Foundation.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://www.randi.org/site/index.php/component/content/article/37-static/1241-jr-headshots.html\">James Randi Educational Foundation</a><br>\n</p>\nPhotogr",
+  "page": "https://commons.wikimedia.org/wiki/File:Preferred_official_head-shot_from_James_Randi_Educational_Foundation.jpg"
+ },
+ {
+  "slug": "beck",
+  "title": "File:Beck - Cottingley Moor Road - geograph.org.uk - 3115396.jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/11162\">Betty Longbottom</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wik",
+  "page": "https://commons.wikimedia.org/wiki/File:Beck_-_Cottingley_Moor_Road_-_geograph.org.uk_-_3115396.jpg"
+ },
+ {
+  "slug": "camera",
+  "title": "File:FrancesGriffithsandElsieWright.jpg",
+  "license": "Public domain",
+  "artist": "Arthur Wright (died 1926)",
+  "page": "https://commons.wikimedia.org/wiki/File:FrancesGriffithsandElsieWright.jpg"
+ },
+ {
+  "slug": "doyle2",
+  "title": "File:Arthur Conan Doyle with his family at Waterloo Station.jpg",
+  "license": "Public domain",
+  "artist": "Central Press Photos",
+  "page": "https://commons.wikimedia.org/wiki/File:Arthur_Conan_Doyle_with_his_family_at_Waterloo_Station.jpg"
+ },
+ {
+  "slug": "yorkshire",
+  "title": "File:Cottingley Village Primary School - Cottingley Moor Road - geograph.org.uk - 642956.jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/11162\">Betty Longbottom</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Cottingley_Village_Primary_School_-_Cottingley_Moor_Road_-_geograph.org.uk_-_642956.jpg"
+ }
+]
