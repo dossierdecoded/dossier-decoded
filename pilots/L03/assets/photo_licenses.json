@@ -24,7 +24,7 @@
   "slug": "fairies-4",
   "title": "File:Cottingley Fairies, page 463, The Strand Magazine - 1920 - Vol.Jul-Dec.jpg",
   "license": "Public domain",
-  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Arthur_Conan_Doyle\" class=\"extiw\" title=\"w:en:Arthur Conan Doyle\"><span title=\"British writer and physician (1859–1930)\">Arthur Conan Doyle</span></a></b",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Arthur_Conan_Doyle\" class=\"extiw\" title=\"w:en:Arthur Conan Doyle\"><span title=\"British writer and physician (1859\u20131930)\">Arthur Conan Doyle</span></a></b",
   "page": "https://commons.wikimedia.org/wiki/File:Cottingley_Fairies,_page_463,_The_Strand_Magazine_-_1920_-_Vol.Jul-Dec.jpg"
  },
  {
@@ -45,15 +45,8 @@
   "slug": "giftbook",
   "title": "File:Cottingley fairies illustration.jpg",
   "license": "Public domain",
-  "artist": "Claude A. Shepperson (1867–1921)",
+  "artist": "Claude A. Shepperson (1867\u20131921)",
   "page": "https://commons.wikimedia.org/wiki/File:Cottingley_fairies_illustration.jpg"
- },
- {
-  "slug": "first",
-  "title": "File:Cottingley Fairies 5.jpg",
-  "license": "Public domain",
-  "artist": "Frances Griffiths and Elsie Wright",
-  "page": "https://commons.wikimedia.org/wiki/File:Cottingley_Fairies_5.jpg"
  },
  {
   "slug": "gnome",
@@ -80,7 +73,7 @@
   "slug": "beck",
   "title": "File:Beck - Cottingley Moor Road - geograph.org.uk - 3115396.jpg",
   "license": "CC BY-SA 2.0",
-  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/11162\">Betty Longbottom</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wik",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/11162\">Betty Longbottom</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wik",
   "page": "https://commons.wikimedia.org/wiki/File:Beck_-_Cottingley_Moor_Road_-_geograph.org.uk_-_3115396.jpg"
  },
  {
@@ -103,5 +96,12 @@
   "license": "CC BY-SA 2.0",
   "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/11162\">Betty Longbottom</a>",
   "page": "https://commons.wikimedia.org/wiki/File:Cottingley_Village_Primary_School_-_Cottingley_Moor_Road_-_geograph.org.uk_-_642956.jpg"
+ },
+ {
+  "slug": "first2",
+  "title": "File:UK Cottingley (Bradford) V2.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:UK_Cottingley_(Bradford).jpg\" title=\"File:UK Cottingley (Bradford).jpg\">UK_Cottingley_(Bradford).jpg</a>: <a href=\"//commons.wikimedia.org/wiki/User:",
+  "page": "https://commons.wikimedia.org/wiki/File:UK_Cottingley_(Bradford)_V2.jpg"
  }
 ]

@@ -1,10 +1,6 @@
 {"commons": [
- {"slug": "first", "query": "Cottingley Fairies 1.jpg", "n": 1},
- {"slug": "gnome", "query": "Cottingley Fairies 2.jpg", "n": 1},
- {"slug": "gardner", "query": "Edward Gardner theosophist", "n": 1},
- {"slug": "randi", "query": "James Randi", "n": 1},
- {"slug": "beck", "query": "Cottingley Beck", "n": 1},
- {"slug": "camera", "query": "Midg quarter plate camera", "n": 1},
- {"slug": "doyle2", "query": "Arthur Conan Doyle 1920s portrait", "n": 1},
- {"slug": "yorkshire", "query": "Cottingley West Yorkshire village", "n": 1}
+ {"slug": "first", "query": "CottingleyFairies1", "n": 1},
+ {"slug": "first2", "query": "Frances Griffiths with fairies 1917", "n": 1},
+ {"slug": "gnome2", "query": "Elsie Wright gnome 1917 photograph", "n": 1},
+ {"slug": "gnome3", "query": "Cottingley Fairies Elsie and the gnome", "n": 1}
 ]}
