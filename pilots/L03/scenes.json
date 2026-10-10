@@ -1,0 +1,731 @@
+{
+ "title": "THE COTTINGLEY FAIRIES",
+ "case": "003",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "In",
+   "type": "photo",
+   "photo": "photo-fairies-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.05,
+    1.2
+   ],
+   "label": "FRANCES AND THE LEAPING FAIRY · 1920",
+   "sfx": [
+    [
+     "shutter",
+     0.2
+    ]
+   ]
+  },
+  {
+   "at": "stream",
+   "type": "card",
+   "text": "1917",
+   "sub": "TWO GIRLS · A STREAM · A CAMERA"
+  },
+  {
+   "at": "nine-year-old",
+   "type": "card",
+   "text": "A 9-YEAR-OLD\nGIRL"
+  },
+  {
+   "at": "four",
+   "type": "card",
+   "text": "4 TINY\nWINGED FIGURES",
+   "red": true
+  },
+  {
+   "at": "Fairies.",
+   "type": "card",
+   "text": "FAIRIES.",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "Fairies."
+    ]
+   ]
+  },
+  {
+   "at": "experts,",
+   "type": "photo",
+   "photo": "photo-fairies-4.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE STRAND MAGAZINE · 1920",
+   "fit": "contain"
+  },
+  {
+   "at": "Sherlock",
+   "type": "photo",
+   "photo": "photo-doyle.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SIR ARTHUR CONAN DOYLE",
+   "fit": "contain"
+  },
+  {
+   "at": "sixty",
+   "type": "card",
+   "text": "60+ YEARS\nOF SILENCE"
+  },
+  {
+   "at": "complete",
+   "type": "card",
+   "text": "CASE FILE:\nTHE COTTINGLEY\nFAIRIES",
+   "sub": "A HOAX THAT FOOLED SHERLOCK HOLMES'S CREATOR"
+  },
+  {
+   "at": "village",
+   "type": "card",
+   "text": "TWO COUSINS",
+   "sub": "CHAPTER 2 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Bradford,",
+   "type": "photo",
+   "photo": "photo-gnome.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "COTTINGLEY, WEST YORKSHIRE (TODAY)"
+  },
+  {
+   "at": "Frances",
+   "type": "photo",
+   "photo": "photo-fairies-5.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FRANCES GRIFFITHS AND ELSIE WRIGHT",
+   "fit": "contain"
+  },
+  {
+   "at": "sixteen.",
+   "type": "card",
+   "text": "ELSIE · 16\nFRANCES · 9"
+  },
+  {
+   "at": "artist.",
+   "type": "card",
+   "text": "A GIFTED\nARTIST"
+  },
+  {
+   "at": "beck,",
+   "type": "photo",
+   "photo": "photo-beck.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A BECK NEAR COTTINGLEY (TODAY)",
+   "sfx": [
+    [
+     "stream",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "fairies",
+   "type": "card",
+   "text": "“THERE ARE\nFAIRIES BY\nTHE BECK”"
+  },
+  {
+   "at": "borrowed",
+   "type": "card",
+   "text": "A BORROWED\nCAMERA",
+   "sub": "TO PROVE IT",
+   "sfx": [
+    [
+     "shutter",
+     0.3
+    ]
+   ]
+  },
+  {
+   "at": "Elsie's",
+   "type": "card",
+   "text": "THE FIRST TWO PICTURES",
+   "sub": "CHAPTER 3 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "darkroom.",
+   "type": "card",
+   "text": "THE DARKROOM"
+  },
+  {
+   "at": "figures",
+   "type": "card",
+   "text": "FRANCES +\n4 DANCING FIGURES",
+   "sub": "THE FIRST PHOTOGRAPH · 1917"
+  },
+  {
+   "at": "believe",
+   "type": "card",
+   "text": "ARTHUR WRIGHT:\nNOT FOR\nA SECOND",
+   "red": true
+  },
+  {
+   "at": "cut-outs.",
+   "type": "card",
+   "text": "“CUT-OUTS”",
+   "red": true
+  },
+  {
+   "at": "second",
+   "type": "card",
+   "text": "ELSIE AND\nTHE GNOME",
+   "sub": "THE SECOND PHOTOGRAPH · 1917"
+  },
+  {
+   "at": "prank,",
+   "type": "card",
+   "text": "A PRANK."
+  },
+  {
+   "at": "Polly,",
+   "type": "card",
+   "text": "POLLY WRIGHT",
+   "sub": "ELSIE'S MOTHER"
+  },
+  {
+   "at": "Theosophy.",
+   "type": "card",
+   "text": "THEOSOPHY",
+   "red": true
+  },
+  {
+   "at": "Theosophy",
+   "type": "card",
+   "text": "THE BELIEVERS",
+   "sub": "CHAPTER 4 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "1919,",
+   "type": "card",
+   "text": "c. 1919",
+   "sub": "A LECTURE IN BRADFORD"
+  },
+  {
+   "at": "subject",
+   "type": "card",
+   "text": "“FAIRY LIFE”",
+   "sub": "THE LECTURE TOPIC"
+  },
+  {
+   "at": "Gardner,",
+   "type": "photo",
+   "photo": "photo-gardner.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "EDWARD GARDNER · THEOSOPHIST",
+   "fit": "contain"
+  },
+  {
+   "at": "Snelling.",
+   "type": "card",
+   "text": "HAROLD\nSNELLING",
+   "sub": "PHOTOGRAPHY EXPERT"
+  },
+  {
+   "at": "tampering,",
+   "type": "card",
+   "text": "NO SIGN OF\nTAMPERING",
+   "red": true,
+   "stamp": "GENUINE?",
+   "stamp_at": "camera."
+  },
+  {
+   "at": "Kodak",
+   "type": "card",
+   "text": "KODAK"
+  },
+  {
+   "at": "certify",
+   "type": "card",
+   "text": "WOULD NOT\nCERTIFY",
+   "red": true
+  },
+  {
+   "at": "careful",
+   "type": "card",
+   "text": "MISUNDERSTOOD\nFOR DECADES"
+  },
+  {
+   "at": "And",
+   "type": "card",
+   "text": "SHERLOCK HOLMES'S CREATOR",
+   "sub": "CHAPTER 5 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Doyle,",
+   "type": "photo",
+   "photo": "photo-doyle.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "SIR ARTHUR CONAN DOYLE",
+   "fit": "contain"
+  },
+  {
+   "at": "spiritualist,",
+   "type": "card",
+   "text": "A COMMITTED\nSPIRITUALIST"
+  },
+  {
+   "at": "1920,",
+   "type": "card",
+   "text": "1920",
+   "sub": "GARDNER VISITS COTTINGLEY"
+  },
+  {
+   "at": "camera",
+   "type": "card",
+   "text": "NEW CAMERAS\nFRESH PLATES",
+   "sfx": [
+    [
+     "shutter",
+     0.2
+    ]
+   ]
+  },
+  {
+   "at": "three",
+   "type": "card",
+   "text": "3 MORE\nPHOTOGRAPHS",
+   "red": true
+  },
+  {
+   "at": "leaping",
+   "type": "photo",
+   "photo": "photo-fairies-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "FRANCES AND THE LEAPING FAIRY · 1920"
+  },
+  {
+   "at": "flower",
+   "type": "photo",
+   "photo": "photo-fairies-3.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A FAIRY OFFERS ELSIE A POSY · 1920"
+  },
+  {
+   "at": "fifth,",
+   "type": "photo",
+   "photo": "photo-fairies-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE FIFTH PHOTOGRAPH · “FAIRIES AND THEIR SUN-BATH” · 1920"
+  },
+  {
+   "at": "Strand",
+   "type": "photo",
+   "photo": "photo-fairies-4.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "“FAIRIES PHOTOGRAPHED” · THE STRAND · 1920",
+   "fit": "contain"
+  },
+  {
+   "at": "book",
+   "type": "card",
+   "text": "THE COMING\nOF THE FAIRIES",
+   "sub": "DOYLE'S BOOK"
+  },
+  {
+   "at": "thrilled.",
+   "type": "card",
+   "text": "SOME THRILLED.\nMANY LAUGHED."
+  },
+  {
+   "at": "Hodson",
+   "type": "card",
+   "text": "GEOFFREY\nHODSON",
+   "sub": "A CLAIRVOYANT · 1921"
+  },
+  {
+   "at": "humoured",
+   "type": "card",
+   "text": "“WE HUMOURED\nHIM”"
+  },
+  {
+   "at": "1930,",
+   "type": "photo",
+   "photo": "photo-doyle2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "DOYLE (CENTRE RIGHT) · DIED 1930",
+   "fit": "contain",
+   "stamp": "NEVER KNEW",
+   "stamp_at": "truth."
+  },
+  {
+   "at": "After",
+   "type": "card",
+   "text": "SIXTY YEARS OF SILENCE",
+   "sub": "CHAPTER 6 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "grew",
+   "type": "card",
+   "text": "THEY GREW UP\nMARRIED\nMOVED ON"
+  },
+  {
+   "at": "1960s",
+   "type": "card",
+   "text": "1960s · 1970s",
+   "sub": "REPORTERS TRACK THEM DOWN"
+  },
+  {
+   "at": "figments",
+   "type": "card",
+   "text": "“FIGMENTS OF\nMY IMAGINATION”",
+   "sub": "ELSIE",
+   "red": true
+  },
+  {
+   "at": "1978,",
+   "type": "card",
+   "text": "1978",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "illustration",
+   "type": "photo",
+   "photo": "photo-giftbook.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "PRINCESS MARY'S GIFT BOOK · 1914",
+   "fit": "contain"
+  },
+  {
+   "at": "added",
+   "type": "card",
+   "text": "+ WINGS",
+   "red": true
+  },
+  {
+   "at": "Randi",
+   "type": "photo",
+   "photo": "photo-randi.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "JAMES RANDI · SKEPTIC",
+   "fit": "contain"
+  },
+  {
+   "at": "Crawley,",
+   "type": "card",
+   "text": "GEOFFREY\nCRAWLEY",
+   "sub": "BRITISH JOURNAL OF PHOTOGRAPHY",
+   "stamp": "FAKES",
+   "stamp_at": "fakes."
+  },
+  {
+   "at": "seventies",
+   "type": "card",
+   "text": "RUNNING OUT\nOF ROOM"
+  },
+  {
+   "at": "In",
+   "type": "card",
+   "text": "THE CONFESSION",
+   "sub": "CHAPTER 7 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "admitted",
+   "type": "card",
+   "text": "1983\nTHEY CONFESS",
+   "red": true,
+   "stamp": "CONFESSED",
+   "stamp_at": "it."
+  },
+  {
+   "at": "card,",
+   "type": "card",
+   "text": "CARD\nSCISSORS\nHATPINS",
+   "sfx": [
+    [
+     "scissors",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "quiet.",
+   "type": "card",
+   "text": "“WE HAD TO\nKEEP QUIET”",
+   "sub": "ELSIE"
+  },
+  {
+   "at": "twist.",
+   "type": "card",
+   "text": "ONE LAST\nTWIST",
+   "red": true
+  },
+  {
+   "at": "four",
+   "type": "card",
+   "text": "PHOTOS 1–4:\nFAKE"
+  },
+  {
+   "at": "fifth",
+   "type": "photo",
+   "photo": "photo-fairies-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "THE FIFTH PHOTOGRAPH · “FAIRIES AND THEIR SUN-BATH” · 1920",
+   "stamp": "REAL?",
+   "stamp_at": "real."
+  },
+  {
+   "at": "faked",
+   "type": "card",
+   "text": "ELSIE:\nFAKE TOO",
+   "red": true
+  },
+  {
+   "at": "So",
+   "type": "card",
+   "text": "WHAT THE FILE TELLS US",
+   "sub": "CHAPTER 8 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "tampered",
+   "type": "card",
+   "text": "NOT TAMPERED WITH"
+  },
+  {
+   "at": "paper.",
+   "type": "card",
+   "text": "MADE OF PAPER.",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "paper."
+    ]
+   ]
+  },
+  {
+   "at": "trap",
+   "type": "card",
+   "text": "A PHOTO PROVES\nSOMETHING WAS THERE"
+  },
+  {
+   "at": "cannot",
+   "type": "card",
+   "text": "NOT WHAT\nIT WAS",
+   "red": true
+  },
+  {
+   "at": "believe,",
+   "type": "card",
+   "text": "PEOPLE WHO\nWANTED TO\nBELIEVE"
+  },
+  {
+   "at": "Gardner",
+   "type": "photo",
+   "photo": "photo-gardner.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "PRINTS SOLD AT LECTURES",
+   "fit": "contain"
+  },
+  {
+   "at": "Doyle",
+   "type": "photo",
+   "photo": "photo-doyle.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "label": "HIS REPUTATION ON THE LINE",
+   "fit": "contain"
+  },
+  {
+   "at": "argued",
+   "type": "photo",
+   "photo": "photo-fairies-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.35
+   ],
+   "label": "THE FIFTH PHOTOGRAPH · “FAIRIES AND THEIR SUN-BATH” · 1920"
+  },
+  {
+   "at": "comments.",
+   "type": "photo",
+   "photo": "photo-fairies-5.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "label": "WAS FRANCES TELLING THE TRUTH? COMMENT BELOW",
+   "fit": "contain"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
