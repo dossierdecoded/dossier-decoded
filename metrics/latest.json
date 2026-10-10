@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T18:44:42+00:00",
+ "updated": "2026-10-10T19:07:56+00:00",
  "youtube_channel": {
   "subscribers": 25,
   "views": 1742
@@ -362,8 +362,8 @@
     "comments": 2,
     "privacy": "public",
     "published": "2026-10-04T15:17:08Z",
-    "avg_view_pct": 65.49,
-    "avg_view_sec": 38,
+    "avg_view_pct": 67.03,
+    "avg_view_sec": 39,
     "shares": 0,
     "subs_gained": 0
    },
@@ -424,8 +424,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-06T21:22:10Z",
-    "avg_view_pct": 45.99,
-    "avg_view_sec": 36,
+    "avg_view_pct": 48.12,
+    "avg_view_sec": 38,
     "shares": 0,
     "subs_gained": 1
    },
@@ -481,11 +481,15 @@
    "yt": {
     "id": "5bgFVE2OyuE",
     "url": "https://youtube.com/shorts/5bgFVE2OyuE",
-    "views": 102,
+    "views": 91,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-09T00:08:46Z"
+    "published": "2026-10-09T00:08:46Z",
+    "avg_view_pct": 117.95,
+    "avg_view_sec": 70,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18073370087754095",
@@ -535,7 +539,7 @@
    "yt": {
     "id": "2MbcjuWesVY",
     "url": "https://youtube.com/watch?v=2MbcjuWesVY",
-    "views": 37,
+    "views": 35,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -558,7 +562,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-08T16:23:42Z"
+    "published": "2026-10-08T16:23:42Z",
+    "avg_view_pct": 0,
+    "avg_view_sec": 0,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "The Alcatraz Escape: Three Men Who Vanished Into the Bay (Full Case File)",
    "duration": 424.9
