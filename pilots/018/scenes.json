@@ -1,0 +1,12 @@
+{"title": "THE TYLENOL MURDERS", "case": "018", "scenes": [
+ {"at": "Someone", "type": "photo", "photo": "photo-bottle.jpg", "focus": [0.4, 0.4], "zoom": [1.1, 1.25], "label": "EXTRA-STRENGTH TYLENOL (TODAY)", "stamp": "POISONED", "stamp_at": "shelf.", "sfx": [["rattle", 0.1]]},
+ {"at": "fall", "type": "photo", "photo": "photo-chicago.jpg", "focus": [0.5, 0.45], "zoom": [1.0, 1.1], "label": "CHICAGO AREA · FALL 1982"},
+ {"at": "seven", "type": "card", "text": "7 DEAD", "sub": "CYANIDE IN THE CAPSULES", "red": true, "sfx_at": [["hit", "cyanide."]]},
+ {"at": "youngest", "type": "card", "text": "THE YOUNGEST\nWAS 12", "red": true},
+ {"at": "James", "type": "card", "text": "“$1,000,000”", "sub": "JAMES LEWIS'S LETTER TO JOHNSON & JOHNSON", "sfx": [["paper", 0.0]]},
+ {"at": "prison", "type": "card", "text": "CONVICTED:\nEXTORTION", "sub": "ABOUT 12 YEARS IN PRISON"},
+ {"at": "never", "type": "card", "text": "NEVER CHARGED\nWITH MURDER", "red": true, "stamp": "NOT CHARGED", "stamp_at": "murders."},
+ {"at": "changed", "type": "photo", "photo": "photo-seal.jpg", "focus": [0.5, 0.35], "zoom": [1.0, 1.15], "label": "THE SEAL YOU PEEL OFF"},
+ {"at": "killer", "type": "photo", "photo": "photo-bottle.jpg", "focus": [0.4, 0.4], "zoom": [1.25, 1.4], "label": "CASE STILL OPEN", "stamp": "UNSOLVED", "stamp_at": "found."},
+ {"at": "Dossier", "type": "end"}
+]}
