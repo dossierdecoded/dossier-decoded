@@ -1,5 +1,54 @@
 [
  {
+  "slug": "fairies-1",
+  "title": "File:Cottingley Fairies 5.jpg",
+  "license": "Public domain",
+  "artist": "Frances Griffiths and Elsie Wright",
+  "page": "https://commons.wikimedia.org/wiki/File:Cottingley_Fairies_5.jpg"
+ },
+ {
+  "slug": "fairies-2",
+  "title": "File:Cottingley Fairies 3.jpg",
+  "license": "Public domain",
+  "artist": "Elsie Wright",
+  "page": "https://commons.wikimedia.org/wiki/File:Cottingley_Fairies_3.jpg"
+ },
+ {
+  "slug": "fairies-3",
+  "title": "File:Cottingley Fairies 4.jpg",
+  "license": "Public domain",
+  "artist": "Frances Griffiths",
+  "page": "https://commons.wikimedia.org/wiki/File:Cottingley_Fairies_4.jpg"
+ },
+ {
+  "slug": "fairies-4",
+  "title": "File:Cottingley Fairies, page 463, The Strand Magazine - 1920 - Vol.Jul-Dec.jpg",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Arthur_Conan_Doyle\" class=\"extiw\" title=\"w:en:Arthur Conan Doyle\"><span title=\"British writer and physician (1859–1930)\">Arthur Conan Doyle</span></a></b",
+  "page": "https://commons.wikimedia.org/wiki/File:Cottingley_Fairies,_page_463,_The_Strand_Magazine_-_1920_-_Vol.Jul-Dec.jpg"
+ },
+ {
+  "slug": "fairies-5",
+  "title": "File:FrancesGriffithsandElsieWright.jpg",
+  "license": "Public domain",
+  "artist": "Arthur Wright (died 1926)",
+  "page": "https://commons.wikimedia.org/wiki/File:FrancesGriffithsandElsieWright.jpg"
+ },
+ {
+  "slug": "doyle",
+  "title": "File:Conan Doyle (LOC).jpg",
+  "license": "Public domain",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8623220@N02\">The Library of Congress</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Conan_Doyle_(LOC).jpg"
+ },
+ {
+  "slug": "giftbook",
+  "title": "File:Cottingley fairies illustration.jpg",
+  "license": "Public domain",
+  "artist": "Claude A. Shepperson (1867–1921)",
+  "page": "https://commons.wikimedia.org/wiki/File:Cottingley_fairies_illustration.jpg"
+ },
+ {
   "slug": "first",
   "title": "File:Cottingley Fairies 5.jpg",
   "license": "Public domain",
@@ -31,7 +80,7 @@
   "slug": "beck",
   "title": "File:Beck - Cottingley Moor Road - geograph.org.uk - 3115396.jpg",
   "license": "CC BY-SA 2.0",
-  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/11162\">Betty Longbottom</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wik",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/11162\">Betty Longbottom</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wik",
   "page": "https://commons.wikimedia.org/wiki/File:Beck_-_Cottingley_Moor_Road_-_geograph.org.uk_-_3115396.jpg"
  },
  {
