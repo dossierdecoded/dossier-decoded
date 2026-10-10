@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T22:07:28+00:00",
+ "updated": "2026-10-10T22:40:47+00:00",
  "youtube_channel": {
   "subscribers": 29,
   "views": 1742
@@ -539,7 +539,7 @@
    "yt": {
     "id": "XjVQ2B3B3rE",
     "url": "https://youtube.com/shorts/XjVQ2B3B3rE",
-    "views": 4,
+    "views": 8,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -548,14 +548,14 @@
    "ig": {
     "id": "17910292926307225",
     "url": "https://www.instagram.com/reel/DeVCgTmn414/",
-    "views": 15,
-    "reach": 5,
+    "views": 28,
+    "reach": 23,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 1.2
+    "avg_watch_sec": 1.3
    },
    "title": "Someone Poisoned Tylenol and Was Never Caught | The 1982 Tylenol Murders",
    "duration": 35.3
