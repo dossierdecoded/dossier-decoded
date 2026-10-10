@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T02:07:42+00:00",
+ "updated": "2026-10-10T02:42:13+00:00",
  "youtube_channel": {
-  "subscribers": 13,
+  "subscribers": 14,
   "views": 1715
  },
  "instagram_account": {
@@ -357,7 +357,7 @@
    "yt": {
     "id": "IhHQ0MAGrhU",
     "url": "https://youtube.com/shorts/IhHQ0MAGrhU",
-    "views": 26,
+    "views": 27,
     "likes": 1,
     "comments": 2,
     "privacy": "public",
@@ -481,7 +481,7 @@
    "yt": {
     "id": "5bgFVE2OyuE",
     "url": "https://youtube.com/shorts/5bgFVE2OyuE",
-    "views": 52,
+    "views": 51,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -508,7 +508,7 @@
    "yt": {
     "id": "DZmSNz_tQ-E",
     "url": "https://youtube.com/shorts/DZmSNz_tQ-E",
-    "views": 19,
+    "views": 24,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -517,14 +517,14 @@
    "ig": {
     "id": "18104077949180517",
     "url": "https://www.instagram.com/reel/DeSdttiHR0u/",
-    "views": 36,
-    "reach": 32,
+    "views": 56,
+    "reach": 45,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 9.5
+    "avg_watch_sec": 9.8
    },
    "title": "America Set Off a Hydrogen Bomb in Space | Starfish Prime",
    "duration": 64.9
@@ -535,7 +535,7 @@
    "yt": {
     "id": "2MbcjuWesVY",
     "url": "https://youtube.com/watch?v=2MbcjuWesVY",
-    "views": 23,
+    "views": 19,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
