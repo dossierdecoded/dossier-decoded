@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-10T21:06:30+00:00",
+ "updated": "2026-10-10T21:24:17+00:00",
  "youtube_channel": {
   "subscribers": 27,
   "views": 1742
  },
  "instagram_account": {
   "followers_count": 2,
-  "media_count": 18,
+  "media_count": 19,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -481,7 +481,7 @@
    "yt": {
     "id": "5bgFVE2OyuE",
     "url": "https://youtube.com/shorts/5bgFVE2OyuE",
-    "views": 103,
+    "views": 102,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -534,12 +534,39 @@
    "duration": 64.9
   },
   {
+   "case": "018",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "XjVQ2B3B3rE",
+    "url": "https://youtube.com/shorts/XjVQ2B3B3rE",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-10T21:22:25Z"
+   },
+   "ig": {
+    "id": "17910292926307225",
+    "url": "https://www.instagram.com/reel/DeVCgTmn414/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "Someone Poisoned Tylenol and Was Never Caught | The 1982 Tylenol Murders",
+   "duration": 35.3
+  },
+  {
    "case": "L01",
    "pillar": "Unsolved",
    "yt": {
     "id": "2MbcjuWesVY",
     "url": "https://youtube.com/watch?v=2MbcjuWesVY",
-    "views": 43,
+    "views": 44,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
