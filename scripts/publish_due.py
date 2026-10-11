@@ -12,6 +12,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SITE_URL = "https://dossierdecoded.github.io/media/"
 SITE_DIR = pathlib.Path("/tmp/site")
 now = dt.datetime.now(dt.timezone.utc)
+GRACE = dt.timedelta(minutes=15)  # GitHub cron start times drift; a run up to 15 min before the slot still posts
 
 
 def sh(*a, **kw):
@@ -90,7 +91,7 @@ def claim(P, n, kind):
 for q in sorted(ROOT.glob("pilots/*/queue.json")):
     P, n = q.parent, q.parent.name
     job = json.loads(q.read_text())
-    if dt.datetime.fromisoformat(job["publish_at"]) > now:
+    if dt.datetime.fromisoformat(job["publish_at"]) > now + GRACE:
         continue
 
     def done(f):
@@ -121,7 +122,7 @@ for q in sorted(ROOT.glob("pilots/*/queue.json")):
 for q in sorted(ROOT.glob("pilots/*/carousel_queue.json")):
     P, n = q.parent, q.parent.name
     job = json.loads(q.read_text())
-    if dt.datetime.fromisoformat(job["publish_at"]) > now:
+    if dt.datetime.fromisoformat(job["publish_at"]) > now + GRACE:
         continue
     try: ok = json.loads((P / "carousel_result.json").read_text()).get("ok") is True
     except Exception: ok = False

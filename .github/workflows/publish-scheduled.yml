@@ -2,7 +2,7 @@ name: Publish scheduled
 
 on:
   schedule:
-    - cron: "50 * * * *"
+    - cron: "55 * * * *"
   workflow_dispatch:
 
 concurrency:
