@@ -1,0 +1,5 @@
+{"commons": [
+ {"slug": "cat", "query": "tabby cat sitting", "n": 2},
+ {"slug": "taxi", "query": "Checker taxi cab 1960s", "n": 1},
+ {"slug": "langley", "query": "CIA Original Headquarters Building", "n": 1}
+]}
