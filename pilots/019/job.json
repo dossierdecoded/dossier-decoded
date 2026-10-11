@@ -1,0 +1,61 @@
+{
+ "slug": "019-acoustic-kitty",
+ "pillar": "Strange but true",
+ "format": "case-file",
+ "script": "[serious] The CIA tried to turn a cat into a spy. In the 1960s, the agency put a microphone in a cat's ear, a transmitter at the base of its skull, and an antenna woven through its fur. The plan: let the cat wander near targets and listen. The project was called Acoustic Kitty, and by one estimate it cost about twenty million dollars. One famous account says the first cat was hit by a taxi on its first mission. That story is disputed. What isn't: in 1967, the CIA gave up. A cat, it turned out, does whatever it wants. This is Dossier Decoded. Case file number nineteen. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "cat",
+   "query": "grey cat portrait 1960s black and white",
+   "n": 1
+  },
+  {
+   "slug": "cia",
+   "query": "CIA headquarters Langley seal lobby",
+   "n": 1
+  },
+  {
+   "slug": "memo",
+   "query": "Acoustic Kitty CIA memo",
+   "n": 1
+  },
+  {
+   "slug": "street",
+   "query": "Washington DC street 1960s taxi",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "meow",
+   "text": "a single cat meow, close, slightly annoyed",
+   "seconds": 1.2
+  },
+  {
+   "slug": "radio",
+   "text": "old radio static and faint signal tuning, short",
+   "seconds": 2
+  }
+ ]
+}
