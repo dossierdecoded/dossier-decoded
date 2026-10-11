@@ -128,7 +128,7 @@ Write `pilots/<case>/draft.json`:
   "file": "<case>-final.mp4",
   "youtube": {
     "title": "<hook phrase> | <Case name>   (max 70 chars, no clickbait that the video doesn't pay off)",
-    "description": "<2–3 sentence factual summary>\n\n📂 Case File #<case>: <Case name>\n\nSources: <primary document + 1–2 references with URLs>\nImages: <credits from photo_licenses.json>.\nNarration voice: AI.\n\nWhich file should we open next? Comment below.\n\n#shorts #history #mystery",
+    "description": "<2–3 sentence factual summary>\n\n📂 Case File #<case>: <Case name>\n\nSources: <primary document + 1–2 references with URLs>\nImages: <credits from photo_licenses.json>.\nNarration voice: AI.\n\nWhich file should we open next? Comment below.\n📸 Daily case files on Instagram: https://www.instagram.com/dossierdecoded/\n\n#shorts #history #mystery",
     "tags": ["<6–8 specific tags>"],
     "categoryId": "27",
     "privacy": "public",
@@ -137,7 +137,7 @@ Write `pilots/<case>/draft.json`:
   "instagram": {
     "file": "<case>-ig.mp4",
     "video_url": "https://dossierdecoded.github.io/media/<case>.mp4",
-    "caption": "<one-line hook> 📂 Case File #<case>: <Case name>\n\n<1 shareable line, e.g. 'Send this to someone who thinks this could never happen.'>\n\nImages: <short credit>.\n\n<exactly 5 specific hashtags>"
+    "caption": "<one-line hook> 📂 Case File #<case>: <Case name>\n\n<1 shareable line, e.g. 'Send this to someone who thinks this could never happen.'>\n\n📂 Case File #<case+1> drops tomorrow at 5 pm ET. Follow so you don't miss it.\n\nImages: <short credit>.\n\n<exactly 5 specific hashtags>"
   },
   "tiktok_caption": "<hook line> 📂 Case File #<case> <4–5 hashtags>"
 }
@@ -219,3 +219,9 @@ Template: `pilots/L01/` (D. B. Cooper) — copy its `script.py` and `scenes_src.
 7. Thumbnail 1280×720 `thumbnail.jpg` (pattern of L01: face/key image left, 2-line hook right in Big Shoulders, "STILL UNSOLVED"-style stamp; check nothing is cut off).
 8. `draft.json`: `{"slot": <post time from backlog>, "file", "youtube": {"long": true, "thumbnail": "thumbnail.jpg", title, description with chapter timestamps from chapters.json + sources + photo credits + "Narration voice: AI.", tags, categoryId "27", privacy "public", containsSyntheticMedia false}}`. Commit + push.
 9. Nudge (with that day's Short): 720p preview (`-vf scale=1280:720 -crf 30`), thumbnail, chapter list, fact-check notes. On approval write `queue.json` (no instagram block) and push; check-in 20 min after the slot, dispatch "Publish scheduled" if needed, send the link, and remind Tanmay to add it to the "Unsolved Case Files" playlist / set it as Related video on its Short.
+
+
+## 13. Follow prompts (Tanmay, 10 Oct 2026)
+- Every Instagram caption ends its body with: "📂 Case File #<next case number> drops tomorrow at 5 pm ET. Follow so you don't miss it." (caption only; the video format does not change).
+- Every YouTube description (Shorts and long-forms) includes: "📸 Daily case files on Instagram: https://www.instagram.com/dossierdecoded/".
+- Ad copy (paid promotions) must be plain and factual: Google limits "clickbait" ad headlines.
