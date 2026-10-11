@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:45:21+00:00",
+ "updated": "2026-10-11T19:07:30+00:00",
  "youtube_channel": {
   "subscribers": 38,
   "views": 2030
@@ -264,7 +264,7 @@
    "yt": {
     "id": "WQVGZl0N4iA",
     "url": "https://youtube.com/shorts/WQVGZl0N4iA",
-    "views": 15,
+    "views": 16,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -424,7 +424,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-06T21:22:10Z",
-    "avg_view_pct": 48.12,
+    "avg_view_pct": 48.04,
     "avg_view_sec": 38,
     "shares": 0,
     "subs_gained": 1
@@ -450,15 +450,15 @@
    "yt": {
     "id": "MRt0ALKzgp0",
     "url": "https://youtube.com/shorts/MRt0ALKzgp0",
-    "views": 18,
+    "views": 19,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-07T21:22:09Z",
-    "avg_view_pct": 45.89,
-    "avg_view_sec": 17,
+    "avg_view_pct": 62.84,
+    "avg_view_sec": 23,
     "shares": 0,
-    "subs_gained": 0
+    "subs_gained": 1
    },
    "ig": {
     "id": "18127684009852452",
@@ -486,8 +486,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-09T00:08:46Z",
-    "avg_view_pct": 117.95,
-    "avg_view_sec": 70,
+    "avg_view_pct": 79.81,
+    "avg_view_sec": 47,
     "shares": 0,
     "subs_gained": 0
    },
@@ -516,7 +516,11 @@
     "likes": 5,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-09T21:22:48Z"
+    "published": "2026-10-09T21:22:48Z",
+    "avg_view_pct": 68.56,
+    "avg_view_sec": 44,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18104077949180517",
@@ -539,7 +543,7 @@
    "yt": {
     "id": "XjVQ2B3B3rE",
     "url": "https://youtube.com/shorts/XjVQ2B3B3rE",
-    "views": 121,
+    "views": 122,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
@@ -571,8 +575,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-04T18:01:29Z",
-    "avg_view_pct": 99.2,
-    "avg_view_sec": 678,
+    "avg_view_pct": 12.33,
+    "avg_view_sec": 84,
     "shares": 0,
     "subs_gained": 0
    },
@@ -590,8 +594,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-08T16:23:42Z",
-    "avg_view_pct": 0,
-    "avg_view_sec": 0,
+    "avg_view_pct": 2.5,
+    "avg_view_sec": 10,
     "shares": 0,
     "subs_gained": 0
    },
