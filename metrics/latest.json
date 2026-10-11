@@ -1,6 +1,9 @@
 {
- "updated": "2026-10-11T05:07:52+00:00",
- "youtube_channel": {},
+ "updated": "2026-10-11T05:41:18+00:00",
+ "youtube_channel": {
+  "subscribers": 32,
+  "views": 1746
+ },
  "instagram_account": {
   "followers_count": 2,
   "media_count": 19,
@@ -17,7 +20,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-02T23:06:58Z"
+    "published": "2026-10-02T23:06:58Z",
+    "avg_view_pct": 72.34,
+    "avg_view_sec": 37,
+    "shares": 4,
+    "subs_gained": 0
    },
    "ig": {
     "id": "17892777312611076",
@@ -44,7 +51,11 @@
     "likes": 3,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-02T23:42:33Z"
+    "published": "2026-10-02T23:42:33Z",
+    "avg_view_pct": 81.53,
+    "avg_view_sec": 46,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18146068216566506",
@@ -71,7 +82,11 @@
     "likes": 6,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T00:28:45Z"
+    "published": "2026-10-03T00:28:45Z",
+    "avg_view_pct": 64.32,
+    "avg_view_sec": 43,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "17999513666810758",
@@ -98,7 +113,11 @@
     "likes": 10,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T00:40:50Z"
+    "published": "2026-10-03T00:40:50Z",
+    "avg_view_pct": 79.8,
+    "avg_view_sec": 49,
+    "shares": 2,
+    "subs_gained": 2
    },
    "ig": {
     "id": "18022679708718461",
@@ -125,7 +144,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:44:43Z"
+    "published": "2026-10-03T02:44:43Z",
+    "avg_view_pct": 57.35,
+    "avg_view_sec": 38,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18147613744520560",
@@ -152,7 +175,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:45:40Z"
+    "published": "2026-10-03T02:45:40Z",
+    "avg_view_pct": 29.18,
+    "avg_view_sec": 18,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18114489620110481",
@@ -179,7 +206,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:47:22Z"
+    "published": "2026-10-03T02:47:22Z",
+    "avg_view_pct": 40.57,
+    "avg_view_sec": 23,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18636215074056384",
@@ -206,7 +237,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:48:04Z"
+    "published": "2026-10-03T02:48:04Z",
+    "avg_view_pct": 69.33,
+    "avg_view_sec": 44,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18089774651678493",
@@ -233,7 +268,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:48:53Z"
+    "published": "2026-10-03T02:48:53Z",
+    "avg_view_pct": 40.75,
+    "avg_view_sec": 23,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18014992118958854",
@@ -260,7 +299,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T02:49:32Z"
+    "published": "2026-10-03T02:49:32Z",
+    "avg_view_pct": 49.95,
+    "avg_view_sec": 27,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18112514072026540",
@@ -287,7 +330,11 @@
     "likes": 8,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-03T23:08:19Z"
+    "published": "2026-10-03T23:08:19Z",
+    "avg_view_pct": 165.94,
+    "avg_view_sec": 68,
+    "shares": 1,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18130395370770610",
@@ -314,7 +361,11 @@
     "likes": 1,
     "comments": 2,
     "privacy": "public",
-    "published": "2026-10-04T15:17:08Z"
+    "published": "2026-10-04T15:17:08Z",
+    "avg_view_pct": 67.03,
+    "avg_view_sec": 39,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18086868905285692",
@@ -341,7 +392,11 @@
     "likes": 5,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-05T21:39:30Z"
+    "published": "2026-10-05T21:39:30Z",
+    "avg_view_pct": 67.63,
+    "avg_view_sec": 28,
+    "shares": 1,
+    "subs_gained": 3
    },
    "ig": {
     "id": "18152651140532315",
@@ -368,7 +423,11 @@
     "likes": 3,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-06T21:22:10Z"
+    "published": "2026-10-06T21:22:10Z",
+    "avg_view_pct": 48.12,
+    "avg_view_sec": 38,
+    "shares": 0,
+    "subs_gained": 1
    },
    "ig": {
     "id": "18628683979028997",
@@ -395,7 +454,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-07T21:22:09Z"
+    "published": "2026-10-07T21:22:09Z",
+    "avg_view_pct": 45.89,
+    "avg_view_sec": 17,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18127684009852452",
@@ -422,7 +485,11 @@
     "likes": 4,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-09T00:08:46Z"
+    "published": "2026-10-09T00:08:46Z",
+    "avg_view_pct": 117.95,
+    "avg_view_sec": 70,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18073370087754095",
@@ -445,7 +512,7 @@
    "yt": {
     "id": "DZmSNz_tQ-E",
     "url": "https://youtube.com/shorts/DZmSNz_tQ-E",
-    "views": 127,
+    "views": 129,
     "likes": 4,
     "comments": 0,
     "privacy": "public",
@@ -472,7 +539,7 @@
    "yt": {
     "id": "XjVQ2B3B3rE",
     "url": "https://youtube.com/shorts/XjVQ2B3B3rE",
-    "views": 91,
+    "views": 90,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
@@ -499,11 +566,15 @@
    "yt": {
     "id": "2MbcjuWesVY",
     "url": "https://youtube.com/watch?v=2MbcjuWesVY",
-    "views": 60,
+    "views": 57,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-04T18:01:29Z"
+    "published": "2026-10-04T18:01:29Z",
+    "avg_view_pct": 99.2,
+    "avg_view_sec": 678,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "D. B. Cooper: The Man Who Jumped and Vanished (Full Case File)",
    "duration": 683.7
@@ -518,7 +589,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-08T16:23:42Z"
+    "published": "2026-10-08T16:23:42Z",
+    "avg_view_pct": 0,
+    "avg_view_sec": 0,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "The Alcatraz Escape: Three Men Who Vanished Into the Bay (Full Case File)",
    "duration": 424.9
@@ -539,7 +614,5 @@
    "total_interactions": 1
   }
  ],
- "errors": [
-  "youtube: /sessions.py\", line 651, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py\", line 784, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py\", line 711, in send\n    raise ConnectionError(err, request=request)\nrequests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))\n"
- ]
+ "errors": []
 }
