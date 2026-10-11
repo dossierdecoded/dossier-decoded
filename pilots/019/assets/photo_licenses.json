@@ -5,5 +5,26 @@
   "license": "Public domain",
   "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Duffman&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Duffman (page does not exist)\">user:Duffman</a>",
   "page": "https://commons.wikimedia.org/wiki/File:CIA_floor_seal.png"
+ },
+ {
+  "slug": "cat-1",
+  "title": "File:Cat playing with a lizard.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Cat_playing_with_a_lizard.jpg"
+ },
+ {
+  "slug": "cat-2",
+  "title": "File:Siberian black tabby blotched cat 04.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q99692082\" class=\"extiw\" title=\"d:Q99692082\"><span title=\"Czech photographer and chronicler\">Tade\u00e1\u0161 Bednarz</span></a></bdi>",
+  "page": "https://commons.wikimedia.org/wiki/File:Siberian_black_tabby_blotched_cat_04.jpg"
+ },
+ {
+  "slug": "langley",
+  "title": "File:An artist's rendering of the CIA Original Headquarters Building (OHB).jpg",
+  "license": "Public domain",
+  "artist": "CIA image",
+  "page": "https://commons.wikimedia.org/wiki/File:An_artist%27s_rendering_of_the_CIA_Original_Headquarters_Building_(OHB).jpg"
  }
 ]
