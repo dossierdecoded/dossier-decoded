@@ -1,0 +1,14 @@
+{"title": "ACOUSTIC KITTY", "case": "019", "scenes": [
+ {"at": "The", "type": "photo", "photo": "photo-cat-2.jpg", "focus": [0.5, 0.35], "zoom": [1.15, 1.3], "label": "ANY CAT · ANY ROOM", "stamp": "CLASSIFIED", "stamp_at": "spy.", "sfx": [["meow", 0.6]]},
+ {"at": "1960s,", "type": "photo", "photo": "photo-cia.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "CENTRAL INTELLIGENCE AGENCY"},
+ {"at": "microphone", "type": "card", "text": "MIC\nIN THE EAR", "sfx": [["radio", 0.0]]},
+ {"at": "transmitter", "type": "card", "text": "TRANSMITTER\nAT THE SKULL", "red": true},
+ {"at": "antenna", "type": "card", "text": "ANTENNA\nIN THE FUR"},
+ {"at": "plan:", "type": "photo", "photo": "photo-cat-1.jpg", "focus": [0.45, 0.5], "zoom": [1.0, 1.12], "label": "WANDER · SIT · LISTEN"},
+ {"at": "called", "type": "card", "text": "ACOUSTIC\nKITTY", "sub": "CIA PROJECT · 1960s"},
+ {"at": "twenty", "type": "card", "text": "~$20 MILLION", "sub": "ONE ESTIMATE", "red": true},
+ {"at": "taxi", "type": "card", "text": "HIT BY\nA TAXI?", "sub": "A FAMOUS STORY · DISPUTED", "sfx_at": [["hit", "mission."]]},
+ {"at": "1967,", "type": "photo", "photo": "photo-langley.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "CIA HEADQUARTERS · 1960s", "stamp": "ABANDONED", "stamp_at": "up."},
+ {"at": "cat,", "type": "photo", "photo": "photo-cat-2.jpg", "focus": [0.5, 0.3], "zoom": [1.25, 1.4], "label": "DOES WHATEVER IT WANTS"},
+ {"at": "Dossier", "type": "end"}
+]}
