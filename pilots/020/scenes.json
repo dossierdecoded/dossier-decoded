@@ -1,0 +1,16 @@
+{"title": "FLIGHT 19", "case": "020", "scenes": [
+ {"at": "Five", "type": "photo", "photo": "photo-avengers-1.jpg", "focus": [0.45, 0.5], "zoom": [1.1, 1.25], "label": "TBM AVENGERS (SAME TYPE) · 1945", "stamp": "MISSING", "stamp_at": "back.", "sfx": [["engine", 0.0]]},
+ {"at": "December", "type": "card", "text": "DEC 5\n1945", "sub": "NAS FORT LAUDERDALE, FLORIDA"},
+ {"at": "Flight", "type": "card", "text": "FLIGHT 19", "sub": "5 AVENGERS · 14 MEN · LT. CHARLES TAYLOR"},
+ {"at": "compasses", "type": "card", "text": "COMPASSES\nFAILED", "red": true},
+ {"at": "believed", "type": "card", "text": "“OVER THE\nFLORIDA KEYS”", "sub": "WHAT TAYLOR BELIEVED"},
+ {"at": "wasn't.", "type": "card", "text": "HE WASN'T.", "red": true, "sfx_at": [["hit", "wasn't."]]},
+ {"at": "flew", "type": "photo", "photo": "photo-avengers-2.jpg", "focus": [0.5, 0.45], "zoom": [1.0, 1.15], "label": "A TBM AVENGER (SAME TYPE) · 1945", "sfx": [["radio", 1.5]]},
+ {"at": "rescue", "type": "photo", "photo": "photo-mariner.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "A PBM MARINER (SAME TYPE) · 13 MEN ABOARD"},
+ {"at": "vanished", "type": "card", "text": "IT VANISHED\nTOO", "red": true},
+ {"at": "No", "type": "card", "text": "NO BODIES\nNO WRECKAGE", "sub": "27 MEN · 6 AIRCRAFT"},
+ {"at": "Navy", "type": "card", "text": "“NAVIGATION\nERROR”", "sub": "THE NAVY'S FIRST VERDICT", "stamp": "CHANGED", "stamp_at": "unknown."},
+ {"at": "changed", "type": "card", "text": "“CAUSE\nUNKNOWN”", "sub": "THE AMENDED VERDICT", "red": true},
+ {"at": "Navigation", "type": "photo", "photo": "photo-avengers-1.jpg", "focus": [0.5, 0.5], "zoom": [1.25, 1.4], "label": "ERROR OR TRIANGLE? COMMENT BELOW"},
+ {"at": "Dossier", "type": "end"}
+]}
