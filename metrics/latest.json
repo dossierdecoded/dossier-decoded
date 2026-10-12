@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-12T20:53:21+00:00",
+ "updated": "2026-10-12T21:08:28+00:00",
  "youtube_channel": {
-  "subscribers": 51,
+  "subscribers": 50,
   "views": 2199
  },
  "instagram_account": {
   "followers_count": 2,
-  "media_count": 20,
+  "media_count": 21,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -596,12 +596,39 @@
    "duration": 37.8
   },
   {
+   "case": "020",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "vfnRHZO2tpA",
+    "url": "https://youtube.com/shorts/vfnRHZO2tpA",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-12T21:04:30Z"
+   },
+   "ig": {
+    "id": "18134121847583102",
+    "url": "https://www.instagram.com/reel/DeaKDiWFa22/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "Five Navy Bombers Vanished. So Did the Rescue Plane. | Flight 19",
+   "duration": 51.0
+  },
+  {
    "case": "L01",
    "pillar": "Unsolved",
    "yt": {
     "id": "2MbcjuWesVY",
     "url": "https://youtube.com/watch?v=2MbcjuWesVY",
-    "views": 105,
+    "views": 109,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
