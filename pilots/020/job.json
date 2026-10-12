@@ -1,0 +1,61 @@
+{
+ "slug": "020-flight-19",
+ "pillar": "Unsolved",
+ "format": "you-decide",
+ "script": "[serious] Five Navy bombers flew out over the Atlantic, and never came back. December 5th, 1945. Flight 19, five Avengers, fourteen men, led by Lieutenant Charles Taylor. His compasses failed. He believed he was over the Florida Keys. He wasn't. The planes flew on, out over open sea, until the radio went quiet. A rescue plane with thirteen men went to find them. It vanished too. No bodies. No wreckage. The Navy first blamed Taylor. Then it changed the verdict to cause unknown. Navigation error, or the Bermuda Triangle? You decide. This is Dossier Decoded. Case file number twenty. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "avengers",
+   "query": "TBM Avenger formation 1945",
+   "n": 2
+  },
+  {
+   "slug": "mariner",
+   "query": "PBM Mariner flying boat",
+   "n": 1
+  },
+  {
+   "slug": "lauderdale",
+   "query": "Naval Air Station Fort Lauderdale",
+   "n": 1
+  },
+  {
+   "slug": "ocean",
+   "query": "Atlantic ocean open sea",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "radio",
+   "text": "crackling 1940s aircraft radio static fading out",
+   "seconds": 3
+  },
+  {
+   "slug": "engine",
+   "text": "distant propeller aircraft engines droning over the sea",
+   "seconds": 4
+  }
+ ]
+}
