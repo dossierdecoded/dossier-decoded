@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T18:48:28+00:00",
+ "updated": "2026-10-12T19:09:42+00:00",
  "youtube_channel": {
   "subscribers": 49,
   "views": 2199
@@ -83,7 +83,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T00:28:45Z",
-    "avg_view_pct": 64.32,
+    "avg_view_pct": 63.74999999999999,
     "avg_view_sec": 43,
     "shares": 0,
     "subs_gained": 0
@@ -424,8 +424,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-06T21:22:10Z",
-    "avg_view_pct": 48.04,
-    "avg_view_sec": 38,
+    "avg_view_pct": 47.16,
+    "avg_view_sec": 37,
     "shares": 0,
     "subs_gained": 1
    },
@@ -455,8 +455,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-07T21:22:09Z",
-    "avg_view_pct": 62.84,
-    "avg_view_sec": 23,
+    "avg_view_pct": 67.69,
+    "avg_view_sec": 25,
     "shares": 0,
     "subs_gained": 1
    },
@@ -486,8 +486,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-09T00:08:46Z",
-    "avg_view_pct": 79.81,
-    "avg_view_sec": 47,
+    "avg_view_pct": 62.23,
+    "avg_view_sec": 37,
     "shares": 0,
     "subs_gained": 0
    },
@@ -517,8 +517,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-09T21:22:48Z",
-    "avg_view_pct": 68.56,
-    "avg_view_sec": 44,
+    "avg_view_pct": 63.61,
+    "avg_view_sec": 41,
     "shares": 0,
     "subs_gained": 0
    },
@@ -543,11 +543,15 @@
    "yt": {
     "id": "XjVQ2B3B3rE",
     "url": "https://youtube.com/shorts/XjVQ2B3B3rE",
-    "views": 139,
+    "views": 144,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-10T21:22:25Z"
+    "published": "2026-10-10T21:22:25Z",
+    "avg_view_pct": 75.69,
+    "avg_view_sec": 27,
+    "shares": 0,
+    "subs_gained": 1
    },
    "ig": {
     "id": "17910292926307225",
@@ -602,8 +606,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-04T18:01:29Z",
-    "avg_view_pct": 12.33,
-    "avg_view_sec": 84,
+    "avg_view_pct": 10.29,
+    "avg_view_sec": 70,
     "shares": 0,
     "subs_gained": 0
    },
