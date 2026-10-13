@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T02:45:01+00:00",
+ "updated": "2026-10-13T03:09:31+00:00",
  "youtube_channel": {
-  "subscribers": 53,
+  "subscribers": 54,
   "views": 2199
  },
  "instagram_account": {
@@ -574,7 +574,7 @@
    "yt": {
     "id": "1X0IyEWV7JA",
     "url": "https://youtube.com/shorts/1X0IyEWV7JA",
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -610,14 +610,14 @@
    "ig": {
     "id": "18134121847583102",
     "url": "https://www.instagram.com/reel/DeaKDiWFa22/",
-    "views": 46,
-    "reach": 47,
+    "views": 50,
+    "reach": 49,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 3.5
+    "avg_watch_sec": 3.4
    },
    "title": "Five Navy Bombers Vanished. So Did the Rescue Plane. | Flight 19",
    "duration": 51.0
