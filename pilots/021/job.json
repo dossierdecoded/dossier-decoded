@@ -1,0 +1,56 @@
+{
+ "slug": "021-emu-war",
+ "pillar": "Strange but true",
+ "format": "case-file",
+ "script": "[serious] Australia sent the army to fight birds. And the birds won. In 1932, about twenty thousand emus were tearing through wheat farms in Western Australia. So the government sent soldiers, led by Major Meredith, with machine guns. The emus scattered. The guns jammed. The trucks couldn't keep up. In the end, by Meredith's own count, his men fired nearly ten thousand rounds, and he claimed under a thousand kills. Even that number is disputed. Within weeks, the army was pulled out. Farmers built fences instead. It's remembered as the Great Emu War. This is Dossier Decoded. Case file number twenty-one. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "emu",
+   "query": "emu Dromaius novaehollandiae",
+   "n": 2
+  },
+  {
+   "slug": "soldier",
+   "query": "Great Emu War 1932",
+   "n": 1
+  },
+  {
+   "slug": "lewis",
+   "query": "Lewis gun",
+   "n": 1
+  },
+  {
+   "slug": "wheat",
+   "query": "wheat field Western Australia",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "gun",
+   "text": "distant old machine gun short burst then jam click",
+   "seconds": 2
+  }
+ ]
+}
