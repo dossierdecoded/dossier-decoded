@@ -93,12 +93,12 @@
   },
   {
    "case": "021",
-   "slug": "iceworm",
-   "topic": "Project Iceworm and Camp Century: a nuclear base hidden under Greenland's ice",
-   "pillar": "Turned out true",
+   "slug": "emu-war",
+   "topic": "The Great Emu War (Australia, 1932)",
+   "pillar": "Strange but true",
    "format": "then-vs-now",
    "target_seconds": 38,
-   "hints": "US Army Corps of Engineers PD photos and film stills"
+   "hints": "Australian PD photos (pre-1955 Crown copyright expired)"
   },
   {
    "case": "022",
@@ -201,12 +201,12 @@
   },
   {
    "case": "033",
-   "slug": "emu-war",
-   "topic": "The Great Emu War (Australia, 1932)",
-   "pillar": "Strange but true",
+   "slug": "iceworm",
+   "topic": "Project Iceworm and Camp Century: a nuclear base hidden under Greenland's ice",
+   "pillar": "Turned out true",
    "format": "then-vs-now",
    "target_seconds": 38,
-   "hints": "Australian PD photos (pre-1955 Crown copyright expired)"
+   "hints": "US Army Corps of Engineers PD photos and film stills"
   },
   {
    "case": "034",
