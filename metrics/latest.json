@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T04:10:31+00:00",
+ "updated": "2026-10-13T04:47:18+00:00",
  "youtube_channel": {
   "subscribers": 54,
   "views": 2199
@@ -309,7 +309,7 @@
     "id": "18112514072026540",
     "url": "https://www.instagram.com/reel/DeBBiU7jnUT/",
     "views": 4,
-    "reach": 4,
+    "reach": 5,
     "likes": 1,
     "comments": 0,
     "shares": 0,
@@ -543,7 +543,7 @@
    "yt": {
     "id": "XjVQ2B3B3rE",
     "url": "https://youtube.com/shorts/XjVQ2B3B3rE",
-    "views": 150,
+    "views": 151,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
@@ -574,7 +574,7 @@
    "yt": {
     "id": "1X0IyEWV7JA",
     "url": "https://youtube.com/shorts/1X0IyEWV7JA",
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -610,14 +610,14 @@
    "ig": {
     "id": "18134121847583102",
     "url": "https://www.instagram.com/reel/DeaKDiWFa22/",
-    "views": 57,
-    "reach": 56,
+    "views": 63,
+    "reach": 62,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 3.2
+    "avg_watch_sec": 3.1
    },
    "title": "Five Navy Bombers Vanished. So Did the Rescue Plane. | Flight 19",
    "duration": 51.0
