@@ -1,0 +1,56 @@
+{
+ "slug": "022-philadelphia",
+ "pillar": "Exposed",
+ "format": "then-vs-now",
+ "script": "[serious] The U.S. Navy supposedly made a warship disappear. The legend: in 1943, at the Philadelphia Navy Yard, the destroyer escort U.S.S. Eldridge was wrapped in a green glow, vanished, and reappeared hundreds of miles away in Norfolk, Virginia. Sailors fused into the deck. Men who never came back the same. But here's where the story really starts. In 1956, a man named Carl Allen, writing as Carlos Allende, began sending letters to a UFO author named Morris Jessup, claiming he had watched it happen. A year later, the Office of Naval Research took an interest in an annotated copy of Jessup's book, and two officers had a contractor reprint about a hundred and twenty-seven copies. That was enough to make the legend look official. The Navy says the Eldridge's own records show no such experiment, and the ship stayed visible to the eye, to radar, and to sonar. What was real? A wartime technique called degaussing, which made ships harder for magnetic mines to detect. Not invisible. Just harder to blow up. Send this to someone who still believes it. This is Dossier Decoded. Case file number twenty-two. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "eldridge",
+   "query": "USS Eldridge DE-173",
+   "n": 2
+  },
+  {
+   "slug": "yard",
+   "query": "Philadelphia Navy Yard 1940s",
+   "n": 1
+  },
+  {
+   "slug": "degauss",
+   "query": "degaussing ship coils World War II",
+   "n": 1
+  },
+  {
+   "slug": "onr",
+   "query": "Office of Naval Research seal",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "hum",
+   "text": "eerie electrical hum rising and crackling, science fiction energy field, short",
+   "seconds": 3
+  }
+ ]
+}
