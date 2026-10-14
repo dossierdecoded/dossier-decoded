@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:28:18+00:00",
+ "updated": "2026-10-14T19:07:25+00:00",
  "youtube_channel": {
   "subscribers": 61,
   "views": 2359
@@ -145,8 +145,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:44:43Z",
-    "avg_view_pct": 57.35,
-    "avg_view_sec": 38,
+    "avg_view_pct": 61.14000000000001,
+    "avg_view_sec": 40,
     "shares": 0,
     "subs_gained": 0
    },
@@ -548,8 +548,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-10T21:22:25Z",
-    "avg_view_pct": 69.05,
-    "avg_view_sec": 24,
+    "avg_view_pct": 66.37,
+    "avg_view_sec": 23,
     "shares": 0,
     "subs_gained": 1
    },
@@ -557,7 +557,7 @@
     "id": "17910292926307225",
     "url": "https://www.instagram.com/reel/DeVCgTmn414/",
     "views": 97,
-    "reach": 98,
+    "reach": 99,
     "likes": 0,
     "comments": 0,
     "shares": 0,
@@ -588,7 +588,7 @@
     "id": "17916290991265450",
     "url": "https://www.instagram.com/reel/DeXlEa2FPjX/",
     "views": 5,
-    "reach": 4,
+    "reach": 5,
     "likes": 0,
     "comments": 0,
     "shares": 0,
@@ -609,13 +609,17 @@
     "likes": 2,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-12T21:04:30Z"
+    "published": "2026-10-12T21:04:30Z",
+    "avg_view_pct": 39.91,
+    "avg_view_sec": 20,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18134121847583102",
     "url": "https://www.instagram.com/reel/DeaKDiWFa22/",
     "views": 109,
-    "reach": 103,
+    "reach": 104,
     "likes": 0,
     "comments": 0,
     "shares": 0,
@@ -632,7 +636,7 @@
    "yt": {
     "id": "Vm__5dY84bg",
     "url": "https://youtube.com/shorts/Vm__5dY84bg",
-    "views": 163,
+    "views": 164,
     "likes": 8,
     "comments": 1,
     "privacy": "public",
@@ -641,8 +645,8 @@
    "ig": {
     "id": "18108531886946562",
     "url": "https://www.instagram.com/reel/DecwG2Sj0Fa/",
-    "views": 47,
-    "reach": 45,
+    "views": 48,
+    "reach": 46,
     "likes": 0,
     "comments": 0,
     "shares": 0,
@@ -664,8 +668,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-04T18:01:29Z",
-    "avg_view_pct": 8.53,
-    "avg_view_sec": 58,
+    "avg_view_pct": 8.91,
+    "avg_view_sec": 60,
     "shares": 0,
     "subs_gained": 0
    },
@@ -697,7 +701,7 @@
    "yt": {
     "id": "q4Vax-_VW2Q",
     "url": "https://youtube.com/watch?v=q4Vax-_VW2Q",
-    "views": 7,
+    "views": 15,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
