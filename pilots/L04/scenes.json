@@ -1,0 +1,1403 @@
+{
+ "title": "OPERATION NORTHWOODS",
+ "case": "001",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "In",
+   "type": "doc",
+   "page": "doc-01.png",
+   "window": [
+    255,
+    283,
+    1166,
+    548
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     315,
+     403,
+     1106,
+     428
+    ]
+   ],
+   "reveal": "plan.",
+   "label": "THE JOINT CHIEFS OF STAFF · MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "staging",
+   "type": "card",
+   "text": "STAGED ATTACKS\nON AMERICANS",
+   "red": true
+  },
+  {
+   "at": "Blowing",
+   "type": "card",
+   "text": "BLOW UP AN\nAMERICAN SHIP"
+  },
+  {
+   "at": "shoot-down",
+   "type": "card",
+   "text": "A FAKE\nSHOOT-DOWN"
+  },
+  {
+   "at": "terror",
+   "type": "card",
+   "text": "A FAKE TERROR\nCAMPAIGN",
+   "sub": "MIAMI · WASHINGTON"
+  },
+  {
+   "at": "blaming",
+   "type": "card",
+   "text": "BLAME CUBA",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "Cuba."
+    ]
+   ]
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "NEVER\nCARRIED OUT"
+  },
+  {
+   "at": "Secretary",
+   "type": "photo",
+   "photo": "photo-mcnamara.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ROBERT McNAMARA · SECRETARY OF DEFENSE",
+   "fit": "contain"
+  },
+  {
+   "at": "thirty-five",
+   "type": "card",
+   "text": "35 YEARS\nSECRET",
+   "red": true
+  },
+  {
+   "at": "complete",
+   "type": "card",
+   "text": "CASE FILE:\nOPERATION\nNORTHWOODS",
+   "sub": "DECLASSIFIED 1997"
+  },
+  {
+   "at": "To",
+   "type": "card",
+   "text": "WHY CUBA",
+   "sub": "CHAPTER 2 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Castro",
+   "type": "photo",
+   "photo": "photo-castro.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FIDEL CASTRO · WASHINGTON, 1959",
+   "fit": "contain"
+  },
+  {
+   "at": "ninety",
+   "type": "card",
+   "text": "90 MILES",
+   "red": true
+  },
+  {
+   "at": "Bay",
+   "type": "photo",
+   "photo": "photo-bayofpigs.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "US NAVY JETS OVER USS ESSEX · BAY OF PIGS, APRIL 1961",
+   "fit": "contain"
+  },
+  {
+   "at": "president,",
+   "type": "photo",
+   "photo": "photo-kennedy.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "PRESIDENT JOHN F. KENNEDY",
+   "fit": "contain"
+  },
+  {
+   "at": "Mongoose,",
+   "type": "card",
+   "text": "OPERATION\nMONGOOSE",
+   "sub": "A SECRET PROGRAM AGAINST CASTRO"
+  },
+  {
+   "at": "chief",
+   "type": "photo",
+   "photo": "photo-lansdale.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "EDWARD LANSDALE · CHIEF OF OPERATIONS",
+   "fit": "contain"
+  },
+  {
+   "at": "brief",
+   "type": "doc",
+   "page": "doc-08.png",
+   "window": [
+    138,
+    333,
+    953,
+    633
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     198,
+     453,
+     845,
+     472
+    ],
+    [
+     199,
+     493,
+     893,
+     513
+    ]
+   ],
+   "reveal": "invasion.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "provocation.",
+   "type": "doc",
+   "page": "doc-15.png",
+   "window": [
+    184,
+    602,
+    928,
+    903
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     246,
+     722,
+     868,
+     743
+    ],
+    [
+     244,
+     763,
+     584,
+     783
+    ]
+   ],
+   "reveal": "provocation.",
+   "label": "JCS · 7 MARCH 1962 (QUOTED IN THE MEMO)",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "answer.",
+   "type": "card",
+   "text": "NORTHWOODS",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "document",
+   "type": "card",
+   "text": "THE PRETEXTS",
+   "sub": "CHAPTER 3 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "stamped",
+   "type": "doc",
+   "page": "doc-05.png",
+   "window": [
+    328,
+    -28,
+    1092,
+    231
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     388,
+     92,
+     1032,
+     111
+    ]
+   ],
+   "reveal": "secret.",
+   "label": "TOP SECRET",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "desirable,",
+   "type": "doc",
+   "page": "doc-10.png",
+   "window": [
+    156,
+    475,
+    996,
+    773
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     254,
+     595,
+     841,
+     613
+    ],
+    [
+     216,
+     634,
+     936,
+     653
+    ]
+   ],
+   "reveal": "action.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "make",
+   "type": "card",
+   "text": "THEN MAKE ONE.",
+   "red": true
+  },
+  {
+   "at": "Guantanamo",
+   "type": "doc",
+   "page": "doc-10.png",
+   "window": [
+    231,
+    1036,
+    996,
+    1376
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     328,
+     1156,
+     887,
+     1184
+    ],
+    [
+     328,
+     1197,
+     936,
+     1218
+    ],
+    [
+     291,
+     1232,
+     569,
+     1256
+    ]
+   ],
+   "reveal": "base.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "ammunition",
+   "type": "doc",
+   "page": "doc-11.png",
+   "window": [
+    249,
+    -17,
+    986,
+    337
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     309,
+     103,
+     914,
+     136
+    ],
+    [
+     310,
+     153,
+     785,
+     178
+    ],
+    [
+     310,
+     194,
+     926,
+     217
+    ]
+   ],
+   "reveal": "outside.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Sink",
+   "type": "doc",
+   "page": "doc-11.png",
+   "window": [
+    212,
+    316,
+    990,
+    622
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     297,
+     436,
+     930,
+     459
+    ],
+    [
+     272,
+     478,
+     728,
+     502
+    ]
+   ],
+   "reveal": "victims.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Maine",
+   "type": "card",
+   "text": "“REMEMBER\nTHE MAINE”",
+   "red": true
+  },
+  {
+   "at": "warship",
+   "type": "photo",
+   "photo": "photo-maine.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE WRECK OF THE USS MAINE · HAVANA, 1898",
+   "fit": "contain"
+  },
+  {
+   "at": "blow",
+   "type": "doc",
+   "page": "doc-11.png",
+   "window": [
+    175,
+    640,
+    932,
+    936
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     272,
+     760,
+     872,
+     782
+    ],
+    [
+     235,
+     800,
+     362,
+     816
+    ]
+   ],
+   "reveal": "Cuba.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Casualty",
+   "type": "doc",
+   "page": "doc-11.png",
+   "window": [
+    174,
+    1164,
+    999,
+    1464
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     235,
+     1284,
+     939,
+     1306
+    ],
+    [
+     234,
+     1323,
+     572,
+     1344
+    ]
+   ],
+   "reveal": "indignation.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "plan",
+   "type": "card",
+   "text": "TERROR AT HOME",
+   "sub": "CHAPTER 4 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "develop",
+   "type": "doc",
+   "page": "doc-11.png",
+   "window": [
+    140,
+    1229,
+    995,
+    1547
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     235,
+     1349,
+     893,
+     1394
+    ],
+    [
+     200,
+     1399,
+     935,
+     1427
+    ]
+   ],
+   "reveal": "Washington.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "boatload",
+   "type": "doc",
+   "page": "doc-12.png",
+   "window": [
+    133,
+    60,
+    1016,
+    361
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     193,
+     180,
+     932,
+     197
+    ],
+    [
+     193,
+     217,
+     956,
+     241
+    ]
+   ],
+   "reveal": "simulated.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "refugees",
+   "type": "doc",
+   "page": "doc-12.png",
+   "window": [
+    133,
+    141,
+    946,
+    447
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     194,
+     261,
+     886,
+     279
+    ],
+    [
+     193,
+     301,
+     849,
+     327
+    ]
+   ],
+   "reveal": "publicized.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "plastic",
+   "type": "doc",
+   "page": "doc-12.png",
+   "window": [
+    132,
+    221,
+    958,
+    485
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     192,
+     341,
+     898,
+     365
+    ]
+   ],
+   "reveal": "government.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Read",
+   "type": "card",
+   "text": "READ THAT\nAGAIN.",
+   "red": true
+  },
+  {
+   "at": "blame",
+   "type": "card",
+   "text": "THE BLAME\nGOES ELSEWHERE"
+  },
+  {
+   "at": "neighboring",
+   "type": "doc",
+   "page": "doc-12.png",
+   "window": [
+    132,
+    736,
+    995,
+    1048
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     192,
+     856,
+     872,
+     890
+    ],
+    [
+     193,
+     903,
+     935,
+     928
+    ]
+   ],
+   "reveal": "found.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Hijacking",
+   "type": "doc",
+   "page": "doc-13.png",
+   "window": [
+    145,
+    -22,
+    1004,
+    301
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     239,
+     98,
+     838,
+     145
+    ],
+    [
+     205,
+     161,
+     944,
+     181
+    ]
+   ],
+   "reveal": "Cuba.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Then",
+   "type": "card",
+   "text": "THE AIRLINER",
+   "sub": "CHAPTER 5 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "F-86",
+   "type": "photo",
+   "photo": "photo-f86.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "AN F-86 SABRE",
+   "fit": "contain"
+  },
+  {
+   "at": "elaborate",
+   "type": "doc",
+   "page": "doc-13.png",
+   "window": [
+    144,
+    160,
+    1028,
+    502
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     240,
+     280,
+     968,
+     301
+    ],
+    [
+     205,
+     315,
+     922,
+     342
+    ],
+    [
+     204,
+     364,
+     911,
+     382
+    ]
+   ],
+   "reveal": "States.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "students",
+   "type": "doc",
+   "page": "doc-13.png",
+   "window": [
+    144,
+    366,
+    971,
+    664
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     204,
+     486,
+     911,
+     505
+    ],
+    [
+     204,
+     526,
+     909,
+     544
+    ]
+   ],
+   "reveal": "holiday.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Eglin",
+   "type": "doc",
+   "page": "doc-13.png",
+   "window": [
+    215,
+    481,
+    912,
+    785
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     275,
+     601,
+     839,
+     633
+    ],
+    [
+     334,
+     645,
+     852,
+     665
+    ]
+   ],
+   "reveal": "aircraft.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "aliases,",
+   "type": "card",
+   "text": "“CAREFULLY\nPREPARED\nALIASES”"
+  },
+  {
+   "at": "meet.",
+   "type": "card",
+   "text": "THE SWAP",
+   "red": true
+  },
+  {
+   "at": "drone,",
+   "type": "card",
+   "text": "THE REAL PLANE\n→ AN EMPTY DRONE"
+  },
+  {
+   "at": "Mayday",
+   "type": "doc",
+   "page": "doc-13.png",
+   "window": [
+    178,
+    1171,
+    981,
+    1472
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     238,
+     1291,
+     921,
+     1313
+    ],
+    [
+     239,
+     1331,
+     898,
+     1352
+    ]
+   ],
+   "reveal": "MiGs.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "interrupted",
+   "type": "doc",
+   "page": "doc-13.png",
+   "window": [
+    178,
+    1252,
+    1014,
+    1554
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     238,
+     1372,
+     954,
+     1392
+    ],
+    [
+     238,
+     1413,
+     909,
+     1434
+    ]
+   ],
+   "reveal": "signal.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "second",
+   "type": "doc",
+   "page": "doc-14.png",
+   "window": [
+    129,
+    93,
+    990,
+    395
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     224,
+     213,
+     907,
+     231
+    ],
+    [
+     189,
+     253,
+     930,
+     275
+    ]
+   ],
+   "reveal": "find.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "On",
+   "type": "card",
+   "text": "NO",
+   "sub": "CHAPTER 6 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Lyman",
+   "type": "photo",
+   "photo": "photo-lemnitzer.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GEN. LYMAN LEMNITZER · CHAIRMAN, JOINT CHIEFS",
+   "fit": "contain"
+  },
+  {
+   "at": "McNamara.",
+   "type": "photo",
+   "photo": "photo-mcnamara.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "13 MARCH 1962",
+   "fit": "contain"
+  },
+  {
+   "at": "instructions",
+   "type": "doc",
+   "page": "doc-06.png",
+   "window": [
+    340,
+    761,
+    1109,
+    1184
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     400,
+     881,
+     1049,
+     903
+    ],
+    [
+     401,
+     956,
+     1037,
+     990
+    ],
+    [
+     400,
+     1036,
+     991,
+     1064
+    ]
+   ],
+   "reveal": "Nations.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Kennedy",
+   "type": "photo",
+   "photo": "photo-kennedy.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "16 MARCH 1962 · THE WHITE HOUSE",
+   "fit": "contain"
+  },
+  {
+   "at": "discussing",
+   "type": "card",
+   "text": "“NOT DISCUSSING\nTHE USE OF\nMILITARY FORCE”",
+   "sub": "RECORD OF THE MEETING",
+   "red": true
+  },
+  {
+   "at": "nowhere.",
+   "type": "card",
+   "text": "REJECTED",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "months,",
+   "type": "photo",
+   "photo": "photo-nato.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "LEMNITZER AS NATO COMMANDER · 1963",
+   "fit": "contain"
+  },
+  {
+   "at": "None",
+   "type": "card",
+   "text": "NONE OF IT\nHAPPENED"
+  },
+  {
+   "at": "For",
+   "type": "card",
+   "text": "THIRTY-FIVE YEARS",
+   "sub": "CHAPTER 7 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Stone's",
+   "type": "card",
+   "text": "1991",
+   "sub": "OLIVER STONE'S “JFK”"
+  },
+  {
+   "at": "law",
+   "type": "card",
+   "text": "1992",
+   "sub": "JFK RECORDS ACT"
+  },
+  {
+   "at": "November",
+   "type": "card",
+   "text": "18 NOV 1997",
+   "sub": "RECORDS RELEASED",
+   "red": true,
+   "stamp": "DECLASSIFIED",
+   "stamp_at": "documents."
+  },
+  {
+   "at": "noticed",
+   "type": "doc",
+   "page": "doc-02.png",
+   "window": [
+    482,
+    305,
+    764,
+    568
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     542,
+     425,
+     704,
+     448
+    ]
+   ],
+   "reveal": "attention.",
+   "label": "“NORTHWOODS” · JCS NOTE, 12 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Bamford",
+   "type": "card",
+   "text": "2001",
+   "sub": "JAMES BAMFORD · “BODY OF SECRETS”"
+  },
+  {
+   "at": "So",
+   "type": "card",
+   "text": "WHAT THE FILE TELLS US",
+   "sub": "CHAPTER 8 OF 8",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "didn't.",
+   "type": "card",
+   "text": "IT NEVER\nHAPPENED"
+  },
+  {
+   "at": "uncomfortable.",
+   "type": "card",
+   "text": "BUT IT WAS\nWRITTEN DOWN",
+   "red": true
+  },
+  {
+   "at": "deceive",
+   "type": "doc",
+   "page": "doc-08.png",
+   "window": [
+    137,
+    979,
+    880,
+    1283
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     197,
+     1099,
+     820,
+     1118
+    ],
+    [
+     198,
+     1128,
+     809,
+     1163
+    ]
+   ],
+   "reveal": "bombs.",
+   "label": "JCS MEMO · 13 MARCH 1962",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "civilian",
+   "type": "photo",
+   "photo": "photo-kennedy.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "label": "CIVILIAN LEADERS HELD THE LINE",
+   "fit": "contain"
+  },
+  {
+   "at": "filed",
+   "type": "card",
+   "text": "WRITTEN · APPROVED\nREJECTED · FILED"
+  },
+  {
+   "at": "movie",
+   "type": "card",
+   "text": "A MOVIE\nAND A LAW"
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-lemnitzer.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "label": "OPERATION NORTHWOODS · 1962",
+   "fit": "contain",
+   "stamp": "DECLASSIFIED",
+   "stamp_at": "crazy."
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
