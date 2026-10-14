@@ -1,0 +1,19 @@
+{"title": "THE PHILADELPHIA EXPERIMENT", "case": "022", "scenes": [
+ {"at": "The", "type": "photo", "photo": "photo-eldridge-1.jpg", "focus": [0.4, 0.5], "zoom": [1.1, 1.25], "label": "USS ELDRIDGE (DE-173) · c. 1944", "stamp": "VANISHED?", "stamp_at": "disappear.", "sfx": [["hum", 0.3]]},
+ {"at": "legend:", "type": "card", "text": "THE LEGEND", "sub": "1943"},
+ {"at": "Philadelphia", "type": "photo", "photo": "photo-yard.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "PHILADELPHIA NAVY YARD · 1942"},
+ {"at": "green", "type": "card", "text": "A GREEN GLOW", "red": true},
+ {"at": "vanished,", "type": "card", "text": "VANISHED", "sub": "AND REAPPEARED IN NORFOLK", "red": true, "sfx_at": [["hit", "Virginia."]]},
+ {"at": "Sailors", "type": "card", "text": "SAILORS FUSED\nINTO THE DECK", "sub": "PART OF THE LEGEND"},
+ {"at": "really", "type": "card", "text": "WHERE IT\nREALLY STARTS", "red": true},
+ {"at": "1956,", "type": "card", "text": "1956", "sub": "LETTERS FROM “CARLOS ALLENDE”", "sfx": [["paper", 0.0]]},
+ {"at": "Jessup,", "type": "card", "text": "TO A UFO\nAUTHOR", "sub": "MORRIS JESSUP"},
+ {"at": "Office", "type": "photo", "photo": "photo-onr.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "OFFICE OF NAVAL RESEARCH"},
+ {"at": "hundred", "type": "card", "text": "~127 COPIES", "sub": "THE “VARO EDITION”"},
+ {"at": "official.", "type": "card", "text": "IT LOOKED\nOFFICIAL", "red": true},
+ {"at": "records", "type": "photo", "photo": "photo-eldridge-2.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "VISIBLE TO EYE · RADAR · SONAR", "stamp": "NO EXPERIMENT", "stamp_at": "sonar."},
+ {"at": "degaussing,", "type": "card", "text": "DEGAUSSING", "sub": "HIDING A SHIP FROM MAGNETIC MINES"},
+ {"at": "invisible.", "type": "card", "text": "NOT INVISIBLE.", "red": true},
+ {"at": "Send", "type": "photo", "photo": "photo-eldridge-1.jpg", "focus": [0.5, 0.5], "zoom": [1.25, 1.4], "label": "THE PHILADELPHIA EXPERIMENT", "stamp": "HOAX", "stamp_at": "it."},
+ {"at": "Dossier", "type": "end"}
+]}
