@@ -102,12 +102,12 @@
   },
   {
    "case": "022",
-   "slug": "cointelpro",
-   "topic": "COINTELPRO and the 1971 Media, Pennsylvania FBI office burglary that exposed it",
+   "slug": "philadelphia",
+   "topic": "The Philadelphia Experiment: how a hoax letter became a legend",
    "pillar": "Exposed",
    "format": "then-vs-now",
-   "target_seconds": 38,
-   "hints": "FBI Vault COINTELPRO files; Church Committee report (senate.gov)"
+   "target_seconds": 65,
+   "hints": "Office of Naval Research / NHHC public statement; USS Eldridge PD photos"
   },
   {
    "case": "023",
@@ -174,12 +174,12 @@
   },
   {
    "case": "030",
-   "slug": "philadelphia",
-   "topic": "The Philadelphia Experiment: how a hoax letter became a legend",
+   "slug": "cointelpro",
+   "topic": "COINTELPRO and the 1971 Media, Pennsylvania FBI office burglary that exposed it",
    "pillar": "Exposed",
    "format": "then-vs-now",
-   "target_seconds": 65,
-   "hints": "Office of Naval Research / NHHC public statement; USS Eldridge PD photos"
+   "target_seconds": 38,
+   "hints": "FBI Vault COINTELPRO files; Church Committee report (senate.gov)"
   },
   {
    "case": "031",
