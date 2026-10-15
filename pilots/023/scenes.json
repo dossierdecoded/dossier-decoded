@@ -1,0 +1,15 @@
+{"title": "THE WOW! SIGNAL", "case": "023", "scenes": [
+ {"at": "In", "type": "photo", "photo": "photo-wow.jpg", "fit": "contain", "focus": [0.3, 0.5], "zoom": [1.3, 1.5], "label": "THE ORIGINAL PRINTOUT · 1977", "stamp": "NEVER REPEATED", "stamp_at": "again.", "sfx": [["signal", 0.3]]},
+ {"at": "August", "type": "card", "text": "AUG 15\n1977", "sub": "BIG EAR TELESCOPE · OHIO STATE"},
+ {"at": "seventy-two", "type": "card", "text": "72 SECONDS", "red": true},
+ {"at": "hydrogen,", "type": "card", "text": "NEAR THE\nHYDROGEN LINE", "sub": "~1,420 MHz"},
+ {"at": "alien", "type": "photo", "photo": "photo-radio.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "A RADIO TELESCOPE (NOT BIG EAR)"},
+ {"at": "Days", "type": "photo", "photo": "photo-wow.jpg", "fit": "contain", "focus": [0.45, 0.45], "zoom": [1.0, 1.1], "label": "JERRY EHMAN'S PRINTOUT"},
+ {"at": "Wow.", "type": "photo", "photo": "photo-wow.jpg", "fit": "contain", "focus": [0.12, 0.45], "zoom": [1.6, 1.8], "label": "“WOW!”", "sfx_at": [["hit", "Wow."]]},
+ {"at": "Telescopes", "type": "photo", "photo": "photo-sagittarius.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.15], "label": "TOWARD SAGITTARIUS"},
+ {"at": "Nothing.", "type": "card", "text": "NOTHING.", "red": true},
+ {"at": "2024,", "type": "card", "text": "2024", "sub": "A HYDROGEN CLOUD · A MAGNETAR FLARE?"},
+ {"at": "proven", "type": "card", "text": "NOT PROVEN", "red": true},
+ {"at": "Aliens,", "type": "photo", "photo": "photo-wow.jpg", "fit": "contain", "focus": [0.45, 0.45], "zoom": [1.2, 1.35], "label": "ALIENS OR NATURE? COMMENT BELOW"},
+ {"at": "Dossier", "type": "end"}
+]}
