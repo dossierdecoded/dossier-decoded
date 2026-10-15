@@ -111,12 +111,12 @@
   },
   {
    "case": "023",
-   "slug": "azorian",
-   "topic": "Project Azorian: the CIA's secret raising of a Soviet submarine and the birth of 'neither confirm nor deny'",
-   "pillar": "Exposed",
-   "format": "then-vs-now",
-   "target_seconds": 65,
-   "hints": "CIA reading room 'Project AZORIAN' declassified article (2010)"
+   "slug": "wow-signal",
+   "topic": "The Wow! signal (1977)",
+   "pillar": "Unsolved",
+   "format": "you-decide",
+   "target_seconds": 38,
+   "hints": "Check Commons licence on the printout image before use"
   },
   {
    "case": "024",
@@ -183,12 +183,12 @@
   },
   {
    "case": "031",
-   "slug": "wow-signal",
-   "topic": "The Wow! signal (1977)",
-   "pillar": "Unsolved",
-   "format": "you-decide",
-   "target_seconds": 38,
-   "hints": "Check Commons licence on the printout image before use"
+   "slug": "azorian",
+   "topic": "Project Azorian: the CIA's secret raising of a Soviet submarine and the birth of 'neither confirm nor deny'",
+   "pillar": "Exposed",
+   "format": "then-vs-now",
+   "target_seconds": 65,
+   "hints": "CIA reading room 'Project AZORIAN' declassified article (2010)"
   },
   {
    "case": "032",
