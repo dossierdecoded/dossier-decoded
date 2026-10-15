@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:55:58+00:00",
+ "updated": "2026-10-15T22:19:06+00:00",
  "youtube_channel": {
   "subscribers": 61,
   "views": 2568
@@ -715,7 +715,7 @@
    "yt": {
     "id": "Q-aNNAYt7CA",
     "url": "https://youtube.com/shorts/Q-aNNAYt7CA",
-    "views": 41,
+    "views": 42,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -724,14 +724,14 @@
    "ig": {
     "id": "18137580907725834",
     "url": "https://www.instagram.com/reel/Deh59E3lw6R/",
-    "views": 1,
-    "reach": 0,
+    "views": 4,
+    "reach": 1,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 6.0
    },
    "title": "A Signal From Space Lasted 72 Seconds. It Never Came Back. | The Wow! Signal",
    "duration": 55.2
