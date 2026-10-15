@@ -1,0 +1,56 @@
+{
+ "slug": "023-wow-signal",
+ "pillar": "Unsolved",
+ "format": "you-decide",
+ "script": "[serious] In 1977, a radio telescope in Ohio heard something from space. And it never heard it again. August 15th. Ohio State's Big Ear telescope picked up a narrow, powerful signal that lasted seventy-two seconds, close to the frequency of hydrogen, the exact kind of signal astronomers thought an alien civilization might use. Days later, astronomer Jerry Ehman saw it on a printout, circled the code six E Q U J five, and wrote one word in red ink. Wow. Telescopes have pointed at that patch of sky again and again. Nothing. In 2024, researchers proposed a natural cause, a cloud of hydrogen suddenly brightened by a powerful burst from a dead star. But no one has proven it. Aliens, or the universe playing a trick? You decide. This is Dossier Decoded. Case file number twenty-three. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "wow",
+   "query": "Wow signal printout 6EQUJ5",
+   "n": 1
+  },
+  {
+   "slug": "bigear",
+   "query": "Big Ear radio telescope Ohio",
+   "n": 1
+  },
+  {
+   "slug": "sagittarius",
+   "query": "Sagittarius constellation Milky Way",
+   "n": 1
+  },
+  {
+   "slug": "radio",
+   "query": "radio telescope dish night",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "signal",
+   "text": "eerie radio signal tone rising out of static then fading, space",
+   "seconds": 3
+  }
+ ]
+}
