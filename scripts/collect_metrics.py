@@ -45,6 +45,15 @@ try:
             v["yt"].update({"views": int(s.get("viewCount", 0)), "likes": int(s.get("likeCount", 0)),
                             "comments": int(s.get("commentCount", 0)), "privacy": it["status"]["privacyStatus"],
                             "published": it["snippet"]["publishedAt"]})
+    for v in videos.values():  # comment text (top-level), for videos that have any
+        y = v.get("yt", {})
+        if y.get("comments"):
+            ct = requests.get("https://www.googleapis.com/youtube/v3/commentThreads", headers=H, timeout=60,
+                              params={"part": "snippet", "videoId": y["id"], "maxResults": 20, "textFormat": "plainText"}).json()
+            y["comment_text"] = [{"author": i["snippet"]["topLevelComment"]["snippet"]["authorDisplayName"],
+                                  "text": i["snippet"]["topLevelComment"]["snippet"]["textDisplay"][:500],
+                                  "at": i["snippet"]["topLevelComment"]["snippet"]["publishedAt"]}
+                                 for i in ct.get("items", [])]
     c = requests.get("https://www.googleapis.com/youtube/v3/channels", headers=H, timeout=60,
                      params={"part": "statistics", "mine": "true"}).json()
     if c.get("items"):
