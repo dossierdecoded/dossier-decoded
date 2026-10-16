@@ -1,0 +1,15 @@
+{"title": "THE GULF OF TONKIN", "case": "024", "scenes": [
+ {"at": "America", "type": "doc", "page": "doc-04.png", "window": [40, 250, 580, 560], "zoom": [1.0, 1.1], "lines": [[76, 342, 532, 364], [76, 369, 532, 392]], "instant": true, "label": "NSA HISTORY · DECLASSIFIED 2005", "stamp": "NO ATTACK", "stamp_at": "happened."},
+ {"at": "August", "type": "card", "text": "AUG 4\n1964", "sub": "GULF OF TONKIN"},
+ {"at": "destroyers", "type": "photo", "photo": "photo-maddox.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "USS MADDOX"},
+ {"at": "torpedo", "type": "photo", "photo": "photo-turnerjoy.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "USS TURNER JOY", "sfx": [["sonar", 0.0]]},
+ {"at": "Within", "type": "photo", "photo": "photo-johnson.jpg", "focus": [0.5, 0.35], "zoom": [1.0, 1.1], "label": "LBJ · TV ADDRESS · 4 AUG 1964"},
+ {"at": "Three", "type": "photo", "photo": "photo-resolution.jpg", "focus": [0.5, 0.45], "zoom": [1.0, 1.1], "label": "LBJ SIGNS THE TONKIN RESOLUTION"},
+ {"at": "Four", "type": "card", "text": "416 – 0", "sub": "HOUSE", "red": true, "sfx_at": [["hit", "Four"]]},
+ {"at": "Eighty-eight", "type": "card", "text": "88 – 2", "sub": "SENATE", "red": true},
+ {"at": "historian", "type": "doc", "page": "doc-02.png", "window": [100, 110, 1000, 260], "zoom": [1.0, 1.08], "lines": [[147, 140, 956, 173], [232, 173, 896, 204]], "instant": true, "label": "NSA · CRYPTOLOGIC QUARTERLY · TOP SECRET"},
+ {"at": "verdict:", "type": "doc", "page": "doc-50.png", "window": [40, 1130, 570, 1300], "zoom": [1.0, 1.08], "lines": [[75, 1187, 532, 1209], [75, 1215, 532, 1237]], "reveal": "night.", "label": "HANYOK · CONCLUSION"},
+ {"at": "intelligence", "type": "doc", "page": "doc-50.png", "window": [530, 1120, 1060, 1260], "zoom": [1.0, 1.08], "lines": [[567, 1160, 1022, 1182], [567, 1187, 1023, 1209]], "reveal": "fit.", "stamp": "SKEWED", "stamp_at": "fit."},
+ {"at": "Send", "type": "card", "text": "500,000+\nUS TROOPS", "sub": "THE WAR THAT FOLLOWED"},
+ {"at": "Dossier", "type": "end"}
+]}
