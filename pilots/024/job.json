@@ -1,0 +1,56 @@
+{
+ "slug": "024-tonkin",
+ "pillar": "Turned out true",
+ "format": "one-document",
+ "script": "[serious] America went to war in Vietnam over an attack that never happened. August fourth, nineteen sixty-four. Two US destroyers in the Gulf of Tonkin reported they were under torpedo attack. Within hours, President Johnson ordered airstrikes. Three days later, Congress handed him the power to wage war. Four hundred sixteen to zero in the House. Eighty-eight to two in the Senate. But the NSA's own historian later went back through the intercepts. His verdict: no attack occurred that night. The intelligence had been skewed to fit. Send this to someone who still trusts the official story. This is Dossier Decoded. Case file number twenty-four. A new file every day.",
+ "pdf": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB132/relea00012.pdf",
+ "commons": [
+  {
+   "slug": "maddox",
+   "query": "USS Maddox DD-731 1964",
+   "n": 1
+  },
+  {
+   "slug": "johnson",
+   "query": "Lyndon Johnson Gulf of Tonkin address August 1964",
+   "n": 1
+  },
+  {
+   "slug": "resolution",
+   "query": "Johnson signs Gulf of Tonkin Resolution",
+   "n": 1
+  },
+  {
+   "slug": "turnerjoy",
+   "query": "USS Turner Joy DD-951",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "sonar",
+   "text": "submarine sonar ping in the dark ocean, single ping with echo",
+   "seconds": 2
+  }
+ ]
+}
