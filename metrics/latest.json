@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T01:05:37+00:00",
+ "updated": "2026-10-16T01:56:52+00:00",
  "youtube_channel": {
   "subscribers": 61,
   "views": 2568
@@ -369,8 +369,8 @@
       "at": "2026-10-06T00:43:52Z"
      }
     ],
-    "avg_view_pct": 67.84,
-    "avg_view_sec": 40,
+    "avg_view_pct": 66.43,
+    "avg_view_sec": 39,
     "shares": 0,
     "subs_gained": 0
    },
@@ -493,8 +493,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-09T00:08:46Z",
-    "avg_view_pct": 61.63000000000001,
-    "avg_view_sec": 36,
+    "avg_view_pct": 62.63999999999999,
+    "avg_view_sec": 37,
     "shares": 0,
     "subs_gained": 0
    },
@@ -681,7 +681,7 @@
    "yt": {
     "id": "Vg0XGYFVrrE",
     "url": "https://youtube.com/shorts/Vg0XGYFVrrE",
-    "views": 486,
+    "views": 488,
     "likes": 18,
     "comments": 1,
     "privacy": "public",
@@ -715,8 +715,8 @@
    "yt": {
     "id": "Q-aNNAYt7CA",
     "url": "https://youtube.com/shorts/Q-aNNAYt7CA",
-    "views": 42,
-    "likes": 1,
+    "views": 56,
+    "likes": 2,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-15T21:17:28Z"
@@ -724,14 +724,14 @@
    "ig": {
     "id": "18137580907725834",
     "url": "https://www.instagram.com/reel/Deh59E3lw6R/",
-    "views": 23,
-    "reach": 18,
+    "views": 25,
+    "reach": 19,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 5.2
+    "avg_watch_sec": 5.7
    },
    "title": "A Signal From Space Lasted 72 Seconds. It Never Came Back. | The Wow! Signal",
    "duration": 55.2
@@ -748,7 +748,7 @@
     "privacy": "public",
     "published": "2026-10-04T18:01:29Z",
     "avg_view_pct": 9.65,
-    "avg_view_sec": 65,
+    "avg_view_sec": 66,
     "shares": 0,
     "subs_gained": 0
    },
@@ -799,7 +799,7 @@
    "yt": {
     "id": "ET2TsnV-uLk",
     "url": "https://youtube.com/watch?v=ET2TsnV-uLk",
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
