@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-16T21:19:50+00:00",
+ "updated": "2026-10-16T21:54:18+00:00",
  "youtube_channel": {
   "subscribers": 61,
   "views": 3105
  },
  "instagram_account": {
   "followers_count": 5,
-  "media_count": 24,
+  "media_count": 25,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -426,7 +426,7 @@
    "yt": {
     "id": "T4LHdmkHn0Y",
     "url": "https://youtube.com/shorts/T4LHdmkHn0Y",
-    "views": 79,
+    "views": 78,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -719,7 +719,7 @@
    "yt": {
     "id": "Q-aNNAYt7CA",
     "url": "https://youtube.com/shorts/Q-aNNAYt7CA",
-    "views": 69,
+    "views": 73,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -739,6 +739,33 @@
    },
    "title": "A Signal From Space Lasted 72 Seconds. It Never Came Back. | The Wow! Signal",
    "duration": 55.2
+  },
+  {
+   "case": "024",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "c0MY_3tTuY0",
+    "url": "https://youtube.com/shorts/c0MY_3tTuY0",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-16T21:29:22Z"
+   },
+   "ig": {
+    "id": "18108279632523216",
+    "url": "https://www.instagram.com/reel/DekgHT3CosX/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "America Went to War Over an Attack That Never Happened | Gulf of Tonkin",
+   "duration": 39.0
   },
   {
    "case": "L01",
