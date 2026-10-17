@@ -1,0 +1,21 @@
+{"title": "THE USS CYCLOPS", "case": "025", "scenes": [
+ {"at": "In", "type": "photo", "photo": "photo-cyclops2.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "USS CYCLOPS · US NAVY", "stamp": "VANISHED", "stamp_at": "aboard."},
+ {"at": "wreck.", "type": "card", "text": "NO WRECK\nNO BODIES", "sub": "NO DISTRESS CALL", "red": true},
+ {"at": "Cyclops", "type": "photo", "photo": "photo-cyclops-1.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "USS CYCLOPS · HUDSON RIVER, 1911"},
+ {"at": "manganese", "type": "card", "text": "~11,000 TONS", "sub": "MANGANESE ORE · FROM BRAZIL"},
+ {"at": "weapons", "type": "photo", "photo": "photo-cyclops2.jpg", "focus": [0.35, 0.5], "zoom": [1.2, 1.32], "label": "CARGO FOR WWI ARMAMENTS"},
+ {"at": "trouble.", "type": "card", "text": "CRACKED\nCYLINDER", "sub": "ONE ENGINE DOWN", "red": true},
+ {"at": "Barbados", "type": "photo", "photo": "photo-barbados.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "BARBADOS (TODAY)"},
+ {"at": "waterline", "type": "card", "text": "OVER HER\nLOAD MARK", "sub": "OVERLOADED", "red": true},
+ {"at": "fourth,", "type": "card", "text": "MAR 4\n1918", "sub": "SAILED FOR BALTIMORE"},
+ {"at": "arrived.", "type": "card", "text": "NEVER\nARRIVED", "red": true, "sfx_at": [["hit", "arrived."]]},
+ {"at": "largest", "type": "card", "text": "306 LOST", "sub": "US NAVY'S LARGEST NON-COMBAT LOSS OF LIFE"},
+ {"at": "explanations.", "type": "card", "text": "TWO\nEXPLANATIONS"},
+ {"at": "overloaded", "type": "photo", "photo": "photo-sea.jpg", "focus": [0.5, 0.6], "zoom": [1.0, 1.15], "label": "1 · A STORM?", "sfx": [["waves", 0.0]]},
+ {"at": "sister", "type": "photo", "photo": "photo-proteus.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "SISTER SHIP USS PROTEUS · ALSO VANISHED"},
+ {"at": "sabotage.", "type": "card", "text": "2 · SABOTAGE?", "red": true},
+ {"at": "Worley,", "type": "photo", "photo": "photo-worley.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.0, 1.08], "label": "CAPT. GEORGE WORLEY"},
+ {"at": "German", "type": "card", "text": "NO RECORD\nOF AN ATTACK", "sub": "GERMAN RECORDS"},
+ {"at": "Storm,", "type": "photo", "photo": "photo-cyclops-1.jpg", "focus": [0.5, 0.5], "zoom": [1.1, 1.2], "label": "STORM OR BETRAYAL? COMMENT BELOW"},
+ {"at": "Dossier", "type": "end"}
+]}
