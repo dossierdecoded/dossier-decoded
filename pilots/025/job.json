@@ -1,0 +1,56 @@
+{
+ "slug": "025-cyclops",
+ "pillar": "Unsolved",
+ "format": "you-decide",
+ "script": "[serious] In 1918, a US Navy ship the length of two football fields vanished with three hundred and six people aboard. No wreck. No bodies. No distress call. The USS Cyclops was hauling about eleven thousand tons of manganese ore from Brazil, a metal America needed to build weapons for the First World War. She was already in trouble. One engine had a cracked cylinder, and when she stopped at Barbados on March third, she sat so low that the waterline was above her load mark. On March fourth, she sailed for Baltimore. She never arrived. It is still the US Navy's largest loss of life not directly involving combat. There are two explanations. One: she was overloaded and crippled, and a storm broke her apart so fast no one could send a message. Her two sister ships later vanished without a trace too. Two: sabotage. Her captain, George Worley, was born in Germany, and America was at war with Germany. But German records show no attack. Storm, or betrayal? You decide. This is Dossier Decoded. Case file number twenty-five. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "cyclops",
+   "query": "USS Cyclops collier 1911",
+   "n": 2
+  },
+  {
+   "slug": "worley",
+   "query": "George Worley USS Cyclops captain",
+   "n": 1
+  },
+  {
+   "slug": "proteus",
+   "query": "USS Proteus AC-9 collier",
+   "n": 1
+  },
+  {
+   "slug": "sea",
+   "query": "stormy sea ocean waves storm",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "waves",
+   "text": "heavy ocean storm waves crashing, wind, dark",
+   "seconds": 4
+  }
+ ]
+}
