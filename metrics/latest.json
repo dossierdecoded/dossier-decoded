@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:54:12+00:00",
+ "updated": "2026-10-17T19:15:04+00:00",
  "youtube_channel": {
   "subscribers": 61,
   "views": 3176
@@ -693,7 +693,7 @@
       "at": "2026-10-15T00:19:06Z"
      }
     ],
-    "avg_view_pct": 77.65,
+    "avg_view_pct": 76.49,
     "avg_view_sec": 52,
     "shares": 0,
     "subs_gained": 0
@@ -723,7 +723,11 @@
     "likes": 3,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-15T21:17:28Z"
+    "published": "2026-10-15T21:17:28Z",
+    "avg_view_pct": 87.95,
+    "avg_view_sec": 49,
+    "shares": 1,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18137580907725834",
@@ -746,7 +750,7 @@
    "yt": {
     "id": "c0MY_3tTuY0",
     "url": "https://youtube.com/shorts/c0MY_3tTuY0",
-    "views": 5,
+    "views": 7,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -834,7 +838,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-15T16:18:19Z"
+    "published": "2026-10-15T16:18:19Z",
+    "avg_view_pct": 0,
+    "avg_view_sec": 0,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "Operation Northwoods: The Military's Plan to Fake Attacks on America (Full Case File)",
    "duration": 473.2
