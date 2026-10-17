@@ -1,1 +1,93 @@
-[]
+[
+ {
+  "slug": "jessup",
+  "title": "File:The American Museum of Natural History, 17, Sledge, Morris K Jessup, one of the five sledges used... (NBY 23569).jpg",
+  "license": "Public domain",
+  "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+  "page": "https://commons.wikimedia.org/wiki/File:The_American_Museum_of_Natural_History,_17,_Sledge,_Morris_K_Jessup,_one_of_the_five_sledges_used..._(NBY_23569).jpg"
+ },
+ {
+  "slug": "liberty",
+  "title": "File:The British Navy Supporting North Africa Campaign. Force H at Sea and in Harbour, 12 To 14 January 1943, at Sea and at Mers-el-kebir. the British Navy Supporting North Africa Campaign. A14169.jpg",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q110967291\" class=\"extiw\" title=\"d:Q110967291\"><span title=\"official war photographer of the Royal Navy\">Claude Henry Parnall</span></a></bdi>",
+  "page": "https://commons.wikimedia.org/wiki/File:The_British_Navy_Supporting_North_Africa_Campaign._Force_H_at_Sea_and_in_Harbour,_12_To_14_January_1943,_at_Sea_and_at_Mers-el-kebir._the_British_Navy_Supporting_North_Africa_Campaign._A14169.jpg"
+ },
+ {
+  "slug": "einstein",
+  "title": "File:Letter of Albert Einstein to the Lieutenant Stephen Brunauer, U.S. Navy Bureau of Ordnance. - NARA - 305253.jpg",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Albert_Einstein\" class=\"extiw\" title=\"w:en:Albert Einstein\"><span title=\"German-born theoretical physicist (1879\u20131955)\">Albert Einstein</span></a></bdi>",
+  "page": "https://commons.wikimedia.org/wiki/File:Letter_of_Albert_Einstein_to_the_Lieutenant_Stephen_Brunauer,_U.S._Navy_Bureau_of_Ordnance._-_NARA_-_305253.jpg"
+ },
+ {
+  "slug": "einstein2",
+  "title": "File:Albert Einstein Head cleaned.jpg",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q66480610\" class=\"extiw\" title=\"d:Q66480610\"><span title=\"American photographer (1889\u20131968)\">Oren Jack Turner</span></a></bdi>",
+  "page": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg"
+ },
+ {
+  "slug": "norfolk",
+  "title": "File:USS Orion (AS-18) at Norfolk Navy Yard 1994.JPEG",
+  "license": "Public domain",
+  "artist": "Don S. Montgomery, USN",
+  "page": "https://commons.wikimedia.org/wiki/File:USS_Orion_(AS-18)_at_Norfolk_Navy_Yard_1994.JPEG"
+ },
+ {
+  "slug": "nyard",
+  "title": "File:New York Navy Yard aerial photo 1 in April 1945.jpg",
+  "license": "Public domain",
+  "artist": "USN",
+  "page": "https://commons.wikimedia.org/wiki/File:New_York_Navy_Yard_aerial_photo_1_in_April_1945.jpg"
+ },
+ {
+  "slug": "convoy",
+  "title": "File:Atlantic convoy from Sunderland in WWII.jpg",
+  "license": "Public domain",
+  "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+  "page": "https://commons.wikimedia.org/wiki/File:Atlantic_convoy_from_Sunderland_in_WWII.jpg"
+ },
+ {
+  "slug": "mine",
+  "title": "File:Luftmine (LM).jpg",
+  "license": "Public domain",
+  "artist": "Lieutenant (Lt) <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Hugh%20Syme%20(GC)\" title=\"en:Hugh Syme (GC)\" class=\"extiw\">Hugh Randall Syme</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Luftmine_(LM).jpg"
+ },
+ {
+  "slug": "engstrom",
+  "title": "File:USS Engstrom (DE-50) underway off the Mare Island Naval Shipyard on 27 February 1945 (19-N-79871).jpg",
+  "license": "Public domain",
+  "artist": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+  "page": "https://commons.wikimedia.org/wiki/File:USS_Engstrom_(DE-50)_underway_off_the_Mare_Island_Naval_Shipyard_on_27_February_1945_(19-N-79871).jpg"
+ },
+ {
+  "slug": "berlitz",
+  "title": "File:Charles Berlitz.jpg",
+  "license": "Public domain",
+  "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+  "page": "https://commons.wikimedia.org/wiki/File:Charles_Berlitz.jpg"
+ },
+ {
+  "slug": "vallee",
+  "title": "File:Jacques Vall\u00e9e by Christopher Michel 12112024 4.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Christopher_Michel\" class=\"extiw\" title=\"w:en:Christopher Michel\"><span title=\"American entrepreneur, photographer, and investor\">Christopher Michel</spa",
+  "page": "https://commons.wikimedia.org/wiki/File:Jacques_Vall%C3%A9e_by_Christopher_Michel_12112024_4.jpg"
+ },
+ {
+  "slug": "fog",
+  "title": "File:Blue hour fog over Preemraff oil refinery by Brofjorden.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:W.carter\" title=\"User:W.carter\">W.carter</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Blue_hour_fog_over_Preemraff_oil_refinery_by_Brofjorden.jpg"
+ },
+ {
+  "slug": "dallas",
+  "title": "File:Historical Marker-Bankhead Highway in Garland.jpg",
+  "license": "CC0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:HominyGrits007\" title=\"User:HominyGrits007\">HominyGrits007</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Historical_Marker-Bankhead_Highway_in_Garland.jpg"
+ }
+]
