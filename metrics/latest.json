@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T21:22:35+00:00",
+ "updated": "2026-10-17T21:49:52+00:00",
  "youtube_channel": {
-  "subscribers": 62,
+  "subscribers": 63,
   "views": 3196
  },
  "instagram_account": {
@@ -750,7 +750,7 @@
    "yt": {
     "id": "c0MY_3tTuY0",
     "url": "https://youtube.com/shorts/c0MY_3tTuY0",
-    "views": 5,
+    "views": 7,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -777,17 +777,24 @@
    "yt": {
     "id": "-8Gg_MQnbrw",
     "url": "https://youtube.com/shorts/-8Gg_MQnbrw",
-    "views": 86,
-    "likes": 5,
-    "comments": 0,
+    "views": 224,
+    "likes": 9,
+    "comments": 1,
     "privacy": "public",
-    "published": "2026-10-17T21:10:09Z"
+    "published": "2026-10-17T21:10:09Z",
+    "comment_text": [
+     {
+      "author": "@DannyRucker-y8o",
+      "text": "I LOVE THESE STORIES",
+      "at": "2026-10-17T21:23:47Z"
+     }
+    ]
    },
    "ig": {
     "id": "18025859243870870",
     "url": "https://www.instagram.com/reel/DenCrBEjgGB/",
-    "views": 0,
-    "reach": 0,
+    "views": 6,
+    "reach": 1,
     "likes": 0,
     "comments": 0,
     "shares": 0,
