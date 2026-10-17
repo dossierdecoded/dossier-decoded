@@ -1,0 +1,895 @@
+{
+ "title": "THE PHILADELPHIA EXPERIMENT",
+ "case": "022",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "The",
+   "type": "photo",
+   "photo": "photo-eldridge-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "USS ELDRIDGE (DE-173)",
+   "stamp": "VANISHED?",
+   "stamp_at": "gone."
+  },
+  {
+   "at": "October",
+   "type": "photo",
+   "photo": "photo-yard.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "PHILADELPHIA NAVY YARD"
+  },
+  {
+   "at": "warship,",
+   "type": "photo",
+   "photo": "photo-eldridge-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE DESTROYER ESCORT USS ELDRIDGE"
+  },
+  {
+   "at": "green",
+   "type": "photo",
+   "photo": "photo-fog.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A “GREEN FOG” (ILLUSTRATION)"
+  },
+  {
+   "at": "hidden.",
+   "type": "card",
+   "text": "NOT HIDDEN.\nGONE.",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "reappeared",
+   "type": "photo",
+   "photo": "photo-norfolk.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "NORFOLK, VIRGINIA (PRESENT DAY)"
+  },
+  {
+   "at": "vanished",
+   "type": "photo",
+   "photo": "photo-eldridge-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "…AND BACK AGAIN"
+  },
+  {
+   "at": "crew,",
+   "type": "card",
+   "text": "THE CREW"
+  },
+  {
+   "at": "fused",
+   "type": "card",
+   "text": "FUSED INTO\nTHE DECK",
+   "sub": "THE LEGEND SAYS",
+   "red": true
+  },
+  {
+   "at": "mad.",
+   "type": "card",
+   "text": "DRIVEN MAD",
+   "sub": "FADING IN AND OUT"
+  },
+  {
+   "at": "darkest",
+   "type": "card",
+   "text": "THE NAVY'S\nDARKEST SECRET?"
+  },
+  {
+   "at": "books,",
+   "type": "card",
+   "text": "BOOKS · FILMS\nLATE-NIGHT RADIO"
+  },
+  {
+   "at": "nobody",
+   "type": "card",
+   "text": "WHERE DID IT\nCOME FROM?",
+   "red": true
+  },
+  {
+   "at": "paper",
+   "type": "card",
+   "text": "FOLLOW THE\nPAPER TRAIL",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "letters.",
+   "type": "card",
+   "text": "IT STARTS WITH\nLETTERS",
+   "red": true,
+   "sfx": [
+    [
+     "typewriter",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "records",
+   "type": "card",
+   "text": "CASE FILE:\nTHE PHILADELPHIA\nEXPERIMENT",
+   "sub": "WHAT THE RECORDS SAY"
+  },
+  {
+   "at": "In",
+   "type": "card",
+   "text": "THE LETTERS",
+   "sub": "CHAPTER 2 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Case",
+   "type": "card",
+   "text": "“THE CASE\nFOR THE UFO”",
+   "sub": "MORRIS K. JESSUP · 1955"
+  },
+  {
+   "at": "January",
+   "type": "card",
+   "text": "JANUARY 1956",
+   "sub": "THE LETTERS BEGIN",
+   "sfx": [
+    [
+     "typewriter",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "signed",
+   "type": "card",
+   "text": "CARLOS MIGUEL\nALLENDE",
+   "red": true
+  },
+  {
+   "at": "merchant",
+   "type": "photo",
+   "photo": "photo-convoy.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A WARTIME ATLANTIC CONVOY"
+  },
+  {
+   "at": "Furuseth.",
+   "type": "card",
+   "text": "S.S. ANDREW\nFURUSETH",
+   "sub": "A MERCHANT SHIP"
+  },
+  {
+   "at": "Einstein",
+   "type": "photo",
+   "photo": "photo-einstein2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ALBERT EINSTEIN",
+   "fit": "contain"
+  },
+  {
+   "at": "Reno,",
+   "type": "card",
+   "text": "“FRANKLIN RENO”",
+   "sub": "THE SCIENTIST HE NAMED"
+  },
+  {
+   "at": "rambling,",
+   "type": "card",
+   "text": "RAMBLING.\nODDLY CAPITALIZED."
+  },
+  {
+   "at": "specific.",
+   "type": "card",
+   "text": "A SHIP.\nA PLACE.\nA DATE."
+  },
+  {
+   "at": "proof.",
+   "type": "card",
+   "text": "PROOF?",
+   "red": true
+  },
+  {
+   "at": "remember",
+   "type": "card",
+   "text": "“MEMORY TO\nBE RECOVERED”"
+  },
+  {
+   "at": "newspaper",
+   "type": "photo",
+   "photo": "photo-yard.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.25
+   ],
+   "label": "PHILADELPHIA · “THE BAR STORY”"
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "NEVER FOUND",
+   "red": true
+  },
+  {
+   "at": "exist",
+   "type": "card",
+   "text": "ALLENDE\nDIDN'T EXIST"
+  },
+  {
+   "at": "Meredith",
+   "type": "card",
+   "text": "CARL MEREDITH\nALLEN",
+   "sub": "HIS REAL NAME",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Before",
+   "type": "card",
+   "text": "THE BOOK AT THE NAVY",
+   "sub": "CHAPTER 3 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Office",
+   "type": "photo",
+   "photo": "photo-onr.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "OFFICE OF NAVAL RESEARCH",
+   "fit": "contain"
+  },
+  {
+   "at": "Easter.",
+   "type": "card",
+   "text": "“HAPPY EASTER”",
+   "sub": "AN ANONYMOUS PACKAGE · 1955",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "margins",
+   "type": "card",
+   "text": "NOTES IN\nTHE MARGINS"
+  },
+  {
+   "at": "three",
+   "type": "card",
+   "text": "3 SHADES\nOF BLUE INK",
+   "sub": "3 “WRITERS”"
+  },
+  {
+   "at": "Jemi.",
+   "type": "card",
+   "text": "“JEMI”",
+   "red": true
+  },
+  {
+   "at": "1957,",
+   "type": "card",
+   "text": "1957",
+   "sub": "JESSUP IS INVITED IN"
+  },
+  {
+   "at": "handwriting",
+   "type": "card",
+   "text": "SAME\nHANDWRITING",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "Allende."
+    ]
+   ]
+  },
+  {
+   "at": "Sherby",
+   "type": "card",
+   "text": "CAPT. SIDNEY SHERBY\nCMDR. GEORGE HOOVER",
+   "sub": "OFFICE OF NAVAL RESEARCH"
+  },
+  {
+   "at": "Varo",
+   "type": "photo",
+   "photo": "photo-dallas.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GARLAND, TEXAS",
+   "fit": "contain"
+  },
+  {
+   "at": "dozen",
+   "type": "card",
+   "text": "12 → 127\nCOPIES",
+   "sub": "THE “VARO EDITION”"
+  },
+  {
+   "at": "substance",
+   "type": "card",
+   "text": "“NOTHING OF\nSUBSTANCE”",
+   "sub": "CMDR. HOOVER"
+  },
+  {
+   "at": "matter.",
+   "type": "card",
+   "text": "BUT IT\nDIDN'T MATTER",
+   "red": true
+  },
+  {
+   "at": "officers",
+   "type": "card",
+   "text": "NAVAL OFFICERS\nA MILITARY CONTRACTOR"
+  },
+  {
+   "at": "believers,",
+   "type": "card",
+   "text": "“PROOF THE NAVY\nWAS WORRIED”",
+   "red": true
+  },
+  {
+   "at": "1959,",
+   "type": "card",
+   "text": "1959",
+   "sub": "JESSUP DIES"
+  },
+  {
+   "at": "legend",
+   "type": "card",
+   "text": "THE LEGEND\nKEEPS GOING"
+  },
+  {
+   "at": "For",
+   "type": "card",
+   "text": "A LEGEND GROWS",
+   "sub": "CHAPTER 4 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "1965,",
+   "type": "card",
+   "text": "1965",
+   "sub": "VINCENT GADDIS · “INVISIBLE HORIZONS”"
+  },
+  {
+   "at": "Berlitz,",
+   "type": "photo",
+   "photo": "photo-berlitz.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CHARLES BERLITZ",
+   "fit": "contain"
+  },
+  {
+   "at": "Triangle,",
+   "type": "card",
+   "text": "THE BERMUDA\nTRIANGLE",
+   "sub": "HIS EARLIER BESTSELLER"
+  },
+  {
+   "at": "Invisibility,",
+   "type": "card",
+   "text": "“PROJECT\nINVISIBILITY”",
+   "sub": "1979 · BERLITZ & MOORE"
+  },
+  {
+   "at": "fact.",
+   "type": "card",
+   "text": "PRESENTED\nAS FACT",
+   "red": true
+  },
+  {
+   "at": "novel",
+   "type": "card",
+   "text": "“THIN AIR”",
+   "sub": "A 1978 THRILLER NOVEL"
+  },
+  {
+   "at": "1984,",
+   "type": "card",
+   "text": "1984",
+   "sub": "THE HOLLYWOOD FILM"
+  },
+  {
+   "at": "time-travel",
+   "type": "card",
+   "text": "TIME TRAVEL",
+   "red": true
+  },
+  {
+   "at": "Bielek",
+   "type": "card",
+   "text": "AL BIELEK",
+   "sub": "CLAIMED HE WAS ABOARD"
+  },
+  {
+   "at": "conference,",
+   "type": "card",
+   "text": "1990",
+   "sub": "A UFO CONFERENCE"
+  },
+  {
+   "at": "Notice",
+   "type": "card",
+   "text": "NOTICE WHAT\nHAPPENED"
+  },
+  {
+   "at": "fog.",
+   "type": "card",
+   "text": "+ GREEN FOG\n+ TELEPORTATION\n+ TIME TRAVEL"
+  },
+  {
+   "at": "trapped",
+   "type": "card",
+   "text": "+ SAILORS IN\nTHE DECK"
+  },
+  {
+   "at": "real,",
+   "type": "card",
+   "text": "MORE TELLERS =\nMORE “REAL”"
+  },
+  {
+   "at": "books,",
+   "type": "card",
+   "text": "BOOKS · A NOVEL\nA MOVIE"
+  },
+  {
+   "at": "documents",
+   "type": "card",
+   "text": "SO WHAT DO THE\nDOCUMENTS SAY?",
+   "red": true
+  },
+  {
+   "at": "Start",
+   "type": "card",
+   "text": "WHAT THE RECORDS SHOW",
+   "sub": "CHAPTER 5 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "commissioned",
+   "type": "photo",
+   "photo": "photo-eldridge-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "COMMISSIONED · AUGUST 1943"
+  },
+  {
+   "at": "York.",
+   "type": "photo",
+   "photo": "photo-nyard.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "NEW YORK NAVY YARD · 1945"
+  },
+  {
+   "at": "diary,",
+   "type": "card",
+   "text": "THE WAR DIARY",
+   "sub": "USS ELDRIDGE · OCTOBER 1943",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "nowhere",
+   "type": "card",
+   "text": "NOWHERE NEAR\nPHILADELPHIA",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Bermuda",
+   "type": "card",
+   "text": "BERMUDA",
+   "sub": "UNTIL 15 OCTOBER"
+  },
+  {
+   "at": "convoy",
+   "type": "photo",
+   "photo": "photo-convoy.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "CONVOY TO NEW YORK · 18 OCTOBER"
+  },
+  {
+   "at": "harbor",
+   "type": "card",
+   "text": "NEW YORK HARBOR",
+   "sub": "UNTIL 1 NOVEMBER"
+  },
+  {
+   "at": "Allen's",
+   "type": "card",
+   "text": "S.S. ANDREW\nFURUSETH",
+   "sub": "ALLEN'S SHIP"
+  },
+  {
+   "at": "Henry,",
+   "type": "card",
+   "text": "OFF CAPE HENRY",
+   "sub": "4 OCTOBER"
+  },
+  {
+   "at": "twenty-fifth,",
+   "type": "card",
+   "text": "LEFT NORFOLK\n25 OCTOBER",
+   "sub": "A WEEK BEFORE THE ELDRIDGE ARRIVED",
+   "red": true
+  },
+  {
+   "at": "captain",
+   "type": "card",
+   "text": "“NOTHING\nUNUSUAL”",
+   "sub": "THE FURUSETH'S CAPTAIN"
+  },
+  {
+   "at": "reunion",
+   "type": "card",
+   "text": "1999 REUNION",
+   "sub": "“NEVER MADE PORT IN PHILADELPHIA”"
+  },
+  {
+   "at": "scientific",
+   "type": "card",
+   "text": "THE SCIENCE?"
+  },
+  {
+   "at": "conform",
+   "type": "card",
+   "text": "“DOES NOT CONFORM\nTO KNOWN\nPHYSICAL LAWS”",
+   "sub": "THE NAVY",
+   "red": true
+  },
+  {
+   "at": "unified",
+   "type": "photo",
+   "photo": "photo-einstein2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "UNIFIED FIELD THEORY · NEVER COMPLETED",
+   "fit": "contain"
+  },
+  {
+   "at": "consultant",
+   "type": "photo",
+   "photo": "photo-einstein.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "EINSTEIN TO THE NAVY'S BUREAU OF ORDNANCE · 1943",
+   "fit": "contain"
+  },
+  {
+   "at": "explosives.",
+   "type": "card",
+   "text": "EXPLOSIVES.\nNOT INVISIBILITY.",
+   "red": true
+  },
+  {
+   "at": "Office",
+   "type": "photo",
+   "photo": "photo-onr.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "OFFICE OF NAVAL RESEARCH",
+   "fit": "contain"
+  },
+  {
+   "at": "1996",
+   "type": "card",
+   "text": "“NEVER”",
+   "sub": "ONR STATEMENT · 1996"
+  },
+  {
+   "at": "exist",
+   "type": "card",
+   "text": "ONR FOUNDED\n1946",
+   "red": true
+  },
+  {
+   "at": "So",
+   "type": "card",
+   "text": "WHAT REALLY HAPPENED",
+   "sub": "CHAPTER 6 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "mines",
+   "type": "photo",
+   "photo": "photo-mine.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A GERMAN AIR-DROPPED MINE · WWII",
+   "fit": "contain"
+  },
+  {
+   "at": "cables",
+   "type": "card",
+   "text": "DEGAUSSING",
+   "sub": "CABLES AROUND THE HULL CANCEL ITS MAGNETISM",
+   "red": true,
+   "sfx": [
+    [
+     "hum",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "mine.",
+   "type": "card",
+   "text": "“INVISIBLE”\nTO A MINE",
+   "red": true
+  },
+  {
+   "at": "visible",
+   "type": "card",
+   "text": "STILL VISIBLE",
+   "sub": "EYE · RADAR · SONAR"
+  },
+  {
+   "at": "Vallée",
+   "type": "photo",
+   "photo": "photo-vallee.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "JACQUES VALLÉE · LINKED IT TO USS ENGSTROM",
+   "fit": "contain"
+  },
+  {
+   "at": "veteran",
+   "type": "card",
+   "text": "“NOBODY\nVANISHED”",
+   "sub": "A VETERAN OF THE BAR STORY"
+  },
+  {
+   "at": "Carl",
+   "type": "card",
+   "text": "CARL ALLEN",
+   "sub": "“TO SCARE HIM”"
+  },
+  {
+   "at": "leg-puller.",
+   "type": "card",
+   "text": "“A MASTER\nLEG-PULLER”",
+   "sub": "HIS FAMILY",
+   "red": true
+  },
+  {
+   "at": "file",
+   "type": "card",
+   "text": "HOW A LEGEND\nIS BUILT",
+   "sub": "WHAT THE FILE TELLS US"
+  },
+  {
+   "at": "One",
+   "type": "card",
+   "text": "ONE MAN'S LETTERS"
+  },
+  {
+   "at": "government",
+   "type": "card",
+   "text": "A GOVERNMENT\nOFFICE"
+  },
+  {
+   "at": "curious,",
+   "type": "card",
+   "text": "CURIOUS.\nNOT ALARMED."
+  },
+  {
+   "at": "decades",
+   "type": "card",
+   "text": "DECADES OF\nRETELLING"
+  },
+  {
+   "at": "scariest",
+   "type": "photo",
+   "photo": "photo-eldridge-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "THE PHILADELPHIA EXPERIMENT"
+  },
+  {
+   "at": "history.",
+   "type": "card",
+   "text": "A FEW LETTERS\n→ HISTORY",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Tell",
+   "type": "card",
+   "text": "WHAT DO\nYOU THINK?",
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
