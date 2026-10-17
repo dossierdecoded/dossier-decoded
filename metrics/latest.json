@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T23:10:16+00:00",
+ "updated": "2026-10-17T23:44:03+00:00",
  "youtube_channel": {
   "subscribers": 63,
   "views": 3196
@@ -457,7 +457,7 @@
    "yt": {
     "id": "MRt0ALKzgp0",
     "url": "https://youtube.com/shorts/MRt0ALKzgp0",
-    "views": 24,
+    "views": 23,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -581,7 +581,7 @@
    "yt": {
     "id": "1X0IyEWV7JA",
     "url": "https://youtube.com/shorts/1X0IyEWV7JA",
-    "views": 7,
+    "views": 5,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -719,7 +719,7 @@
    "yt": {
     "id": "Q-aNNAYt7CA",
     "url": "https://youtube.com/shorts/Q-aNNAYt7CA",
-    "views": 82,
+    "views": 78,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -777,12 +777,17 @@
    "yt": {
     "id": "-8Gg_MQnbrw",
     "url": "https://youtube.com/shorts/-8Gg_MQnbrw",
-    "views": 437,
-    "likes": 15,
-    "comments": 1,
+    "views": 534,
+    "likes": 20,
+    "comments": 2,
     "privacy": "public",
     "published": "2026-10-17T21:10:09Z",
     "comment_text": [
+     {
+      "author": "@acote5020",
+      "text": "How about poor structure or loads beyond capacity?",
+      "at": "2026-10-17T23:27:01Z"
+     },
      {
       "author": "@DannyRucker-y8o",
       "text": "I LOVE THESE STORIES",
@@ -794,7 +799,7 @@
     "id": "18025859243870870",
     "url": "https://www.instagram.com/reel/DenCrBEjgGB/",
     "views": 126,
-    "reach": 118,
+    "reach": 119,
     "likes": 0,
     "comments": 0,
     "shares": 0,
