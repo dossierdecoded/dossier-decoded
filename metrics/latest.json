@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:49:52+00:00",
+ "updated": "2026-10-17T22:13:07+00:00",
  "youtube_channel": {
   "subscribers": 63,
   "views": 3196
@@ -777,8 +777,8 @@
    "yt": {
     "id": "-8Gg_MQnbrw",
     "url": "https://youtube.com/shorts/-8Gg_MQnbrw",
-    "views": 224,
-    "likes": 9,
+    "views": 318,
+    "likes": 14,
     "comments": 1,
     "privacy": "public",
     "published": "2026-10-17T21:10:09Z",
@@ -793,14 +793,14 @@
    "ig": {
     "id": "18025859243870870",
     "url": "https://www.instagram.com/reel/DenCrBEjgGB/",
-    "views": 6,
-    "reach": 1,
+    "views": 84,
+    "reach": 12,
     "likes": 0,
     "comments": 0,
     "shares": 0,
-    "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "saved": 1,
+    "total_interactions": 1,
+    "avg_watch_sec": 6.9
    },
    "title": "A Navy Ship Vanished With 306 Aboard. No Wreck Was Ever Found. | USS Cyclops",
    "duration": 66.3
