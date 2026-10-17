@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:47:10+00:00",
+ "updated": "2026-10-17T00:16:26+00:00",
  "youtube_channel": {
   "subscribers": 61,
   "views": 3105
@@ -681,7 +681,7 @@
    "yt": {
     "id": "Vg0XGYFVrrE",
     "url": "https://youtube.com/shorts/Vg0XGYFVrrE",
-    "views": 497,
+    "views": 499,
     "likes": 18,
     "comments": 1,
     "privacy": "public",
@@ -755,14 +755,14 @@
    "ig": {
     "id": "18108279632523216",
     "url": "https://www.instagram.com/reel/DekgHT3CosX/",
-    "views": 0,
-    "reach": 0,
+    "views": 1,
+    "reach": 1,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 0.5
    },
    "title": "America Went to War Over an Attack That Never Happened | Gulf of Tonkin",
    "duration": 39.0
