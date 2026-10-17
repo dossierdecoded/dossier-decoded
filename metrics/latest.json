@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-17T20:51:42+00:00",
+ "updated": "2026-10-17T21:14:44+00:00",
  "youtube_channel": {
   "subscribers": 61,
   "views": 3196
  },
  "instagram_account": {
   "followers_count": 5,
-  "media_count": 25,
+  "media_count": 26,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -681,7 +681,7 @@
    "yt": {
     "id": "Vg0XGYFVrrE",
     "url": "https://youtube.com/shorts/Vg0XGYFVrrE",
-    "views": 503,
+    "views": 504,
     "likes": 18,
     "comments": 1,
     "privacy": "public",
@@ -770,6 +770,33 @@
    },
    "title": "America Went to War Over an Attack That Never Happened | Gulf of Tonkin",
    "duration": 39.0
+  },
+  {
+   "case": "025",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "-8Gg_MQnbrw",
+    "url": "https://youtube.com/shorts/-8Gg_MQnbrw",
+    "views": 2,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-17T21:10:09Z"
+   },
+   "ig": {
+    "id": "18025859243870870",
+    "url": "https://www.instagram.com/reel/DenCrBEjgGB/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "A Navy Ship Vanished With 306 Aboard. No Wreck Was Ever Found. | USS Cyclops",
+   "duration": 66.3
   },
   {
    "case": "L01",
