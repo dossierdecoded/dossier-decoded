@@ -12,3 +12,4 @@ Append dated lines; newest at the bottom. Production reads this before writing e
 - 2026-10-10: Instagram: ~1,000 views but 2 followers. Added follow line to IG captions and IG link to YouTube descriptions (runbook §13). Tanmay to pin Starfish/Ghost Army/Hoffa and update bio.
 - 2026-10-13: Paid test result: $19.87 → 5,716 impressions, 126 views, 34 subscribers (~$0.58/sub). Paid viewers watch ~10%. Verdict: scale (next: Alcatraz, $20). Obscure topics (Acoustic Kitty: 2 views) die; famous events win (Tylenol 151, Flight 19 86 in 16h).
 - 2026-10-13: Second paid test started: Alcatraz long-form (L02), ~$20, same settings. Baseline: L02 2 views; channel subs at start (see metrics).
+- 2026-10-17: Gulf of Tonkin (024, war/politics, 'government lied') got 4 YouTube views in 16 h — YouTube never tested it. War/politics topics are risky for reach; prefer famous mysteries/disasters.
