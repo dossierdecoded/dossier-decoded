@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:50:51+00:00",
+ "updated": "2026-10-18T16:16:07+00:00",
  "youtube_channel": {
   "subscribers": 64,
   "views": 3286
@@ -750,7 +750,7 @@
    "yt": {
     "id": "c0MY_3tTuY0",
     "url": "https://youtube.com/shorts/c0MY_3tTuY0",
-    "views": 12,
+    "views": 13,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -777,7 +777,7 @@
    "yt": {
     "id": "-8Gg_MQnbrw",
     "url": "https://youtube.com/shorts/-8Gg_MQnbrw",
-    "views": 1023,
+    "views": 1021,
     "likes": 26,
     "comments": 2,
     "privacy": "public",
@@ -885,6 +885,21 @@
    },
    "title": "Operation Northwoods: The Military's Plan to Fake Attacks on America (Full Case File)",
    "duration": 473.2
+  },
+  {
+   "case": "L05",
+   "pillar": "Hoax",
+   "yt": {
+    "id": "TcbPukLf_Q8",
+    "url": "https://youtube.com/watch?v=TcbPukLf_Q8",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-18T16:10:09Z"
+   },
+   "title": "The Philadelphia Experiment: Did the Navy Really Make a Ship Vanish? (Full Case File)",
+   "duration": 477.5
   }
  ],
  "carousels": [
