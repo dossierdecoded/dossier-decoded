@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:55:25+00:00",
+ "updated": "2026-10-18T19:14:26+00:00",
  "youtube_channel": {
   "subscribers": 64,
   "views": 3286
@@ -431,8 +431,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-06T21:22:10Z",
-    "avg_view_pct": 47.97,
-    "avg_view_sec": 38,
+    "avg_view_pct": 48.81,
+    "avg_view_sec": 39,
     "shares": 0,
     "subs_gained": 1
    },
@@ -693,8 +693,8 @@
       "at": "2026-10-15T00:19:06Z"
      }
     ],
-    "avg_view_pct": 76.49,
-    "avg_view_sec": 52,
+    "avg_view_pct": 76.17,
+    "avg_view_sec": 51,
     "shares": 0,
     "subs_gained": 0
    },
@@ -724,7 +724,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-15T21:17:28Z",
-    "avg_view_pct": 87.95,
+    "avg_view_pct": 88.05,
     "avg_view_sec": 49,
     "shares": 1,
     "subs_gained": 0
@@ -754,7 +754,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-16T21:29:22Z"
+    "published": "2026-10-16T21:29:22Z",
+    "avg_view_pct": 33.75,
+    "avg_view_sec": 13,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18108279632523216",
@@ -840,8 +844,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-08T16:23:42Z",
-    "avg_view_pct": 75.61,
-    "avg_view_sec": 321,
+    "avg_view_pct": 69.54,
+    "avg_view_sec": 295,
     "shares": 0,
     "subs_gained": 0
    },
