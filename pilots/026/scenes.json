@@ -1,0 +1,21 @@
+{"title": "PROJECT AZORIAN", "case": "026", "scenes": [
+ {"at": "In", "type": "doc", "page": "doc-01.png", "window": [20, 1030, 970, 1210], "zoom": [1.0, 1.08], "lines": [[33, 1063, 950, 1103], [234, 1104, 643, 1122]], "instant": true, "label": "CIA · “THE STORY OF THE HUGHES GLOMAR EXPLORER”", "stamp": "SECRET", "stamp_at": "Pacific."},
+ {"at": "March", "type": "photo", "photo": "photo-k129.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "SOVIET SUBMARINE K-129", "sfx": [["sonar", 0.0]]},
+ {"at": "fifteen", "type": "card", "text": "~1,500 MILES", "sub": "NORTHWEST OF HAWAII"},
+ {"at": "Americans", "type": "card", "text": "THE US\nFOUND IT", "red": true},
+ {"at": "Three", "type": "card", "text": "3 MILES DOWN", "sub": "16,500 FEET", "sfx": [["creak", 0.0]]},
+ {"at": "ship", "type": "photo", "photo": "photo-glomar-1.jpg", "focus": [0.5, 0.55], "zoom": [1.0, 1.12], "label": "THE HUGHES GLOMAR EXPLORER"},
+ {"at": "public", "type": "photo", "photo": "photo-hughes.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.0, 1.08], "label": "HOWARD HUGHES"},
+ {"at": "manganese.", "type": "doc", "page": "doc-11.png", "window": [230, 940, 975, 1060], "zoom": [1.0, 1.08], "lines": [[286, 971, 959, 995], [244, 994, 959, 1022]], "instant": true, "label": "CIA · THE COVER STORY"},
+ {"at": "Azorian.", "type": "doc", "page": "doc-01.png", "window": [250, 920, 940, 1020], "zoom": [1.0, 1.08], "lines": [[476, 941, 710, 963], [273, 980, 910, 1001]], "instant": true, "label": "THE REAL MISSION", "sfx": [["stamp", 0.0]]},
+ {"at": "claw", "type": "photo", "photo": "photo-glomar-2.jpg", "focus": [0.55, 0.45], "zoom": [1.0, 1.12], "label": "GLOMAR EXPLORER · LONG BEACH"},
+ {"at": "failed.", "type": "card", "text": "THE CLAW\nFAILED", "red": true, "sfx_at": [["hit", "failed."]]},
+ {"at": "broke", "type": "photo", "photo": "photo-ocean.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "THE DEEP SEABED (ILLUSTRATION)"},
+ {"at": "bow,", "type": "card", "text": "ONE SECTION\nRAISED", "sub": "MOST OF THE SUB WAS LOST"},
+ {"at": "six", "type": "card", "text": "6 SOVIET\nSAILORS", "sub": "BURIED AT SEA · FILMED BY THE CIA"},
+ {"at": "reporters", "type": "card", "text": "1975", "sub": "THE STORY LEAKS"},
+ {"at": "neither", "type": "card", "text": "“NEITHER CONFIRM\nNOR DENY”", "sub": "THE “GLOMAR RESPONSE”", "red": true},
+ {"at": "else", "type": "doc", "page": "doc-12.png", "window": [190, 300, 1000, 900], "zoom": [1.0, 1.06], "lines": [[215, 347, 840, 380]], "instant": true, "label": "STILL BLACKED OUT"},
+ {"at": "Send", "type": "photo", "photo": "photo-glomar-1.jpg", "focus": [0.5, 0.55], "zoom": [1.1, 1.2], "label": "PROJECT AZORIAN · 1974"},
+ {"at": "Dossier", "type": "end"}
+]}
