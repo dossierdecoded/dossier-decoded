@@ -1,0 +1,66 @@
+{
+ "slug": "026-azorian",
+ "pillar": "Turned out true",
+ "format": "then-vs-now",
+ "script": "[serious] In 1974, the C.I.A. used a billionaire as a cover story, so it could steal a Soviet submarine from the bottom of the Pacific. In March 1968, the Soviet missile submarine K-129 sank with its entire crew, about fifteen hundred miles northwest of Hawaii. The Soviets couldn't find it. The Americans did. Three miles down. So the C.I.A. had a ship built. The Hughes Glomar Explorer. The public story: Howard Hughes was going to mine the ocean floor for manganese. The real mission was called Project Azorian. In August 1974, a giant claw lowered from the ship grabbed the submarine and began lifting it. Then part of the claw failed. Most of what it held broke away and fell back to the seabed. The C.I.A. raised only a section of the bow, with the bodies of six Soviet sailors, who were buried at sea in a ceremony the C.I.A. filmed. When reporters started asking in 1975, the C.I.A. gave an answer still used today. It could neither confirm nor deny. What else did they get? Parts of the file are still blacked out. Send this to someone who thinks the Cold War was boring. This is Dossier Decoded. Case file number twenty-six. A new file every day.",
+ "pdf": "https://nsarchive2.gwu.edu/nukevault/ebb305/doc01.pdf",
+ "commons": [
+  {
+   "slug": "glomar",
+   "query": "Hughes Glomar Explorer",
+   "n": 2
+  },
+  {
+   "slug": "k129",
+   "query": "Soviet submarine K-129 Golf II",
+   "n": 1
+  },
+  {
+   "slug": "hughes",
+   "query": "Howard Hughes portrait",
+   "n": 1
+  },
+  {
+   "slug": "burial",
+   "query": "burial at sea Soviet sailors Glomar 1974",
+   "n": 1
+  },
+  {
+   "slug": "ocean",
+   "query": "deep ocean dark water",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "sonar",
+   "text": "submarine sonar ping in the dark ocean, single ping with echo",
+   "seconds": 2
+  },
+  {
+   "slug": "creak",
+   "text": "deep metal hull groaning and creaking under water pressure",
+   "seconds": 3
+  }
+ ]
+}

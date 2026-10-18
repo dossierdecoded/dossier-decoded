@@ -138,12 +138,12 @@
   },
   {
    "case": "026",
-   "slug": "sea-spray",
-   "topic": "Operation Sea-Spray: the US Navy sprayed bacteria over San Francisco (1950)",
-   "pillar": "Turned out true",
-   "format": "case-file",
-   "target_seconds": 38,
-   "hints": "1977 Senate subcommittee hearings on Army biological testing"
+   "slug": "azorian",
+   "topic": "Project Azorian: the CIA's secret raising of a Soviet submarine and the birth of 'neither confirm nor deny'",
+   "pillar": "Exposed",
+   "format": "then-vs-now",
+   "target_seconds": 65,
+   "hints": "CIA reading room 'Project AZORIAN' declassified article (2010)"
   },
   {
    "case": "027",
@@ -183,12 +183,12 @@
   },
   {
    "case": "031",
-   "slug": "azorian",
-   "topic": "Project Azorian: the CIA's secret raising of a Soviet submarine and the birth of 'neither confirm nor deny'",
-   "pillar": "Exposed",
-   "format": "then-vs-now",
-   "target_seconds": 65,
-   "hints": "CIA reading room 'Project AZORIAN' declassified article (2010)"
+   "slug": "sea-spray",
+   "topic": "Operation Sea-Spray: the US Navy sprayed bacteria over San Francisco (1950)",
+   "pillar": "Turned out true",
+   "format": "case-file",
+   "target_seconds": 38,
+   "hints": "1977 Senate subcommittee hearings on Army biological testing"
   },
   {
    "case": "032",
