@@ -1,0 +1,76 @@
+{
+ "slug": "027-roanoke",
+ "pillar": "Unsolved",
+ "format": "you-decide",
+ "script": "[serious] In 1590, a man came home to find his entire colony gone. Including his own granddaughter. More than a hundred people. No bodies. No graves. Just one word, carved into a wooden post. Croatoan. Three years earlier, about a hundred and fifteen English settlers had landed on Roanoke Island, off what is now North Carolina. Their governor, John White, sailed back to England for supplies. He left behind his granddaughter, Virginia Dare, the first English child born in the Americas. Then England went to war with Spain, and every ship was needed against the Spanish Armada. White couldn't get back for three years. When he finally landed, in August 1590, the settlement was abandoned. The colonists had agreed on a signal. If they were forced to leave, they would carve a cross. There was no cross. Only that word. Croatoan was the name of a nearby island, and of the people who lived there. But bad weather forced White to leave before he could search it. He never found his family. Did they join the Croatoan people, or did something take them? You decide. This is Dossier Decoded. Case file number twenty-seven. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "croatoan",
+   "query": "Croatoan carved post John White 1590 discovery",
+   "n": 1
+  },
+  {
+   "slug": "white",
+   "query": "John White Roanoke watercolor map 1585",
+   "n": 1
+  },
+  {
+   "slug": "dare",
+   "query": "baptism of Virginia Dare",
+   "n": 1
+  },
+  {
+   "slug": "armada",
+   "query": "Spanish Armada 1588 painting",
+   "n": 1
+  },
+  {
+   "slug": "island",
+   "query": "Roanoke Island North Carolina aerial",
+   "n": 1
+  },
+  {
+   "slug": "fort",
+   "query": "Fort Raleigh National Historic Site",
+   "n": 1
+  },
+  {
+   "slug": "storm",
+   "query": "storm sea sailing ship painting",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "wind",
+   "text": "cold wind through empty forest, creaking wood, eerie",
+   "seconds": 4
+  },
+  {
+   "slug": "carve",
+   "text": "knife carving into wood, short scraping",
+   "seconds": 1.5
+  }
+ ]
+}
