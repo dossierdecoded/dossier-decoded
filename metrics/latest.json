@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-19T20:59:45+00:00",
+ "updated": "2026-10-19T21:22:22+00:00",
  "youtube_channel": {
   "subscribers": 69,
   "views": 4314
  },
  "instagram_account": {
   "followers_count": 6,
-  "media_count": 27,
+  "media_count": 28,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -840,7 +840,7 @@
    "ig": {
     "id": "17917446354465599",
     "url": "https://www.instagram.com/reel/DepnasvAFBH/",
-    "views": 40,
+    "views": 41,
     "reach": 37,
     "likes": 0,
     "comments": 0,
@@ -851,6 +851,33 @@
    },
    "title": "The CIA Secretly Tried to Steal a Soviet Submarine From 3 Miles Down | Project Azorian",
    "duration": 71.1
+  },
+  {
+   "case": "027",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "axqMjVHzSu4",
+    "url": "https://youtube.com/shorts/axqMjVHzSu4",
+    "views": 1,
+    "likes": 2,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-19T21:16:14Z"
+   },
+   "ig": {
+    "id": "18112418726126803",
+    "url": "https://www.instagram.com/reel/DesM-rtkU8w/",
+    "views": 1,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "115 People Vanished. They Left Behind One Word. | The Lost Colony of Roanoke",
+   "duration": 67.2
   },
   {
    "case": "L01",
