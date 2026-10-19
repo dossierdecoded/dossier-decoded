@@ -1,0 +1,21 @@
+{"title": "THE LOST COLONY", "case": "027", "scenes": [
+ {"at": "In", "type": "photo", "photo": "photo-croatoan2.jpg", "focus": [0.5, 0.4], "zoom": [1.0, 1.12], "label": "REPLICA · FORT RALEIGH NATIONAL HISTORIC SITE", "stamp": "VANISHED", "stamp_at": "gone."},
+ {"at": "granddaughter.", "type": "photo", "photo": "photo-dare.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.08], "label": "VIRGINIA DARE'S BAPTISM (LATER ENGRAVING)"},
+ {"at": "hundred", "type": "card", "text": "100+ PEOPLE", "sub": "NO BODIES · NO GRAVES", "red": true},
+ {"at": "word,", "type": "card", "text": "ONE WORD", "sfx": [["carve", 0.0]]},
+ {"at": "Croatoan.", "type": "card", "text": "CROATOAN", "red": true, "sfx_at": [["hit", "Croatoan."]]},
+ {"at": "Three", "type": "photo", "photo": "photo-island.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.08], "label": "ROANOKE ISLAND · NORTH CAROLINA"},
+ {"at": "governor,", "type": "photo", "photo": "photo-white.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "JOHN WHITE'S MAP OF THE COAST · 1585"},
+ {"at": "Virginia", "type": "photo", "photo": "photo-dare.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.1, 1.2], "label": "VIRGINIA DARE · FIRST ENGLISH CHILD BORN IN THE AMERICAS"},
+ {"at": "war", "type": "photo", "photo": "photo-armada.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "THE SPANISH ARMADA · 1588"},
+ {"at": "three", "type": "card", "text": "3 YEARS", "sub": "BEFORE HE COULD GET BACK"},
+ {"at": "August", "type": "card", "text": "AUGUST 1590", "sub": "THE SETTLEMENT WAS EMPTY", "red": true, "sfx": [["wind", 0.0]]},
+ {"at": "abandoned.", "type": "photo", "photo": "photo-fort.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "FORT RALEIGH · ROANOKE ISLAND (TODAY)"},
+ {"at": "signal.", "type": "card", "text": "THE SIGNAL:\nA CROSS", "sub": "IF THEY WERE FORCED TO LEAVE"},
+ {"at": "no", "type": "card", "text": "NO CROSS.", "red": true, "sfx": [["stamp", 0.0]]},
+ {"at": "name", "type": "photo", "photo": "photo-island.jpg", "fit": "contain", "focus": [0.3, 0.5], "zoom": [1.3, 1.45], "label": "“CROATAN” · A NEARBY ISLAND"},
+ {"at": "weather", "type": "photo", "photo": "photo-storm.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "BAD WEATHER FORCED HIM TO LEAVE"},
+ {"at": "never", "type": "card", "text": "HE NEVER FOUND\nHIS FAMILY", "red": true},
+ {"at": "join", "type": "photo", "photo": "photo-croatoan2.jpg", "focus": [0.5, 0.4], "zoom": [1.1, 1.2], "label": "JOINED THE CROATOAN? OR TAKEN? COMMENT BELOW"},
+ {"at": "Dossier", "type": "end"}
+]}
