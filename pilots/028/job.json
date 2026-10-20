@@ -1,0 +1,76 @@
+{
+ "slug": "028-valentich",
+ "pillar": "Unsolved",
+ "format": "you-decide",
+ "script": "[serious] His last words over the radio were: it's not an aircraft. Then a strange metallic noise. And then nothing. October 21st, 1978. Twenty-year-old pilot Frederick Valentich took off from Melbourne in a small Cessna, heading across the Bass Strait to King Island. It was getting dark. At seven-oh-six, he called air traffic control. Something was near him. A large aircraft, he said, with four bright lights. Controllers told him there was no known traffic at his height. He said it was orbiting him. That it had a green light, and it looked metallic. Then he reported his engine was rough idling. Asked to identify the object, he said: it's hovering, and it's not an aircraft. The microphone stayed open. Controllers heard what they described as a metallic noise. Then silence. Ships and planes searched over a thousand square miles. No wreck. No pilot. Years later, part of an engine cowl washed up on an island that may have come from his plane. Skeptics say he became disoriented in the dark and spiraled into the sea. Others say he saw something real. What did he see? You decide. This is Dossier Decoded. Case file number twenty-eight. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "valentich",
+   "query": "Frederick Valentich",
+   "n": 1
+  },
+  {
+   "slug": "cessna",
+   "query": "Cessna 182 in flight",
+   "n": 1
+  },
+  {
+   "slug": "strait",
+   "query": "Bass Strait coast Cape Otway lighthouse",
+   "n": 1
+  },
+  {
+   "slug": "king",
+   "query": "King Island Tasmania coast",
+   "n": 1
+  },
+  {
+   "slug": "night",
+   "query": "night sky over ocean stars",
+   "n": 1
+  },
+  {
+   "slug": "moorabbin",
+   "query": "Moorabbin Airport",
+   "n": 1
+  },
+  {
+   "slug": "radio",
+   "query": "air traffic control radio 1970s",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "static",
+   "text": "aircraft radio static, open microphone hiss, then a harsh metallic scraping noise, then silence",
+   "seconds": 4
+  },
+  {
+   "slug": "engine",
+   "text": "small propeller plane engine droning at night, rough idling",
+   "seconds": 4
+  }
+ ]
+}
