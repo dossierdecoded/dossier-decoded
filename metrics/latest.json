@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:57:39+00:00",
+ "updated": "2026-10-20T22:22:24+00:00",
  "youtube_channel": {
   "subscribers": 71,
   "views": 4527
@@ -889,7 +889,7 @@
    "yt": {
     "id": "TOUldQj1KCk",
     "url": "https://youtube.com/shorts/TOUldQj1KCk",
-    "views": 94,
+    "views": 99,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
@@ -898,14 +898,14 @@
    "ig": {
     "id": "17915126949522423",
     "url": "https://www.instagram.com/reel/Deux-hyj7Wh/",
-    "views": 3,
-    "reach": 0,
+    "views": 8,
+    "reach": 5,
     "likes": 0,
     "comments": 0,
-    "shares": 0,
+    "shares": 1,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "total_interactions": 1,
+    "avg_watch_sec": 8.4
    },
    "title": "His Last Words Were \"It's Not an Aircraft.\" Then He Vanished. | Frederick Valentich",
    "duration": 71.1
