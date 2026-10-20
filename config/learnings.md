@@ -14,3 +14,4 @@ Append dated lines; newest at the bottom. Production reads this before writing e
 - 2026-10-13: Second paid test started: Alcatraz long-form (L02), ~$20, same settings. Baseline: L02 2 views; channel subs at start (see metrics).
 - 2026-10-17: Gulf of Tonkin (024, war/politics, 'government lied') got 4 YouTube views in 16 h — YouTube never tested it. War/politics topics are risky for reach; prefer famous mysteries/disasters.
 - 2026-10-17: USS Cyclops (025, Bermuda-Triangle-adjacent disappearance, 65 s, you-decide) = 735 YouTube views + 127 IG in 4 h — best start ever; +3 subs. Naval/sea disappearances with a big number (306 aboard) are a winning lane.
+- 2026-10-19: TikTok dropped — YouTube + Instagram only (Tanmay).

@@ -225,3 +225,6 @@ Template: `pilots/L01/` (D. B. Cooper) — copy its `script.py` and `scenes_src.
 - Every Instagram caption ends its body with: "📂 Case File #<next case number> drops tomorrow at 5 pm ET. Follow so you don't miss it." (caption only; the video format does not change).
 - Every YouTube description (Shorts and long-forms) includes: "📸 Daily case files on Instagram: https://www.instagram.com/dossierdecoded/".
 - Ad copy (paid promotions) must be plain and factual: Google limits "clickbait" ad headlines.
+
+## 14. TikTok dropped (Tanmay, 19 Oct 2026)
+We post only to YouTube and Instagram. Do not send TikTok files or TikTok captions in nudges or check-ins. Still render <case>-ig.mp4 (it is the Instagram cut). `tiktok_caption` in draft.json is no longer needed.
