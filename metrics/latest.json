@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:25:16+00:00",
+ "updated": "2026-10-20T19:09:17+00:00",
  "youtube_channel": {
   "subscribers": 71,
   "views": 4527
@@ -431,8 +431,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-06T21:22:10Z",
-    "avg_view_pct": 49.62,
-    "avg_view_sec": 39,
+    "avg_view_pct": 50.6,
+    "avg_view_sec": 40,
     "shares": 0,
     "subs_gained": 1
    },
@@ -681,7 +681,7 @@
    "yt": {
     "id": "Vg0XGYFVrrE",
     "url": "https://youtube.com/shorts/Vg0XGYFVrrE",
-    "views": 511,
+    "views": 512,
     "likes": 19,
     "comments": 1,
     "privacy": "public",
@@ -693,7 +693,7 @@
       "at": "2026-10-15T00:19:06Z"
      }
     ],
-    "avg_view_pct": 76.28,
+    "avg_view_pct": 76.35,
     "avg_view_sec": 51,
     "shares": 0,
     "subs_gained": 0
@@ -724,7 +724,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-15T21:17:28Z",
-    "avg_view_pct": 85.15,
+    "avg_view_pct": 85.09,
     "avg_view_sec": 47,
     "shares": 1,
     "subs_gained": 0
@@ -755,8 +755,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-16T21:29:22Z",
-    "avg_view_pct": 48.08,
-    "avg_view_sec": 18,
+    "avg_view_pct": 61.25000000000001,
+    "avg_view_sec": 23,
     "shares": 0,
     "subs_gained": 0
    },
@@ -798,7 +798,7 @@
       "at": "2026-10-17T21:23:47Z"
      }
     ],
-    "avg_view_pct": 71.81,
+    "avg_view_pct": 71.76,
     "avg_view_sec": 48,
     "shares": 0,
     "subs_gained": 2
@@ -835,7 +835,11 @@
       "text": "When real life is better than any fictitious story. This is screaming to be made into a movie !",
       "at": "2026-10-19T14:01:35Z"
      }
-    ]
+    ],
+    "avg_view_pct": 57.24,
+    "avg_view_sec": 41,
+    "shares": 0,
+    "subs_gained": 1
    },
    "ig": {
     "id": "17917446354465599",
@@ -965,7 +969,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-18T16:10:09Z"
+    "published": "2026-10-18T16:10:09Z",
+    "avg_view_pct": 42.86,
+    "avg_view_sec": 204,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "The Philadelphia Experiment: Did the Navy Really Make a Ship Vanish? (Full Case File)",
    "duration": 477.5
