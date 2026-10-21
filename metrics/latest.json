@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:26:14+00:00",
+ "updated": "2026-10-21T22:56:29+00:00",
  "youtube_channel": {
   "subscribers": 77,
   "views": 4551
@@ -893,7 +893,7 @@
    "yt": {
     "id": "TOUldQj1KCk",
     "url": "https://youtube.com/shorts/TOUldQj1KCk",
-    "views": 167,
+    "views": 166,
     "likes": 6,
     "comments": 0,
     "privacy": "public",
@@ -920,7 +920,7 @@
    "yt": {
     "id": "d4ORwjxHSg4",
     "url": "https://youtube.com/shorts/d4ORwjxHSg4",
-    "views": 244,
+    "views": 251,
     "likes": 20,
     "comments": 0,
     "privacy": "public",
@@ -929,14 +929,14 @@
    "ig": {
     "id": "18142280644719350",
     "url": "https://www.instagram.com/reel/DexWuP9AF50/",
-    "views": 9,
-    "reach": 7,
+    "views": 13,
+    "reach": 11,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 17.3
+    "avg_watch_sec": 11.1
    },
    "title": "The World's Most Famous Bandleader Flew Into the Clouds and Vanished | Glenn Miller",
    "duration": 80.4
