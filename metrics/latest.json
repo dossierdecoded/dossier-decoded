@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:18:53+00:00",
+ "updated": "2026-10-21T01:10:58+00:00",
  "youtube_channel": {
   "subscribers": 71,
   "views": 4527
@@ -701,7 +701,7 @@
    "ig": {
     "id": "17914077579495099",
     "url": "https://www.instagram.com/reel/DefVXjjH_8e/",
-    "views": 55,
+    "views": 56,
     "reach": 53,
     "likes": 1,
     "comments": 0,
@@ -732,14 +732,14 @@
    "ig": {
     "id": "18137580907725834",
     "url": "https://www.instagram.com/reel/Deh59E3lw6R/",
-    "views": 42,
-    "reach": 34,
-    "likes": 0,
+    "views": 43,
+    "reach": 35,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 4.3
+    "total_interactions": 1,
+    "avg_watch_sec": 4.2
    },
    "title": "A Signal From Space Lasted 72 Seconds. It Never Came Back. | The Wow! Signal",
    "duration": 55.2
@@ -763,14 +763,14 @@
    "ig": {
     "id": "18108279632523216",
     "url": "https://www.instagram.com/reel/DekgHT3CosX/",
-    "views": 10,
-    "reach": 10,
-    "likes": 0,
+    "views": 11,
+    "reach": 11,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 5.8
+    "total_interactions": 1,
+    "avg_watch_sec": 5.3
    },
    "title": "America Went to War Over an Attack That Never Happened | Gulf of Tonkin",
    "duration": 39.0
@@ -806,13 +806,13 @@
    "ig": {
     "id": "18025859243870870",
     "url": "https://www.instagram.com/reel/DenCrBEjgGB/",
-    "views": 129,
-    "reach": 122,
-    "likes": 0,
+    "views": 130,
+    "reach": 123,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 1,
-    "total_interactions": 1,
+    "total_interactions": 2,
     "avg_watch_sec": 4.0
    },
    "title": "A Navy Ship Vanished With 306 Aboard. No Wreck Was Ever Found. | USS Cyclops",
@@ -844,13 +844,13 @@
    "ig": {
     "id": "17917446354465599",
     "url": "https://www.instagram.com/reel/DepnasvAFBH/",
-    "views": 41,
-    "reach": 39,
-    "likes": 0,
+    "views": 42,
+    "reach": 40,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
+    "total_interactions": 1,
     "avg_watch_sec": 1.9
    },
    "title": "The CIA Secretly Tried to Steal a Soviet Submarine From 3 Miles Down | Project Azorian",
@@ -871,14 +871,14 @@
    "ig": {
     "id": "18112418726126803",
     "url": "https://www.instagram.com/reel/DesM-rtkU8w/",
-    "views": 20,
-    "reach": 19,
-    "likes": 0,
+    "views": 21,
+    "reach": 20,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 3.3
+    "total_interactions": 1,
+    "avg_watch_sec": 3.1
    },
    "title": "115 People Vanished. They Left Behind One Word. | The Lost Colony of Roanoke",
    "duration": 67.2
@@ -889,8 +889,8 @@
    "yt": {
     "id": "TOUldQj1KCk",
     "url": "https://youtube.com/shorts/TOUldQj1KCk",
-    "views": 100,
-    "likes": 5,
+    "views": 116,
+    "likes": 6,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-20T21:17:58Z"
@@ -898,14 +898,14 @@
    "ig": {
     "id": "17915126949522423",
     "url": "https://www.instagram.com/reel/Deux-hyj7Wh/",
-    "views": 18,
-    "reach": 14,
-    "likes": 1,
+    "views": 37,
+    "reach": 26,
+    "likes": 4,
     "comments": 0,
     "shares": 1,
     "saved": 0,
-    "total_interactions": 2,
-    "avg_watch_sec": 13.2
+    "total_interactions": 5,
+    "avg_watch_sec": 9.1
    },
    "title": "His Last Words Were \"It's Not an Aircraft.\" Then He Vanished. | Frederick Valentich",
    "duration": 71.1
