@@ -33,5 +33,33 @@
   "license": "CC BY 4.0",
   "artist": "<a href=\"//commons.wikimedia.org/wiki/User:PASAM_NUTAN\" title=\"User:PASAM NUTAN\">PASAM NUTAN</a>",
   "page": "https://commons.wikimedia.org/wiki/File:Overcast_Skies_Looming_Over_the_City.jpg"
+ },
+ {
+  "slug": "miller-1",
+  "title": "File:Glenn Miller Billboard.jpg",
+  "license": "Public domain",
+  "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+  "page": "https://commons.wikimedia.org/wiki/File:Glenn_Miller_Billboard.jpg"
+ },
+ {
+  "slug": "miller-2",
+  "title": "File:Glen miller.jpg",
+  "license": "Public domain",
+  "artist": "US Army photographer",
+  "page": "https://commons.wikimedia.org/wiki/File:Glen_miller.jpg"
+ },
+ {
+  "slug": "miller3",
+  "title": "File:Glenn Miller Band.jpg",
+  "license": "Public domain",
+  "artist": "Unknown, 1940-1941",
+  "page": "https://commons.wikimedia.org/wiki/File:Glenn_Miller_Band.jpg"
+ },
+ {
+  "slug": "paris",
+  "title": "File:Crowds of French patriots line the Champs Elysees-edit2.jpg",
+  "license": "Public domain",
+  "artist": "<div class=\"fn value\">\nJack Downey, U.S. Office of War Information</div>",
+  "page": "https://commons.wikimedia.org/wiki/File:Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg"
  }
 ]
