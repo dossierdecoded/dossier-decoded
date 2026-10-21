@@ -1,0 +1,763 @@
+{
+ "title": "THE USS CYCLOPS",
+ "case": "025",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "In",
+   "type": "photo",
+   "photo": "photo-cyclops2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "USS CYCLOPS · US NAVY",
+   "stamp": "LOST",
+   "stamp_at": "arrived."
+  },
+  {
+   "at": "five",
+   "type": "card",
+   "text": "542 FEET\n~10,000 TONS OF ORE"
+  },
+  {
+   "at": "hundreds",
+   "type": "card",
+   "text": "306 ABOARD",
+   "sub": "THE NAVY'S USUAL COUNT",
+   "red": true
+  },
+  {
+   "at": "Baltimore",
+   "type": "card",
+   "text": "DUE IN\nBALTIMORE",
+   "sub": "13 MARCH 1918"
+  },
+  {
+   "at": "arrived.",
+   "type": "card",
+   "text": "NEVER\nARRIVED",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "distress",
+   "type": "card",
+   "text": "NO DISTRESS CALL\nNO LIFEBOAT"
+  },
+  {
+   "at": "wreckage.",
+   "type": "card",
+   "text": "NO WRECKAGE.\nNO BODIES.",
+   "red": true
+  },
+  {
+   "at": "century",
+   "type": "card",
+   "text": "ONE OF THE NAVY'S\nLARGEST NON-COMBAT\nLOSSES OF LIFE"
+  },
+  {
+   "at": "nobody",
+   "type": "card",
+   "text": "NOBODY KNOWS\nWHAT HAPPENED",
+   "red": true
+  },
+  {
+   "at": "cargo",
+   "type": "card",
+   "text": "THE CARGO · THE ENGINE\nTHE CAPTAIN · THE THEORIES"
+  },
+  {
+   "at": "disappear.",
+   "type": "photo",
+   "photo": "photo-cyclops-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "CASE FILE: THE USS CYCLOPS"
+  },
+  {
+   "at": "The",
+   "type": "card",
+   "text": "THE COLLIER",
+   "sub": "CHAPTER 2 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "collier,",
+   "type": "card",
+   "text": "A COLLIER",
+   "sub": "A FLOATING COAL DEPOT"
+  },
+  {
+   "at": "Philadelphia",
+   "type": "card",
+   "text": "LAUNCHED 1910",
+   "sub": "WILLIAM CRAMP & SONS · PHILADELPHIA"
+  },
+  {
+   "at": "fuel",
+   "type": "card",
+   "text": "FUEL FOR\nTHE FLEET"
+  },
+  {
+   "at": "towers",
+   "type": "photo",
+   "photo": "photo-cyclops-1.jpg",
+   "focus": [
+    0.55,
+    0.4
+   ],
+   "zoom": [
+    1.3,
+    1.45
+   ],
+   "label": "HER COAL-HANDLING TOWERS"
+  },
+  {
+   "at": "eight",
+   "type": "card",
+   "text": "8,000 TONS NORMAL\n10,800 TONS MAX"
+  },
+  {
+   "at": "Baltic",
+   "type": "card",
+   "text": "THE BALTIC →\nTHE CARIBBEAN"
+  },
+  {
+   "at": "Veracruz",
+   "type": "card",
+   "text": "VERACRUZ · 1914",
+   "sub": "FUEL · REFUGEES"
+  },
+  {
+   "at": "thanks",
+   "type": "card",
+   "text": "THANKED BY THE\nSTATE DEPARTMENT"
+  },
+  {
+   "at": "workhorse.",
+   "type": "card",
+   "text": "A WORKHORSE"
+  },
+  {
+   "at": "entered",
+   "type": "card",
+   "text": "1917",
+   "sub": "THE US ENTERS WORLD WAR I"
+  },
+  {
+   "at": "formally",
+   "type": "card",
+   "text": "COMMISSIONED\n1 MAY 1917",
+   "sub": "A NAVY CREW"
+  },
+  {
+   "at": "Saint-Nazaire",
+   "type": "photo",
+   "photo": "photo-stnazaire.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SAINT-NAZAIRE, FRANCE (MONUMENT TO THE 1917 LANDING)",
+   "fit": "contain"
+  },
+  {
+   "at": "Transportation",
+   "type": "card",
+   "text": "NAVAL OVERSEAS\nTRANSPORTATION\nSERVICE"
+  },
+  {
+   "at": "January",
+   "type": "card",
+   "text": "JANUARY 1918",
+   "sub": "COAL FOR BRITISH SHIPS · SOUTH AMERICA"
+  },
+  {
+   "at": "The",
+   "type": "card",
+   "text": "THE LAST VOYAGE",
+   "sub": "CHAPTER 3 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "manganese",
+   "type": "photo",
+   "photo": "photo-manganese.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "MANGANESE ORE",
+   "fit": "contain"
+  },
+  {
+   "at": "steel",
+   "type": "card",
+   "text": "FOR STEEL\nFOR THE WAR"
+  },
+  {
+   "at": "Rio",
+   "type": "card",
+   "text": "RIO DE JANEIRO",
+   "sub": "~10,800 TONS LOADED"
+  },
+  {
+   "at": "dense.",
+   "type": "card",
+   "text": "DENSE.\nHEAVY.\nLOW IN THE WATER."
+  },
+  {
+   "at": "problem.",
+   "type": "card",
+   "text": "ANOTHER\nPROBLEM",
+   "red": true
+  },
+  {
+   "at": "cracked",
+   "type": "card",
+   "text": "CRACKED\nCYLINDER",
+   "sub": "STARBOARD ENGINE",
+   "red": true,
+   "sfx": [
+    [
+     "creak",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "thousands",
+   "type": "card",
+   "text": "ONE ENGINE"
+  },
+  {
+   "at": "survey",
+   "type": "card",
+   "text": "“RETURN TO THE US\nFOR REPAIRS”",
+   "sub": "SURVEY BOARD"
+  },
+  {
+   "at": "Salvador",
+   "type": "card",
+   "text": "RIO → SALVADOR\n→ BALTIMORE"
+  },
+  {
+   "at": "ten",
+   "type": "card",
+   "text": "~10 KNOTS"
+  },
+  {
+   "at": "submarines",
+   "type": "photo",
+   "photo": "photo-uboat.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A GERMAN U-BOAT · WWI (PAINTING)",
+   "fit": "contain"
+  },
+  {
+   "at": "third",
+   "type": "card",
+   "text": "3 MARCH 1918",
+   "sub": "AN UNSCHEDULED STOP",
+   "red": true
+  },
+  {
+   "at": "Barbados.",
+   "type": "photo",
+   "photo": "photo-barbados.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "BARBADOS (TODAY)"
+  },
+  {
+   "at": "load",
+   "type": "photo",
+   "photo": "photo-plimsoll.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A SHIP'S LOAD LINE (EXAMPLE)",
+   "fit": "contain"
+  },
+  {
+   "at": "fourth",
+   "type": "card",
+   "text": "4 MARCH 1918",
+   "sub": "SAILS FOR BALTIMORE"
+  },
+  {
+   "at": "last",
+   "type": "photo",
+   "photo": "photo-cyclops2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.25
+   ],
+   "label": "LAST SEEN",
+   "sfx": [
+    [
+     "telegraph",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Her",
+   "type": "card",
+   "text": "THE CAPTAIN",
+   "sub": "CHAPTER 4 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Worley.",
+   "type": "photo",
+   "photo": "photo-worley.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CAPT. GEORGE WORLEY",
+   "fit": "contain"
+  },
+  {
+   "at": "Germany,",
+   "type": "card",
+   "text": "BORN IN GERMANY",
+   "sub": "AS JOHAN FREDERICK WICHMANN"
+  },
+  {
+   "at": "jumping",
+   "type": "card",
+   "text": "JUMPED SHIP",
+   "sub": "SAN FRANCISCO"
+  },
+  {
+   "at": "saloon",
+   "type": "card",
+   "text": "A SALOON",
+   "sub": "THE BARBARY COAST"
+  },
+  {
+   "at": "reserve.",
+   "type": "card",
+   "text": "NAVAL RESERVE\n1917"
+  },
+  {
+   "at": "abusive",
+   "type": "card",
+   "text": "“ABUSIVE”\n“VIOLENT”",
+   "sub": "FORMER CREW",
+   "red": true
+  },
+  {
+   "at": "pistol.",
+   "type": "card",
+   "text": "A PISTOL"
+  },
+  {
+   "at": "underwear",
+   "type": "card",
+   "text": "LONG UNDERWEAR\nAND A DERBY HAT"
+  },
+  {
+   "at": "pro-German.",
+   "type": "card",
+   "text": "“PRO-GERMAN”?",
+   "red": true
+  },
+  {
+   "at": "consul",
+   "type": "card",
+   "text": "THE CONSUL'S\nTELEGRAM",
+   "sub": "BARBADOS",
+   "sfx": [
+    [
+     "telegraph",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "engines",
+   "type": "card",
+   "text": "“ENGINES VERY\nPOOR CONDITION”"
+  },
+  {
+   "at": "Germanic",
+   "type": "card",
+   "text": "“MANY GERMANIC\nNAMES”"
+  },
+  {
+   "at": "fear",
+   "type": "card",
+   "text": "“I FEAR FATE\nWORSE THAN\nSINKING”",
+   "sub": "CONSUL LIVINGSTON",
+   "red": true
+  },
+  {
+   "at": "proven.",
+   "type": "card",
+   "text": "NEVER PROVEN"
+  },
+  {
+   "at": "betrayed",
+   "type": "photo",
+   "photo": "photo-worley.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "BETRAYED BY HER CAPTAIN?",
+   "fit": "contain"
+  },
+  {
+   "at": "The",
+   "type": "card",
+   "text": "OVERDUE",
+   "sub": "CHAPTER 5 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "thirteenth",
+   "type": "card",
+   "text": "DUE 13 MARCH"
+  },
+  {
+   "at": "slow.",
+   "type": "card",
+   "text": "ONE ENGINE\n= SLOW?"
+  },
+  {
+   "at": "Nothing.",
+   "type": "card",
+   "text": "NOTHING.",
+   "red": true
+  },
+  {
+   "at": "tanker",
+   "type": "card",
+   "text": "A SIGHTING?",
+   "sub": "9 MARCH · OFF VIRGINIA"
+  },
+  {
+   "at": "denied",
+   "type": "card",
+   "text": "DENIED",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "April",
+   "type": "card",
+   "text": "APRIL 1918",
+   "sub": "FRONT-PAGE NEWS"
+  },
+  {
+   "at": "vanish.",
+   "type": "card",
+   "text": "IT COULD NOT\nJUST VANISH"
+  },
+  {
+   "at": "June",
+   "type": "photo",
+   "photo": "photo-fdr.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FRANKLIN D. ROOSEVELT (CENTRE), 1918 · ASSISTANT NAVY SECRETARY",
+   "fit": "contain"
+  },
+  {
+   "at": "lost",
+   "type": "card",
+   "text": "“LOST WITH\nALL HANDS”",
+   "sub": "1 JUNE 1918",
+   "red": true
+  },
+  {
+   "at": "investigation",
+   "type": "card",
+   "text": "“NONE THAT\nSATISFACTORILY\nACCOUNTS FOR HER\nDISAPPEARANCE”",
+   "sub": "THE NAVY'S INVESTIGATION"
+  },
+  {
+   "at": "Gottschalk,",
+   "type": "card",
+   "text": "ALFRED GOTTSCHALK",
+   "sub": "US CONSUL GENERAL · RIO"
+  },
+  {
+   "at": "settled.",
+   "type": "card",
+   "text": "306? 293? 231?",
+   "sub": "THE RECORDS DISAGREE"
+  },
+  {
+   "at": "families",
+   "type": "card",
+   "text": "THE FAMILIES NEVER\nGOT AN ANSWER"
+  },
+  {
+   "at": "funerals",
+   "type": "card",
+   "text": "NO COFFINS.\nNO GRAVES."
+  },
+  {
+   "at": "So",
+   "type": "card",
+   "text": "WHAT HAPPENED",
+   "sub": "CHAPTER 6 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "enemy.",
+   "type": "photo",
+   "photo": "photo-uboat.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "1 · A GERMAN U-BOAT?",
+   "fit": "contain"
+  },
+  {
+   "at": "records",
+   "type": "card",
+   "text": "NO GERMAN CLAIM",
+   "red": true
+  },
+  {
+   "at": "Worley.",
+   "type": "card",
+   "text": "2 · SABOTAGE?\nMUTINY?",
+   "sub": "NO EVIDENCE"
+  },
+  {
+   "at": "Bermuda",
+   "type": "card",
+   "text": "3 · THE BERMUDA\nTRIANGLE?",
+   "sub": "A LATER IDEA"
+  },
+  {
+   "at": "tenth",
+   "type": "photo",
+   "photo": "photo-virginia.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CAPE HENRY, VIRGINIA (TODAY)",
+   "fit": "contain"
+  },
+  {
+   "at": "historians",
+   "type": "card",
+   "text": "“PROBABLY SANK IN\nAN UNEXPECTED\nSTORM”",
+   "sub": "NAVY HISTORIANS"
+  },
+  {
+   "at": "Picture",
+   "type": "photo",
+   "photo": "photo-wave.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HEAVY SEAS (ILLUSTRATION)",
+   "sfx": [
+    [
+     "waves",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Loaded",
+   "type": "card",
+   "text": "1 ENGINE\nFULL LOAD\nA STORM",
+   "red": true
+  },
+  {
+   "at": "Lloyd's",
+   "type": "card",
+   "text": "THE ORE\nCOULD SHIFT",
+   "sub": "LLOYD'S OF LONDON EXPERT · 2009"
+  },
+  {
+   "at": "broke",
+   "type": "card",
+   "text": "THE HULL\nBROKE?",
+   "red": true,
+   "sfx": [
+    [
+     "creak",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "admiral",
+   "type": "card",
+   "text": "ERODED\nSTEEL BEAMS?",
+   "sub": "A RETIRED ADMIRAL'S THEORY"
+  },
+  {
+   "at": "message.",
+   "type": "card",
+   "text": "NO TIME FOR\nA MESSAGE"
+  },
+  {
+   "at": "sister",
+   "type": "card",
+   "text": "HER SISTER SHIPS"
+  },
+  {
+   "at": "Proteus",
+   "type": "photo",
+   "photo": "photo-nereus.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SISTER SHIP USS NEREUS · LOST 1941",
+   "fit": "contain"
+  },
+  {
+   "at": "vanished",
+   "type": "card",
+   "text": "1941 · BOTH\nVANISHED",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Same",
+   "type": "card",
+   "text": "SAME DESIGN.\nSAME CARGO.\nSAME SILENCE."
+  },
+  {
+   "at": "storm,",
+   "type": "card",
+   "text": "STORM? DESIGN FLAW?\nSOMETHING ELSE?"
+  },
+  {
+   "at": "Tell",
+   "type": "card",
+   "text": "WHAT DO\nYOU THINK?",
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}

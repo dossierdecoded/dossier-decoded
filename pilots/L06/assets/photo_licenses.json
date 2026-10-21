@@ -61,5 +61,54 @@
   "license": "CC BY-SA 3.0",
   "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Buonasera\" title=\"User:Buonasera\">Buonasera</a>",
   "page": "https://commons.wikimedia.org/wiki/File:Wasser_%C3%BCber_Deck_und_Luken_WNA.png"
+ },
+ {
+  "slug": "proteus",
+  "title": "File:Proteus.ac9.JPG",
+  "license": "Public domain",
+  "artist": "US Navy",
+  "page": "https://commons.wikimedia.org/wiki/File:Proteus.ac9.JPG"
+ },
+ {
+  "slug": "sea",
+  "title": "File:Porto Covo January 2014-10a.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Alvesgaspar\" title=\"User:Alvesgaspar\">Alvesgaspar</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Porto_Covo_January_2014-10a.jpg"
+ },
+ {
+  "slug": "cyclops-1",
+  "title": "File:USS Cyclops in Hudson River 19111003.jpg",
+  "license": "Public domain",
+  "artist": "Photograph was taken by the New York Navy Yard.",
+  "page": "https://commons.wikimedia.org/wiki/File:USS_Cyclops_in_Hudson_River_19111003.jpg"
+ },
+ {
+  "slug": "cyclops-2",
+  "title": "File:Plans for the USS Cyclops (AC-4) - NARA - 88697598.jpg",
+  "license": "Public domain",
+  "artist": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+  "page": "https://commons.wikimedia.org/wiki/File:Plans_for_the_USS_Cyclops_(AC-4)_-_NARA_-_88697598.jpg"
+ },
+ {
+  "slug": "cyclops2",
+  "title": "File:USS Cyclops (1910-1918) - 19-N-13451.jpg",
+  "license": "Public domain",
+  "artist": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+  "page": "https://commons.wikimedia.org/wiki/File:USS_Cyclops_(1910-1918)_-_19-N-13451.jpg"
+ },
+ {
+  "slug": "worley",
+  "title": "File:George W Worley.jpg",
+  "license": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:George_W_Worley.jpg"
+ },
+ {
+  "slug": "barbados",
+  "title": "File:Approaching Barbados - Bridgetown Harbour - panoramio.jpg",
+  "license": "CC BY 3.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161026181925/http://www.panoramio.com/user/2134453?with_photo_id=84007908\">David Broad</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Approaching_Barbados_-_Bridgetown_Harbour_-_panoramio.jpg"
  }
 ]
