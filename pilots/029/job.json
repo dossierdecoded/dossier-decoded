@@ -1,0 +1,76 @@
+{
+ "slug": "029-glenn-miller",
+ "pillar": "Unsolved",
+ "format": "you-decide",
+ "script": "[serious] He was the most famous bandleader in the world. And in 1944, his plane flew into the clouds over the English Channel and was never seen again. Major Glenn Miller led the U.S. Army Air Force band. His music was the sound of the Second World War. On December 15th, 1944, he was due in Paris to prepare a Christmas concert for the troops. The weather was bad. Fog had grounded flights for days. But a small, single-engine Norseman took off from Twinwood Farm in England, with Miller, an Army colonel, and their pilot aboard. Observers saw a plane like it heading out over the Channel, on course. It never reached Paris. No wreckage. No bodies. Because the Battle of the Bulge had just begun, he wasn't reported missing for days. Decades later, a British navigator claimed his bomber had dumped its bombs over the Channel that day, and he saw them hit a small plane below. But there's no record of that story until years after the war. Others blame the weather, or a mechanical fault. Accident, or friendly fire? You decide. This is Dossier Decoded. Case file number twenty-nine. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "miller",
+   "query": "Glenn Miller uniform portrait 1942",
+   "n": 2
+  },
+  {
+   "slug": "band",
+   "query": "Glenn Miller Army Air Force Band performing",
+   "n": 1
+  },
+  {
+   "slug": "norseman",
+   "query": "UC-64 Norseman aircraft",
+   "n": 1
+  },
+  {
+   "slug": "twinwood",
+   "query": "Twinwood Farm airfield control tower",
+   "n": 1
+  },
+  {
+   "slug": "channel",
+   "query": "English Channel cliffs Beachy Head",
+   "n": 1
+  },
+  {
+   "slug": "lancaster",
+   "query": "Avro Lancaster bomber in flight 1944",
+   "n": 1
+  },
+  {
+   "slug": "clouds",
+   "query": "overcast clouds grey sky",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "engine",
+   "text": "single propeller plane engine droning in heavy clouds, fading away",
+   "seconds": 4
+  },
+  {
+   "slug": "swing",
+   "text": "faint distant 1940s big band swing music echo, muffled, nostalgic, no vocals",
+   "seconds": 4
+  }
+ ]
+}
