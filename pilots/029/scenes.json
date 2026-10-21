@@ -1,0 +1,21 @@
+{"title": "THE GLENN MILLER MYSTERY", "case": "029", "scenes": [
+ {"at": "He", "type": "photo", "photo": "photo-miller-2.jpg", "fit": "contain", "focus": [0.5, 0.35], "zoom": [1.0, 1.1], "label": "MAJOR GLENN MILLER · US ARMY AIR FORCES", "stamp": "MISSING", "stamp_at": "again."},
+ {"at": "Major", "type": "photo", "photo": "photo-miller-1.jpg", "focus": [0.55, 0.4], "zoom": [1.0, 1.1], "label": "GLENN MILLER"},
+ {"at": "band.", "type": "photo", "photo": "photo-miller3.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "THE GLENN MILLER ORCHESTRA · 1940–41", "sfx": [["swing", 0.0]]},
+ {"at": "sound", "type": "card", "text": "THE SOUND OF\nWORLD WAR II"},
+ {"at": "December", "type": "card", "text": "15 DEC 1944", "sub": "ENGLAND → PARIS"},
+ {"at": "Paris", "type": "photo", "photo": "photo-paris.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "PARIS, LIBERATED · AUGUST 1944"},
+ {"at": "weather", "type": "card", "text": "FOG. DRIZZLE.\nLOW CLOUD.", "sub": "FLIGHTS GROUNDED FOR DAYS"},
+ {"at": "Norseman", "type": "card", "text": "A SMALL\nSINGLE-ENGINE\nPLANE", "sub": "UC-64 NORSEMAN", "sfx": [["engine", 0.0]]},
+ {"at": "Twinwood", "type": "photo", "photo": "photo-twinwood.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "RAF TWINWOOD FARM (RAF AERIAL, 1948)"},
+ {"at": "Observers", "type": "card", "text": "LAST SEEN", "sub": "HEADING OUT OVER THE CHANNEL"},
+ {"at": "never", "type": "card", "text": "NEVER\nREACHED PARIS", "red": true, "sfx_at": [["hit", "never"]]},
+ {"at": "wreckage.", "type": "card", "text": "NO WRECKAGE.\nNO BODIES.", "red": true, "sfx": [["stamp", 0.0]]},
+ {"at": "Bulge", "type": "card", "text": "THE BATTLE\nOF THE BULGE", "sub": "HIS LOSS WENT UNREPORTED FOR DAYS"},
+ {"at": "navigator", "type": "photo", "photo": "photo-lancaster.jpg", "focus": [0.5, 0.45], "zoom": [1.0, 1.12], "label": "RAF LANCASTER BOMBERS"},
+ {"at": "hit", "type": "card", "text": "BOMBS HIT\nA SMALL PLANE?", "red": true},
+ {"at": "record", "type": "card", "text": "NO RECORD OF IT\nUNTIL YEARS LATER", "sub": "SKEPTICS"},
+ {"at": "blame", "type": "card", "text": "WEATHER?\nMECHANICAL FAULT?"},
+ {"at": "Accident,", "type": "photo", "photo": "photo-miller-2.jpg", "fit": "contain", "focus": [0.5, 0.35], "zoom": [1.1, 1.2], "label": "ACCIDENT OR FRIENDLY FIRE? COMMENT BELOW"},
+ {"at": "Dossier", "type": "end"}
+]}
