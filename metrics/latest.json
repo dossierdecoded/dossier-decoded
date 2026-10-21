@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-21T21:03:07+00:00",
+ "updated": "2026-10-21T21:23:11+00:00",
  "youtube_channel": {
   "subscribers": 74,
   "views": 4551
  },
  "instagram_account": {
   "followers_count": 6,
-  "media_count": 29,
+  "media_count": 30,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -913,6 +913,33 @@
    },
    "title": "His Last Words Were \"It's Not an Aircraft.\" Then He Vanished. | Frederick Valentich",
    "duration": 71.1
+  },
+  {
+   "case": "029",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "d4ORwjxHSg4",
+    "url": "https://youtube.com/shorts/d4ORwjxHSg4",
+    "views": 6,
+    "likes": 2,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-21T21:17:28Z"
+   },
+   "ig": {
+    "id": "18142280644719350",
+    "url": "https://www.instagram.com/reel/DexWuP9AF50/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "The World's Most Famous Bandleader Flew Into the Clouds and Vanished | Glenn Miller",
+   "duration": 80.4
   },
   {
    "case": "L01",
