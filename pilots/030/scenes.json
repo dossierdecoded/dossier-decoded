@@ -1,0 +1,22 @@
+{"title": "THE PRIME MINISTER WHO VANISHED", "case": "030", "scenes": [
+ {"at": "In", "type": "photo", "photo": "photo-holt3.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "HAROLD HOLT AT PORTSEA", "stamp": "NEVER FOUND", "stamp_at": "again."},
+ {"at": "December", "type": "card", "text": "17 DEC 1967", "sub": "CHEVIOT BEACH · NEAR MELBOURNE"},
+ {"at": "Harold", "type": "photo", "photo": "photo-holt-2.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.0, 1.1], "label": "HAROLD HOLT · PRIME MINISTER OF AUSTRALIA"},
+ {"at": "Cheviot", "type": "photo", "photo": "photo-cheviot.jpg", "focus": [0.75, 0.35], "zoom": [1.3, 1.4], "label": "CHEVIOT BEACH COAST (TODAY)", "sfx": [["surf", 0.0]]},
+ {"at": "spearfisherman.", "type": "photo", "photo": "photo-holt3.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.1, 1.2], "label": "A KEEN SPEARFISHER"},
+ {"at": "huge.", "type": "card", "text": "HUGE SURF", "sub": "A STRONG UNDERTOW", "red": true},
+ {"at": "dangerous", "type": "card", "text": "“TOO DANGEROUS”", "sub": "HIS FRIENDS"},
+ {"at": "anyway.", "type": "card", "text": "HE WENT IN\nANYWAY", "red": true},
+ {"at": "boil", "type": "card", "text": "THE WATER\n“SEEMED TO BOIL”", "sfx": [["surf", 0.0]]},
+ {"at": "gone.", "type": "card", "text": "GONE.", "red": true, "sfx_at": [["hit", "gone."]]},
+ {"at": "largest", "type": "card", "text": "ONE OF AUSTRALIA'S\nLARGEST SEARCHES", "sub": "DIVERS · HELICOPTERS · HUNDREDS OF SEARCHERS"},
+ {"at": "Nothing.", "type": "card", "text": "NO BODY\nWAS EVER FOUND", "red": true, "sfx": [["stamp", 0.0]]},
+ {"at": "world", "type": "card", "text": "WORLD LEADERS\nFLY IN", "sub": "INCLUDING PRESIDENT LYNDON JOHNSON"},
+ {"at": "theories", "type": "card", "text": "THE THEORIES", "red": true},
+ {"at": "spy,", "type": "card", "text": "A SPY?\nA CHINESE\nSUBMARINE?"},
+ {"at": "wife's", "type": "card", "text": "“HE DIDN'T EVEN\nLIKE CHINESE\nCOOKING”", "sub": "ZARA HOLT"},
+ {"at": "2005,", "type": "card", "text": "2005 · CORONER:\n“DROWNED”", "sub": "“TOOK AN UNNECESSARY RISK”"},
+ {"at": "swimming", "type": "photo", "photo": "photo-pool.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "HAROLD HOLT MEMORIAL SWIMMING CENTRE · MELBOURNE"},
+ {"at": "Accident,", "type": "photo", "photo": "photo-holt-1.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.05, 1.15], "label": "ACCIDENT OR SOMETHING ELSE? COMMENT BELOW"},
+ {"at": "Dossier", "type": "end"}
+]}
