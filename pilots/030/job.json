@@ -1,0 +1,66 @@
+{
+ "slug": "030-harold-holt",
+ "pillar": "Unsolved",
+ "format": "you-decide",
+ "script": "[serious] In 1967, a sitting prime minister walked into the ocean, and was never seen again. December 17th. Harold Holt, Prime Minister of Australia, drove to Cheviot Beach near Melbourne with a few friends. He was fifty-nine, and a keen spearfisherman. The surf that day was huge. The others thought it was too dangerous to swim. Holt went in anyway. His friends watched him swim out, and then the water seemed to boil around him. And he was gone. What followed was one of the largest search operations in Australian history. Divers, helicopters, hundreds of searchers. Nothing. No body was ever found. Within days, world leaders, including the American president, flew to Melbourne for his memorial service. Then the theories began. That he was a spy, picked up by a Chinese submarine. His wife's reply: he didn't even like Chinese cooking. In 2005, a coroner ruled he took an unnecessary risk and drowned. And one detail still makes people laugh. A swimming pool in Melbourne was named in his honor. Accident, or something else? You decide. This is Dossier Decoded. Case file number thirty. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "holt",
+   "query": "Harold Holt prime minister portrait",
+   "n": 2
+  },
+  {
+   "slug": "holt3",
+   "query": "Harold Holt 1966",
+   "n": 1
+  },
+  {
+   "slug": "cheviot",
+   "query": "Cheviot Beach Point Nepean",
+   "n": 1
+  },
+  {
+   "slug": "surf",
+   "query": "rough surf Bass Strait ocean waves",
+   "n": 1
+  },
+  {
+   "slug": "lbj",
+   "query": "Lyndon Johnson Australia 1967 Holt memorial",
+   "n": 1
+  },
+  {
+   "slug": "pool",
+   "query": "Harold Holt Memorial Swimming Centre",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "surf",
+   "text": "heavy ocean surf crashing on a beach, wind, seagulls distant",
+   "seconds": 4
+  }
+ ]
+}
