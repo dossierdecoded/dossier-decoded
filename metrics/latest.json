@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-22T16:00:25+00:00",
+ "updated": "2026-10-22T16:23:02+00:00",
  "youtube_channel": {
   "subscribers": 81,
-  "views": 5253
+  "views": 6317
  },
  "instagram_account": {
-  "followers_count": 7,
+  "followers_count": 6,
   "media_count": 30,
   "username": "dossierdecoded"
  },
@@ -893,7 +893,7 @@
    "yt": {
     "id": "TOUldQj1KCk",
     "url": "https://youtube.com/shorts/TOUldQj1KCk",
-    "views": 187,
+    "views": 189,
     "likes": 8,
     "comments": 0,
     "privacy": "public",
@@ -920,7 +920,7 @@
    "yt": {
     "id": "d4ORwjxHSg4",
     "url": "https://youtube.com/shorts/d4ORwjxHSg4",
-    "views": 1033,
+    "views": 1034,
     "likes": 51,
     "comments": 1,
     "privacy": "public",
@@ -1042,6 +1042,21 @@
    },
    "title": "The Philadelphia Experiment: Did the Navy Really Make a Ship Vanish? (Full Case File)",
    "duration": 477.5
+  },
+  {
+   "case": "L06",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "Ae7ZYf7I5rU",
+    "url": "https://youtube.com/watch?v=Ae7ZYf7I5rU",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-22T16:21:10Z"
+   },
+   "title": "USS Cyclops: The Navy Ship That Vanished With 306 Aboard (Full Case File)",
+   "duration": 498.6
   }
  ],
  "carousels": [
