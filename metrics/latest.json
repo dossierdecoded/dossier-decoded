@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-22T20:58:47+00:00",
+ "updated": "2026-10-22T21:22:34+00:00",
  "youtube_channel": {
   "subscribers": 81,
   "views": 6317
  },
  "instagram_account": {
   "followers_count": 6,
-  "media_count": 30,
+  "media_count": 31,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -781,7 +781,7 @@
    "yt": {
     "id": "-8Gg_MQnbrw",
     "url": "https://youtube.com/shorts/-8Gg_MQnbrw",
-    "views": 1036,
+    "views": 1035,
     "likes": 26,
     "comments": 2,
     "privacy": "public",
@@ -893,7 +893,7 @@
    "yt": {
     "id": "TOUldQj1KCk",
     "url": "https://youtube.com/shorts/TOUldQj1KCk",
-    "views": 190,
+    "views": 194,
     "likes": 8,
     "comments": 0,
     "privacy": "public",
@@ -924,7 +924,7 @@
    "yt": {
     "id": "d4ORwjxHSg4",
     "url": "https://youtube.com/shorts/d4ORwjxHSg4",
-    "views": 1035,
+    "views": 1034,
     "likes": 51,
     "comments": 1,
     "privacy": "public",
@@ -940,17 +940,44 @@
    "ig": {
     "id": "18142280644719350",
     "url": "https://www.instagram.com/reel/DexWuP9AF50/",
-    "views": 59,
-    "reach": 52,
+    "views": 60,
+    "reach": 53,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 5.7
+    "avg_watch_sec": 5.6
    },
    "title": "The World's Most Famous Bandleader Flew Into the Clouds and Vanished | Glenn Miller",
    "duration": 80.4
+  },
+  {
+   "case": "030",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "qMQ-HQE7GnI",
+    "url": "https://youtube.com/shorts/qMQ-HQE7GnI",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-22T21:18:41Z"
+   },
+   "ig": {
+    "id": "17964913293232280",
+    "url": "https://www.instagram.com/reel/Dez7oJhjE4Y/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "A Prime Minister Walked Into the Ocean and Was Never Seen Again | Harold Holt",
+   "duration": 67.5
   },
   {
    "case": "L01",
