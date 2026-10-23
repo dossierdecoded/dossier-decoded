@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:26:34+00:00",
+ "updated": "2026-10-23T06:26:16+00:00",
  "youtube_channel": {
   "subscribers": 81,
   "views": 6317
@@ -233,7 +233,7 @@
    "yt": {
     "id": "rdrsTE9EGJc",
     "url": "https://youtube.com/shorts/rdrsTE9EGJc",
-    "views": 17,
+    "views": 19,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -798,8 +798,8 @@
       "at": "2026-10-17T21:23:47Z"
      }
     ],
-    "avg_view_pct": 71.66,
-    "avg_view_sec": 48,
+    "avg_view_pct": 71.58,
+    "avg_view_sec": 47,
     "shares": 0,
     "subs_gained": 2
    },
@@ -893,7 +893,7 @@
    "yt": {
     "id": "TOUldQj1KCk",
     "url": "https://youtube.com/shorts/TOUldQj1KCk",
-    "views": 194,
+    "views": 201,
     "likes": 8,
     "comments": 0,
     "privacy": "public",
@@ -924,7 +924,7 @@
    "yt": {
     "id": "d4ORwjxHSg4",
     "url": "https://youtube.com/shorts/d4ORwjxHSg4",
-    "views": 1034,
+    "views": 1038,
     "likes": 51,
     "comments": 1,
     "privacy": "public",
@@ -958,23 +958,30 @@
    "yt": {
     "id": "qMQ-HQE7GnI",
     "url": "https://youtube.com/shorts/qMQ-HQE7GnI",
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
+    "views": 68,
+    "likes": 3,
+    "comments": 1,
     "privacy": "public",
-    "published": "2026-10-22T21:18:41Z"
+    "published": "2026-10-22T21:18:41Z",
+    "comment_text": [
+     {
+      "author": "@78411361",
+      "text": "Good stuff\ud83d\ude2e",
+      "at": "2026-10-22T21:53:19Z"
+     }
+    ]
    },
    "ig": {
     "id": "17964913293232280",
     "url": "https://www.instagram.com/reel/Dez7oJhjE4Y/",
-    "views": 0,
-    "reach": 0,
-    "likes": 0,
+    "views": 69,
+    "reach": 64,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "total_interactions": 1,
+    "avg_watch_sec": 6.1
    },
    "title": "A Prime Minister Walked Into the Ocean and Was Never Seen Again | Harold Holt",
    "duration": 67.5
@@ -1023,7 +1030,7 @@
    "yt": {
     "id": "q4Vax-_VW2Q",
     "url": "https://youtube.com/watch?v=q4Vax-_VW2Q",
-    "views": 19,
+    "views": 22,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1061,7 +1068,7 @@
    "yt": {
     "id": "TcbPukLf_Q8",
     "url": "https://youtube.com/watch?v=TcbPukLf_Q8",
-    "views": 40,
+    "views": 47,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
