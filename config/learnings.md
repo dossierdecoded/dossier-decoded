@@ -17,3 +17,4 @@ Append dated lines; newest at the bottom. Production reads this before writing e
 - 2026-10-19: TikTok dropped — YouTube + Instagram only (Tanmay).
 - 2026-10-21: Glenn Miller (029, famous name + disappearance + real archive photos, 80 s) = 987 YouTube views in 6 h, +9 subs (71→80). Famous name + vanished + real photos is the formula; length 80 s did not hurt.
 - 2026-10-22: Paid promotion running on L05 (Philadelphia documentary) until Sun 25 Oct (Tanmay). Judge L05 view growth with that in mind.
+- 2026-10-23: Harold Holt (030) = 68 YouTube views in 9 h despite famous-name formula — name must be famous to AMERICANS (our audience). IG fine (69).
