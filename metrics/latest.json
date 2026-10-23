@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:19:48+00:00",
+ "updated": "2026-10-23T19:07:21+00:00",
  "youtube_channel": {
   "subscribers": 80,
   "views": 6432
@@ -655,8 +655,8 @@
       "at": "2026-10-13T22:25:51Z"
      }
     ],
-    "avg_view_pct": 93.09,
-    "avg_view_sec": 35,
+    "avg_view_pct": 95.75,
+    "avg_view_sec": 36,
     "shares": 0,
     "subs_gained": 0
    },
@@ -693,8 +693,8 @@
       "at": "2026-10-15T00:19:06Z"
      }
     ],
-    "avg_view_pct": 76.35,
-    "avg_view_sec": 51,
+    "avg_view_pct": 76.97,
+    "avg_view_sec": 52,
     "shares": 0,
     "subs_gained": 0
    },
@@ -724,7 +724,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-15T21:17:28Z",
-    "avg_view_pct": 85.09,
+    "avg_view_pct": 85.17,
     "avg_view_sec": 47,
     "shares": 1,
     "subs_gained": 0
@@ -755,8 +755,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-16T21:29:22Z",
-    "avg_view_pct": 67.92,
-    "avg_view_sec": 26,
+    "avg_view_pct": 70.35,
+    "avg_view_sec": 27,
     "shares": 0,
     "subs_gained": 0
    },
@@ -798,7 +798,7 @@
       "at": "2026-10-17T21:23:47Z"
      }
     ],
-    "avg_view_pct": 71.58,
+    "avg_view_pct": 71.61,
     "avg_view_sec": 47,
     "shares": 0,
     "subs_gained": 2
@@ -836,7 +836,7 @@
       "at": "2026-10-19T14:01:35Z"
      }
     ],
-    "avg_view_pct": 60.760000000000005,
+    "avg_view_pct": 60.980000000000004,
     "avg_view_sec": 43,
     "shares": 0,
     "subs_gained": 1
@@ -867,7 +867,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-19T21:16:14Z",
-    "avg_view_pct": 59.37,
+    "avg_view_pct": 59.45,
     "avg_view_sec": 40,
     "shares": 0,
     "subs_gained": 0
@@ -898,8 +898,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-20T21:17:58Z",
-    "avg_view_pct": 56.8,
-    "avg_view_sec": 40,
+    "avg_view_pct": 54.74,
+    "avg_view_sec": 39,
     "shares": 2,
     "subs_gained": 0
    },
@@ -935,7 +935,11 @@
       "text": "Thank you for the information.",
       "at": "2026-10-22T00:49:06Z"
      }
-    ]
+    ],
+    "avg_view_pct": 63.88,
+    "avg_view_sec": 51,
+    "shares": 2,
+    "subs_gained": 4
    },
    "ig": {
     "id": "18142280644719350",
@@ -974,14 +978,14 @@
    "ig": {
     "id": "17964913293232280",
     "url": "https://www.instagram.com/reel/Dez7oJhjE4Y/",
-    "views": 92,
-    "reach": 85,
+    "views": 96,
+    "reach": 89,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "avg_watch_sec": 6.6
+    "avg_watch_sec": 6.3
    },
    "title": "A Prime Minister Walked Into the Ocean and Was Never Seen Again | Harold Holt",
    "duration": 67.5
@@ -1073,8 +1077,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 29.56,
-    "avg_view_sec": 141,
+    "avg_view_pct": 29.25,
+    "avg_view_sec": 139,
     "shares": 0,
     "subs_gained": 0
    },
