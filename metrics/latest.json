@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-23T20:57:31+00:00",
+ "updated": "2026-10-23T21:22:34+00:00",
  "youtube_channel": {
   "subscribers": 81,
   "views": 6432
  },
  "instagram_account": {
   "followers_count": 6,
-  "media_count": 31,
+  "media_count": 32,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -979,16 +979,43 @@
     "id": "17964913293232280",
     "url": "https://www.instagram.com/reel/Dez7oJhjE4Y/",
     "views": 98,
-    "reach": 91,
+    "reach": 92,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "avg_watch_sec": 6.9
+    "avg_watch_sec": 7.0
    },
    "title": "A Prime Minister Walked Into the Ocean and Was Never Seen Again | Harold Holt",
    "duration": 67.5
+  },
+  {
+   "case": "031",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "su-ANClAuUU",
+    "url": "https://youtube.com/shorts/su-ANClAuUU",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-23T21:17:12Z"
+   },
+   "ig": {
+    "id": "17955170448277036",
+    "url": "https://www.instagram.com/reel/De2gR0HGdIK/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "A New York Judge Destroyed His Files, Then Vanished Forever | Judge Crater",
+   "duration": 61.5
   },
   {
    "case": "L01",
