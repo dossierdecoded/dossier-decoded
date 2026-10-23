@@ -1,0 +1,71 @@
+{
+ "slug": "031-judge-crater",
+ "pillar": "Unsolved",
+ "format": "you-decide",
+ "script": "[serious] On the morning he vanished, a New York judge spent two hours destroying his own files. August 6th, 1930. Joseph Force Crater was a justice of the New York Supreme Court, appointed just four months earlier by Governor Franklin Roosevelt. That morning, he went through his papers. He had his clerk cash two checks worth over five thousand dollars. And the two of them carried two locked briefcases to his apartment. Those briefcases were never found. That evening, he had dinner at a chophouse on West 45th Street with a friend and a showgirl. He had a ticket to a Broadway show. He said goodbye outside the restaurant. And he was never seen again. Nobody raised the alarm for almost four weeks. The newspapers called him the missingest man in America. In 2005, a widow left behind a note claiming a police officer had killed him, and buried him under Coney Island. Nothing was ever found. Did he run, or was he silenced? You decide. This is Dossier Decoded. Case file number thirty-one. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "crater",
+   "query": "Joseph Force Crater",
+   "n": 2
+  },
+  {
+   "slug": "poster",
+   "query": "Judge Crater missing poster",
+   "n": 1
+  },
+  {
+   "slug": "times",
+   "query": "Times Square 1930",
+   "n": 1
+  },
+  {
+   "slug": "belasco",
+   "query": "Belasco Theatre New York",
+   "n": 1
+  },
+  {
+   "slug": "fdr",
+   "query": "Franklin Roosevelt governor of New York 1930",
+   "n": 1
+  },
+  {
+   "slug": "coney",
+   "query": "Coney Island boardwalk 1930s",
+   "n": 1
+  },
+  {
+   "slug": "taxi",
+   "query": "New York taxi 1930s street",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "street",
+   "text": "1930s New York street at night, distant car horns, footsteps, rain",
+   "seconds": 4
+  }
+ ]
+}
