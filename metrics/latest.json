@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T20:17:34+00:00",
+ "updated": "2026-10-23T20:57:31+00:00",
  "youtube_channel": {
-  "subscribers": 80,
+  "subscribers": 81,
   "views": 6432
  },
  "instagram_account": {
@@ -824,7 +824,7 @@
    "yt": {
     "id": "vkY7Os9x2Mo",
     "url": "https://youtube.com/shorts/vkY7Os9x2Mo",
-    "views": 190,
+    "views": 189,
     "likes": 7,
     "comments": 1,
     "privacy": "public",
@@ -962,7 +962,7 @@
    "yt": {
     "id": "qMQ-HQE7GnI",
     "url": "https://youtube.com/shorts/qMQ-HQE7GnI",
-    "views": 82,
+    "views": 84,
     "likes": 3,
     "comments": 1,
     "privacy": "public",
@@ -978,14 +978,14 @@
    "ig": {
     "id": "17964913293232280",
     "url": "https://www.instagram.com/reel/Dez7oJhjE4Y/",
-    "views": 96,
-    "reach": 90,
+    "views": 98,
+    "reach": 91,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "avg_watch_sec": 6.3
+    "avg_watch_sec": 6.9
    },
    "title": "A Prime Minister Walked Into the Ocean and Was Never Seen Again | Harold Holt",
    "duration": 67.5
