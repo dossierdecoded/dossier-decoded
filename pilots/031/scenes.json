@@ -1,0 +1,22 @@
+{"title": "THE MISSINGEST MAN", "case": "031", "scenes": [
+ {"at": "On", "type": "photo", "photo": "photo-crater-2.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.0, 1.1], "label": "NYPD MISSING CIRCULAR · SEPTEMBER 1930", "stamp": "MISSING", "stamp_at": "files."},
+ {"at": "August", "type": "card", "text": "6 AUG 1930", "sub": "NEW YORK CITY"},
+ {"at": "Joseph", "type": "photo", "photo": "photo-crater-1.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.0, 1.1], "label": "JUSTICE JOSEPH FORCE CRATER"},
+ {"at": "Governor", "type": "photo", "photo": "photo-fdr.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.0, 1.1], "label": "GOVERNOR FRANKLIN ROOSEVELT (SEATED)"},
+ {"at": "papers.", "type": "card", "text": "FILES\nDESTROYED", "sub": "THE MORNING HE VANISHED", "red": true, "sfx": [["paper", 0.0]]},
+ {"at": "checks", "type": "card", "text": "$5,150\nIN CASH", "sub": "TWO CHECKS · CASHED BY HIS CLERK"},
+ {"at": "locked", "type": "card", "text": "2 LOCKED\nBRIEFCASES", "red": true},
+ {"at": "never", "type": "card", "text": "NEVER FOUND", "red": true, "sfx_at": [["hit", "never"]]},
+ {"at": "evening,", "type": "photo", "photo": "photo-times.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "TIMES SQUARE · 1930s POSTCARD", "sfx": [["street", 0.0]]},
+ {"at": "showgirl.", "type": "card", "text": "A FRIEND.\nA SHOWGIRL.", "sub": "BILLY HAAS'S CHOPHOUSE · WEST 45TH ST"},
+ {"at": "Broadway", "type": "photo", "photo": "photo-belasco.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "THE BELASCO THEATRE (TODAY) · HIS SEAT WAS RESERVED"},
+ {"at": "goodbye", "type": "card", "text": "GOODBYE.", "sub": "OUTSIDE THE RESTAURANT"},
+ {"at": "seen", "type": "photo", "photo": "photo-crater-2.jpg", "fit": "contain", "focus": [0.5, 0.6], "zoom": [1.2, 1.3], "label": "NEVER SEEN AGAIN", "sfx": [["stamp", 0.0]]},
+ {"at": "Nobody", "type": "card", "text": "4 WEEKS", "sub": "BEFORE ANYONE RAISED THE ALARM", "red": true},
+ {"at": "missingest", "type": "card", "text": "“THE MISSINGEST\nMAN IN AMERICA”", "sub": "THE PRESS"},
+ {"at": "2005,", "type": "card", "text": "2005 · A WIDOW'S\nNOTE", "sub": "“A POLICE OFFICER KILLED HIM”"},
+ {"at": "Coney", "type": "photo", "photo": "photo-coney.jpg", "focus": [0.5, 0.45], "zoom": [1.0, 1.12], "label": "CONEY ISLAND BOARDWALK · WALKER EVANS"},
+ {"at": "Nothing", "type": "card", "text": "NOTHING\nWAS FOUND", "red": true},
+ {"at": "Did", "type": "photo", "photo": "photo-crater-1.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.1, 1.2], "label": "RAN, OR SILENCED? COMMENT BELOW"},
+ {"at": "Dossier", "type": "end"}
+]}
