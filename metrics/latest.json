@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T18:57:02+00:00",
+ "updated": "2026-10-24T19:19:19+00:00",
  "youtube_channel": {
-  "subscribers": 82,
+  "subscribers": 83,
   "views": 6497
  },
  "instagram_account": {
@@ -898,10 +898,10 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-20T21:17:58Z",
-    "avg_view_pct": 54.74,
-    "avg_view_sec": 39,
+    "avg_view_pct": 57.17,
+    "avg_view_sec": 41,
     "shares": 2,
-    "subs_gained": 0
+    "subs_gained": 1
    },
    "ig": {
     "id": "17915126949522423",
@@ -936,7 +936,7 @@
       "at": "2026-10-22T00:49:06Z"
      }
     ],
-    "avg_view_pct": 63.88,
+    "avg_view_pct": 64,
     "avg_view_sec": 51,
     "shares": 2,
     "subs_gained": 4
@@ -973,7 +973,11 @@
       "text": "Good stuff\ud83d\ude2e",
       "at": "2026-10-22T21:53:19Z"
      }
-    ]
+    ],
+    "avg_view_pct": 74.31,
+    "avg_view_sec": 50,
+    "shares": 1,
+    "subs_gained": 1
    },
    "ig": {
     "id": "17964913293232280",
@@ -1104,9 +1108,9 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 29.25,
-    "avg_view_sec": 139,
-    "shares": 0,
+    "avg_view_pct": 25.56,
+    "avg_view_sec": 122,
+    "shares": 1,
     "subs_gained": 0
    },
    "title": "The Philadelphia Experiment: Did the Navy Really Make a Ship Vanish? (Full Case File)",
@@ -1122,7 +1126,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-22T16:21:10Z"
+    "published": "2026-10-22T16:21:10Z",
+    "avg_view_pct": 99.44,
+    "avg_view_sec": 496,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "USS Cyclops: The Navy Ship That Vanished With 306 Aboard (Full Case File)",
    "duration": 498.6
