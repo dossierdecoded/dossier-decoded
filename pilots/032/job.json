@@ -1,0 +1,61 @@
+{
+ "slug": "032-area-51",
+ "pillar": "Turned out true",
+ "format": "one-document",
+ "script": "[serious] For almost sixty years, the U.S. government wouldn't admit Area 51 existed. Then, in 2013, the C.I.A. put it on a map. The document was the agency's own secret history of its spy planes, released after a records request by the National Security Archive. Earlier copies had the base blacked out. This one didn't. It named the facility at Groom Lake, Nevada, a dry lake bed in the desert, and explained what it was for. Testing the U-2, a spy plane built to fly higher than anything else in the sky. Insiders even nicknamed the place Paradise Ranch, to attract workers. And then the document said something remarkable. High-flying planes had an unexpected side effect. A tremendous increase in reports of unidentified flying objects. According to reporting on the history, the spy planes may explain about half of UFO sightings in the fifties and sixties. Aliens? No. Something almost as secret. Send this to someone who still believes. This is Dossier Decoded. Case file number thirty-two. A new file every day.",
+ "pdf": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Chapter%202.pdf",
+ "commons": [
+  {
+   "slug": "u2",
+   "query": "Lockheed U-2 in flight",
+   "n": 2
+  },
+  {
+   "slug": "groom",
+   "query": "Groom Lake Nevada aerial",
+   "n": 1
+  },
+  {
+   "slug": "sign",
+   "query": "Area 51 warning sign",
+   "n": 1
+  },
+  {
+   "slug": "desert",
+   "query": "Nevada desert dry lake bed",
+   "n": 1
+  },
+  {
+   "slug": "ufo",
+   "query": "UFO sighting photograph 1950s",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "jet",
+   "text": "high altitude jet aircraft passing overhead, distant roar fading",
+   "seconds": 4
+  }
+ ]
+}

@@ -192,6 +192,15 @@
   },
   {
    "case": "032",
+   "slug": "area-51",
+   "topic": "Area 51: the CIA finally admitted it exists (2013) and explained the UFOs",
+   "pillar": "Turned out true",
+   "format": "one-document",
+   "target_seconds": 60,
+   "hints": "CIA U-2/OXCART history via NSArchive"
+  },
+  {
+   "case": "033",
    "slug": "radium-girls",
    "topic": "The Radium Girls: painters told the glowing paint was safe",
    "pillar": "Exposed",
@@ -200,7 +209,7 @@
    "hints": "PD photos; court records; keep respectful"
   },
   {
-   "case": "033",
+   "case": "034",
    "slug": "stargate",
    "topic": "Project Stargate: the US government's psychic spies",
    "pillar": "Strange but true",
@@ -209,7 +218,7 @@
    "hints": "CIA reading room STARGATE collection; 1995 AIR evaluation"
   },
   {
-   "case": "034",
+   "case": "035",
    "slug": "popeye",
    "topic": "Operation Popeye: cloud seeding as a weapon over the Ho Chi Minh Trail",
    "pillar": "Turned out true",
@@ -218,7 +227,7 @@
    "hints": "1974 Senate hearing transcript on weather modification"
   },
   {
-   "case": "035",
+   "case": "036",
    "slug": "cointelpro",
    "topic": "COINTELPRO and the 1971 Media, Pennsylvania FBI office burglary that exposed it",
    "pillar": "Exposed",
@@ -227,7 +236,7 @@
    "hints": "FBI Vault COINTELPRO files; Church Committee report (senate.gov)"
   },
   {
-   "case": "036",
+   "case": "037",
    "slug": "sea-spray",
    "topic": "Operation Sea-Spray: the US Navy sprayed bacteria over San Francisco (1950)",
    "pillar": "Turned out true",
@@ -236,7 +245,7 @@
    "hints": "1977 Senate subcommittee hearings on Army biological testing"
   },
   {
-   "case": "037",
+   "case": "038",
    "slug": "mockingbird",
    "topic": "Operation Mockingbird and the CIA 'Family Jewels'",
    "pillar": "Exposed",
@@ -245,7 +254,7 @@
    "hints": "CIA Family Jewels PDF (cia.gov reading room); Church Committee"
   },
   {
-   "case": "038",
+   "case": "039",
    "slug": "iceworm",
    "topic": "Project Iceworm and Camp Century: a nuclear base hidden under Greenland's ice",
    "pillar": "Turned out true",
@@ -254,7 +263,7 @@
    "hints": "US Army Corps of Engineers PD photos and film stills"
   },
   {
-   "case": "039",
+   "case": "040",
    "slug": "mattoon",
    "topic": "The Mad Gasser of Mattoon (1944)",
    "pillar": "Unsolved",
@@ -263,7 +272,7 @@
    "hints": "Contemporary newspaper scans on Commons"
   },
   {
-   "case": "040",
+   "case": "041",
    "slug": "bat-bombs",
    "topic": "Project X-Ray: the US plan to firebomb Japan with bats",
    "pillar": "Strange but true",
@@ -272,7 +281,7 @@
    "hints": "USMC/US Army PD photos; the bats burned down a test base"
   },
   {
-   "case": "041",
+   "case": "042",
    "slug": "washtub",
    "topic": "Operation Washtub: FBI-trained stay-behind agents in Alaska",
    "pillar": "Turned out true",
