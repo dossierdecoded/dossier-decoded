@@ -1,0 +1,16 @@
+{"title": "AREA 51", "case": "032", "scenes": [
+ {"at": "For", "type": "doc", "page": "doc-35.png", "window": [220, 590, 870, 700], "zoom": [1.0, 1.08], "lines": [[238, 608, 856, 629], [237, 630, 854, 659]], "instant": true, "label": "CIA HISTORY · DECLASSIFIED 2013"},
+ {"at": "2013,", "type": "doc", "page": "doc-18.png", "window": [460, 1280, 1110, 1370], "zoom": [1.0, 1.08], "lines": [[479, 1317, 1092, 1337]], "instant": true, "label": "“AREA 51” — IN THE CIA'S OWN WORDS", "stamp": "DECLASSIFIED", "stamp_at": "map."},
+ {"at": "document", "type": "card", "text": "THE CIA'S SECRET\nSPY-PLANE HISTORY", "sub": "RELEASED VIA THE NATIONAL SECURITY ARCHIVE", "sfx": [["paper", 0.0]]},
+ {"at": "blacked", "type": "card", "text": "EARLIER COPIES:\nBLACKED OUT", "red": true},
+ {"at": "Groom", "type": "photo", "photo": "photo-groom.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "GROOM LAKE, NEVADA"},
+ {"at": "U-2,", "type": "photo", "photo": "photo-u2a-2.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "A LOCKHEED U-2", "sfx": [["jet", 0.0]]},
+ {"at": "higher", "type": "card", "text": "HIGHER THAN\nANYTHING ELSE", "sub": "IN THE 1950s SKY"},
+ {"at": "Paradise", "type": "doc", "page": "doc-19.png", "window": [215, 985, 860, 1085], "zoom": [1.0, 1.08], "lines": [[231, 1002, 847, 1022], [230, 1029, 847, 1048]], "reveal": "workers.", "label": "CIA HISTORY"},
+ {"at": "remarkable.", "type": "card", "text": "THEN IT SAID\nSOMETHING\nREMARKABLE", "red": true},
+ {"at": "unexpected", "type": "doc", "page": "doc-34.png", "window": [470, 830, 1115, 935], "zoom": [1.0, 1.08], "lines": [[487, 850, 1102, 870], [486, 875, 1102, 896]], "reveal": "objects.", "label": "“U-2s, UFOs, AND OPERATION BLUE BOOK”"},
+ {"at": "half", "type": "doc", "page": "doc-35.png", "window": [220, 590, 870, 700], "zoom": [1.05, 1.12], "lines": [[237, 630, 854, 659], [236, 657, 651, 679]], "reveal": "sixties.", "label": "“MORE THAN ONE-HALF”", "stamp": "UFO?", "stamp_at": "sixties."},
+ {"at": "Aliens?", "type": "card", "text": "ALIENS?\nNO.", "red": true, "sfx_at": [["hit", "Aliens?"]]},
+ {"at": "secret.", "type": "photo", "photo": "photo-u2a-1.jpg", "focus": [0.5, 0.5], "zoom": [1.05, 1.15], "label": "THE U-2 · STILL FLYING TODAY"},
+ {"at": "Dossier", "type": "end"}
+]}
