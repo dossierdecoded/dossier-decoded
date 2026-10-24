@@ -1,0 +1,720 @@
+{
+ "title": "THE GLENN MILLER MYSTERY",
+ "case": "029",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "On",
+   "type": "photo",
+   "photo": "photo-miller-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "MAJOR GLENN MILLER · US ARMY AIR FORCES",
+   "fit": "contain",
+   "stamp": "MISSING",
+   "stamp_at": "countryside."
+  },
+  {
+   "at": "Fog",
+   "type": "card",
+   "text": "FOG.\nLOW CLOUD.",
+   "sfx": [
+    [
+     "engine",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "three",
+   "type": "card",
+   "text": "3 MEN"
+  },
+  {
+   "at": "bandleader",
+   "type": "card",
+   "text": "THE MOST FAMOUS\nBANDLEADER\nIN THE WORLD",
+   "red": true
+  },
+  {
+   "at": "Paris,",
+   "type": "photo",
+   "photo": "photo-paris.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "PARIS · LIBERATED AUGUST 1944"
+  },
+  {
+   "at": "arrived.",
+   "type": "card",
+   "text": "NEVER ARRIVED.\nNO WRECKAGE.",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "eighty",
+   "type": "card",
+   "text": "80+ YEARS\nOF ARGUMENT"
+  },
+  {
+   "at": "storm.",
+   "type": "card",
+   "text": "A STORM? AN ENGINE?\nBOMBS? A COVER-UP?"
+  },
+  {
+   "at": "records",
+   "type": "photo",
+   "photo": "photo-miller-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "CASE FILE: GLENN MILLER"
+  },
+  {
+   "at": "To",
+   "type": "card",
+   "text": "THE SOUND OF A GENERATION",
+   "sub": "CHAPTER 2 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Iowa",
+   "type": "card",
+   "text": "IOWA · 1904"
+  },
+  {
+   "at": "trombone",
+   "type": "photo",
+   "photo": "photo-trombone.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GLENN MILLER",
+   "sfx": [
+    [
+     "swing",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Schillinger,",
+   "type": "card",
+   "text": "“MILLER'S TUNE”\n→ MOONLIGHT\nSERENADE"
+  },
+  {
+   "at": "failed.",
+   "type": "card",
+   "text": "FIRST BAND\nFAILED · 1937",
+   "red": true
+  },
+  {
+   "at": "clarinet",
+   "type": "card",
+   "text": "THE\nMILLER SOUND",
+   "sub": "CLARINET ON TOP · SAXOPHONES BELOW"
+  },
+  {
+   "at": "America.",
+   "type": "photo",
+   "photo": "photo-miller3.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE GLENN MILLER ORCHESTRA"
+  },
+  {
+   "at": "Tuxedo",
+   "type": "card",
+   "text": "115,000",
+   "sub": "TUXEDO JUNCTION · FIRST WEEK"
+  },
+  {
+   "at": "Chattanooga",
+   "type": "card",
+   "text": "THE FIRST\nGOLD RECORD",
+   "sub": "CHATTANOOGA CHOO CHOO · 1942",
+   "red": true
+  },
+  {
+   "at": "jukeboxes",
+   "type": "photo",
+   "photo": "photo-jukebox.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A 1940s JUKEBOX",
+   "fit": "contain"
+  },
+  {
+   "at": "Moonlight",
+   "type": "card",
+   "text": "MOONLIGHT SERENADE\nIN THE MOOD"
+  },
+  {
+   "at": "Hollywood,",
+   "type": "photo",
+   "photo": "photo-sunvalley.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SUN VALLEY SERENADE · 1941"
+  },
+  {
+   "at": "twenty",
+   "type": "card",
+   "text": "$20,000\nA WEEK"
+  },
+  {
+   "at": "gave",
+   "type": "card",
+   "text": "HE GAVE IT\nALL UP",
+   "red": true
+  },
+  {
+   "at": "In",
+   "type": "card",
+   "text": "CAPTAIN MILLER",
+   "sub": "CHAPTER 3 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "thirty-eight",
+   "type": "card",
+   "text": "AGE 38"
+  },
+  {
+   "at": "Navy",
+   "type": "card",
+   "text": "THE NAVY\nSAID NO",
+   "red": true
+  },
+  {
+   "at": "captain.",
+   "type": "photo",
+   "photo": "photo-miller-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "CAPTAIN GLENN MILLER · 1942",
+   "fit": "contain"
+  },
+  {
+   "at": "swing",
+   "type": "card",
+   "text": "SWING FOR\nTHE TROOPS"
+  },
+  {
+   "at": "Air",
+   "type": "photo",
+   "photo": "photo-miller3.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.25
+   ],
+   "label": "THE BAND"
+  },
+  {
+   "at": "broadcast",
+   "type": "card",
+   "text": "ON THE RADIO",
+   "sub": "INCLUDING TO GERMAN SOLDIERS",
+   "sfx": [
+    [
+     "radio",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Eisenhower",
+   "type": "photo",
+   "photo": "photo-eisenhower.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GENERAL EISENHOWER · 1944",
+   "fit": "contain"
+  },
+  {
+   "at": "liberated",
+   "type": "photo",
+   "photo": "photo-paris.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "PARIS"
+  },
+  {
+   "at": "eighty",
+   "type": "card",
+   "text": "~80 HOURS\nRECORDED"
+  },
+  {
+   "at": "twelfth",
+   "type": "card",
+   "text": "DONE BY\n12 DEC"
+  },
+  {
+   "at": "weather",
+   "type": "card",
+   "text": "THE WEATHER"
+  },
+  {
+   "at": "cancelled.",
+   "type": "card",
+   "text": "13 & 14 DEC:\nFLIGHTS CANCELLED",
+   "red": true
+  },
+  {
+   "at": "On",
+   "type": "card",
+   "text": "THE LAST FLIGHT",
+   "sub": "CHAPTER 4 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Baessell",
+   "type": "card",
+   "text": "LT. COL.\nNORMAN BAESSELL"
+  },
+  {
+   "at": "Norseman.",
+   "type": "card",
+   "text": "A UC-64\nNORSEMAN",
+   "sub": "SINGLE ENGINE"
+  },
+  {
+   "at": "Morgan.",
+   "type": "card",
+   "text": "FLIGHT OFFICER\nJOHN MORGAN",
+   "sub": "THE PILOT"
+  },
+  {
+   "at": "drizzle.",
+   "type": "card",
+   "text": "LOW CLOUD.\nDRIZZLE."
+  },
+  {
+   "at": "blind",
+   "type": "card",
+   "text": "NOT BUILT FOR\nFLYING BLIND"
+  },
+  {
+   "at": "Twinwood",
+   "type": "photo",
+   "photo": "photo-twinwood.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "RAF TWINWOOD FARM (1948 AERIAL)",
+   "fit": "contain"
+  },
+  {
+   "at": "observer",
+   "type": "photo",
+   "photo": "photo-beachy.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "BEACHY HEAD"
+  },
+  {
+   "at": "diary",
+   "type": "card",
+   "text": "A TEENAGE\nPLANE SPOTTER",
+   "sub": "NEAR READING"
+  },
+  {
+   "at": "last",
+   "type": "card",
+   "text": "THE LAST\nANYONE KNOWS",
+   "red": true
+  },
+  {
+   "at": "Nobody",
+   "type": "card",
+   "text": "NOBODY\nNOTICED",
+   "red": true
+  },
+  {
+   "at": "Ardennes.",
+   "type": "photo",
+   "photo": "photo-bulge.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE BATTLE OF THE BULGE · 16 DEC 1944",
+   "fit": "contain"
+  },
+  {
+   "at": "eighteenth",
+   "type": "card",
+   "text": "18 DEC",
+   "sub": "MISSING NOTICED"
+  },
+  {
+   "at": "wife",
+   "type": "card",
+   "text": "23 DEC",
+   "sub": "HIS WIFE IS TOLD"
+  },
+  {
+   "at": "Christmas",
+   "type": "card",
+   "text": "CHRISTMAS EVE",
+   "sub": "THE WORLD FINDS OUT",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "With",
+   "type": "card",
+   "text": "THE THEORIES",
+   "sub": "CHAPTER 5 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Shaw,",
+   "type": "card",
+   "text": "FRED SHAW",
+   "sub": "RAF NAVIGATOR"
+  },
+  {
+   "at": "Lancaster",
+   "type": "photo",
+   "photo": "photo-lancaster.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "RAF LANCASTER BOMBERS"
+  },
+  {
+   "at": "dumped",
+   "type": "card",
+   "text": "BOMBS DUMPED\nOVER THE CHANNEL",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "problems.",
+   "type": "card",
+   "text": "THE PROBLEMS"
+  },
+  {
+   "at": "memory",
+   "type": "card",
+   "text": "ONE MAN'S\nMEMORY"
+  },
+  {
+   "at": "record",
+   "type": "card",
+   "text": "NO RECORD\nFOR YEARS"
+  },
+  {
+   "at": "wings.",
+   "type": "card",
+   "text": "“BARELY SEE\nTHEIR WINGS”",
+   "sub": "OTHER AIRMEN"
+  },
+  {
+   "at": "timing",
+   "type": "card",
+   "text": "THE TIMING\nDOESN'T FIT"
+  },
+  {
+   "at": "darker",
+   "type": "card",
+   "text": "THE DARKER\nTHEORIES",
+   "red": true
+  },
+  {
+   "at": "embarrassing",
+   "type": "card",
+   "text": "DIED IN PARIS?\nA COVER-UP?"
+  },
+  {
+   "at": "Germany.",
+   "type": "card",
+   "text": "A SECRET\nMISSION?"
+  },
+  {
+   "at": "evidence",
+   "type": "card",
+   "text": "NO REAL\nEVIDENCE",
+   "red": true
+  },
+  {
+   "at": "1997",
+   "type": "card",
+   "text": "1997",
+   "sub": "A STORY THE JOURNALIST DISOWNED"
+  },
+  {
+   "at": "loved",
+   "type": "photo",
+   "photo": "photo-miller-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "label": "GLENN MILLER"
+  },
+  {
+   "at": "So",
+   "type": "card",
+   "text": "WHAT THE FILE TELLS US",
+   "sub": "CHAPTER 6 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "2017,",
+   "type": "card",
+   "text": "2017",
+   "sub": "DENNIS SPRAGG · GLENN MILLER ARCHIVE"
+  },
+  {
+   "at": "unusual,",
+   "type": "card",
+   "text": "AN UNUSUAL\nROUTE"
+  },
+  {
+   "at": "instruments",
+   "type": "card",
+   "text": "NOT CERTIFIED\nFOR INSTRUMENTS",
+   "red": true
+  },
+  {
+   "at": "weakness.",
+   "type": "card",
+   "text": "A KNOWN\nWEAKNESS"
+  },
+  {
+   "at": "carburetor",
+   "type": "card",
+   "text": "CARBURETOR\nICE",
+   "red": true
+  },
+  {
+   "at": "Channel,",
+   "type": "photo",
+   "photo": "photo-beachy.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.3
+   ],
+   "label": "THE FREEZING CHANNEL"
+  },
+  {
+   "at": "radio",
+   "type": "card",
+   "text": "NO TIME FOR\nA RADIO CALL"
+  },
+  {
+   "at": "satisfying",
+   "type": "card",
+   "text": "NOT A\nSATISFYING ANSWER"
+  },
+  {
+   "at": "fits",
+   "type": "card",
+   "text": "BUT IT FITS\nTHE EVIDENCE",
+   "red": true
+  },
+  {
+   "at": "missing",
+   "type": "photo",
+   "photo": "photo-memorial.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ARLINGTON NATIONAL CEMETERY · “MIA”",
+   "fit": "contain"
+  },
+  {
+   "at": "Bronze",
+   "type": "photo",
+   "photo": "photo-cambridge.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CAMBRIDGE AMERICAN CEMETERY · ENGLAND"
+  },
+  {
+   "at": "1954,",
+   "type": "card",
+   "text": "1954",
+   "sub": "“THE GLENN MILLER STORY” · JAMES STEWART"
+  },
+  {
+   "at": "1946,",
+   "type": "card",
+   "text": "1946",
+   "sub": "A NEW GLENN MILLER ORCHESTRA"
+  },
+  {
+   "at": "Mood",
+   "type": "photo",
+   "photo": "photo-miller3.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "IN THE MOOD",
+   "sfx": [
+    [
+     "swing",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Tell",
+   "type": "card",
+   "text": "WHAT DO\nYOU THINK?",
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
