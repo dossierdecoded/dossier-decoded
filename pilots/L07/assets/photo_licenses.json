@@ -1,1 +1,65 @@
-[]
+[
+ {
+  "slug": "trombone",
+  "title": "File:Glenn Miller Billboard.jpg",
+  "license": "Public domain",
+  "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+  "page": "https://commons.wikimedia.org/wiki/File:Glenn_Miller_Billboard.jpg"
+ },
+ {
+  "slug": "record",
+  "title": "File:I Know Why the Caged Bird Sings front and back covers and spine, 1969 first edition.webp",
+  "license": "Public domain",
+  "artist": "<p>Photo on the jacket by Henry Monroe\n</p>\nJacket design by Janet Halverson",
+  "page": "https://commons.wikimedia.org/wiki/File:I_Know_Why_the_Caged_Bird_Sings_front_and_back_covers_and_spine,_1969_first_edition.webp"
+ },
+ {
+  "slug": "sunvalley",
+  "title": "File:Sun Valley Serenade 1.jpg",
+  "license": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Sun_Valley_Serenade_1.jpg"
+ },
+ {
+  "slug": "jukebox",
+  "title": "File:Wurlitzer 1080 Jukebox (1947).jpg",
+  "license": "CC BY 2.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8993119@N04\">Paulo Philippidis</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Wurlitzer_1080_Jukebox_(1947).jpg"
+ },
+ {
+  "slug": "eisenhower",
+  "title": "File:Eisenhower d-day.jpg",
+  "license": "Public domain",
+  "artist": "Unknown U.S. Army photographer",
+  "page": "https://commons.wikimedia.org/wiki/File:Eisenhower_d-day.jpg"
+ },
+ {
+  "slug": "bulge",
+  "title": "File:Members of an American patrol.jpg",
+  "license": "Public domain",
+  "artist": "US Army",
+  "page": "https://commons.wikimedia.org/wiki/File:Members_of_an_American_patrol.jpg"
+ },
+ {
+  "slug": "beachy",
+  "title": "File:Beachy Head and Lighthouse, East Sussex, England - April 2010 crop horizon corrected.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Diliff\" title=\"User:Diliff\">Diliff</a>, <a href=\"//commons.wikimedia.org/w/index.php?title=User:Papa_Lima_Whiskey&amp;action=edit&amp;redlink=1\" class=\"new\" ",
+  "page": "https://commons.wikimedia.org/wiki/File:Beachy_Head_and_Lighthouse,_East_Sussex,_England_-_April_2010_crop_horizon_corrected.jpg"
+ },
+ {
+  "slug": "memorial",
+  "title": "File:ANC-Site-MillerMarker.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kinfo_Pedia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kinfo Pedia (page does not exist)\">Kinfo Pedia</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:ANC-Site-MillerMarker.jpg"
+ },
+ {
+  "slug": "cambridge",
+  "title": "File:American Cemetery, Cambridge - reflecting pools, tablets of the missing and memorial chapel.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Stevekeiretsu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Stevekeiretsu (page does not exist)\">Stevekeiretsu</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:American_Cemetery,_Cambridge_-_reflecting_pools,_tablets_of_the_missing_and_memorial_chapel.jpg"
+ }
+]
