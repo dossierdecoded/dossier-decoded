@@ -38,9 +38,16 @@
   },
   {
    "id": "L07",
+   "case": "029",
+   "topic": "The Disappearance of Glenn Miller",
+   "post": "2026-10-25T12:00:00-04:00",
+   "reuse": "pilots/029"
+  },
+  {
+   "id": "L08",
    "case": "010",
    "topic": "The Somerton Man (Tamam Shud)",
-   "post": "2026-10-25T12:00:00-04:00",
+   "post": "2026-10-29T12:00:00-04:00",
    "reuse": "pilots/010"
   }
  ]
