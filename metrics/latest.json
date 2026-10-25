@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T15:54:15+00:00",
+ "updated": "2026-10-25T16:17:21+00:00",
  "youtube_channel": {
   "subscribers": 86,
   "views": 6497
@@ -1161,6 +1161,21 @@
    },
    "title": "USS Cyclops: The Navy Ship That Vanished With 306 Aboard (Full Case File)",
    "duration": 498.6
+  },
+  {
+   "case": "L07",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "85gpQX54OBQ",
+    "url": "https://youtube.com/watch?v=85gpQX54OBQ",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-10-25T16:13:52Z"
+   },
+   "title": "Glenn Miller: The Bandleader Who Vanished Over the English Channel (Full Case File)",
+   "duration": 443.4
   }
  ],
  "carousels": [
