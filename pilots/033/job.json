@@ -1,0 +1,61 @@
+{
+ "slug": "033-roswell",
+ "pillar": "Turned out true",
+ "format": "then-vs-now",
+ "script": "[serious] The U.S. Army announced it had captured a flying saucer. And the newspaper printed it. July 8th, 1947. Roswell, New Mexico. A rancher named Mac Brazel had found strange wreckage scattered across his land. The local Army airfield sent its intelligence officer, Major Jesse Marcel, to collect it. Then the base put out a statement. The many rumors regarding the flying disc, it said, became a reality yesterday. The Roswell Daily Record ran the headline. RAAF captures flying saucer on ranch in Roswell region. Within a day, the Army took it back. A general announced it was just a weather balloon, and Marcel was photographed with the debris. For decades, almost nobody believed either story. Then, in 1994, the Air Force admitted the weather balloon explanation wasn't the whole truth. The wreckage, it said, came from Project Mogul, a balloon project that was top secret in 1947. A cover story, covering a real secret. Just not aliens. Send this to someone who still believes. This is Dossier Decoded. Case file number thirty-three. A new file every day.",
+ "pdf": "https://www.nsa.gov/news-features/declassified-documents/ufo/assets/files/report_af_roswell.pdf",
+ "commons": [
+  {
+   "slug": "headline",
+   "query": "Roswell Daily Record July 8 1947 flying saucer",
+   "n": 1
+  },
+  {
+   "slug": "marcel",
+   "query": "Jesse Marcel debris 1947 Roswell",
+   "n": 1
+  },
+  {
+   "slug": "ramey",
+   "query": "Roger Ramey weather balloon debris 1947",
+   "n": 1
+  },
+  {
+   "slug": "mogul",
+   "query": "Project Mogul balloon",
+   "n": 1
+  },
+  {
+   "slug": "desert",
+   "query": "New Mexico ranch desert landscape",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "press",
+   "text": "vintage newspaper printing press running, rhythmic clatter",
+   "seconds": 3
+  }
+ ]
+}
