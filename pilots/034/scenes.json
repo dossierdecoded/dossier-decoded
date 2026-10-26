@@ -1,0 +1,18 @@
+{"title": "THE BERMUDA TRIANGLE", "case": "034", "scenes": [
+ {"at": "Five", "type": "photo", "photo": "photo-avenger.jpg", "focus": [0.5, 0.5], "zoom": [1.3, 1.1], "label": "NAVY AVENGERS · FORT LAUDERDALE (NARA)", "sfx": [["hit", 0.0], ["radio", 0.3]], "stamp": "VANISHED", "stamp_at": "too."},
+ {"at": "Welcome", "type": "card", "text": "THE BERMUDA\nTRIANGLE", "red": true, "sfx": [["waves", 0.0]]},
+ {"at": "stretch", "type": "photo", "photo": "photo-storm.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "THE WESTERN ATLANTIC FROM SPACE (NASA)"},
+ {"at": "1918,", "type": "photo", "photo": "photo-cyclops2.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "USS CYCLOPS · LOST 1918"},
+ {"at": "1945,", "type": "card", "text": "1945 · FLIGHT 19", "sub": "5 BOMBERS · 14 MEN"},
+ {"at": "rescue", "type": "photo", "photo": "photo-mariner.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "A PBM MARINER RESCUE PLANE · 13 MORE LOST"},
+ {"at": "Mars.", "type": "card", "text": "“AS IF THEY HAD\nFLOWN TO MARS”", "sub": "NAVY REPORT", "red": true},
+ {"at": "here's", "type": "card", "text": "WHAT MOST PEOPLE\nDON'T KNOW", "red": true},
+ {"at": "invented", "type": "card", "text": "THE NAME:\nINVENTED IN 1964", "sub": "VINCENT GADDIS · A MAGAZINE ARTICLE", "sfx": [["paper", 0.0]]},
+ {"at": "bestselling", "type": "card", "text": "1974", "sub": "A BESTSELLING BOOK MAKES IT A LEGEND"},
+ {"at": "verdict?", "type": "card", "text": "THE GOVERNMENT'S\nVERDICT", "red": true, "sfx": [["stamp", 0.0]]},
+ {"at": "Coast", "type": "card", "text": "“NO EXTRAORDINARY\nFACTORS”", "sub": "US COAST GUARD"},
+ {"at": "evidence", "type": "card", "text": "“NO EVIDENCE”\nIT'S MORE DANGEROUS", "sub": "NOAA"},
+ {"at": "Storms,", "type": "photo", "photo": "photo-gulf.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "THE GULF STREAM · EARLY INFRARED IMAGE"},
+ {"at": "curse.", "type": "card", "text": "NOT A CURSE.", "red": true, "sfx_at": [["hit", "curse."]]},
+ {"at": "Dossier", "type": "end"}
+]}
