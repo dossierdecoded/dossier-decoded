@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:02:23+00:00",
+ "updated": "2026-10-26T19:15:03+00:00",
  "youtube_channel": {
   "subscribers": 89,
   "views": 6702
@@ -145,8 +145,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:44:43Z",
-    "avg_view_pct": 63.57000000000001,
-    "avg_view_sec": 42,
+    "avg_view_pct": 62.29,
+    "avg_view_sec": 41,
     "shares": 0,
     "subs_gained": 0
    },
@@ -693,7 +693,7 @@
       "at": "2026-10-15T00:19:06Z"
      }
     ],
-    "avg_view_pct": 76.97,
+    "avg_view_pct": 76.79,
     "avg_view_sec": 52,
     "shares": 0,
     "subs_gained": 0
@@ -936,10 +936,10 @@
       "at": "2026-10-22T00:49:06Z"
      }
     ],
-    "avg_view_pct": 63.97999999999999,
+    "avg_view_pct": 64.04,
     "avg_view_sec": 51,
     "shares": 2,
-    "subs_gained": 4
+    "subs_gained": 5
    },
    "ig": {
     "id": "18142280644719350",
@@ -974,8 +974,8 @@
       "at": "2026-10-22T21:53:19Z"
      }
     ],
-    "avg_view_pct": 71.23,
-    "avg_view_sec": 48,
+    "avg_view_pct": 70.13,
+    "avg_view_sec": 47,
     "shares": 1,
     "subs_gained": 1
    },
@@ -1005,8 +1005,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-23T21:17:12Z",
-    "avg_view_pct": 79.87,
-    "avg_view_sec": 49,
+    "avg_view_pct": 75.86,
+    "avg_view_sec": 47,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1031,11 +1031,15 @@
    "yt": {
     "id": "WlBo1D2awjs",
     "url": "https://youtube.com/shorts/WlBo1D2awjs",
-    "views": 120,
+    "views": 122,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-24T21:10:53Z"
+    "published": "2026-10-24T21:10:53Z",
+    "avg_view_pct": 31.28,
+    "avg_view_sec": 22,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18098194193397324",
@@ -1058,7 +1062,7 @@
    "yt": {
     "id": "X2OHVFxZaqE",
     "url": "https://youtube.com/shorts/X2OHVFxZaqE",
-    "views": 68,
+    "views": 70,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1166,8 +1170,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 23.55,
-    "avg_view_sec": 112,
+    "avg_view_pct": 21.41,
+    "avg_view_sec": 102,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1199,7 +1203,7 @@
    "yt": {
     "id": "85gpQX54OBQ",
     "url": "https://youtube.com/watch?v=85gpQX54OBQ",
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
