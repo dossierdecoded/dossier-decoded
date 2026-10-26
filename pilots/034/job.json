@@ -1,0 +1,66 @@
+{
+ "slug": "034-bermuda-triangle",
+ "pillar": "Turned out true",
+ "format": "then-vs-now",
+ "script": "[serious] Five Navy bombers vanished here. Then the plane sent to find them vanished too. Welcome to the Bermuda Triangle. A stretch of the Atlantic between Florida, Bermuda and Puerto Rico. In 1918, the Navy ship Cyclops disappeared here with more than three hundred people. In 1945, Flight 19. Five bombers, fourteen men, and then a rescue plane with thirteen more. A Navy report said it was as if they had flown to Mars. But here's what most people don't know. The name Bermuda Triangle was only invented in 1964, by a writer named Vincent Gaddis, in a magazine article. Ten years later, a bestselling book turned it into a legend. And the U.S. government's verdict? The Coast Guard says no extraordinary factors have ever been identified. N.O.A.A. says there's no evidence disappearances happen there more often than anywhere else this busy. Storms, the Gulf Stream, and a lot of traffic. Not a curse. Send this to someone who's scared to fly over it. This is Dossier Decoded. Case file number thirty-four. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "map",
+   "query": "Bermuda Triangle map",
+   "n": 1
+  },
+  {
+   "slug": "avenger",
+   "query": "TBM Avenger formation flight 1940s",
+   "n": 1
+  },
+  {
+   "slug": "mariner",
+   "query": "PBM Mariner flying boat",
+   "n": 1
+  },
+  {
+   "slug": "storm",
+   "query": "Atlantic storm satellite hurricane Bahamas",
+   "n": 1
+  },
+  {
+   "slug": "gulf",
+   "query": "Gulf Stream satellite image",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "radio",
+   "text": "1940s aircraft radio static, faint distorted voice, cut off",
+   "seconds": 3
+  },
+  {
+   "slug": "waves",
+   "text": "heavy ocean storm waves crashing, wind, dark",
+   "seconds": 4
+  }
+ ]
+}
