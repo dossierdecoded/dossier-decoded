@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   fetch:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
@@ -20,7 +20,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr ffmpeg >/dev/null
+      - run: timeout 300 sudo apt-get install -y -qq --no-install-recommends poppler-utils tesseract-ocr ffmpeg >/dev/null || (timeout 300 sudo apt-get update -qq && timeout 300 sudo apt-get install -y -qq --no-install-recommends poppler-utils tesseract-ocr ffmpeg >/dev/null)
       - run: pip install requests
       - name: Fetch assets for changed pilots
         env:
