@@ -1,0 +1,177 @@
+{
+ "title": "THE SURGEON'S PHOTOGRAPH",
+ "case": "035",
+ "scenes": [
+  {
+   "at": "The",
+   "type": "photo",
+   "photo": "photo-surgeon.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.35,
+    1.1
+   ],
+   "label": "THE “SURGEON'S PHOTOGRAPH” · 1934",
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ],
+    [
+     "shutter",
+     0.2
+    ]
+   ],
+   "stamp": "TOY SUBMARINE",
+   "stamp_at": "submarine."
+  },
+  {
+   "at": "1934,",
+   "type": "card",
+   "text": "1934",
+   "sub": "A LONDON NEWSPAPER"
+  },
+  {
+   "at": "neck",
+   "type": "photo",
+   "photo": "photo-surgeon.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "LOCH NESS · SCOTLAND",
+   "sfx": [
+    [
+     "water",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "doctor.",
+   "type": "card",
+   "text": "A RESPECTED\nLONDON DOCTOR",
+   "sub": "THE NAME ON THE PHOTO"
+  },
+  {
+   "at": "sixty",
+   "type": "card",
+   "text": "60 YEARS",
+   "sub": "THE BEST EVIDENCE NESSIE WAS REAL",
+   "red": true
+  },
+  {
+   "at": "earlier.",
+   "type": "photo",
+   "photo": "photo-loch.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "LOCH NESS & URQUHART CASTLE"
+  },
+  {
+   "at": "Marmaduke",
+   "type": "card",
+   "text": "MARMADUKE\nWETHERELL",
+   "sub": "BIG-GAME HUNTER"
+  },
+  {
+   "at": "footprints",
+   "type": "card",
+   "text": "GIANT\nFOOTPRINTS",
+   "sub": "BY THE LOCH"
+  },
+  {
+   "at": "hippo's",
+   "type": "card",
+   "text": "A HIPPO'S FOOT",
+   "sub": "AN UMBRELLA STAND",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "hippo's"
+    ]
+   ]
+  },
+  {
+   "at": "mocked",
+   "type": "card",
+   "text": "MOCKED",
+   "sub": "BY THE NEWSPAPER"
+  },
+  {
+   "at": "revenge.",
+   "type": "card",
+   "text": "REVENGE.",
+   "red": true
+  },
+  {
+   "at": "1994,",
+   "type": "card",
+   "text": "1994",
+   "sub": "A CONFESSION",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "built",
+   "type": "card",
+   "text": "A SCULPTED HEAD\n+ A TOY SUBMARINE",
+   "red": true
+  },
+  {
+   "at": "surgeon",
+   "type": "photo",
+   "photo": "photo-surgeon.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.15,
+    1.25
+   ],
+   "label": "THE TRUSTED NAME ON A TOY",
+   "stamp": "HOAX",
+   "stamp_at": "photo."
+  },
+  {
+   "at": "Sixty",
+   "type": "photo",
+   "photo": "photo-loch2.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "60 YEARS, FOOLED BY A TOY"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
