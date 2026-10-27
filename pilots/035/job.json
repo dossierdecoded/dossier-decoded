@@ -1,0 +1,66 @@
+{
+ "slug": "035-loch-ness",
+ "pillar": "Hoax",
+ "format": "then-vs-now",
+ "script": "[serious] The most famous photo of the Loch Ness Monster was a toy submarine. In 1934, a London newspaper printed a picture of a long neck and small head rising out of the water at Loch Ness. It was credited to a respected London doctor. That's why it became known as the Surgeon's Photograph. And for sixty years, it was the best evidence that Nessie was real. But the real story started months earlier. A big-game hunter named Marmaduke Wetherell had found giant footprints by the loch, which turned out to have been made with a hippo's foot, the kind used as an umbrella stand. The newspaper mocked him. So he planned revenge. In 1994, his stepson, Christian Spurling, then in his nineties, confessed. He had built the monster himself, a sculpted head and neck fixed to a toy submarine. The surgeon was just the trusted name on the photo. Sixty years, fooled by a toy. Send this to someone who still believes in Nessie. This is Dossier Decoded. Case file number thirty-five. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "surgeon",
+   "query": "Surgeon's photograph Loch Ness monster 1934",
+   "n": 1
+  },
+  {
+   "slug": "loch",
+   "query": "Loch Ness Urquhart Castle",
+   "n": 1
+  },
+  {
+   "slug": "loch2",
+   "query": "Loch Ness water misty",
+   "n": 1
+  },
+  {
+   "slug": "submarine",
+   "query": "toy submarine vintage tin",
+   "n": 1
+  },
+  {
+   "slug": "hippo",
+   "query": "hippopotamus foot umbrella stand",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "water",
+   "text": "calm lake water lapping, a splash, eerie mist ambience",
+   "seconds": 4
+  },
+  {
+   "slug": "shutter",
+   "text": "vintage camera shutter click, single",
+   "seconds": 1
+  }
+ ]
+}
