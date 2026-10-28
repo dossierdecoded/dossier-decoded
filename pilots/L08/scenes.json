@@ -1,0 +1,659 @@
+{
+ "title": "AMELIA EARHART",
+ "case": "014",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "On",
+   "type": "photo",
+   "photo": "photo-howland.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HOWLAND ISLAND · CENTRAL PACIFIC",
+   "sfx": [
+    [
+     "radio",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "crackled.",
+   "type": "card",
+   "text": "A WOMAN'S\nVOICE"
+  },
+  {
+   "at": "must",
+   "type": "card",
+   "text": "“WE MUST BE ON YOU,\nBUT CANNOT SEE YOU.\nGAS IS RUNNING LOW.”",
+   "sub": "2 JULY 1937",
+   "red": true
+  },
+  {
+   "at": "belonged",
+   "type": "photo",
+   "photo": "photo-earhart3.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "AMELIA EARHART",
+   "fit": "contain"
+  },
+  {
+   "at": "twenty",
+   "type": "card",
+   "text": "~20 HOURS\nIN THE AIR",
+   "sfx": [
+    [
+     "engine",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "strip",
+   "type": "photo",
+   "photo": "photo-howland.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "label": "HOWLAND ISLAND · ~1.5 MILES LONG"
+  },
+  {
+   "at": "deck",
+   "type": "card",
+   "text": "HE SAW\nNOTHING"
+  },
+  {
+   "at": "8:43",
+   "type": "card",
+   "text": "8:43 AM",
+   "sub": "HER LAST CONFIRMED MESSAGE",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Noonan,",
+   "type": "card",
+   "text": "EARHART & NOONAN",
+   "sub": "NEVER SEEN AGAIN"
+  },
+  {
+   "at": "ninety",
+   "type": "photo",
+   "photo": "photo-oakland.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "label": "CASE FILE: AMELIA EARHART"
+  },
+  {
+   "at": "By",
+   "type": "card",
+   "text": "THE MOST FAMOUS PILOT IN THE WORLD",
+   "sub": "CHAPTER 2 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "legend.",
+   "type": "photo",
+   "photo": "photo-earhart-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "AMELIA EARHART",
+   "fit": "contain"
+  },
+  {
+   "at": "ten-minute",
+   "type": "card",
+   "text": "A 10-MINUTE FLIGHT",
+   "sub": "WITH A WWI PILOT"
+  },
+  {
+   "at": "Atlantic",
+   "type": "photo",
+   "photo": "photo-dfc.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HER LOCKHEED VEGA",
+   "sfx": [
+    [
+     "engine",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "first",
+   "type": "card",
+   "text": "FIRST WOMAN\nSOLO ACROSS\nTHE ATLANTIC",
+   "sub": "MAY 1932",
+   "red": true
+  },
+  {
+   "at": "nonstop",
+   "type": "card",
+   "text": "SOLO NONSTOP\nACROSS THE US",
+   "sub": "1932"
+  },
+  {
+   "at": "Distinguished",
+   "type": "card",
+   "text": "DISTINGUISHED\nFLYING CROSS",
+   "sub": "THE FIRST WOMAN"
+  },
+  {
+   "at": "books,",
+   "type": "photo",
+   "photo": "photo-earhart-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "WITH HER HUSBAND, PUBLISHER GEORGE PUTNAM",
+   "fit": "contain"
+  },
+  {
+   "at": "record.",
+   "type": "card",
+   "text": "ONE MORE\nRECORD",
+   "red": true
+  },
+  {
+   "at": "Equator",
+   "type": "photo",
+   "photo": "photo-map.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HER PLANNED ROUTE · ~29,000 MILES",
+   "fit": "contain"
+  },
+  {
+   "at": "Lockheed",
+   "type": "photo",
+   "photo": "photo-oakland.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HER LOCKHEED ELECTRA 10E"
+  },
+  {
+   "at": "K",
+   "type": "card",
+   "text": "KHAQQ",
+   "sub": "HER CALL SIGN"
+  },
+  {
+   "at": "The",
+   "type": "card",
+   "text": "AROUND THE WORLD",
+   "sub": "CHAPTER 3 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Hawaii,",
+   "type": "card",
+   "text": "MARCH 1937",
+   "sub": "DAMAGED IN HAWAII",
+   "red": true
+  },
+  {
+   "at": "reversed.",
+   "type": "card",
+   "text": "ROUTE\nREVERSED",
+   "sub": "EASTBOUND"
+  },
+  {
+   "at": "May",
+   "type": "card",
+   "text": "21 MAY 1937",
+   "sub": "OAKLAND, CALIFORNIA"
+  },
+  {
+   "at": "Noonan",
+   "type": "card",
+   "text": "FRED NOONAN",
+   "sub": "NAVIGATOR"
+  },
+  {
+   "at": "forty",
+   "type": "photo",
+   "photo": "photo-map.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "40 DAYS · 20+ STOPS",
+   "fit": "contain"
+  },
+  {
+   "at": "Africa,",
+   "type": "card",
+   "text": "SOUTH AMERICA · AFRICA\nINDIA · SOUTHEAST ASIA"
+  },
+  {
+   "at": "twenty-two",
+   "type": "card",
+   "text": "~22,000 MILES",
+   "sub": "DONE"
+  },
+  {
+   "at": "Lae,",
+   "type": "card",
+   "text": "LAE, NEW GUINEA"
+  },
+  {
+   "at": "seven",
+   "type": "card",
+   "text": "~7,000 MILES\nLEFT"
+  },
+  {
+   "at": "twenty-five",
+   "type": "card",
+   "text": "2,500+ MILES\nOF OPEN OCEAN",
+   "red": true
+  },
+  {
+   "at": "Howland",
+   "type": "photo",
+   "photo": "photo-howland.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.35
+   ],
+   "label": "A DOT OF LAND"
+  },
+  {
+   "at": "missed",
+   "type": "card",
+   "text": "NOWHERE ELSE\nTO LAND",
+   "red": true
+  },
+  {
+   "at": "On",
+   "type": "card",
+   "text": "THE LAST LEG",
+   "sub": "CHAPTER 4 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "loaded",
+   "type": "photo",
+   "photo": "photo-electra.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A LOCKHEED ELECTRA (SIMILAR TYPE)",
+   "sfx": [
+    [
+     "engine",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Itasca,",
+   "type": "card",
+   "text": "USCGC ITASCA",
+   "sub": "WAITING AT HOWLAND"
+  },
+  {
+   "at": "conversation",
+   "type": "card",
+   "text": "THE RADIO LINK\nNEVER WORKED",
+   "sfx": [
+    [
+     "radio",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "haunted",
+   "type": "card",
+   "text": "“WE MUST BE ON YOU,\nBUT CANNOT SEE YOU”",
+   "red": true
+  },
+  {
+   "at": "line",
+   "type": "card",
+   "text": "“WE ARE ON THE\nLINE 157 337”"
+  },
+  {
+   "at": "navigation",
+   "type": "card",
+   "text": "A LINE THROUGH\nTHE ISLAND"
+  },
+  {
+   "at": "which",
+   "type": "card",
+   "text": "WHICH WAY?\nHOW FAR?",
+   "red": true
+  },
+  {
+   "at": "nothing.",
+   "type": "card",
+   "text": "SILENCE.",
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Navy",
+   "type": "card",
+   "text": "THE NAVY\nJOINS THE SEARCH"
+  },
+  {
+   "at": "wreckage",
+   "type": "card",
+   "text": "NO WRECKAGE",
+   "red": true
+  },
+  {
+   "at": "presumed",
+   "type": "card",
+   "text": "“LOST AT SEA”",
+   "sub": "SEARCH CALLED OFF"
+  },
+  {
+   "at": "So",
+   "type": "card",
+   "text": "THREE THEORIES",
+   "sub": "CHAPTER 5 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "official",
+   "type": "card",
+   "text": "1 · CRASHED\nAT SEA",
+   "sub": "THE OFFICIAL ANSWER"
+  },
+  {
+   "at": "deep",
+   "type": "card",
+   "text": "THOUSANDS OF\nFEET DEEP"
+  },
+  {
+   "at": "second",
+   "type": "card",
+   "text": "2 · CASTAWAYS",
+   "red": true
+  },
+  {
+   "at": "atoll",
+   "type": "photo",
+   "photo": "photo-niku.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "NIKUMARORO (GARDNER ISLAND)",
+   "fit": "contain",
+   "sfx": [
+    [
+     "waves",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "habitation,",
+   "type": "card",
+   "text": "“SIGNS OF RECENT\nHABITATION”",
+   "sub": "NAVY OVERFLIGHT · ONE WEEK LATER"
+  },
+  {
+   "at": "distress",
+   "type": "card",
+   "text": "DISTRESS CALLS?",
+   "sub": "HEARD IN FLORIDA AND CANADA"
+  },
+  {
+   "at": "1940,",
+   "type": "card",
+   "text": "1940",
+   "sub": "BONES FOUND ON THE ISLAND",
+   "red": true
+  },
+  {
+   "at": "male,",
+   "type": "card",
+   "text": "“MALE”\nTHEN LOST"
+  },
+  {
+   "at": "2018,",
+   "type": "card",
+   "text": "2018",
+   "sub": "A MATCH FOR EARHART'S BUILD?",
+   "red": true
+  },
+  {
+   "at": "third",
+   "type": "card",
+   "text": "3 · CAPTURED\nBY JAPAN?"
+  },
+  {
+   "at": "Saipan.",
+   "type": "photo",
+   "photo": "photo-saipan.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SAIPAN · 1944",
+   "fit": "contain"
+  },
+  {
+   "at": "photo",
+   "type": "photo",
+   "photo": "photo-noonan.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE DISPUTED PHOTO · LATER DATED TO 1935",
+   "fit": "contain",
+   "stamp": "1935",
+   "stamp_at": "disappeared."
+  },
+  {
+   "at": "The",
+   "type": "card",
+   "text": "WHAT THE FILE TELLS US",
+   "sub": "CHAPTER 6 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "TIGHAR,",
+   "type": "card",
+   "text": "TIGHAR",
+   "sub": "12+ EXPEDITIONS · A POSSIBLE FRECKLE-CREAM JAR"
+  },
+  {
+   "at": "2017,",
+   "type": "card",
+   "text": "2017",
+   "sub": "FORENSIC DOGS"
+  },
+  {
+   "at": "crabs,",
+   "type": "photo",
+   "photo": "photo-crab.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A COCONUT CRAB",
+   "fit": "contain"
+  },
+  {
+   "at": "sonar,",
+   "type": "card",
+   "text": "SONAR SEARCHES",
+   "sub": "AROUND HOWLAND"
+  },
+  {
+   "at": "eighteen",
+   "type": "card",
+   "text": "DECLARED DEAD",
+   "sub": "~18 MONTHS LATER"
+  },
+  {
+   "at": "Twenty",
+   "type": "card",
+   "text": "20 HOURS.\nNIGHT.\nOPEN OCEAN."
+  },
+  {
+   "at": "degrees,",
+   "type": "card",
+   "text": "A FEW DEGREES\nIS ENOUGH",
+   "red": true
+  },
+  {
+   "at": "simplest",
+   "type": "card",
+   "text": "MOST LIKELY:\nTHE SEA"
+  },
+  {
+   "at": "Nikumaroro",
+   "type": "card",
+   "text": "BUT NIKUMARORO\nCAN'T BE DISMISSED",
+   "red": true
+  },
+  {
+   "at": "finished.",
+   "type": "photo",
+   "photo": "photo-earhart3.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "label": "AMELIA EARHART · 1897–1937?",
+   "fit": "contain"
+  },
+  {
+   "at": "Tell",
+   "type": "card",
+   "text": "WHAT DO\nYOU THINK?",
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
