@@ -1,0 +1,76 @@
+{
+ "slug": "036-titanic-warnings",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] Forty minutes before the Titanic hit the iceberg, another ship tried to warn it. The Titanic's radio operator told it to shut up. Sunday, April 14th, 1912. All day, ships crossing the North Atlantic had been sending the Titanic warnings about ice. The Noordam. The Caronia. The Baltic. The Amerika. The Mesaba. Then, around eleven at night, the Californian, stopped nearby and surrounded by ice, called again. Its signal was so loud it nearly deafened the Titanic's wireless operator, Jack Phillips, who was busy sending passengers' messages. Shut up, shut up, he replied. I am busy. The Californian's operator switched off his radio and went to bed. Around twenty minutes to midnight, lookout Frederick Fleet saw it. Iceberg, right ahead. Less than three hours later, the Titanic was gone. More than fifteen hundred people died. The lifeboats left with hundreds of empty seats. The warnings were there. Nobody put them together. Send this to someone who loves the Titanic. This is Dossier Decoded. Case file number thirty-six. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "titanic",
+   "query": "RMS Titanic departing Southampton 1912",
+   "n": 2
+  },
+  {
+   "slug": "phillips",
+   "query": "Jack Phillips wireless operator Titanic",
+   "n": 1
+  },
+  {
+   "slug": "radioroom",
+   "query": "Titanic Marconi room photograph",
+   "n": 1
+  },
+  {
+   "slug": "californian",
+   "query": "SS Californian ship",
+   "n": 1
+  },
+  {
+   "slug": "iceberg",
+   "query": "iceberg suspected of sinking Titanic 1912",
+   "n": 1
+  },
+  {
+   "slug": "lifeboat",
+   "query": "Titanic lifeboat Carpathia 1912 photograph",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "morse",
+   "text": "fast morse code telegraph wireless beeping, 1910s radio",
+   "seconds": 3
+  },
+  {
+   "slug": "bell",
+   "text": "ship crow's nest warning bell rung three times",
+   "seconds": 2
+  },
+  {
+   "slug": "creak",
+   "text": "deep metal ship hull scraping and groaning against ice",
+   "seconds": 3
+  }
+ ]
+}
