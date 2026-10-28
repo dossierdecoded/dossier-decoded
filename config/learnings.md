@@ -19,4 +19,4 @@ Append dated lines; newest at the bottom. Production reads this before writing e
 - 2026-10-22: Paid promotion running on L05 (Philadelphia documentary) until Sun 25 Oct (Tanmay). Judge L05 view growth with that in mind.
 - 2026-10-23: Harold Holt (030) = 68 YouTube views in 9 h despite famous-name formula — name must be famous to AMERICANS (our audience). IG fine (69).
 - 2026-10-25: Philadelphia doc promotion (ad-safe thumbnail) = $6.47 → 2,698 impressions, 35 views, 22 subs (~$0.29/sub) — best paid result. Standard: promote each new doc with ad-safe thumbnail.
-- 2026-10-27: Glenn Miller doc (L07) grew to 163 views in ~2 days with NO promotion and NO related-video link — first documentary YouTube recommended on its own. Famous searchable name + documentary = organic reach. Check Studio traffic source.
+- 2026-10-27: Glenn Miller doc (L07) grew 2→163 views organically on 26 Oct (no link, no promo); a paid promotion started morning of 27 Oct, so growth after that is mixed — first documentary YouTube recommended on its own. Famous searchable name + documentary = organic reach. Check Studio traffic source.
