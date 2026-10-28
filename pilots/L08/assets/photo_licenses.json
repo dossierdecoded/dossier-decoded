@@ -1,1 +1,51 @@
-[]
+[
+ {
+  "slug": "vega",
+  "title": "File:Lockheed Vega 5B, Amelia Earhart - DPLA - 17901a4d2c93d49987e58e0b46efd42c (page 12).jpg",
+  "license": "CC0",
+  "artist": "Amelia Earhart, Lockheed Aircraft Company",
+  "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Vega_5B,_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_(page_12).jpg"
+ },
+ {
+  "slug": "dfc",
+  "title": "File:Lockheed Vega 5B, Amelia Earhart - DPLA - 17901a4d2c93d49987e58e0b46efd42c (page 9).jpg",
+  "license": "CC0",
+  "artist": "Amelia Earhart, Lockheed Aircraft Company",
+  "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Vega_5B,_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_(page_9).jpg"
+ },
+ {
+  "slug": "oakland",
+  "title": "File:Earhart-electra 10.jpg",
+  "license": "Public domain",
+  "artist": "Originally uploaded by <a href=\"https://en.wikipedia.org/wiki/User:Logawi\" class=\"extiw\" title=\"w:User:Logawi\">w:User:Logawi</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Earhart-electra_10.jpg"
+ },
+ {
+  "slug": "map",
+  "title": "File:Amelia Earhart flight route.svg",
+  "license": "CC BY-SA 3.0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Hellerick\" title=\"User:Hellerick\">Hellerick</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_flight_route.svg"
+ },
+ {
+  "slug": "crab",
+  "title": "File:Crabe cocotiers Birgus latro (Linnaeus 1777).jpg",
+  "license": "CC0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Jebulon\" title=\"User:Jebulon\">Jebulon</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Crabe_cocotiers_Birgus_latro_(Linnaeus_1777).jpg"
+ },
+ {
+  "slug": "saipan",
+  "title": "File:Saipan Civilians 1944.jpg",
+  "license": "Public domain",
+  "artist": "Unknown military photographer",
+  "page": "https://commons.wikimedia.org/wiki/File:Saipan_Civilians_1944.jpg"
+ },
+ {
+  "slug": "earhart3",
+  "title": "File:Amelia Earhart 1935.jpg",
+  "license": "Public domain",
+  "artist": "NBC Photo-NBC Radio",
+  "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_1935.jpg"
+ }
+]

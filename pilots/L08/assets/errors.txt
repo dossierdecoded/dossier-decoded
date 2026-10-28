@@ -1,1 +1,9 @@
-none
+commons: nothing usable for Lae New Guinea airfield 1937 Earhart #1
+
+commons: nothing usable for USCGC Itasca 1937 #1
+
+commons: nothing usable for Howland Island aerial #1
+
+commons: nothing usable for Pacific Ocean aerial clouds #1
+
+commons: nothing usable for Nikumaroro atoll aerial #1
