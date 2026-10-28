@@ -45,9 +45,16 @@
   },
   {
    "id": "L08",
+   "case": "014",
+   "topic": "Amelia Earhart's last flight",
+   "post": "2026-10-29T12:00:00-04:00",
+   "reuse": "pilots/014"
+  },
+  {
+   "id": "L09",
    "case": "010",
    "topic": "The Somerton Man (Tamam Shud)",
-   "post": "2026-10-29T12:00:00-04:00",
+   "post": "2026-11-01T12:00:00-04:00",
    "reuse": "pilots/010"
   }
  ]
