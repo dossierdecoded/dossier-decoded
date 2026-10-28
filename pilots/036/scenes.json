@@ -1,0 +1,20 @@
+{"title": "THE TITANIC'S WARNINGS", "case": "036", "scenes": [
+ {"at": "Forty", "type": "photo", "photo": "photo-iceberg.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.35, 1.1], "label": "THE ICEBERG BELIEVED TO HAVE SUNK TITANIC · 1912", "sfx": [["hit", 0.0], ["morse", 0.3]], "stamp": "IGNORED", "stamp_at": "up."},
+ {"at": "Sunday,", "type": "photo", "photo": "photo-titanic-2.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "RMS TITANIC · APRIL 1912"},
+ {"at": "warnings", "type": "card", "text": "ICE WARNINGS", "sub": "ALL DAY · 14 APRIL 1912", "sfx": [["morse", 0.0]]},
+ {"at": "Noordam.", "type": "card", "text": "NOORDAM\nCARONIA\nBALTIC", "sub": "WARNING"},
+ {"at": "Amerika.", "type": "card", "text": "AMERIKA\nMESABA", "sub": "WARNING", "red": true},
+ {"at": "Californian,", "type": "photo", "photo": "photo-californian.jpg", "focus": [0.5, 0.5], "zoom": [1.0, 1.12], "label": "SS CALIFORNIAN · STOPPED IN THE ICE"},
+ {"at": "deafened", "type": "photo", "photo": "photo-radioroom.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "TITANIC'S MARCONI WIRELESS ROOM"},
+ {"at": "Phillips,", "type": "photo", "photo": "photo-phillips.jpg", "fit": "contain", "focus": [0.5, 0.4], "zoom": [1.0, 1.1], "label": "JACK PHILLIPS & A COLLEAGUE (RMS ADRIATIC)"},
+ {"at": "Shut", "type": "card", "text": "“SHUT UP,\nSHUT UP.\nI AM BUSY.”", "sub": "JACK PHILLIPS", "red": true, "sfx_at": [["hit", "Shut"]]},
+ {"at": "switched", "type": "card", "text": "RADIO OFF.\nTO BED.", "sub": "THE CALIFORNIAN'S OPERATOR"},
+ {"at": "lookout", "type": "card", "text": "11:40 PM", "sub": "LOOKOUT FREDERICK FLEET", "sfx": [["bell", 0.0]]},
+ {"at": "Iceberg,", "type": "photo", "photo": "photo-iceberg.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.1, 1.25], "label": "“ICEBERG, RIGHT AHEAD”", "sfx": [["creak", 0.6]]},
+ {"at": "three", "type": "card", "text": "UNDER 3 HOURS\nLATER: GONE", "red": true},
+ {"at": "fifteen", "type": "card", "text": "1,500+ DEAD", "red": true},
+ {"at": "lifeboats", "type": "photo", "photo": "photo-lifeboat.jpg", "fit": "contain", "focus": [0.5, 0.5], "zoom": [1.0, 1.1], "label": "A TITANIC LIFEBOAT (PRESUMED) · 1912", "stamp": "EMPTY SEATS", "stamp_at": "seats."},
+ {"at": "warnings", "type": "card", "text": "THE WARNINGS\nWERE THERE.", "red": true},
+ {"at": "Send", "type": "photo", "photo": "photo-titanic-1.jpg", "focus": [0.5, 0.5], "zoom": [1.05, 1.15], "label": "RMS TITANIC · 1912"},
+ {"at": "Dossier", "type": "end"}
+]}
