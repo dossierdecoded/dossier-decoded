@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T17:20:34+00:00",
+ "updated": "2026-10-28T19:23:43+00:00",
  "youtube_channel": {
-  "subscribers": 92,
+  "subscribers": 94,
   "views": 6993
  },
  "instagram_account": {
@@ -1036,8 +1036,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-24T21:10:53Z",
-    "avg_view_pct": 25.35,
-    "avg_view_sec": 18,
+    "avg_view_pct": 24.69,
+    "avg_view_sec": 17,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1062,13 +1062,13 @@
    "yt": {
     "id": "X2OHVFxZaqE",
     "url": "https://youtube.com/shorts/X2OHVFxZaqE",
-    "views": 86,
+    "views": 87,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-25T21:11:26Z",
-    "avg_view_pct": 70.75,
-    "avg_view_sec": 45,
+    "avg_view_pct": 67.61,
+    "avg_view_sec": 43,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1097,7 +1097,11 @@
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-27T00:20:27Z"
+    "published": "2026-10-27T00:20:27Z",
+    "avg_view_pct": 33.89,
+    "avg_view_sec": 21,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18473316100136932",
@@ -1120,7 +1124,7 @@
    "yt": {
     "id": "p0gwVuirHqk",
     "url": "https://youtube.com/shorts/p0gwVuirHqk",
-    "views": 68,
+    "views": 70,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1129,14 +1133,14 @@
    "ig": {
     "id": "17929905978182511",
     "url": "https://www.instagram.com/reel/DfA0Al4G2ea/",
-    "views": 84,
-    "reach": 74,
+    "views": 85,
+    "reach": 76,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 6.0
+    "avg_watch_sec": 6.6
    },
    "title": "The Most Famous Loch Ness Monster Photo Was a Toy Submarine",
    "duration": 61.8
@@ -1228,8 +1232,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 19.78,
-    "avg_view_sec": 94,
+    "avg_view_pct": 20.31,
+    "avg_view_sec": 97,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1242,7 +1246,7 @@
    "yt": {
     "id": "Ae7ZYf7I5rU",
     "url": "https://youtube.com/watch?v=Ae7ZYf7I5rU",
-    "views": 1,
+    "views": 3,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1266,8 +1270,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-25T16:13:52Z",
-    "avg_view_pct": 7.180000000000001,
-    "avg_view_sec": 31,
+    "avg_view_pct": 30.7,
+    "avg_view_sec": 136,
     "shares": 0,
     "subs_gained": 0
    },
