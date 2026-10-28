@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T21:34:12+00:00",
+ "updated": "2026-10-28T22:06:25+00:00",
  "youtube_channel": {
-  "subscribers": 96,
+  "subscribers": 97,
   "views": 6993
  },
  "instagram_account": {
@@ -1031,7 +1031,7 @@
    "yt": {
     "id": "WlBo1D2awjs",
     "url": "https://youtube.com/shorts/WlBo1D2awjs",
-    "views": 138,
+    "views": 139,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1124,7 +1124,7 @@
    "yt": {
     "id": "p0gwVuirHqk",
     "url": "https://youtube.com/shorts/p0gwVuirHqk",
-    "views": 76,
+    "views": 74,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1151,8 +1151,8 @@
    "yt": {
     "id": "4GE63V_gnS0",
     "url": "https://youtube.com/shorts/4GE63V_gnS0",
-    "views": 16,
-    "likes": 1,
+    "views": 73,
+    "likes": 4,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-28T21:25:10Z"
@@ -1160,14 +1160,14 @@
    "ig": {
     "id": "18125659975924788",
     "url": "https://www.instagram.com/reel/DfDZPl_DET_/",
-    "views": 1,
-    "reach": 0,
+    "views": 7,
+    "reach": 1,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 1.1
    },
    "title": "40 Minutes Before the Iceberg, the Titanic Told a Warning Ship to \"Shut Up\"",
    "duration": 64.1
@@ -1292,7 +1292,7 @@
    "yt": {
     "id": "85gpQX54OBQ",
     "url": "https://youtube.com/watch?v=85gpQX54OBQ",
-    "views": 232,
+    "views": 235,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
