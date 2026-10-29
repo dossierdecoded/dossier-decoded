@@ -1,0 +1,207 @@
+{
+ "title": "THE LUSITANIA WARNING",
+ "case": "037",
+ "scenes": [
+  {
+   "at": "Before",
+   "type": "photo",
+   "photo": "photo-warning.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.62
+   ],
+   "zoom": [
+    1.25,
+    1.1
+   ],
+   "label": "THE GERMAN EMBASSY'S WARNING · 1915",
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ],
+    [
+     "press",
+     0.2
+    ]
+   ],
+   "stamp": "WARNED",
+   "stamp_at": "newspaper."
+  },
+  {
+   "at": "May",
+   "type": "card",
+   "text": "1 MAY 1915",
+   "sub": "NEW YORK"
+  },
+  {
+   "at": "liner",
+   "type": "photo",
+   "photo": "photo-lusitania-2.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "RMS LUSITANIA · NEW YORK"
+  },
+  {
+   "at": "Imperial",
+   "type": "photo",
+   "photo": "photo-warning.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.88
+   ],
+   "zoom": [
+    1.3,
+    1.4
+   ],
+   "label": "“IMPERIAL GERMAN EMBASSY”"
+  },
+  {
+   "at": "Travellers",
+   "type": "card",
+   "text": "“AT THEIR\nOWN RISK”",
+   "red": true
+  },
+  {
+   "at": "liable",
+   "type": "card",
+   "text": "“LIABLE TO\nDESTRUCTION”",
+   "sub": "SHIPS FLYING THE BRITISH FLAG",
+   "red": true
+  },
+  {
+   "at": "Beside",
+   "type": "photo",
+   "photo": "photo-warning.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.2
+   ],
+   "zoom": [
+    1.2,
+    1.3
+   ],
+   "label": "THE CUNARD AD · SAME PAGE"
+  },
+  {
+   "at": "schedule,",
+   "type": "photo",
+   "photo": "photo-lusitania-1.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SHE SAILED ON SCHEDULE"
+  },
+  {
+   "at": "Six",
+   "type": "card",
+   "text": "7 MAY 1915",
+   "sub": "OFF THE SOUTH COAST OF IRELAND"
+  },
+  {
+   "at": "U-20",
+   "type": "photo",
+   "photo": "photo-uboat.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A GERMAN U-BOAT · c.1915",
+   "sfx": [
+    [
+     "torpedo",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "eighteen",
+   "type": "photo",
+   "photo": "photo-sinking.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "THE SINKING (ILLUSTRATION, 1915)",
+   "stamp": "18 MINUTES",
+   "stamp_at": "minutes."
+  },
+  {
+   "at": "twelve",
+   "type": "card",
+   "text": "~1,200 DEAD",
+   "red": true
+  },
+  {
+   "at": "hundred",
+   "type": "card",
+   "text": "128 AMERICANS",
+   "red": true
+  },
+  {
+   "at": "outrage",
+   "type": "photo",
+   "photo": "photo-headline.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.2
+   ],
+   "zoom": [
+    1.3,
+    1.4
+   ],
+   "label": "THE NEW YORK TIMES · 8 MAY 1915"
+  },
+  {
+   "at": "Two",
+   "type": "card",
+   "text": "1917",
+   "sub": "THE US ENTERS THE WAR"
+  },
+  {
+   "at": "warned,",
+   "type": "photo",
+   "photo": "photo-warning.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "label": "WARNED, IN PRINT"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
