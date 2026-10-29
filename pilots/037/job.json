@@ -1,0 +1,66 @@
+{
+ "slug": "037-lusitania",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] Before the Lusitania sailed, Germany warned the passengers in the newspaper. And almost nobody listened. May 1st, 1915. New York. The great British liner Lusitania was about to leave for Liverpool. That morning, New York papers carried a notice from the Imperial German Embassy. Travellers sailing in the war zone on British ships, it said, do so at their own risk. Ships flying the British flag were liable to be destroyed. Beside it, in some papers, ran an advert for the Lusitania's next sailing. She left on schedule, with nearly two thousand people aboard. Six days later, off the south coast of Ireland, the German submarine U-20 fired a single torpedo. The Lusitania sank in eighteen minutes. Nearly twelve hundred people died. One hundred and twenty-eight of them were Americans. The outrage helped turn America against Germany. Two years later, the United States entered the war. They were warned, in print, the day they sailed. Send this to someone who reads the fine print. This is Dossier Decoded. Case file number thirty-seven. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "warning",
+   "query": "Lusitania German embassy warning notice 1915 newspaper",
+   "n": 1
+  },
+  {
+   "slug": "lusitania",
+   "query": "RMS Lusitania arriving New York 1907",
+   "n": 2
+  },
+  {
+   "slug": "uboat",
+   "query": "SM U-20 German submarine 1915",
+   "n": 1
+  },
+  {
+   "slug": "sinking",
+   "query": "Lusitania sinking illustration 1915",
+   "n": 1
+  },
+  {
+   "slug": "headline",
+   "query": "Lusitania sunk New York Times front page May 8 1915",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "press",
+   "text": "vintage newspaper printing press running, rhythmic clatter",
+   "seconds": 3
+  },
+  {
+   "slug": "torpedo",
+   "text": "underwater torpedo launch whoosh then a distant muffled explosion",
+   "seconds": 3
+  }
+ ]
+}
