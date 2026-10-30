@@ -1,0 +1,51 @@
+[
+ {
+  "slug": "launch-1",
+  "title": "File:STS-51-L.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "page": "https://commons.wikimedia.org/wiki/File:STS-51-L.jpg"
+ },
+ {
+  "slug": "launch-2",
+  "title": "File:STS-51-L shuttle.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "page": "https://commons.wikimedia.org/wiki/File:STS-51-L_shuttle.jpg"
+ },
+ {
+  "slug": "breakup",
+  "title": "File:Challenger explosion.jpg",
+  "license": "Public domain",
+  "artist": "Kennedy Space Center",
+  "page": "https://commons.wikimedia.org/wiki/File:Challenger_explosion.jpg"
+ },
+ {
+  "slug": "crew",
+  "title": "File:Challenger flight 51-l crew.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "page": "https://commons.wikimedia.org/wiki/File:Challenger_flight_51-l_crew.jpg"
+ },
+ {
+  "slug": "oring",
+  "title": "File:RogersCommission-v1p57 cropped.jpg",
+  "license": "Public domain",
+  "artist": "Rogers Commission into the loss of the Space Shuttle Challenger",
+  "page": "https://commons.wikimedia.org/wiki/File:RogersCommission-v1p57_cropped.jpg"
+ },
+ {
+  "slug": "rogers",
+  "title": "File:Rogers-report-front-page.png",
+  "license": "Public domain",
+  "artist": "NASA",
+  "page": "https://commons.wikimedia.org/wiki/File:Rogers-report-front-page.png"
+ },
+ {
+  "slug": "mcauliffe",
+  "title": "File:ChristaMcAuliffe.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "page": "https://commons.wikimedia.org/wiki/File:ChristaMcAuliffe.jpg"
+ }
+]
