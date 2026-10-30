@@ -1,0 +1,236 @@
+{
+ "title": "THE CHALLENGER WARNING",
+ "case": "038",
+ "scenes": [
+  {
+   "at": "night",
+   "type": "photo",
+   "photo": "photo-launch-1.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.3,
+    1.1
+   ],
+   "label": "CHALLENGER · JAN 1986",
+   "stamp": "WARNED",
+   "stamp_at": "anyway",
+   "sfx_at": [
+    [
+     "hit",
+     "night"
+    ]
+   ]
+  },
+  {
+   "at": "six",
+   "type": "photo",
+   "photo": "photo-rogers.jpg",
+   "fit": "contain",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SENATE HEARINGS · 1986",
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "at": "rubber",
+   "type": "photo",
+   "photo": "photo-oring.jpg",
+   "fit": "contain",
+   "focus": [
+    0.5,
+    0.3
+   ],
+   "zoom": [
+    1.1,
+    1.4
+   ],
+   "label": "BOOSTER FIELD JOINT · O-RINGS"
+  },
+  {
+   "at": "catastrophe",
+   "type": "card",
+   "text": "\"CATASTROPHE\"",
+   "sub": "\"OF THE HIGHEST ORDER\" · BOISJOLY MEMO, JULY 1985",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "loss"
+    ]
+   ]
+  },
+  {
+   "at": "january",
+   "type": "card",
+   "text": "BELOW\nFREEZING",
+   "sub": "FORECAST · JAN 27, 1986"
+  },
+  {
+   "at": "coldest",
+   "type": "card",
+   "text": "COLDEST LAUNCH\nSO FAR: 53°F",
+   "sub": "AND THE SEALS STILL LEAKED"
+  },
+  {
+   "at": "call",
+   "type": "card",
+   "text": "ENGINEERS:\nNO LAUNCH",
+   "sub": "THIOKOL · LATE-NIGHT CALL",
+   "red": true,
+   "sfx_at": [
+    [
+     "phone",
+     "call"
+    ]
+   ]
+  },
+  {
+   "at": "april",
+   "type": "card",
+   "text": "\"NEXT APRIL?\"",
+   "sub": "NASA MANAGER"
+  },
+  {
+   "at": "offline",
+   "type": "photo",
+   "photo": "photo-launch-2.jpg",
+   "focus": [
+    0.3,
+    0.6
+   ],
+   "zoom": [
+    1.1,
+    1.3
+   ],
+   "label": "LAUNCH PAD 39B"
+  },
+  {
+   "at": "engineering",
+   "type": "card",
+   "text": "\"TAKE OFF YOUR\nENGINEERING HAT\"",
+   "sub": "THIOKOL MANAGEMENT"
+  },
+  {
+   "at": "reversed",
+   "type": "card",
+   "text": "RECOMMENDATION\nREVERSED",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "reversed"
+    ]
+   ]
+  },
+  {
+   "at": "morning",
+   "type": "card",
+   "text": "36°F",
+   "sub": "LAUNCH MORNING · JAN 28, 1986"
+  },
+  {
+   "at": "liftoff",
+   "type": "photo",
+   "photo": "photo-launch-1.jpg",
+   "focus": [
+    0.5,
+    0.55
+   ],
+   "zoom": [
+    1.0,
+    1.2
+   ],
+   "label": "LIFTOFF · 11:38 AM",
+   "sfx_at": [
+    [
+     "rumble",
+     "liftoff"
+    ]
+   ]
+  },
+  {
+   "at": "challenger",
+   "type": "photo",
+   "photo": "photo-breakup.jpg",
+   "focus": [
+    0.4,
+    0.4
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "T+73 SECONDS",
+   "sfx_at": [
+    [
+     "hit",
+     "challenger"
+    ]
+   ]
+  },
+  {
+   "at": "crew",
+   "type": "photo",
+   "photo": "photo-crew.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "label": "STS-51-L CREW"
+  },
+  {
+   "at": "christa",
+   "type": "photo",
+   "photo": "photo-mcauliffe.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CHRISTA McAULIFFE"
+  },
+  {
+   "at": "cause",
+   "type": "photo",
+   "photo": "photo-oring.jpg",
+   "fit": "contain",
+   "zoom": [
+    1.2,
+    1.0
+   ],
+   "label": "THE O-RING",
+   "stamp": "CAUSE",
+   "stamp_at": "oring",
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "at": "send",
+   "type": "card",
+   "text": "THEY\nWARNED THEM",
+   "sub": "AND WERE OVERRULED",
+   "red": true
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
