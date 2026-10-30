@@ -1,0 +1,76 @@
+{
+ "slug": "038-challenger-warning",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] The night before Challenger launched, the engineers who built its rockets begged NASA not to fly. NASA flew anyway. Six months earlier, Morton Thiokol engineer Roger Boisjoly had written a memo. The rubber O-rings sealing the booster joints were failing. If nothing changed, he warned, the result could be a catastrophe of the highest order. Loss of human life. January twenty-seventh, 1986. The forecast for launch morning was below freezing. The coldest launch so far had been fifty-three degrees, and even then the seals had leaked. On a late-night call, Thiokol's engineers recommended no launch. NASA pushed back. One manager asked, when do you want me to launch, next April? Thiokol's managers went offline. One told another to take off his engineering hat and put on his management hat. They reversed the recommendation. The next morning it was thirty-six degrees. Icicles hung from the launch tower. Seventy-three seconds after liftoff, Challenger broke apart. All seven crew were killed, including teacher Christa McAuliffe. The cause was the O-ring. Exactly what the memo said. Send this to someone who thinks experts always get heard. This is Dossier Decoded. Case file number thirty-eight. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "launch",
+   "query": "Space Shuttle Challenger STS-51-L liftoff January 28 1986",
+   "n": 2
+  },
+  {
+   "slug": "breakup",
+   "query": "Challenger explosion 1986 smoke plume",
+   "n": 1
+  },
+  {
+   "slug": "crew",
+   "query": "STS-51-L crew portrait",
+   "n": 1
+  },
+  {
+   "slug": "ice",
+   "query": "ice on launch pad 39B Challenger January 1986",
+   "n": 1
+  },
+  {
+   "slug": "oring",
+   "query": "Challenger solid rocket booster O-ring field joint diagram",
+   "n": 1
+  },
+  {
+   "slug": "rogers",
+   "query": "Rogers Commission Challenger hearing 1986",
+   "n": 1
+  },
+  {
+   "slug": "mcauliffe",
+   "query": "Christa McAuliffe 1985",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "rumble",
+   "text": "rocket launch rumble, deep roar building",
+   "seconds": 3
+  },
+  {
+   "slug": "phone",
+   "text": "1980s conference call speakerphone static and beep",
+   "seconds": 2
+  }
+ ]
+}
