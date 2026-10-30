@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:59:47+00:00",
+ "updated": "2026-10-30T00:41:55+00:00",
  "youtube_channel": {
   "subscribers": 105,
   "views": 7503
@@ -1155,8 +1155,8 @@
    "yt": {
     "id": "4GE63V_gnS0",
     "url": "https://youtube.com/shorts/4GE63V_gnS0",
-    "views": 600,
-    "likes": 16,
+    "views": 628,
+    "likes": 18,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-28T21:25:10Z"
@@ -1182,23 +1182,30 @@
    "yt": {
     "id": "2vX7k2zBRY4",
     "url": "https://youtube.com/shorts/2vX7k2zBRY4",
-    "views": 25,
-    "likes": 2,
-    "comments": 0,
+    "views": 32,
+    "likes": 4,
+    "comments": 1,
     "privacy": "public",
-    "published": "2026-10-29T21:26:20Z"
+    "published": "2026-10-29T21:26:20Z",
+    "comment_text": [
+     {
+      "author": "@CoronadoBruin",
+      "text": "Munitions were declared on its manifest, and there were Central Powers spies in NY harbor.  Absolutely reckless to take civilians onboard under such circumstances.  That inconvenient fact was never present in my school textbooks of the '60s....",
+      "at": "2026-10-30T00:09:44Z"
+     }
+    ]
    },
    "ig": {
     "id": "18643578232053712",
     "url": "https://www.instagram.com/reel/DfGKBDiFLt5/",
-    "views": 1,
-    "reach": 0,
+    "views": 3,
+    "reach": 1,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 0.6
    },
    "title": "Germany Warned Lusitania's Passengers in the Newspaper. They Sailed Anyway. #shorts",
    "duration": 65.5
