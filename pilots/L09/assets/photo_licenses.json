@@ -75,5 +75,54 @@
   "license": "Public domain",
   "artist": "Petty Officer 3rd Class Kimberly Reaves, U.S. Coast Guard",
   "page": "https://commons.wikimedia.org/wiki/File:U.S._Coast_Guard_International_Ice_Patrol_drifting_buoy_deployment,_North_Atlantic_Ocean,_2022.jpg"
+ },
+ {
+  "slug": "titanic-1",
+  "title": "File:RMS Titanic 3.jpg",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:F._G._O._Stuart\" class=\"extiw\" title=\"w:en:F. G. O. Stuart\"><span title=\"British photographer (1843\u20131923)\">Francis Godolphin Osbourne Stuart</span></a></",
+  "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_3.jpg"
+ },
+ {
+  "slug": "titanic-2",
+  "title": "File:RMS Titanic 3 (cropped to ship).jpg",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:F._G._O._Stuart\" class=\"extiw\" title=\"w:en:F. G. O. Stuart\"><span title=\"British photographer (1843\u20131923)\">Francis Godolphin Osbourne Stuart</span></a></",
+  "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_3_(cropped_to_ship).jpg"
+ },
+ {
+  "slug": "phillips",
+  "title": "File:Jack Phillips - RMS Adriatic wireless operators.jpg",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Francis_Browne\" class=\"extiw\" title=\"w:en:Francis Browne\"><span title=\"Irish photographer\">Francis Browne</span></a></bdi>",
+  "page": "https://commons.wikimedia.org/wiki/File:Jack_Phillips_-_RMS_Adriatic_wireless_operators.jpg"
+ },
+ {
+  "slug": "radioroom",
+  "title": "File:Harold Bride in the Titanic Marconi Room.png",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Francis_Browne\" class=\"extiw\" title=\"w:en:Francis Browne\"><span title=\"Irish photographer\">Francis Browne</span></a></bdi>",
+  "page": "https://commons.wikimedia.org/wiki/File:Harold_Bride_in_the_Titanic_Marconi_Room.png"
+ },
+ {
+  "slug": "californian",
+  "title": "File:Californian.jpg",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Louis_Ogden\" class=\"extiw\" title=\"w:en:Louis Ogden\"><span title=\"American lawyer (1867\u20131946)\">Louis Ogden</span></a></bdi>",
+  "page": "https://commons.wikimedia.org/wiki/File:Californian.jpg"
+ },
+ {
+  "slug": "iceberg",
+  "title": "File:Titanic iceberg.jpg",
+  "license": "Public domain",
+  "artist": "The chief steward of the liner <i>Prinz Adalbert</i>",
+  "page": "https://commons.wikimedia.org/wiki/File:Titanic_iceberg.jpg"
+ },
+ {
+  "slug": "lifeboat",
+  "title": "File:This uncaptioned photograph is presumed to be a TITANIC lifeboat being hoisted to drain it of water. - NARA - 278331.jpg",
+  "license": "Public domain",
+  "artist": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+  "page": "https://commons.wikimedia.org/wiki/File:This_uncaptioned_photograph_is_presumed_to_be_a_TITANIC_lifeboat_being_hoisted_to_drain_it_of_water._-_NARA_-_278331.jpg"
  }
 ]

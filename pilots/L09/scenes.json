@@ -1,0 +1,799 @@
+{
+ "title": "THE TITANIC WARNINGS",
+ "case": "036",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "At",
+   "type": "photo",
+   "photo": "photo-californian.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.3,
+    1.1
+   ],
+   "label": "SS CALIFORNIAN",
+   "sfx": [
+    [
+     "morse",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "stopped",
+   "type": "card",
+   "text": "“WE ARE STOPPED AND\nSURROUNDED BY ICE.”",
+   "sub": "CALIFORNIAN · ~11 PM, 14 APRIL 1912",
+   "red": true
+  },
+  {
+   "at": "Phillips,",
+   "type": "photo",
+   "photo": "photo-phillips.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "MARCONI OPERATORS · JACK PHILLIPS",
+   "fit": "contain"
+  },
+  {
+   "at": "telegrams",
+   "type": "card",
+   "text": "PASSENGERS' TELEGRAMS",
+   "sub": "→ CAPE RACE, NEWFOUNDLAND"
+  },
+  {
+   "at": "loud,",
+   "type": "photo",
+   "photo": "photo-radioroom.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "TITANIC'S MARCONI ROOM",
+   "fit": "contain"
+  },
+  {
+   "at": "Shut",
+   "type": "card",
+   "text": "“SHUT UP, SHUT UP.\nI AM BUSY.”",
+   "sub": "JACK PHILLIPS",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Evans,",
+   "type": "card",
+   "text": "CYRIL EVANS",
+   "sub": "CALIFORNIAN'S OPERATOR"
+  },
+  {
+   "at": "headphones,",
+   "type": "card",
+   "text": "~11:30 PM\nRADIO OFF"
+  },
+  {
+   "at": "Ten",
+   "type": "card",
+   "text": "10 MINUTES\nLATER",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "first",
+   "type": "card",
+   "text": "AT LEAST\nTHE SIXTH WARNING"
+  },
+  {
+   "at": "story",
+   "type": "photo",
+   "photo": "photo-titanic-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "RMS TITANIC"
+  },
+  {
+   "at": "left",
+   "type": "card",
+   "text": "UNSINKABLE",
+   "sub": "CHAPTER 2 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "largest",
+   "type": "photo",
+   "photo": "photo-southampton.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "LEAVING SOUTHAMPTON · 10 APRIL 1912",
+   "fit": "contain"
+  },
+  {
+   "at": "gym,",
+   "type": "card",
+   "text": "GYM · POOL\nSQUASH COURT"
+  },
+  {
+   "at": "twentytwo",
+   "type": "card",
+   "text": "~2,200\nABOARD"
+  },
+  {
+   "at": "safe",
+   "type": "photo",
+   "photo": "photo-titanic-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.05,
+    1.2
+   ],
+   "label": "“AS SAFE AS A SHIP COULD BE”"
+  },
+  {
+   "at": "compartments",
+   "type": "card",
+   "text": "WATERTIGHT\nCOMPARTMENTS"
+  },
+  {
+   "at": "four.",
+   "type": "card",
+   "text": "COULD FLOAT WITH\nTHE FIRST FOUR FLOODED"
+  },
+  {
+   "at": "Marconi",
+   "type": "photo",
+   "photo": "photo-radioroom.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "THE MARCONI ROOM",
+   "fit": "contain"
+  },
+  {
+   "at": "Star",
+   "type": "card",
+   "text": "THEY WORKED\nFOR MARCONI",
+   "sub": "NOT WHITE STAR"
+  },
+  {
+   "at": "word.",
+   "type": "card",
+   "text": "PASSENGERS PAID\nBY THE WORD"
+  },
+  {
+   "at": "bridge.",
+   "type": "card",
+   "text": "NAVIGATION MESSAGES\n→ THE BRIDGE"
+  },
+  {
+   "at": "broken",
+   "type": "card",
+   "text": "SET BROKE DOWN\nTHE NIGHT BEFORE",
+   "red": true
+  },
+  {
+   "at": "mountain",
+   "type": "photo",
+   "photo": "photo-phillips.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "A BACKLOG OF MESSAGES",
+   "fit": "contain"
+  },
+  {
+   "at": "started",
+   "type": "card",
+   "text": "SIX WARNINGS",
+   "sub": "CHAPTER 3 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Caronia",
+   "type": "card",
+   "text": "9:00 AM · CARONIA",
+   "sub": "BERGS, GROWLERS, FIELD ICE",
+   "sfx": [
+    [
+     "morse",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Edward",
+   "type": "card",
+   "text": "CAPTAIN SMITH\nACKNOWLEDGED"
+  },
+  {
+   "at": "Baltic",
+   "type": "card",
+   "text": "1:42 PM · BALTIC",
+   "sub": "ICEBERGS AND FIELD ICE",
+   "sfx": [
+    [
+     "morse",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Ismay,",
+   "type": "photo",
+   "photo": "photo-ismay.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "J. BRUCE ISMAY · WHITE STAR CHAIRMAN",
+   "fit": "contain"
+  },
+  {
+   "at": "pocket.",
+   "type": "card",
+   "text": "IN HIS\nPOCKET",
+   "sub": "THEN SHOWN TO TWO PASSENGERS",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "seven",
+   "type": "card",
+   "text": "7:15 PM",
+   "sub": "FINALLY POSTED IN THE CHART ROOM"
+  },
+  {
+   "at": "Amerika,",
+   "type": "card",
+   "text": "1:45 PM · AMERIKA",
+   "sub": "TWO LARGE ICEBERGS",
+   "sfx": [
+    [
+     "morse",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "NEVER REACHED\nTHE BRIDGE",
+   "red": true
+  },
+  {
+   "at": "three",
+   "type": "card",
+   "text": "~7:30 PM · CALIFORNIAN",
+   "sub": "THREE LARGE BERGS"
+  },
+  {
+   "at": "took",
+   "type": "photo",
+   "photo": "photo-bride.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HAROLD BRIDE · JUNIOR OPERATOR",
+   "fit": "contain"
+  },
+  {
+   "at": "Mesaba",
+   "type": "card",
+   "text": "9:40 PM · MESABA",
+   "sfx": [
+    [
+     "morse",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "pack",
+   "type": "card",
+   "text": "“HEAVY PACK ICE …\nGREAT NUMBER\nLARGE ICEBERGS”",
+   "red": true
+  },
+  {
+   "at": "inquiry",
+   "type": "card",
+   "text": "NEVER REACHED THE\nCAPTAIN OR ANY OFFICER",
+   "sub": "BRITISH INQUIRY"
+  },
+  {
+   "at": "eleven,",
+   "type": "card",
+   "text": "11:00 PM\nCALIFORNIAN",
+   "red": true
+  },
+  {
+   "at": "night",
+   "type": "card",
+   "text": "ICEBERG, RIGHT AHEAD",
+   "sub": "CHAPTER 4 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "moon,",
+   "type": "card",
+   "text": "NO MOON\nFLAT CALM"
+  },
+  {
+   "at": "twentytwo",
+   "type": "card",
+   "text": "~22 KNOTS",
+   "sub": "CLOSE TO TOP SPEED"
+  },
+  {
+   "at": "Fleet",
+   "type": "card",
+   "text": "LOOKOUT\nFREDERICK FLEET",
+   "sub": "~11:40 PM",
+   "sfx": [
+    [
+     "bell",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Iceberg,",
+   "type": "card",
+   "text": "“ICEBERG,\nRIGHT AHEAD.”",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "scraped",
+   "type": "photo",
+   "photo": "photo-iceberg.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "AN ICEBERG PHOTOGRAPHED NEAR THE SITE, 1912",
+   "sfx": [
+    [
+     "creak",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Andrews,",
+   "type": "card",
+   "text": "THOMAS ANDREWS",
+   "sub": "SHIP'S DESIGNER"
+  },
+  {
+   "at": "Five",
+   "type": "card",
+   "text": "5–6 COMPARTMENTS\nFLOODING",
+   "red": true
+  },
+  {
+   "at": "sink,",
+   "type": "photo",
+   "photo": "photo-titanic-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.05
+   ],
+   "label": "AN HOUR OR TWO"
+  },
+  {
+   "at": "lifeboats,",
+   "type": "photo",
+   "photo": "photo-lifeboat.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A TITANIC LIFEBOAT",
+   "fit": "contain"
+  },
+  {
+   "at": "seventyeight",
+   "type": "card",
+   "text": "20 LIFEBOATS\n~1,178 SEATS"
+  },
+  {
+   "at": "law",
+   "type": "card",
+   "text": "MORE THAN\nTHE LAW REQUIRED"
+  },
+  {
+   "at": "half",
+   "type": "card",
+   "text": "BARELY HALF\nOF THOSE ABOARD",
+   "red": true
+  },
+  {
+   "at": "Shortly",
+   "type": "card",
+   "text": "THE SHIP THAT WATCHED",
+   "sub": "CHAPTER 5 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Carpathia,",
+   "type": "photo",
+   "photo": "photo-carpathia.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "RMS CARPATHIA · 58 MILES AWAY"
+  },
+  {
+   "at": "Rostron,",
+   "type": "photo",
+   "photo": "photo-rostron.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CAPTAIN ARTHUR ROSTRON",
+   "fit": "contain"
+  },
+  {
+   "at": "Californian,",
+   "type": "photo",
+   "photo": "photo-californian.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "THE CALIFORNIAN"
+  },
+  {
+   "at": "off.",
+   "type": "card",
+   "text": "HER RADIO\nWAS OFF",
+   "red": true
+  },
+  {
+   "at": "rockets",
+   "type": "card",
+   "text": "8 WHITE\nROCKETS"
+  },
+  {
+   "at": "Lord,",
+   "type": "photo",
+   "photo": "photo-lord.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CAPTAIN STANLEY LORD · “KEEP TRYING THE MORSE LAMP”",
+   "fit": "contain"
+  },
+  {
+   "at": "Nobody",
+   "type": "card",
+   "text": "NOBODY WOKE\nTHE RADIO OPERATOR",
+   "red": true
+  },
+  {
+   "at": "two",
+   "type": "card",
+   "text": "2:20 AM",
+   "sub": "15 APRIL 1912",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "fifteen",
+   "type": "card",
+   "text": "1,500+\nDEAD"
+  },
+  {
+   "at": "lifeboats",
+   "type": "photo",
+   "photo": "photo-lifeboat.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "LOWERED HALF EMPTY",
+   "fit": "contain"
+  },
+  {
+   "at": "four",
+   "type": "photo",
+   "photo": "photo-carpathia.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "label": "~700 SURVIVORS"
+  },
+  {
+   "at": "five",
+   "type": "card",
+   "text": "~5:30 AM",
+   "sub": "THE CALIFORNIAN'S RADIO GOES BACK ON"
+  },
+  {
+   "at": "Two",
+   "type": "card",
+   "text": "WHAT THE FILE TELLS US",
+   "sub": "CHAPTER 6 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Britain.",
+   "type": "photo",
+   "photo": "photo-inquiry.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "US SENATE INQUIRY · 1912",
+   "fit": "contain"
+  },
+  {
+   "at": "many,",
+   "type": "card",
+   "text": "“MIGHT HAVE SAVED MANY,\nIF NOT ALL”",
+   "sub": "BRITISH INQUIRY ON THE CALIFORNIAN",
+   "red": true
+  },
+  {
+   "at": "insisting",
+   "type": "photo",
+   "photo": "photo-lord.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "STANLEY LORD",
+   "fit": "contain"
+  },
+  {
+   "at": "argue",
+   "type": "card",
+   "text": "HOW FAR APART?\nSTILL DEBATED"
+  },
+  {
+   "at": "American",
+   "type": "photo",
+   "photo": "photo-inquiry.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "THE AMERICAN INQUIRY",
+   "fit": "contain"
+  },
+  {
+   "at": "rules",
+   "type": "photo",
+   "photo": "photo-newspaper.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE NEW YORK TIMES · 16 APRIL 1912",
+   "fit": "contain"
+  },
+  {
+   "at": "Lifeboat",
+   "type": "card",
+   "text": "LIFEBOATS\nFOR EVERYONE"
+  },
+  {
+   "at": "drills",
+   "type": "card",
+   "text": "DRILLS ON\nEVERY VOYAGE"
+  },
+  {
+   "at": "twentyfour",
+   "type": "card",
+   "text": "24-HOUR\nRADIO WATCH"
+  },
+  {
+   "at": "International",
+   "type": "photo",
+   "photo": "photo-icepatrol.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "INTERNATIONAL ICE PATROL · TODAY"
+  },
+  {
+   "at": "lack",
+   "type": "card",
+   "text": "NOT A LACK OF\nINFORMATION",
+   "red": true
+  },
+  {
+   "at": "Caronia,",
+   "type": "card",
+   "text": "CARONIA · BALTIC · AMERIKA\nCALIFORNIAN · MESABA\nCALIFORNIAN"
+  },
+  {
+   "at": "chairman's",
+   "type": "card",
+   "text": "1 IN A POCKET\n2 NEVER REACHED THE BRIDGE\n1 TOLD TO SHUT UP",
+   "red": true
+  },
+  {
+   "at": "system",
+   "type": "photo",
+   "photo": "photo-titanic-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.2
+   ],
+   "label": "RMS TITANIC · 1912"
+  },
+  {
+   "at": "Which",
+   "type": "card",
+   "text": "WHICH WARNING\nCOULD HAVE SAVED HER?",
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
