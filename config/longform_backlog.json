@@ -52,9 +52,16 @@
   },
   {
    "id": "L09",
+   "case": "036",
+   "topic": "The Titanic warnings",
+   "post": "2026-11-01T12:00:00-05:00",
+   "reuse": "pilots/036"
+  },
+  {
+   "id": "L10",
    "case": "010",
    "topic": "The Somerton Man (Tamam Shud)",
-   "post": "2026-11-01T12:00:00-04:00",
+   "post": "2026-11-05T12:00:00-05:00",
    "reuse": "pilots/010"
   }
  ]

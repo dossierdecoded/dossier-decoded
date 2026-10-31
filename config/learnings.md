@@ -20,3 +20,5 @@ Append dated lines; newest at the bottom. Production reads this before writing e
 - 2026-10-23: Harold Holt (030) = 68 YouTube views in 9 h despite famous-name formula — name must be famous to AMERICANS (our audience). IG fine (69).
 - 2026-10-25: Philadelphia doc promotion (ad-safe thumbnail) = $6.47 → 2,698 impressions, 35 views, 22 subs (~$0.29/sub) — best paid result. Standard: promote each new doc with ad-safe thumbnail.
 - 2026-10-27: Glenn Miller doc (L07) grew 2→163 views organically on 26 Oct (no link, no promo); a paid promotion started morning of 27 Oct, so growth after that is mixed — first documentary YouTube recommended on its own. Famous searchable name + documentary = organic reach. Check Studio traffic source.
+- 2026-10-31: Queue.json MUST include instagram.video_url (https://dossierdecoded.github.io/media/<case>.mp4) — 037 omitted it and Instagram silently failed (posted 2 h late after fix). Copy the whole instagram block from draft.json.
+- 2026-10-31: L09 switched from Somerton (obscure) to the Titanic warnings (036 Short ~930 views); Somerton moved to L10.
