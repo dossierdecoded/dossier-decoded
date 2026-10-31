@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T18:28:50+00:00",
+ "updated": "2026-10-31T19:14:38+00:00",
  "youtube_channel": {
-  "subscribers": 124,
-  "views": 8232
+  "subscribers": 126,
+  "views": 8254
  },
  "instagram_account": {
   "followers_count": 9,
@@ -1129,7 +1129,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-27T21:21:46Z",
-    "avg_view_pct": 34.42,
+    "avg_view_pct": 34.04,
     "avg_view_sec": 21,
     "shares": 0,
     "subs_gained": 0
@@ -1160,8 +1160,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-28T21:25:10Z",
-    "avg_view_pct": 54.29999999999999,
-    "avg_view_sec": 35,
+    "avg_view_pct": 46.1,
+    "avg_view_sec": 29,
     "shares": 0,
     "subs_gained": 1
    },
@@ -1197,7 +1197,11 @@
       "text": "Munitions were declared on its manifest, and there were Central Powers spies in NY harbor.  Absolutely reckless to take civilians onboard under such circumstances.  That inconvenient fact was never present in my school textbooks of the '60s....",
       "at": "2026-10-30T00:09:44Z"
      }
-    ]
+    ],
+    "avg_view_pct": 73.55,
+    "avg_view_sec": 48,
+    "shares": 0,
+    "subs_gained": 1
    },
    "ig": {
     "id": "18643578232053712",
@@ -1301,8 +1305,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 17.56,
-    "avg_view_sec": 83,
+    "avg_view_pct": 18.09,
+    "avg_view_sec": 86,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1334,13 +1338,13 @@
    "yt": {
     "id": "85gpQX54OBQ",
     "url": "https://youtube.com/watch?v=85gpQX54OBQ",
-    "views": 270,
+    "views": 272,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-25T16:13:52Z",
-    "avg_view_pct": 18.96,
-    "avg_view_sec": 84,
+    "avg_view_pct": 17.92,
+    "avg_view_sec": 79,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1357,7 +1361,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-10-29T16:32:01Z"
+    "published": "2026-10-29T16:32:01Z",
+    "avg_view_pct": 0,
+    "avg_view_sec": 0,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "Amelia Earhart's Last Flight: What Really Happened? (Full Case File)",
    "duration": 411.6
