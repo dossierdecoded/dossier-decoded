@@ -1,0 +1,246 @@
+{
+ "title": "NORTH SENTINEL ISLAND",
+ "case": "039",
+ "scenes": [
+  {
+   "at": "There",
+   "type": "photo",
+   "photo": "photo-beach.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "NORTH SENTINEL ISLAND · FROM SPACE",
+   "sfx_at": [
+    [
+     "hit",
+     "There"
+    ]
+   ],
+   "stamp": "KEEP OUT",
+   "stamp_at": "kill",
+   "fit": "contain"
+  },
+  {
+   "at": "illegal",
+   "type": "card",
+   "text": "ILLEGAL TO\nEVEN GO NEAR IT",
+   "red": true
+  },
+  {
+   "at": "North",
+   "type": "photo",
+   "photo": "photo-andaman.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "THE ANDAMAN ISLANDS (HAVELOCK, NEARBY)",
+   "sfx_at": [
+    [
+     "waves",
+     "North"
+    ]
+   ]
+  },
+  {
+   "at": "Andaman",
+   "type": "photo",
+   "photo": "photo-beach.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.3,
+    1.5
+   ],
+   "label": "NORTH SENTINEL'S REEF"
+  },
+  {
+   "at": "Manhattan.",
+   "type": "card",
+   "text": "ABOUT THE SIZE\nOF MANHATTAN"
+  },
+  {
+   "at": "Sentinelese,",
+   "type": "card",
+   "text": "THE SENTINELESE",
+   "sub": "POPULATION UNKNOWN"
+  },
+  {
+   "at": "thousands",
+   "type": "card",
+   "text": "TENS OF THOUSANDS\nOF YEARS?"
+  },
+  {
+   "at": "refused",
+   "type": "card",
+   "text": "ALMOST NO\nCONTACT. EVER.",
+   "red": true
+  },
+  {
+   "at": "1991,",
+   "type": "card",
+   "text": "1991",
+   "sub": "ANTHROPOLOGIST T. N. PANDIT"
+  },
+  {
+   "at": "coconuts.",
+   "type": "card",
+   "text": "COCONUTS\nACCEPTED"
+  },
+  {
+   "at": "friendly",
+   "type": "card",
+   "text": "ONE OF THE ONLY\nFRIENDLY CONTACTS"
+  },
+  {
+   "at": "2004,",
+   "type": "photo",
+   "photo": "photo-helicopter.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "INDIAN COAST GUARD HELICOPTER (SIMILAR TYPE)",
+   "sfx_at": [
+    [
+     "rotor",
+     "2004"
+    ]
+   ]
+  },
+  {
+   "at": "arrows",
+   "type": "card",
+   "text": "ARROWS",
+   "sub": "FIRED AT THE HELICOPTER",
+   "red": true,
+   "sfx_at": [
+    [
+     "arrow",
+     "arrows"
+    ]
+   ]
+  },
+  {
+   "at": "2006,",
+   "type": "card",
+   "text": "2006",
+   "sub": "TWO FISHERMEN DRIFTED TOO CLOSE"
+  },
+  {
+   "at": "killed.",
+   "type": "card",
+   "text": "KILLED",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "killed"
+    ]
+   ]
+  },
+  {
+   "at": "2018,",
+   "type": "card",
+   "text": "2018",
+   "sub": "JOHN ALLEN CHAU, 26"
+  },
+  {
+   "at": "illegally.",
+   "type": "card",
+   "text": "ILLEGAL\nLANDING"
+  },
+  {
+   "at": "shot",
+   "type": "card",
+   "text": "SHOT AT",
+   "red": true,
+   "sfx_at": [
+    [
+     "arrow",
+     "shot"
+    ]
+   ]
+  },
+  {
+   "at": "back",
+   "type": "card",
+   "text": "HE WENT\nBACK"
+  },
+  {
+   "at": "killed.",
+   "type": "card",
+   "text": "KILLED",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "killed"
+    ]
+   ]
+  },
+  {
+   "at": "body",
+   "type": "card",
+   "text": "BODY NEVER\nRECOVERED"
+  },
+  {
+   "at": "bans",
+   "type": "photo",
+   "photo": "photo-beach.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    0.9,
+    1.0
+   ],
+   "label": "~5 KM EXCLUSION ZONE"
+  },
+  {
+   "at": "protect",
+   "type": "card",
+   "text": "TO PROTECT\nTHEM FROM US",
+   "red": true
+  },
+  {
+   "at": "cold",
+   "type": "card",
+   "text": "A SINGLE COLD\nCOULD WIPE THEM OUT"
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-beach.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.2,
+    1.4
+   ],
+   "label": "NORTH SENTINEL ISLAND"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
