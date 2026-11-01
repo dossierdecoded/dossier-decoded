@@ -1,0 +1,76 @@
+{
+ "slug": "039-north-sentinel",
+ "pillar": "Strange but true",
+ "format": "case-file",
+ "script": "[serious] There is an island in the Indian Ocean where, if you land, the people who live there may kill you. And it is illegal for you to even go near it. North Sentinel Island, in India's Andaman Islands. It's about the size of Manhattan. Its people, the Sentinelese, may have lived there for tens of thousands of years, and they have refused almost all contact with the outside world. In 1991, an Indian team led by anthropologist T. N. Pandit was allowed close, and handed over coconuts. It was one of the only friendly contacts ever recorded. In 2004, after the tsunami, an Indian Coast Guard helicopter flew over to check on them. A man on the beach fired arrows at it. In 2006, two fishermen who drifted too close were killed. And in 2018, a young American missionary, John Allen Chau, paid fishermen to take him there illegally. The islanders shot at him. He went back anyway. He was killed. His body was never recovered. India now bans anyone from going within about five kilometers. Not to protect us from them. To protect them from us. A single cold could wipe them out. Send this to someone who thinks every place on Earth has been explored. This is Dossier Decoded. Case file number thirty-nine. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "island",
+   "query": "North Sentinel Island aerial NASA",
+   "n": 2
+  },
+  {
+   "slug": "beach",
+   "query": "North Sentinel Island coast reef",
+   "n": 1
+  },
+  {
+   "slug": "andaman",
+   "query": "Andaman Islands map",
+   "n": 1
+  },
+  {
+   "slug": "chau",
+   "query": "John Allen Chau",
+   "n": 1
+  },
+  {
+   "slug": "helicopter",
+   "query": "Indian Coast Guard helicopter Chetak",
+   "n": 1
+  },
+  {
+   "slug": "canoe",
+   "query": "Andaman outrigger canoe",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "waves",
+   "text": "waves on a coral reef beach, wind",
+   "seconds": 4
+  },
+  {
+   "slug": "arrow",
+   "text": "arrow whooshing past and thudding into wood",
+   "seconds": 1.5
+  },
+  {
+   "slug": "rotor",
+   "text": "helicopter rotor passing overhead",
+   "seconds": 3
+  }
+ ]
+}
