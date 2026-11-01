@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T01:51:52+00:00",
+ "updated": "2026-11-01T02:38:50+00:00",
  "youtube_channel": {
   "subscribers": 129,
   "views": 8254
@@ -648,13 +648,7 @@
     "comments": 1,
     "privacy": "public",
     "published": "2026-10-13T21:14:49Z",
-    "comment_text": [
-     {
-      "author": "@RichardFarnsworth-o3m",
-      "text": "I fought the birds and the birds won",
-      "at": "2026-10-13T22:25:51Z"
-     }
-    ],
+    "comment_text": [],
     "avg_view_pct": 95.75,
     "avg_view_sec": 36,
     "shares": 0,
@@ -829,13 +823,7 @@
     "comments": 1,
     "privacy": "public",
     "published": "2026-10-18T21:09:46Z",
-    "comment_text": [
-     {
-      "author": "@PTT9821",
-      "text": "When real life is better than any fictitious story. This is screaming to be made into a movie !",
-      "at": "2026-10-19T14:01:35Z"
-     }
-    ],
+    "comment_text": [],
     "avg_view_pct": 61.22,
     "avg_view_sec": 44,
     "shares": 0,
@@ -929,13 +917,7 @@
     "comments": 1,
     "privacy": "public",
     "published": "2026-10-21T21:17:28Z",
-    "comment_text": [
-     {
-      "author": "@bryduhbikeguy",
-      "text": "Thank you for the information.",
-      "at": "2026-10-22T00:49:06Z"
-     }
-    ],
+    "comment_text": [],
     "avg_view_pct": 64.04,
     "avg_view_sec": 51,
     "shares": 2,
@@ -967,13 +949,7 @@
     "comments": 1,
     "privacy": "public",
     "published": "2026-10-22T21:18:41Z",
-    "comment_text": [
-     {
-      "author": "@78411361",
-      "text": "Good stuff\ud83d\ude2e",
-      "at": "2026-10-22T21:53:19Z"
-     }
-    ],
+    "comment_text": [],
     "avg_view_pct": 69.4,
     "avg_view_sec": 47,
     "shares": 1,
@@ -1124,7 +1100,7 @@
    "yt": {
     "id": "p0gwVuirHqk",
     "url": "https://youtube.com/shorts/p0gwVuirHqk",
-    "views": 94,
+    "views": 95,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1224,8 +1200,8 @@
    "yt": {
     "id": "gzpXn_HFS9w",
     "url": "https://youtube.com/shorts/gzpXn_HFS9w",
-    "views": 43,
-    "likes": 2,
+    "views": 69,
+    "likes": 6,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T01:16:27Z"
@@ -1233,14 +1209,14 @@
    "ig": {
     "id": "18149451163492521",
     "url": "https://www.instagram.com/reel/DfLiCEiDChZ/",
-    "views": 9,
-    "reach": 0,
+    "views": 36,
+    "reach": 27,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 1.0
+    "avg_watch_sec": 5.1
    },
    "title": "The Night Before Challenger, Engineers Begged NASA Not to Launch",
    "duration": 85.2
@@ -1384,7 +1360,7 @@
    "yt": {
     "id": "bi98kaZTJE8",
     "url": "https://youtube.com/watch?v=bi98kaZTJE8",
-    "views": 2,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
