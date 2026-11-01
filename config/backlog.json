@@ -255,21 +255,21 @@
   },
   {
    "case": "039",
-   "slug": "radium-girls",
-   "topic": "The Radium Girls: painters told the glowing paint was safe",
-   "pillar": "Exposed",
-   "format": "case-file",
-   "target_seconds": 65,
-   "hints": "PD photos; court records; keep respectful"
-  },
-  {
-   "case": "040",
    "slug": "north-sentinel",
    "topic": "North Sentinel Island: the tribe that has refused all contact (Tanmay's request)",
    "pillar": "Strange but true",
    "format": "case-file",
    "target_seconds": 65,
    "hints": "Requested by Tanmay 1 Nov. Respectful: no mockery; Indian govt exclusion zone; 2004 tsunami arrow photo; 2006 fishermen; 2018 John Chau; Commons PD/CC images only"
+  },
+  {
+   "case": "040",
+   "slug": "radium-girls",
+   "topic": "The Radium Girls: painters told the glowing paint was safe",
+   "pillar": "Exposed",
+   "format": "case-file",
+   "target_seconds": 65,
+   "hints": "PD photos; court records; keep respectful"
   },
   {
    "case": "041",
