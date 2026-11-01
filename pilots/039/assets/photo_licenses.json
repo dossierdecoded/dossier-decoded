@@ -1,0 +1,37 @@
+[
+ {
+  "slug": "island-1",
+  "title": "File:Eddy Extravaganza off the Italian Coast.jpg",
+  "license": "Public domain",
+  "artist": "NASA Earth Observatory images by Joshua Stevens, using Landsat data from the U.S. Geological Survey. Story by Kathryn Hansen.",
+  "page": "https://commons.wikimedia.org/wiki/File:Eddy_Extravaganza_off_the_Italian_Coast.jpg"
+ },
+ {
+  "slug": "beach",
+  "title": "File:North Sentinel Island.jpg",
+  "license": "Public domain",
+  "artist": "NASA Earth Observatory image created by Jesse Allen, using data provided by the NASA EO-1 team.",
+  "page": "https://commons.wikimedia.org/wiki/File:North_Sentinel_Island.jpg"
+ },
+ {
+  "slug": "andaman",
+  "title": "File:Havelock Island, Mangrove tree on the beach, Andaman Islands.jpg",
+  "license": "CC BY 4.0",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Havelock_Island,_Mangrove_tree_on_the_beach,_Andaman_Islands.jpg"
+ },
+ {
+  "slug": "helicopter",
+  "title": "File:Cost Guard Helicopter Chowpatty.jpg",
+  "license": "CC BY 2.0",
+  "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/44124415843@N01\">Chris</a>",
+  "page": "https://commons.wikimedia.org/wiki/File:Cost_Guard_Helicopter_Chowpatty.jpg"
+ },
+ {
+  "slug": "canoe",
+  "title": "File:The Andaman Islanders fig 44.png",
+  "license": "Public domain",
+  "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Andaman_Islanders_fig_44.png"
+ }
+]
