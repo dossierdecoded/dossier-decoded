@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T22:28:20+00:00",
+ "updated": "2026-11-01T23:48:07+00:00",
  "youtube_channel": {
-  "subscribers": 142,
+  "subscribers": 145,
   "views": 9466
  },
  "instagram_account": {
@@ -1263,8 +1263,8 @@
    "yt": {
     "id": "Wk5cAeDhyD4",
     "url": "https://youtube.com/shorts/Wk5cAeDhyD4",
-    "views": 0,
-    "likes": 0,
+    "views": 16,
+    "likes": 3,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T22:25:09Z"
@@ -1272,14 +1272,14 @@
    "ig": {
     "id": "18000077940043454",
     "url": "https://www.instagram.com/reel/DfNzPDFFJ13/",
-    "views": 0,
-    "reach": 0,
-    "likes": 0,
+    "views": 53,
+    "reach": 36,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "total_interactions": 1,
+    "avg_watch_sec": 13.1
    },
    "title": "The Island Where Visitors Get Killed. It's Illegal to Even Go Near It",
    "duration": 72.2
