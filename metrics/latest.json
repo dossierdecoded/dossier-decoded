@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T01:16:04+00:00",
+ "updated": "2026-11-01T01:51:52+00:00",
  "youtube_channel": {
-  "subscribers": 128,
+  "subscribers": 129,
   "views": 8254
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 38,
+  "media_count": 39,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -1124,7 +1124,7 @@
    "yt": {
     "id": "p0gwVuirHqk",
     "url": "https://youtube.com/shorts/p0gwVuirHqk",
-    "views": 95,
+    "views": 94,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1217,6 +1217,33 @@
    },
    "title": "Germany Warned Lusitania's Passengers in the Newspaper. They Sailed Anyway. #shorts",
    "duration": 65.5
+  },
+  {
+   "case": "038",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "gzpXn_HFS9w",
+    "url": "https://youtube.com/shorts/gzpXn_HFS9w",
+    "views": 43,
+    "likes": 2,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-01T01:16:27Z"
+   },
+   "ig": {
+    "id": "18149451163492521",
+    "url": "https://www.instagram.com/reel/DfLiCEiDChZ/",
+    "views": 9,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 1.0
+   },
+   "title": "The Night Before Challenger, Engineers Begged NASA Not to Launch",
+   "duration": 85.2
   },
   {
    "case": "L01",
@@ -1357,7 +1384,7 @@
    "yt": {
     "id": "bi98kaZTJE8",
     "url": "https://youtube.com/watch?v=bi98kaZTJE8",
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
