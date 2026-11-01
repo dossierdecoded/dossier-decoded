@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T03:40:00+00:00",
+ "updated": "2026-11-01T04:40:26+00:00",
  "youtube_channel": {
-  "subscribers": 130,
+  "subscribers": 133,
   "views": 8254
  },
  "instagram_account": {
@@ -924,7 +924,7 @@
    "yt": {
     "id": "d4ORwjxHSg4",
     "url": "https://youtube.com/shorts/d4ORwjxHSg4",
-    "views": 1043,
+    "views": 1044,
     "likes": 52,
     "comments": 1,
     "privacy": "public",
@@ -1224,23 +1224,30 @@
    "yt": {
     "id": "gzpXn_HFS9w",
     "url": "https://youtube.com/shorts/gzpXn_HFS9w",
-    "views": 119,
-    "likes": 13,
-    "comments": 0,
+    "views": 407,
+    "likes": 27,
+    "comments": 1,
     "privacy": "public",
-    "published": "2026-11-01T01:16:27Z"
+    "published": "2026-11-01T01:16:27Z",
+    "comment_text": [
+     {
+      "author": "@kevinbuckel4792",
+      "text": "Reagan had a speech planned for that night and with all the hype of the first teacher in space they didn\u2019t want to miss that opportunity to bask in that achievement.",
+      "at": "2026-11-01T04:26:19Z"
+     }
+    ]
    },
    "ig": {
     "id": "18149451163492521",
     "url": "https://www.instagram.com/reel/DfLiCEiDChZ/",
-    "views": 59,
-    "reach": 45,
-    "likes": 0,
+    "views": 104,
+    "reach": 67,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 6.5
+    "total_interactions": 1,
+    "avg_watch_sec": 8.2
    },
    "title": "The Night Before Challenger, Engineers Begged NASA Not to Launch",
    "duration": 85.2
@@ -1346,7 +1353,7 @@
    "yt": {
     "id": "Ae7ZYf7I5rU",
     "url": "https://youtube.com/watch?v=Ae7ZYf7I5rU",
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1384,7 +1391,7 @@
    "yt": {
     "id": "bi98kaZTJE8",
     "url": "https://youtube.com/watch?v=bi98kaZTJE8",
-    "views": 2,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
