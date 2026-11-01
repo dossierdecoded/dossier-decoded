@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T04:40:26+00:00",
+ "updated": "2026-11-01T05:35:06+00:00",
  "youtube_channel": {
-  "subscribers": 133,
+  "subscribers": 135,
   "views": 8254
  },
  "instagram_account": {
@@ -720,7 +720,7 @@
     "id": "Q-aNNAYt7CA",
     "url": "https://youtube.com/shorts/Q-aNNAYt7CA",
     "views": 96,
-    "likes": 4,
+    "likes": 5,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-15T21:17:28Z",
@@ -1063,7 +1063,7 @@
     "id": "X2OHVFxZaqE",
     "url": "https://youtube.com/shorts/X2OHVFxZaqE",
     "views": 89,
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-25T21:11:26Z",
@@ -1224,8 +1224,8 @@
    "yt": {
     "id": "gzpXn_HFS9w",
     "url": "https://youtube.com/shorts/gzpXn_HFS9w",
-    "views": 407,
-    "likes": 27,
+    "views": 595,
+    "likes": 42,
     "comments": 1,
     "privacy": "public",
     "published": "2026-11-01T01:16:27Z",
@@ -1240,14 +1240,14 @@
    "ig": {
     "id": "18149451163492521",
     "url": "https://www.instagram.com/reel/DfLiCEiDChZ/",
-    "views": 104,
-    "reach": 67,
+    "views": 115,
+    "reach": 102,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "avg_watch_sec": 8.2
+    "avg_watch_sec": 7.3
    },
    "title": "The Night Before Challenger, Engineers Begged NASA Not to Launch",
    "duration": 85.2
