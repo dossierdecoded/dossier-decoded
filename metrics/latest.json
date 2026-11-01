@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T20:29:04+00:00",
+ "updated": "2026-11-01T22:28:20+00:00",
  "youtube_channel": {
-  "subscribers": 140,
+  "subscribers": 142,
   "views": 9466
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 39,
+  "media_count": 40,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -1224,7 +1224,7 @@
    "yt": {
     "id": "gzpXn_HFS9w",
     "url": "https://youtube.com/shorts/gzpXn_HFS9w",
-    "views": 1037,
+    "views": 1039,
     "likes": 52,
     "comments": 2,
     "privacy": "public",
@@ -1256,6 +1256,33 @@
    },
    "title": "The Night Before Challenger, Engineers Begged NASA Not to Launch",
    "duration": 85.2
+  },
+  {
+   "case": "039",
+   "pillar": "Strange but true",
+   "yt": {
+    "id": "Wk5cAeDhyD4",
+    "url": "https://youtube.com/shorts/Wk5cAeDhyD4",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-01T22:25:09Z"
+   },
+   "ig": {
+    "id": "18000077940043454",
+    "url": "https://www.instagram.com/reel/DfNzPDFFJ13/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "The Island Where Visitors Get Killed. It's Illegal to Even Go Near It",
+   "duration": 72.2
   },
   {
    "case": "L01",
@@ -1339,7 +1366,7 @@
    "yt": {
     "id": "TcbPukLf_Q8",
     "url": "https://youtube.com/watch?v=TcbPukLf_Q8",
-    "views": 103,
+    "views": 105,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1377,7 +1404,7 @@
    "yt": {
     "id": "85gpQX54OBQ",
     "url": "https://youtube.com/watch?v=85gpQX54OBQ",
-    "views": 283,
+    "views": 284,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
