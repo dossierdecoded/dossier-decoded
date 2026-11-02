@@ -1,0 +1,71 @@
+{
+ "slug": "040-radium-girls",
+ "pillar": "Exposed",
+ "format": "case-file",
+ "script": "[serious] They were told to put radioactive paint in their mouths. And they were told it was safe. Orange, New Jersey, the late 1910s. Hundreds of young women at the U.S. Radium Corporation painted watch dials with a glowing paint called Undark. It was made with radium. To keep their brushes sharp, supervisors told them to shape the tips with their lips. Lip, dip, paint. Over and over, all day. The company said the paint was harmless. Meanwhile, its own chemists handled radium with lead screens, masks and tongs. Then the painters started getting sick. Teeth fell out. Jawbones crumbled. One woman's death was blamed on syphilis. Her bones turned out to be radioactive. In 1927, a painter named Grace Fryer sued. Four others joined her. The press called them the Radium Girls. Some were too sick to raise their hands to take the oath. In 1928, the company settled. Ten thousand dollars each, and a pension. Within a few years, all five were dead. But their case helped give American workers the right to sue over poisoning on the job. Send this to someone who still trusts every safety label. This is Dossier Decoded. Case file number forty. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "painters",
+   "query": "radium dial painters factory 1920s photograph",
+   "n": 2
+  },
+  {
+   "slug": "undark",
+   "query": "Undark radium paint advertisement",
+   "n": 1
+  },
+  {
+   "slug": "fryer",
+   "query": "Grace Fryer radium",
+   "n": 1
+  },
+  {
+   "slug": "watch",
+   "query": "radium luminous watch dial glowing",
+   "n": 1
+  },
+  {
+   "slug": "newspaper",
+   "query": "radium girls newspaper 1928",
+   "n": 1
+  },
+  {
+   "slug": "factory",
+   "query": "United States Radium Corporation Orange New Jersey",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "tick",
+   "text": "old mechanical watch ticking close up",
+   "seconds": 3
+  },
+  {
+   "slug": "geiger",
+   "text": "geiger counter clicking faster",
+   "seconds": 3
+  }
+ ]
+}
