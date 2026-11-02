@@ -23,3 +23,4 @@ Append dated lines; newest at the bottom. Production reads this before writing e
 - 2026-10-31: Queue.json MUST include instagram.video_url (https://dossierdecoded.github.io/media/<case>.mp4) — 037 omitted it and Instagram silently failed (posted 2 h late after fix). Copy the whole instagram block from draft.json.
 - 2026-10-31: L09 switched from Somerton (obscure) to the Titanic warnings (036 Short ~930 views); Somerton moved to L10.
 - 2026-11-01: Challenger (038, 'engineers warned NASA', famous US disaster, 85 s, posted 9:15 pm) = 1,035 YouTube views + 115 IG overnight; subs 128→138. 'They were warned' + very famous American event is the strongest lane; 85 s did not hurt.
+- 2026-11-02: Paid promotion started on L09 (Titanic warnings doc) by Tanmay, afternoon 2 Nov. Baseline before ad: L09 0 views (22 h after posting), channel 148 subs. Judge L09 growth after this as paid.
