@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:57:18+00:00",
+ "updated": "2026-11-02T15:24:37+00:00",
  "youtube_channel": {
   "subscribers": 148,
   "views": 9498
@@ -67,7 +67,7 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "avg_watch_sec": 18.2
+    "avg_watch_sec": 0.0
    },
    "title": "A 25-Foot Wave of Molasses Killed 21 People | The Great Molasses Flood",
    "duration": 56.5
@@ -907,13 +907,13 @@
     "id": "17915126949522423",
     "url": "https://www.instagram.com/reel/Deux-hyj7Wh/",
     "views": 116,
-    "reach": 105,
+    "reach": 0,
     "likes": 5,
     "comments": 0,
     "shares": 1,
     "saved": 0,
     "total_interactions": 6,
-    "avg_watch_sec": 7.0
+    "avg_watch_sec": 0.0
    },
    "title": "His Last Words Were \"It's Not an Aircraft.\" Then He Vanished. | Frederick Valentich",
    "duration": 71.1
@@ -1224,7 +1224,7 @@
    "yt": {
     "id": "gzpXn_HFS9w",
     "url": "https://youtube.com/shorts/gzpXn_HFS9w",
-    "views": 1064,
+    "views": 1074,
     "likes": 53,
     "comments": 2,
     "privacy": "public",
@@ -1263,7 +1263,7 @@
    "yt": {
     "id": "Wk5cAeDhyD4",
     "url": "https://youtube.com/shorts/Wk5cAeDhyD4",
-    "views": 94,
+    "views": 95,
     "likes": 5,
     "comments": 0,
     "privacy": "public",
