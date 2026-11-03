@@ -1,0 +1,30 @@
+[
+ {
+  "slug": "launch",
+  "title": "File:Close-up STS-107 Launch - GPN-2003-00080.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "page": "https://commons.wikimedia.org/wiki/File:Close-up_STS-107_Launch_-_GPN-2003-00080.jpg"
+ },
+ {
+  "slug": "crew",
+  "title": "File:STS-107 crew in orbit.jpg",
+  "license": "Public domain",
+  "artist": "Not known (and will likely never be known), but as it was taken during the mission and ultimately recovered by NASA, it is in the public domain.",
+  "page": "https://commons.wikimedia.org/wiki/File:STS-107_crew_in_orbit.jpg"
+ },
+ {
+  "slug": "foamtest",
+  "title": "File:Impact-test.jpg",
+  "license": "Public domain",
+  "artist": "Rick Stiles",
+  "page": "https://commons.wikimedia.org/wiki/File:Impact-test.jpg"
+ },
+ {
+  "slug": "orbit",
+  "title": "File:Space Shuttle Columbia launching.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "page": "https://commons.wikimedia.org/wiki/File:Space_Shuttle_Columbia_launching.jpg"
+ }
+]
