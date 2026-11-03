@@ -1,0 +1,76 @@
+{
+ "slug": "041-columbia-warning",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] Seventeen years after Challenger, NASA engineers saw something hit Columbia's wing on launch. They begged for photos of the damage. Their managers said no. January 16th, 2003. Eighty-two seconds after liftoff, a chunk of foam about the size of a briefcase broke off the fuel tank and struck the shuttle's left wing. Engineers watching the launch footage were alarmed. Three times, they asked for spy satellites to photograph the wing in orbit. Three times, the requests went nowhere. One engineer, Rodney Rocha, wrote that without better images, it would be very difficult to even bound the problem. Mission managers decided foam strikes had happened before, and called it a maintenance issue. February 1st. Sixteen minutes before landing, Columbia broke apart over Texas. All seven astronauts were killed. That July, investigators fired a piece of foam at a wing panel. It blew a hole sixteen inches wide. The investigation board found that if the damage had been confirmed early, a rescue might have been possible. And it blamed NASA's culture, the same culture that launched Challenger. Send this to someone who thinks we always learn from our mistakes. This is Dossier Decoded. Case file number forty-one. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "launch",
+   "query": "STS-107 launch Columbia January 16 2003",
+   "n": 1
+  },
+  {
+   "slug": "crew",
+   "query": "STS-107 crew portrait",
+   "n": 1
+  },
+  {
+   "slug": "debris",
+   "query": "Columbia reentry debris streaks Texas February 1 2003",
+   "n": 1
+  },
+  {
+   "slug": "foamtest",
+   "query": "Columbia Accident Investigation Board foam impact test hole",
+   "n": 1
+  },
+  {
+   "slug": "orbit",
+   "query": "Space Shuttle Columbia in orbit STS-107",
+   "n": 1
+  },
+  {
+   "slug": "wing",
+   "query": "Columbia wing leading edge reconstruction hangar debris",
+   "n": 1
+  },
+  {
+   "slug": "caib",
+   "query": "Columbia Accident Investigation Board report 2003 cover",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "rumble",
+   "text": "rocket launch rumble, deep roar building",
+   "seconds": 3
+  },
+  {
+   "slug": "boom",
+   "text": "distant double sonic boom rolling across the sky",
+   "seconds": 3
+  }
+ ]
+}
