@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-03T19:28:53+00:00",
+ "updated": "2026-11-03T22:27:51+00:00",
  "youtube_channel": {
-  "subscribers": 184,
-  "views": 9687
+  "subscribers": 198,
+  "views": 10793
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 41,
+  "media_count": 42,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -893,7 +893,7 @@
    "yt": {
     "id": "TOUldQj1KCk",
     "url": "https://youtube.com/shorts/TOUldQj1KCk",
-    "views": 219,
+    "views": 220,
     "likes": 8,
     "comments": 0,
     "privacy": "public",
@@ -1129,8 +1129,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-27T21:21:46Z",
-    "avg_view_pct": 66.31,
-    "avg_view_sec": 41,
+    "avg_view_pct": 64.51,
+    "avg_view_sec": 39,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1160,7 +1160,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-28T21:25:10Z",
-    "avg_view_pct": 43.94,
+    "avg_view_pct": 43.89,
     "avg_view_sec": 28,
     "shares": 0,
     "subs_gained": 2
@@ -1186,7 +1186,7 @@
    "yt": {
     "id": "2vX7k2zBRY4",
     "url": "https://youtube.com/shorts/2vX7k2zBRY4",
-    "views": 71,
+    "views": 72,
     "likes": 6,
     "comments": 1,
     "privacy": "public",
@@ -1241,8 +1241,8 @@
       "at": "2026-11-01T04:26:19Z"
      }
     ],
-    "avg_view_pct": 97.35,
-    "avg_view_sec": 83,
+    "avg_view_pct": 96.18,
+    "avg_view_sec": 82,
     "shares": 3,
     "subs_gained": 4
    },
@@ -1267,11 +1267,15 @@
    "yt": {
     "id": "Wk5cAeDhyD4",
     "url": "https://youtube.com/shorts/Wk5cAeDhyD4",
-    "views": 130,
+    "views": 131,
     "likes": 7,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-01T22:25:09Z"
+    "published": "2026-11-01T22:25:09Z",
+    "avg_view_pct": 108.1,
+    "avg_view_sec": 78,
+    "shares": 0,
+    "subs_gained": 1
    },
    "ig": {
     "id": "18000077940043454",
@@ -1294,7 +1298,7 @@
    "yt": {
     "id": "D7jd7x3QXJE",
     "url": "https://youtube.com/shorts/D7jd7x3QXJE",
-    "views": 1037,
+    "views": 1038,
     "likes": 69,
     "comments": 1,
     "privacy": "public",
@@ -1310,17 +1314,44 @@
    "ig": {
     "id": "17885127525533685",
     "url": "https://www.instagram.com/reel/DfQX8WpEhT6/",
-    "views": 54,
-    "reach": 49,
+    "views": 59,
+    "reach": 56,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 3.5
+    "avg_watch_sec": 3.3
    },
    "title": "They Were Told to Put Radioactive Paint in Their Mouths | The Radium Girls",
    "duration": 75.0
+  },
+  {
+   "case": "041",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "Xlo3qxzc9BM",
+    "url": "https://youtube.com/shorts/Xlo3qxzc9BM",
+    "views": 79,
+    "likes": 7,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-03T22:09:14Z"
+   },
+   "ig": {
+    "id": "18171140977473561",
+    "url": "https://www.instagram.com/reel/DfS7Fu_FF_l/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "NASA Engineers Begged for Photos of Columbia's Wing. Managers Said No.",
+   "duration": 73.1
   },
   {
    "case": "L01",
@@ -1352,8 +1383,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-08T16:23:42Z",
-    "avg_view_pct": 69.59,
-    "avg_view_sec": 295,
+    "avg_view_pct": 62.77,
+    "avg_view_sec": 266,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1409,8 +1440,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 16.98,
-    "avg_view_sec": 81,
+    "avg_view_pct": 18.49,
+    "avg_view_sec": 88,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1447,8 +1478,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-25T16:13:52Z",
-    "avg_view_pct": 12.85,
-    "avg_view_sec": 57,
+    "avg_view_pct": 12.16,
+    "avg_view_sec": 53,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1466,8 +1497,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-29T16:32:01Z",
-    "avg_view_pct": 1.48,
-    "avg_view_sec": 6,
+    "avg_view_pct": 2.16,
+    "avg_view_sec": 8,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1484,7 +1515,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-01T17:19:36Z"
+    "published": "2026-11-01T17:19:36Z",
+    "avg_view_pct": 0,
+    "avg_view_sec": 0,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "The Titanic Was Warned 6 Times. Here's What Happened to Every Warning",
    "duration": 440.7
