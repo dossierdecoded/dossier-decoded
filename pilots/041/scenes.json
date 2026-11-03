@@ -1,0 +1,225 @@
+{
+ "title": "THE COLUMBIA WARNING",
+ "case": "041",
+ "scenes": [
+  {
+   "at": "Seventeen",
+   "type": "photo",
+   "photo": "photo-launch.jpg",
+   "focus": [
+    0.6,
+    0.45
+   ],
+   "zoom": [
+    1.3,
+    1.1
+   ],
+   "label": "COLUMBIA · 16 JANUARY 2003",
+   "stamp": "DENIED",
+   "stamp_at": "no",
+   "sfx_at": [
+    [
+     "rumble",
+     "Seventeen"
+    ]
+   ]
+  },
+  {
+   "at": "January",
+   "type": "card",
+   "text": "16 JANUARY 2003",
+   "sub": "STS-107 LAUNCH"
+  },
+  {
+   "at": "eightytwo",
+   "type": "card",
+   "text": "T+82 SECONDS",
+   "red": true
+  },
+  {
+   "at": "foam",
+   "type": "card",
+   "text": "FOAM\n~BRIEFCASE SIZED"
+  },
+  {
+   "at": "wing.",
+   "type": "photo",
+   "photo": "photo-launch.jpg",
+   "focus": [
+    0.62,
+    0.55
+   ],
+   "zoom": [
+    1.6,
+    1.8
+   ],
+   "label": "THE LEFT WING",
+   "sfx_at": [
+    [
+     "hit",
+     "wing"
+    ]
+   ]
+  },
+  {
+   "at": "alarmed.",
+   "type": "card",
+   "text": "ENGINEERS:\nALARMED"
+  },
+  {
+   "at": "Three",
+   "type": "card",
+   "text": "3 REQUESTS\nFOR SATELLITE PHOTOS"
+  },
+  {
+   "at": "nowhere.",
+   "type": "card",
+   "text": "WENT\nNOWHERE",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "nowhere"
+    ]
+   ]
+  },
+  {
+   "at": "Rocha,",
+   "type": "card",
+   "text": "“VERY DIFFICULT TO\nEVEN BOUND\nTHE PROBLEM”",
+   "sub": "RODNEY ROCHA · NASA ENGINEER"
+  },
+  {
+   "at": "before,",
+   "type": "card",
+   "text": "“IT'S HAPPENED\nBEFORE”",
+   "sub": "MISSION MANAGEMENT"
+  },
+  {
+   "at": "maintenance",
+   "type": "card",
+   "text": "A MAINTENANCE\nISSUE",
+   "red": true
+  },
+  {
+   "at": "February",
+   "type": "photo",
+   "photo": "photo-crew.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "STS-107 CREW · IN ORBIT"
+  },
+  {
+   "at": "Sixteen",
+   "type": "card",
+   "text": "16 MINUTES\nBEFORE LANDING",
+   "sub": "1 FEBRUARY 2003 · OVER TEXAS",
+   "red": true,
+   "sfx_at": [
+    [
+     "boom",
+     "Sixteen"
+    ]
+   ]
+  },
+  {
+   "at": "seven",
+   "type": "photo",
+   "photo": "photo-crew.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "ALL SEVEN KILLED"
+  },
+  {
+   "at": "July,",
+   "type": "photo",
+   "photo": "photo-foamtest.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "CAIB FOAM IMPACT TEST · JULY 2003"
+  },
+  {
+   "at": "sixteen",
+   "type": "photo",
+   "photo": "photo-foamtest.jpg",
+   "focus": [
+    0.45,
+    0.4
+   ],
+   "zoom": [
+    1.6,
+    1.8
+   ],
+   "label": "A 16-INCH HOLE",
+   "stamp": "16 IN",
+   "stamp_at": "inches",
+   "sfx_at": [
+    [
+     "hit",
+     "sixteen"
+    ]
+   ]
+  },
+  {
+   "at": "rescue",
+   "type": "card",
+   "text": "A RESCUE\nMIGHT HAVE BEEN\nPOSSIBLE"
+  },
+  {
+   "at": "culture,",
+   "type": "card",
+   "text": "NASA'S\nCULTURE",
+   "red": true
+  },
+  {
+   "at": "Challenger.",
+   "type": "photo",
+   "photo": "photo-orbit.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "COLUMBIA · FIRST LAUNCH, 1981"
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-launch.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.2
+   ],
+   "label": "SPACE SHUTTLE COLUMBIA"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
