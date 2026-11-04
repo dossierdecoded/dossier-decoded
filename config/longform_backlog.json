@@ -59,9 +59,16 @@
   },
   {
    "id": "L10",
+   "case": "038",
+   "topic": "Challenger: the engineers who tried to stop the launch",
+   "post": "2026-11-05T12:00:00-05:00",
+   "reuse": "pilots/038"
+  },
+  {
+   "id": "L11",
    "case": "010",
    "topic": "The Somerton Man (Tamam Shud)",
-   "post": "2026-11-05T12:00:00-05:00",
+   "post": "2026-11-08T12:00:00-05:00",
    "reuse": "pilots/010"
   }
  ]
