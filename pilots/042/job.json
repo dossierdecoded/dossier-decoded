@@ -1,0 +1,71 @@
+{
+ "slug": "042-apollo1-warning",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] A year before Apollo 1, an engineer warned NASA: the first fire in a spacecraft may well be fatal. He was right. January 27th, 1967. Gus Grissom, Ed White and Roger Chaffee were strapped into their capsule on the launch pad for a routine test. Nobody thought it was dangerous. The rocket wasn't even fueled. But the cabin was filled with pure oxygen, pressurized above the air outside. The contractor's engineers had wanted a safer mix of gases. NASA chose pure oxygen. The materials inside had been fire-tested at a much lower pressure. And flammable Velcro and nylon netting had piled up in the cabin. That afternoon, a wire under the crew's feet sparked. Then Grissom's voice on the radio. We've got a fire in the cockpit. In pure oxygen, the fire filled the capsule in seconds. The hatch opened inward, and the pressure held it shut. Even on a good day, it took over forty seconds to open. All three astronauts were killed. NASA rebuilt the capsule. A hatch that opened outward in seconds. Fire-resistant materials. No more pure oxygen on the pad. Twenty-one months later, Apollo 7 flew. Send this to someone who thinks safety rules are written for no reason. This is Dossier Decoded. Case file number forty-two. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "crew",
+   "query": "Apollo 1 crew Grissom White Chaffee portrait",
+   "n": 2
+  },
+  {
+   "slug": "pad",
+   "query": "Apollo 1 launch complex 34 Saturn IB January 1967",
+   "n": 1
+  },
+  {
+   "slug": "capsule",
+   "query": "Apollo 1 command module interior burned",
+   "n": 1
+  },
+  {
+   "slug": "hatch",
+   "query": "Apollo command module hatch",
+   "n": 1
+  },
+  {
+   "slug": "grissom",
+   "query": "Gus Grissom portrait NASA",
+   "n": 1
+  },
+  {
+   "slug": "apollo7",
+   "query": "Apollo 7 launch October 1968",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "radio",
+   "text": "1960s NASA radio static crackle and beep",
+   "seconds": 2
+  },
+  {
+   "slug": "fire",
+   "text": "sudden whoosh of fire igniting",
+   "seconds": 2
+  }
+ ]
+}
