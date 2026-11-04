@@ -1,0 +1,681 @@
+{
+ "title": "CHALLENGER",
+ "case": "038",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "At",
+   "type": "photo",
+   "photo": "photo-launch-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.25,
+    1.05
+   ],
+   "label": "CHALLENGER · 28 JANUARY 1986",
+   "sfx": [
+    [
+     "rumble",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "schoolteacher,",
+   "type": "photo",
+   "photo": "photo-mcauliffe.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CHRISTA McAULIFFE",
+   "fit": "contain"
+  },
+  {
+   "at": "Millions",
+   "type": "card",
+   "text": "MILLIONS\nWATCHING",
+   "sub": "MANY IN CLASSROOMS"
+  },
+  {
+   "at": "Seventythree",
+   "type": "card",
+   "text": "73 SECONDS",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "killed.",
+   "type": "photo",
+   "photo": "photo-breakup.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ALL SEVEN KILLED"
+  },
+  {
+   "at": "conference",
+   "type": "card",
+   "text": "THE NIGHT BEFORE",
+   "sub": "A CONFERENCE CALL · UTAH · ALABAMA · FLORIDA",
+   "sfx": [
+    [
+     "phone",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "knew",
+   "type": "card",
+   "text": "THEY KNEW\nWHAT WOULD FAIL"
+  },
+  {
+   "at": "overruled.",
+   "type": "card",
+   "text": "OVERRULED",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "memo",
+   "type": "card",
+   "text": "COMING UP:\nTHE MEMO\nTHE HAT"
+  },
+  {
+   "at": "understand",
+   "type": "card",
+   "text": "THE JOINT",
+   "sub": "CHAPTER 2 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "boosters,",
+   "type": "photo",
+   "photo": "photo-srb.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SOLID ROCKET BOOSTER SEGMENTS (LATER MISSION)"
+  },
+  {
+   "at": "Thiokol.",
+   "type": "card",
+   "text": "MORTON THIOKOL",
+   "sub": "UTAH"
+  },
+  {
+   "at": "Orings,",
+   "type": "photo",
+   "photo": "photo-oring.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE FIELD JOINT · O-RINGS ~37 FT AROUND",
+   "fit": "contain"
+  },
+  {
+   "at": "five",
+   "type": "card",
+   "text": "5,000°F+\nGAS",
+   "red": true
+  },
+  {
+   "at": "signs",
+   "type": "card",
+   "text": "FOR YEARS:\nWARNING SIGNS"
+  },
+  {
+   "at": "scorched,",
+   "type": "card",
+   "text": "SCORCHED\nPARTLY BURNED AWAY"
+  },
+  {
+   "at": "acceptable",
+   "type": "card",
+   "text": "“AN ACCEPTABLE\nRISK”"
+  },
+  {
+   "at": "1985,",
+   "type": "card",
+   "text": "JANUARY 1985",
+   "sub": "A COLD LAUNCH · THE WORST DAMAGE YET",
+   "red": true
+  },
+  {
+   "at": "stiff.",
+   "type": "card",
+   "text": "COLD = STIFF\nRUBBER"
+  },
+  {
+   "at": "Erosion,",
+   "type": "card",
+   "text": "EROSION",
+   "sub": "HOT GAS EATING INTO THE RUBBER"
+  },
+  {
+   "at": "blowby,",
+   "type": "card",
+   "text": "BLOW-BY",
+   "sub": "GAS GETTING PAST IT"
+  },
+  {
+   "at": "examined",
+   "type": "card",
+   "text": "THE MEMO",
+   "sub": "CHAPTER 3 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Boisjoly,",
+   "type": "card",
+   "text": "ROGER BOISJOLY",
+   "sub": "THIOKOL SEAL ENGINEER"
+  },
+  {
+   "at": "31st,",
+   "type": "card",
+   "text": "31 JULY 1985",
+   "sub": "HIS MEMO TO MANAGEMENT",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "catastrophe",
+   "type": "card",
+   "text": "“A CATASTROPHE OF\nTHE HIGHEST ORDER”",
+   "sub": "ROGER BOISJOLY",
+   "red": true
+  },
+  {
+   "at": "Loss",
+   "type": "card",
+   "text": "“LOSS OF\nHUMAN LIFE”",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "August,",
+   "type": "card",
+   "text": "AUGUST 1985",
+   "sub": "BRIEFING AT NASA HEADQUARTERS"
+  },
+  {
+   "at": "team",
+   "type": "card",
+   "text": "A SEAL\nTASK FORCE"
+  },
+  {
+   "at": "understaffed",
+   "type": "card",
+   "text": "UNDERSTAFFED.\nSLOW."
+  },
+  {
+   "at": "schedule",
+   "type": "photo",
+   "photo": "photo-launch-2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "MORE LAUNCHES THAN EVER"
+  },
+  {
+   "at": "Teacher",
+   "type": "photo",
+   "photo": "photo-mcauliffe.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "TEACHER IN SPACE",
+   "fit": "contain"
+  },
+  {
+   "at": "fiftyone",
+   "type": "card",
+   "text": "MISSION 51-L"
+  },
+  {
+   "at": "delayed",
+   "type": "card",
+   "text": "DELAYED\nSEVERAL TIMES"
+  },
+  {
+   "at": "cold",
+   "type": "card",
+   "text": "A COLD FRONT",
+   "red": true
+  },
+  {
+   "at": "27th,",
+   "type": "card",
+   "text": "THE CALL",
+   "sub": "CHAPTER 4 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "freezing.",
+   "type": "card",
+   "text": "FORECAST:\nBELOW FREEZING"
+  },
+  {
+   "at": "fiftythree",
+   "type": "card",
+   "text": "PREVIOUS COLDEST:\nO-RINGS ~53°F"
+  },
+  {
+   "at": "teleconference",
+   "type": "card",
+   "text": "THE TELECONFERENCE",
+   "sub": "27 JANUARY · EVENING",
+   "sfx": [
+    [
+     "phone",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "recommendation.",
+   "type": "card",
+   "text": "DO NOT LAUNCH\nBELOW 53°F",
+   "sub": "THIOKOL ENGINEERS",
+   "red": true
+  },
+  {
+   "at": "April?",
+   "type": "card",
+   "text": "“WHEN DO YOU WANT ME\nTO LAUNCH, NEXT APRIL?”",
+   "sub": "LAWRENCE MULLOY · NASA"
+  },
+  {
+   "at": "appalled",
+   "type": "card",
+   "text": "“APPALLED”",
+   "sub": "ANOTHER NASA MANAGER"
+  },
+  {
+   "at": "offline.",
+   "type": "card",
+   "text": "THIOKOL\nGOES OFFLINE"
+  },
+  {
+   "at": "photographs",
+   "type": "card",
+   "text": "PHOTOS OF THE\nDAMAGED O-RINGS"
+  },
+  {
+   "at": "Mason,",
+   "type": "card",
+   "text": "JERRY MASON",
+   "sub": "SENIOR VICE PRESIDENT"
+  },
+  {
+   "at": "engineering",
+   "type": "card",
+   "text": "“TAKE OFF YOUR\nENGINEERING HAT”",
+   "red": true
+  },
+  {
+   "at": "management",
+   "type": "card",
+   "text": "“PUT ON YOUR\nMANAGEMENT HAT”",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "changed",
+   "type": "card",
+   "text": "LUND CHANGES\nHIS VOTE"
+  },
+  {
+   "at": "resumed,",
+   "type": "card",
+   "text": "RECOMMEND\nLAUNCH",
+   "red": true
+  },
+  {
+   "at": "four",
+   "type": "card",
+   "text": "ONLY 4 MANAGERS\nVOTED"
+  },
+  {
+   "at": "blow",
+   "type": "card",
+   "text": "“IT'S GOING TO\nBLOW UP.”",
+   "sub": "BOB EBELING, THIOKOL ENGINEER, TO HIS WIFE",
+   "red": true
+  },
+  {
+   "at": "next",
+   "type": "card",
+   "text": "JANUARY 28TH",
+   "sub": "CHAPTER 5 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "thirtysix",
+   "type": "card",
+   "text": "36°F",
+   "sub": "AT THE PAD"
+  },
+  {
+   "at": "Icicles",
+   "type": "photo",
+   "photo": "photo-icicles.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ICICLES ON THE LAUNCH TOWER · 28 JAN 1986"
+  },
+  {
+   "at": "eleven",
+   "type": "photo",
+   "photo": "photo-launch-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "LIFTOFF · 11:38 AM",
+   "sfx": [
+    [
+     "rumble",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "puffs",
+   "type": "photo",
+   "photo": "photo-smoke.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.4
+   ],
+   "label": "BLACK SMOKE · RIGHT BOOSTER"
+  },
+  {
+   "at": "seal.",
+   "type": "card",
+   "text": "THE O-RING\nFAILED TO SEAL",
+   "red": true
+  },
+  {
+   "at": "plugged",
+   "type": "card",
+   "text": "TEMPORARILY\nPLUGGED"
+  },
+  {
+   "at": "fiftyeight",
+   "type": "card",
+   "text": "T+58 SECONDS",
+   "sub": "A FLAME",
+   "red": true
+  },
+  {
+   "at": "seventythree",
+   "type": "card",
+   "text": "T+73 SECONDS",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "broke",
+   "type": "photo",
+   "photo": "photo-breakup.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "~9 MILES ABOVE THE ATLANTIC"
+  },
+  {
+   "at": "crowd",
+   "type": "card",
+   "text": "THE CROWD DIDN'T\nUNDERSTAND"
+  },
+  {
+   "at": "obviously",
+   "type": "card",
+   "text": "“OBVIOUSLY A MAJOR\nMALFUNCTION.”",
+   "sub": "NASA MISSION COMMENTARY"
+  },
+  {
+   "at": "cabin",
+   "type": "card",
+   "text": "THE CREW CABIN\nSURVIVED"
+  },
+  {
+   "at": "ocean",
+   "type": "card",
+   "text": "2+ MINUTES\nLATER"
+  },
+  {
+   "at": "Scobee.",
+   "type": "photo",
+   "photo": "photo-crew.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "SCOBEE · SMITH · RESNIK · ONIZUKA · McNAIR · JARVIS · McAULIFFE"
+  },
+  {
+   "at": "President",
+   "type": "card",
+   "text": "WHAT THE FILE TELLS US",
+   "sub": "CHAPTER 6 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "members",
+   "type": "photo",
+   "photo": "photo-feynman.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE ROGERS COMMISSION ARRIVES AT KENNEDY"
+  },
+  {
+   "at": "Feynman.",
+   "type": "card",
+   "text": "RICHARD FEYNMAN",
+   "sub": "PHYSICIST · COMMISSION MEMBER"
+  },
+  {
+   "at": "ice",
+   "type": "card",
+   "text": "O-RING RUBBER\n+ ICE WATER"
+  },
+  {
+   "at": "squashed.",
+   "type": "card",
+   "text": "IT DIDN'T\nSPRING BACK",
+   "red": true
+  },
+  {
+   "at": "cause",
+   "type": "card",
+   "text": "CAUSE:\nTHE O-RING SEAL",
+   "sub": "MADE WORSE BY THE COLD"
+  },
+  {
+   "at": "flawed,",
+   "type": "photo",
+   "photo": "photo-rogers.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SENATE HEARINGS ON THE ROGERS REPORT",
+   "fit": "contain"
+  },
+  {
+   "at": "third",
+   "type": "card",
+   "text": "A THIRD O-RING\nJOINT HEATERS"
+  },
+  {
+   "at": "fly",
+   "type": "photo",
+   "photo": "photo-return.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "RETURN TO FLIGHT · SEPTEMBER 1988"
+  },
+  {
+   "at": "shunned",
+   "type": "card",
+   "text": "BOISJOLY:\nSHUNNED AT WORK"
+  },
+  {
+   "at": "knew",
+   "type": "card",
+   "text": "THE PEOPLE WHO KNEW\nWERE OVERRULED",
+   "red": true
+  },
+  {
+   "at": "reality",
+   "type": "card",
+   "text": "“REALITY MUST TAKE\nPRECEDENCE OVER\nPUBLIC RELATIONS”",
+   "sub": "RICHARD FEYNMAN"
+  },
+  {
+   "at": "nature",
+   "type": "card",
+   "text": "“NATURE CANNOT\nBE FOOLED.”",
+   "red": true
+  },
+  {
+   "at": "spoken",
+   "type": "card",
+   "text": "WOULD YOU HAVE\nSPOKEN UP?",
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
