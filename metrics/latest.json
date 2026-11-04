@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T19:58:21+00:00",
+ "updated": "2026-11-04T22:28:47+00:00",
  "youtube_channel": {
-  "subscribers": 260,
-  "views": 10949
+  "subscribers": 265,
+  "views": 12490
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 42,
+  "media_count": 43,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -214,8 +214,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:47:22Z",
-    "avg_view_pct": 390.28,
-    "avg_view_sec": 230,
+    "avg_view_pct": 356.34,
+    "avg_view_sec": 210,
     "shares": 0,
     "subs_gained": 0
    },
@@ -276,8 +276,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:48:53Z",
-    "avg_view_pct": 98.48,
-    "avg_view_sec": 57,
+    "avg_view_pct": 97.59,
+    "avg_view_sec": 56,
     "shares": 0,
     "subs_gained": 0
    },
@@ -307,8 +307,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:49:32Z",
-    "avg_view_pct": 73.86,
-    "avg_view_sec": 41,
+    "avg_view_pct": 66.84,
+    "avg_view_sec": 37,
     "shares": 0,
     "subs_gained": 0
    },
@@ -850,7 +850,7 @@
       "at": "2026-10-19T14:01:35Z"
      }
     ],
-    "avg_view_pct": 67.44,
+    "avg_view_pct": 67.07,
     "avg_view_sec": 48,
     "shares": 0,
     "subs_gained": 1
@@ -912,7 +912,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-20T21:17:58Z",
-    "avg_view_pct": 60.03000000000001,
+    "avg_view_pct": 60.04999999999999,
     "avg_view_sec": 43,
     "shares": 2,
     "subs_gained": 1
@@ -1267,8 +1267,8 @@
       "at": "2026-11-01T04:26:19Z"
      }
     ],
-    "avg_view_pct": 96.18,
-    "avg_view_sec": 82,
+    "avg_view_pct": 94.87,
+    "avg_view_sec": 81,
     "shares": 3,
     "subs_gained": 4
    },
@@ -1298,8 +1298,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T22:25:09Z",
-    "avg_view_pct": 108.1,
-    "avg_view_sec": 78,
+    "avg_view_pct": 95.7,
+    "avg_view_sec": 69,
     "shares": 0,
     "subs_gained": 1
    },
@@ -1335,7 +1335,11 @@
       "text": "Anyone who trusts safety labels is living in a fairytale\u2665\ufe0f\ud83d\ude4f\ud83c\udffd\ud83d\udd4a\ufe0f",
       "at": "2026-11-03T01:43:52Z"
      }
-    ]
+    ],
+    "avg_view_pct": 60.650000000000006,
+    "avg_view_sec": 45,
+    "shares": 2,
+    "subs_gained": 10
    },
    "ig": {
     "id": "17885127525533685",
@@ -1358,7 +1362,7 @@
    "yt": {
     "id": "Xlo3qxzc9BM",
     "url": "https://youtube.com/shorts/Xlo3qxzc9BM",
-    "views": 1341,
+    "views": 1346,
     "likes": 79,
     "comments": 3,
     "privacy": "public",
@@ -1478,13 +1482,13 @@
    "yt": {
     "id": "TcbPukLf_Q8",
     "url": "https://youtube.com/watch?v=TcbPukLf_Q8",
-    "views": 127,
+    "views": 128,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 18.49,
-    "avg_view_sec": 88,
+    "avg_view_pct": 18.68,
+    "avg_view_sec": 89,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1554,13 +1558,13 @@
    "yt": {
     "id": "Cg0yuGeoJho",
     "url": "https://youtube.com/watch?v=Cg0yuGeoJho",
-    "views": 328,
+    "views": 329,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T17:19:36Z",
-    "avg_view_pct": 0,
-    "avg_view_sec": 0,
+    "avg_view_pct": 25.739999999999995,
+    "avg_view_sec": 113,
     "shares": 0,
     "subs_gained": 0
    },
