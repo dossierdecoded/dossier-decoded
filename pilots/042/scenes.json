@@ -1,0 +1,236 @@
+{
+ "title": "THE APOLLO 1 WARNING",
+ "case": "042",
+ "scenes": [
+  {
+   "at": "A",
+   "type": "photo",
+   "photo": "photo-crew-2.jpg",
+   "focus": [
+    0.55,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.05
+   ],
+   "label": "THE APOLLO 1 CREW · PAD 34",
+   "stamp": "WARNED",
+   "stamp_at": "right",
+   "sfx_at": [
+    [
+     "hit",
+     "A"
+    ]
+   ]
+  },
+  {
+   "at": "first",
+   "type": "card",
+   "text": "“THE FIRST FIRE…\nMAY WELL\nBE FATAL.”",
+   "sub": "HILLIARD PAIGE · GENERAL ELECTRIC, 1966",
+   "red": true
+  },
+  {
+   "at": "January",
+   "type": "card",
+   "text": "27 JANUARY 1967"
+  },
+  {
+   "at": "Grissom,",
+   "type": "photo",
+   "photo": "photo-crew-2.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GRISSOM · WHITE · CHAFFEE"
+  },
+  {
+   "at": "routine",
+   "type": "card",
+   "text": "A ROUTINE\nTEST"
+  },
+  {
+   "at": "fueled.",
+   "type": "photo",
+   "photo": "photo-pad.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE ROCKET WASN'T EVEN FUELED",
+   "fit": "contain"
+  },
+  {
+   "at": "oxygen,",
+   "type": "card",
+   "text": "100% OXYGEN",
+   "sub": "16.7 PSI · ABOVE OUTSIDE PRESSURE",
+   "red": true
+  },
+  {
+   "at": "contractor's",
+   "type": "card",
+   "text": "ENGINEERS WANTED\nA SAFER MIX"
+  },
+  {
+   "at": "chose",
+   "type": "card",
+   "text": "NASA CHOSE\nPURE OXYGEN",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "chose"
+    ]
+   ]
+  },
+  {
+   "at": "materials",
+   "type": "card",
+   "text": "TESTED AT\nLOWER PRESSURE"
+  },
+  {
+   "at": "Velcro",
+   "type": "card",
+   "text": "VELCRO\nNYLON NETTING"
+  },
+  {
+   "at": "sparked.",
+   "type": "card",
+   "text": "A SPARK",
+   "red": true,
+   "sfx_at": [
+    [
+     "fire",
+     "sparked"
+    ]
+   ]
+  },
+  {
+   "at": "cockpit.",
+   "type": "card",
+   "text": "“A FIRE IN\nTHE COCKPIT!”",
+   "sub": "GUS GRISSOM",
+   "red": true,
+   "sfx_at": [
+    [
+     "radio",
+     "cockpit"
+    ]
+   ]
+  },
+  {
+   "at": "seconds.",
+   "type": "card",
+   "text": "SECONDS"
+  },
+  {
+   "at": "inward,",
+   "type": "photo",
+   "photo": "photo-hatch.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "AN APOLLO HATCH (LATER DESIGN)",
+   "fit": "contain"
+  },
+  {
+   "at": "forty",
+   "type": "card",
+   "text": "40+ SECONDS\nTO OPEN",
+   "red": true
+  },
+  {
+   "at": "All",
+   "type": "photo",
+   "photo": "photo-crew-1.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CHAFFEE · WHITE · GRISSOM"
+  },
+  {
+   "at": "rebuilt",
+   "type": "photo",
+   "photo": "photo-capsule.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "APOLLO 1 AFTER THE FIRE"
+  },
+  {
+   "at": "outward",
+   "type": "card",
+   "text": "OUTWARD\nHATCH"
+  },
+  {
+   "at": "Fireresistant",
+   "type": "card",
+   "text": "FIRE-RESISTANT\nMATERIALS"
+  },
+  {
+   "at": "pad.",
+   "type": "card",
+   "text": "NO PURE OXYGEN\nON THE PAD"
+  },
+  {
+   "at": "Apollo",
+   "type": "photo",
+   "photo": "photo-apollo7.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "APOLLO 7 · OCTOBER 1968",
+   "fit": "contain"
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-grissom.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GUS GRISSOM · 1926–1967",
+   "fit": "contain"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
