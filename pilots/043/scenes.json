@@ -1,0 +1,256 @@
+{
+ "title": "THE JOHNSTOWN FLOOD",
+ "case": "043",
+ "scenes": [
+  {
+   "at": "A",
+   "type": "photo",
+   "photo": "photo-house.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.3,
+    1.1
+   ],
+   "label": "JOHNSTOWN · JUNE 1889",
+   "stamp": "WARNED",
+   "stamp_at": "dangerous",
+   "sfx_at": [
+    [
+     "hit",
+     "A"
+    ]
+   ]
+  },
+  {
+   "at": "killed",
+   "type": "photo",
+   "photo": "photo-wreckage-1.jpg",
+   "focus": [
+    0.27,
+    0.5
+   ],
+   "zoom": [
+    1.9,
+    2.1
+   ],
+   "label": "WRECKAGE IN STONY CREEK · 1889"
+  },
+  {
+   "at": "Johnstown,",
+   "type": "card",
+   "text": "JOHNSTOWN,\nPENNSYLVANIA"
+  },
+  {
+   "at": "earthen",
+   "type": "photo",
+   "photo": "photo-dam.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "REMAINS OF THE SOUTH FORK DAM · TODAY"
+  },
+  {
+   "at": "fourteen",
+   "type": "card",
+   "text": "14 MILES\nUPSTREAM"
+  },
+  {
+   "at": "South",
+   "type": "photo",
+   "photo": "photo-clubhouse.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE CLUBHOUSE · TODAY"
+  },
+  {
+   "at": "Carnegie",
+   "type": "photo",
+   "photo": "photo-carnegie.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ANDREW CARNEGIE (PAINTED PORTRAIT)",
+   "fit": "contain"
+  },
+  {
+   "at": "Frick.",
+   "type": "photo",
+   "photo": "photo-frick.jpg",
+   "focus": [
+    0.65,
+    0.4
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HENRY CLAY FRICK (PAINTED PORTRAIT)",
+   "fit": "contain"
+  },
+  {
+   "at": "cheap",
+   "type": "card",
+   "text": "CHEAP\nREPAIRS"
+  },
+  {
+   "at": "lowered",
+   "type": "card",
+   "text": "DAM LOWERED\nFOR A ROAD"
+  },
+  {
+   "at": "pipes",
+   "type": "card",
+   "text": "DRAIN PIPES:\nGONE",
+   "red": true
+  },
+  {
+   "at": "screens",
+   "type": "card",
+   "text": "SCREENS ON\nTHE SPILLWAY",
+   "sub": "TO KEEP THE FISH IN"
+  },
+  {
+   "at": "Morrell,",
+   "type": "card",
+   "text": "DANIEL MORRELL",
+   "sub": "CAMBRIA IRON WORKS"
+  },
+  {
+   "at": "warned",
+   "type": "card",
+   "text": "HE WARNED\nTHE CLUB",
+   "red": true
+  },
+  {
+   "at": "joined",
+   "type": "card",
+   "text": "HE JOINED IT\nTO PUSH FOR REPAIRS"
+  },
+  {
+   "at": "Nothing",
+   "type": "card",
+   "text": "NOTHING\nSERIOUS DONE",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "Nothing"
+    ]
+   ]
+  },
+  {
+   "at": "May",
+   "type": "card",
+   "text": "31 MAY 1889",
+   "sfx_at": [
+    [
+     "rain",
+     "May"
+    ]
+   ]
+  },
+  {
+   "at": "clogged",
+   "type": "card",
+   "text": "SCREENS\nCLOGGED"
+  },
+  {
+   "at": "three",
+   "type": "card",
+   "text": "~3 PM\nTHE DAM FAILS",
+   "red": true,
+   "sfx_at": [
+    [
+     "torrent",
+     "three"
+    ]
+   ]
+  },
+  {
+   "at": "wall",
+   "type": "photo",
+   "photo": "photo-wreckage-2.jpg",
+   "focus": [
+    0.27,
+    0.5
+   ],
+   "zoom": [
+    1.9,
+    2.1
+   ],
+   "label": "WRECKAGE · 1ST WARD, JOHNSTOWN"
+  },
+  {
+   "at": "forty",
+   "type": "card",
+   "text": "UP TO\n40 FEET"
+  },
+  {
+   "at": "two",
+   "type": "card",
+   "text": "2,209\nDEAD",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "two"
+    ]
+   ]
+  },
+  {
+   "at": "act",
+   "type": "card",
+   "text": "“AN ACT\nOF GOD”",
+   "sub": "THE CLUB"
+  },
+  {
+   "at": "cent.",
+   "type": "card",
+   "text": "NEVER PAID\nA CENT",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "cent"
+    ]
+   ]
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-house.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "JOHNSTOWN · 1889"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
