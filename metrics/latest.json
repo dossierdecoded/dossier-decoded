@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T16:00:47+00:00",
+ "updated": "2026-11-05T17:29:06+00:00",
  "youtube_channel": {
-  "subscribers": 326,
+  "subscribers": 327,
   "views": 12602
  },
  "instagram_account": {
@@ -1406,12 +1406,17 @@
    "yt": {
     "id": "mBhv3oQLIRE",
     "url": "https://youtube.com/shorts/mBhv3oQLIRE",
-    "views": 303,
+    "views": 312,
     "likes": 19,
-    "comments": 3,
+    "comments": 4,
     "privacy": "public",
     "published": "2026-11-04T22:25:43Z",
     "comment_text": [
+     {
+      "author": "@fredbrillo1849",
+      "text": "The prof in my aerodynamics class in 1967 was a NASA advisor who also warned them about the pure oxygen environment of the capsule.",
+      "at": "2026-11-05T17:28:33Z"
+     },
      {
       "author": "@danielash1704",
       "text": "If theirs just one doubter they shouldn't have gone cc thru testing",
@@ -1602,7 +1607,7 @@
    "yt": {
     "id": "Cg0yuGeoJho",
     "url": "https://youtube.com/watch?v=Cg0yuGeoJho",
-    "views": 516,
+    "views": 511,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1614,6 +1619,21 @@
    },
    "title": "The Titanic Was Warned 6 Times. Here's What Happened to Every Warning",
    "duration": 440.7
+  },
+  {
+   "case": "L10",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "tJglAsY7FDI",
+    "url": "https://youtube.com/watch?v=tJglAsY7FDI",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-05T17:26:28Z"
+   },
+   "title": "Challenger: The Engineers Who Tried to Stop the Launch",
+   "duration": 453.8
   }
  ],
  "carousels": [
