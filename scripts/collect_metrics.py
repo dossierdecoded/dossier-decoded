@@ -35,9 +35,12 @@ try:
         "refresh_token": os.environ["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}).json()["access_token"]
     H = {"Authorization": "Bearer " + tok}
     ids = [v["yt"]["id"] for v in videos.values() if "yt" in v]
-    r = requests.get("https://www.googleapis.com/youtube/v3/videos", headers=H, timeout=60,
-                     params={"part": "statistics,status,snippet", "id": ",".join(ids)}).json()
-    by = {it["id"]: it for it in r.get("items", [])}
+    by = {}
+    for k in range(0, len(ids), 50):  # videos.list accepts at most 50 ids per call
+        r = requests.get("https://www.googleapis.com/youtube/v3/videos", headers=H, timeout=60,
+                         params={"part": "statistics,status,snippet", "id": ",".join(ids[k:k + 50])}).json()
+        if "error" in r: errors.append("yt videos: " + json.dumps(r["error"])[:300])
+        by.update({it["id"]: it for it in r.get("items", [])})
     for v in videos.values():
         it = by.get(v.get("yt", {}).get("id"))
         if it:
