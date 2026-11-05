@@ -1,0 +1,76 @@
+{
+ "slug": "043-johnstown-flood",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] A club for some of the richest men in America was warned that its dam was dangerous. Then it killed more than two thousand people. Above Johnstown, Pennsylvania, sat an old earthen dam, holding back a lake fourteen miles upstream. In the 1880s it belonged to the South Fork Fishing and Hunting Club. Its members included Andrew Carnegie and Henry Clay Frick. The club made cheap repairs. It lowered the top of the dam to fit a road for carriages. The pipes that could drain the lake had been removed years earlier, and were never replaced. And it put screens over the spillway, to keep its fish from escaping. Daniel Morrell, who ran the iron works in Johnstown, sent engineers to inspect it. He warned the club. He even joined it to push for repairs. Nothing serious was done. May 31st, 1889. After a night of heavy rain, the lake rose. The screens clogged with debris. At about three in the afternoon, the dam gave way. A wall of water and wreckage, up to forty feet high, hit Johnstown. Two thousand two hundred and nine people died. The club said it was an act of God. It never paid a cent. Send this to someone who thinks the rich always pay. This is Dossier Decoded. Case file number forty-three. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "wreckage",
+   "query": "Johnstown flood 1889 wreckage photograph",
+   "n": 2
+  },
+  {
+   "slug": "dam",
+   "query": "South Fork Dam breach 1889",
+   "n": 1
+  },
+  {
+   "slug": "clubhouse",
+   "query": "South Fork Fishing and Hunting Club clubhouse",
+   "n": 1
+  },
+  {
+   "slug": "house",
+   "query": "Johnstown flood 1889 house tree",
+   "n": 1
+  },
+  {
+   "slug": "carnegie",
+   "query": "Andrew Carnegie portrait",
+   "n": 1
+  },
+  {
+   "slug": "frick",
+   "query": "Henry Clay Frick portrait",
+   "n": 1
+  },
+  {
+   "slug": "lithograph",
+   "query": "Johnstown flood 1889 lithograph Currier",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "rain",
+   "text": "heavy rain on a wooden roof",
+   "seconds": 3
+  },
+  {
+   "slug": "torrent",
+   "text": "roaring flood torrent of water and crashing debris",
+   "seconds": 3
+  }
+ ]
+}
