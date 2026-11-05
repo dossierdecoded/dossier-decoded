@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T21:51:48+00:00",
+ "updated": "2026-11-05T23:44:05+00:00",
  "youtube_channel": {
-  "subscribers": 333,
+  "subscribers": 350,
   "views": 13060
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 43,
+  "media_count": 44,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -1324,7 +1324,7 @@
    "yt": {
     "id": "D7jd7x3QXJE",
     "url": "https://youtube.com/shorts/D7jd7x3QXJE",
-    "views": 1045,
+    "views": 1044,
     "likes": 70,
     "comments": 1,
     "privacy": "public",
@@ -1452,6 +1452,33 @@
    },
    "title": "\"The First Fire in a Spacecraft May Well Be Fatal.\" A Year Later, Apollo 1 Burned",
    "duration": 82.5
+  },
+  {
+   "case": "043",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "1GSajlB0Qgc",
+    "url": "https://youtube.com/shorts/1GSajlB0Qgc",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-05T23:40:56Z"
+   },
+   "ig": {
+    "id": "18087808196338616",
+    "url": "https://www.instagram.com/reel/DfYPCwyCtw5/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "A Club of America's Richest Men Was Warned About Its Dam | The Johnstown Flood",
+   "duration": 78.5
   },
   {
    "case": "L01",
@@ -1611,7 +1638,7 @@
    "yt": {
     "id": "Cg0yuGeoJho",
     "url": "https://youtube.com/watch?v=Cg0yuGeoJho",
-    "views": 528,
+    "views": 537,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
