@@ -1,0 +1,81 @@
+{
+ "slug": "044-pearl-harbor-radar",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] Fifty-three minutes before the attack on Pearl Harbor, American radar saw the Japanese planes coming. Nobody sounded the alarm. December 7th, 1941. Seven-oh-two in the morning. On a hilltop in Hawaii called Opana, two young Army privates, Joseph Lockard and George Elliott, were running a new radar set. On the screen appeared the biggest blip Lockard had ever seen. So big he thought the machine was broken. Planes. A lot of them. About a hundred and thirty miles north, and coming closer. Elliott called it in. Large number of planes coming in from the north. The officer on duty, Lieutenant Kermit Tyler, knew a flight of American B-17 bombers was due from California that morning. He told them, don't worry about it. It wasn't the only warning. An hour earlier, the destroyer USS Ward had fired on a Japanese submarine at the harbor entrance, and reported it. At seven fifty-five, the first bombs fell. More than twenty-four hundred Americans were killed. Investigators later cleared Tyler. The radar couldn't tell friend from foe, and nobody had told him a war warning had been issued. Send this to someone who thinks one phone call can't change history. This is Dossier Decoded. Case file number forty-four. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "arizona",
+   "query": "USS Arizona burning Pearl Harbor December 7 1941",
+   "n": 1
+  },
+  {
+   "slug": "radar",
+   "query": "SCR-270 radar",
+   "n": 1
+  },
+  {
+   "slug": "opana",
+   "query": "Opana radar site Oahu",
+   "n": 1
+  },
+  {
+   "slug": "ward",
+   "query": "USS Ward DD-139",
+   "n": 1
+  },
+  {
+   "slug": "attack",
+   "query": "Pearl Harbor attack 1941 photograph Japanese planes",
+   "n": 1
+  },
+  {
+   "slug": "b17",
+   "query": "B-17 Hickam Field December 7 1941",
+   "n": 1
+  },
+  {
+   "slug": "shaw",
+   "query": "USS Shaw explosion Pearl Harbor",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "radar",
+   "text": "old radar sonar ping sweep beep",
+   "seconds": 2
+  },
+  {
+   "slug": "phone",
+   "text": "1940s field telephone ring and click",
+   "seconds": 2
+  },
+  {
+   "slug": "siren",
+   "text": "air raid siren wailing in the distance",
+   "seconds": 3
+  }
+ ]
+}
