@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-06T16:38:15+00:00",
+ "updated": "2026-11-06T21:55:31+00:00",
  "youtube_channel": {
-  "subscribers": 370,
-  "views": 13146
+  "subscribers": 369,
+  "views": 13228
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 44,
+  "media_count": 45,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -245,8 +245,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T02:48:04Z",
-    "avg_view_pct": 108.79,
-    "avg_view_sec": 69,
+    "avg_view_pct": 103.03999999999999,
+    "avg_view_sec": 65,
     "shares": 0,
     "subs_gained": 0
    },
@@ -912,8 +912,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-20T21:17:58Z",
-    "avg_view_pct": 59.85,
-    "avg_view_sec": 43,
+    "avg_view_pct": 59.660000000000004,
+    "avg_view_sec": 42,
     "shares": 2,
     "subs_gained": 1
    },
@@ -1014,7 +1014,7 @@
    "yt": {
     "id": "su-ANClAuUU",
     "url": "https://youtube.com/shorts/su-ANClAuUU",
-    "views": 47,
+    "views": 48,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1169,7 +1169,7 @@
    "yt": {
     "id": "4GE63V_gnS0",
     "url": "https://youtube.com/shorts/4GE63V_gnS0",
-    "views": 948,
+    "views": 950,
     "likes": 25,
     "comments": 1,
     "privacy": "public",
@@ -1293,13 +1293,13 @@
    "yt": {
     "id": "Wk5cAeDhyD4",
     "url": "https://youtube.com/shorts/Wk5cAeDhyD4",
-    "views": 144,
+    "views": 145,
     "likes": 8,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T22:25:09Z",
-    "avg_view_pct": 92,
-    "avg_view_sec": 67,
+    "avg_view_pct": 90.94,
+    "avg_view_sec": 66,
     "shares": 0,
     "subs_gained": 1
    },
@@ -1384,7 +1384,7 @@
       "at": "2026-11-03T22:34:38Z"
      }
     ],
-    "avg_view_pct": 72.15,
+    "avg_view_pct": 71.7,
     "avg_view_sec": 53,
     "shares": 2,
     "subs_gained": 8
@@ -1436,7 +1436,11 @@
       "text": "Bad Decisions Kill Astronauts.  Oxygen under pressure is deadly.",
       "at": "2026-11-04T22:48:43Z"
      }
-    ]
+    ],
+    "avg_view_pct": 75.91,
+    "avg_view_sec": 63,
+    "shares": 0,
+    "subs_gained": 2
    },
    "ig": {
     "id": "17998745736045991",
@@ -1459,7 +1463,7 @@
    "yt": {
     "id": "1GSajlB0Qgc",
     "url": "https://youtube.com/shorts/1GSajlB0Qgc",
-    "views": 22,
+    "views": 25,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -1468,17 +1472,44 @@
    "ig": {
     "id": "18087808196338616",
     "url": "https://www.instagram.com/reel/DfYPCwyCtw5/",
-    "views": 36,
-    "reach": 32,
+    "views": 38,
+    "reach": 34,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 4.2
+    "avg_watch_sec": 4.0
    },
    "title": "A Club of America's Richest Men Was Warned About Its Dam | The Johnstown Flood",
    "duration": 78.5
+  },
+  {
+   "case": "044",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "LYfd58FzZC8",
+    "url": "https://youtube.com/shorts/LYfd58FzZC8",
+    "views": 1,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-06T21:50:16Z"
+   },
+   "ig": {
+    "id": "18106245137021840",
+    "url": "https://www.instagram.com/reel/DfanKJqlv81/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "Radar Saw the Pearl Harbor Attack Coming 53 Minutes Early. Here's What Happened",
+   "duration": 75.3
   },
   {
    "case": "L01",
@@ -1543,7 +1574,7 @@
    "yt": {
     "id": "ET2TsnV-uLk",
     "url": "https://youtube.com/watch?v=ET2TsnV-uLk",
-    "views": 12,
+    "views": 13,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1567,7 +1598,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 19.57,
+    "avg_view_pct": 19.59,
     "avg_view_sec": 93,
     "shares": 1,
     "subs_gained": 0
@@ -1638,15 +1669,15 @@
    "yt": {
     "id": "Cg0yuGeoJho",
     "url": "https://youtube.com/watch?v=Cg0yuGeoJho",
-    "views": 560,
+    "views": 568,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T17:19:36Z",
-    "avg_view_pct": 9.39,
-    "avg_view_sec": 41,
+    "avg_view_pct": 7.66,
+    "avg_view_sec": 33,
     "shares": 0,
-    "subs_gained": 0
+    "subs_gained": 2
    },
    "title": "The Titanic Was Warned 6 Times. Here's What Happened to Every Warning",
    "duration": 440.7
