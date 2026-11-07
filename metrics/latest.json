@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-07T19:15:22+00:00",
+ "updated": "2026-11-07T22:29:10+00:00",
  "youtube_channel": {
-  "subscribers": 405,
+  "subscribers": 411,
   "views": 13339
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 45,
+  "media_count": 46,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -1169,7 +1169,7 @@
    "yt": {
     "id": "4GE63V_gnS0",
     "url": "https://youtube.com/shorts/4GE63V_gnS0",
-    "views": 951,
+    "views": 952,
     "likes": 25,
     "comments": 1,
     "privacy": "public",
@@ -1181,7 +1181,7 @@
       "at": "2026-11-03T22:39:01Z"
      }
     ],
-    "avg_view_pct": 44.06,
+    "avg_view_pct": 43.9,
     "avg_view_sec": 28,
     "shares": 0,
     "subs_gained": 2
@@ -1219,8 +1219,8 @@
       "at": "2026-10-30T00:09:44Z"
      }
     ],
-    "avg_view_pct": 72.34,
-    "avg_view_sec": 47,
+    "avg_view_pct": 71.01,
+    "avg_view_sec": 46,
     "shares": 0,
     "subs_gained": 1
    },
@@ -1267,7 +1267,7 @@
       "at": "2026-11-01T04:26:19Z"
      }
     ],
-    "avg_view_pct": 94.86,
+    "avg_view_pct": 94.98,
     "avg_view_sec": 81,
     "shares": 3,
     "subs_gained": 6
@@ -1298,8 +1298,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T22:25:09Z",
-    "avg_view_pct": 90.94,
-    "avg_view_sec": 66,
+    "avg_view_pct": 90.13,
+    "avg_view_sec": 65,
     "shares": 0,
     "subs_gained": 1
    },
@@ -1336,7 +1336,7 @@
       "at": "2026-11-03T01:43:52Z"
      }
     ],
-    "avg_view_pct": 61.01,
+    "avg_view_pct": 60.94,
     "avg_view_sec": 45,
     "shares": 2,
     "subs_gained": 10
@@ -1384,7 +1384,7 @@
       "at": "2026-11-03T22:34:38Z"
      }
     ],
-    "avg_view_pct": 71.71,
+    "avg_view_pct": 71.63,
     "avg_view_sec": 53,
     "shares": 2,
     "subs_gained": 8
@@ -1410,7 +1410,7 @@
    "yt": {
     "id": "mBhv3oQLIRE",
     "url": "https://youtube.com/shorts/mBhv3oQLIRE",
-    "views": 370,
+    "views": 366,
     "likes": 20,
     "comments": 5,
     "privacy": "public",
@@ -1437,7 +1437,7 @@
       "at": "2026-11-04T22:48:43Z"
      }
     ],
-    "avg_view_pct": 75.91,
+    "avg_view_pct": 76.42,
     "avg_view_sec": 63,
     "shares": 0,
     "subs_gained": 2
@@ -1463,7 +1463,7 @@
    "yt": {
     "id": "1GSajlB0Qgc",
     "url": "https://youtube.com/shorts/1GSajlB0Qgc",
-    "views": 43,
+    "views": 41,
     "likes": 4,
     "comments": 1,
     "privacy": "public",
@@ -1474,7 +1474,11 @@
       "text": "Yes it was their money and NOT their hubris that caused this. Hating rich people for being rich is no better than hating poor people for being poor.",
       "at": "2026-11-06T22:26:07Z"
      }
-    ]
+    ],
+    "avg_view_pct": 48.5,
+    "avg_view_sec": 38,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18087808196338616",
@@ -1497,8 +1501,8 @@
    "yt": {
     "id": "LYfd58FzZC8",
     "url": "https://youtube.com/shorts/LYfd58FzZC8",
-    "views": 492,
-    "likes": 26,
+    "views": 493,
+    "likes": 27,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-06T21:50:16Z"
@@ -1517,6 +1521,33 @@
    },
    "title": "Radar Saw the Pearl Harbor Attack Coming 53 Minutes Early. Here's What Happened",
    "duration": 75.3
+  },
+  {
+   "case": "045",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "maXaxdrgjr4",
+    "url": "https://youtube.com/shorts/maXaxdrgjr4",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-07T22:26:11Z"
+   },
+   "ig": {
+    "id": "17960651835016601",
+    "url": "https://www.instagram.com/reel/DfdQDimnCii/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "Chernobyl's Emergency Button Helped Blow It Up. The Flaw Was Known 3 Years Earlier",
+   "duration": 73.8
   },
   {
    "case": "L01",
@@ -1600,13 +1631,13 @@
    "yt": {
     "id": "TcbPukLf_Q8",
     "url": "https://youtube.com/watch?v=TcbPukLf_Q8",
-    "views": 146,
+    "views": 148,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 19.59,
-    "avg_view_sec": 93,
+    "avg_view_pct": 20.66,
+    "avg_view_sec": 98,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1643,7 +1674,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-25T16:13:52Z",
-    "avg_view_pct": 12.07,
+    "avg_view_pct": 12.05,
     "avg_view_sec": 53,
     "shares": 0,
     "subs_gained": 0
@@ -1676,13 +1707,13 @@
    "yt": {
     "id": "Cg0yuGeoJho",
     "url": "https://youtube.com/watch?v=Cg0yuGeoJho",
-    "views": 632,
-    "likes": 4,
+    "views": 643,
+    "likes": 5,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T17:19:36Z",
-    "avg_view_pct": 7.670000000000001,
-    "avg_view_sec": 33,
+    "avg_view_pct": 7.429999999999999,
+    "avg_view_sec": 32,
     "shares": 0,
     "subs_gained": 2
    },
@@ -1699,7 +1730,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-05T17:26:28Z"
+    "published": "2026-11-05T17:26:28Z",
+    "avg_view_pct": 0,
+    "avg_view_sec": 0,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "Challenger: The Engineers Who Tried to Stop the Launch",
    "duration": 453.8
