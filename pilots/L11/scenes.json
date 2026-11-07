@@ -1,0 +1,675 @@
+{
+ "title": "COLUMBIA",
+ "case": "041",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "On",
+   "type": "photo",
+   "photo": "photo-atlantis.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.05
+   ],
+   "label": "1 FEBRUARY 2003 · WAITING FOR COLUMBIA"
+  },
+  {
+   "at": "Sixteen",
+   "type": "card",
+   "text": "16 MINUTES\nBEFORE LANDING",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "seven",
+   "type": "photo",
+   "photo": "photo-crew.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ALL 7 KILLED · 17 YEARS AFTER CHALLENGER"
+  },
+  {
+   "at": "spotted",
+   "type": "card",
+   "text": "SPOTTED WITHIN\nA DAY OF LAUNCH",
+   "red": true
+  },
+  {
+   "at": "asked,",
+   "type": "card",
+   "text": "THEY ASKED\nTO LOOK"
+  },
+  {
+   "at": "no.",
+   "type": "card",
+   "text": "TOLD\nNO",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "cancelled,",
+   "type": "card",
+   "text": "COMING UP:\nTHE CANCELLED REQUEST\nTHE UNSENT EMAIL\nTHE TEST"
+  },
+  {
+   "at": "launched",
+   "type": "card",
+   "text": "EIGHTY-TWO SECONDS",
+   "sub": "CHAPTER 2 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "sixteenday",
+   "type": "photo",
+   "photo": "photo-launch.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "STS-107 · 16 JAN 2003 · A 16-DAY MISSION",
+   "sfx": [
+    [
+     "rumble",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Husband,",
+   "type": "photo",
+   "photo": "photo-husband.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CMDR. RICK HUSBAND",
+   "fit": "contain"
+  },
+  {
+   "at": "Ramon,",
+   "type": "photo",
+   "photo": "photo-ramon.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ILAN RAMON · FIRST ISRAELI ASTRONAUT",
+   "fit": "contain"
+  },
+  {
+   "at": "eightytwo",
+   "type": "card",
+   "text": "T+82 SECONDS",
+   "red": true
+  },
+  {
+   "at": "foam",
+   "type": "card",
+   "text": "INSULATING\nFOAM"
+  },
+  {
+   "at": "bipod",
+   "type": "card",
+   "text": "FROM THE\n“BIPOD RAMP”"
+  },
+  {
+   "at": "briefcase,",
+   "type": "card",
+   "text": "~BRIEFCASE SIZED\nUNDER 2 POUNDS"
+  },
+  {
+   "at": "leading",
+   "type": "photo",
+   "photo": "photo-launch.jpg",
+   "focus": [
+    0.62,
+    0.55
+   ],
+   "zoom": [
+    1.6,
+    1.8
+   ],
+   "label": "THE LEFT WING",
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "five",
+   "type": "card",
+   "text": "500+ MPH",
+   "red": true
+  },
+  {
+   "at": "films.",
+   "type": "card",
+   "text": "FOUND THE NEXT DAY\nIN LAUNCH FILMS"
+  },
+  {
+   "at": "carbon.",
+   "type": "photo",
+   "photo": "photo-rcc.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "REINFORCED CARBON PANELS (TEST PIECES)",
+   "fit": "contain"
+  },
+  {
+   "at": "three",
+   "type": "card",
+   "text": "~3,000°F\nON REENTRY"
+  },
+  {
+   "at": "broken,",
+   "type": "card",
+   "text": "IF ONE BROKE…",
+   "red": true
+  },
+  {
+   "at": "years.",
+   "type": "card",
+   "text": "FOAM STRIKES:\nFOR YEARS"
+  },
+  {
+   "at": "months",
+   "type": "card",
+   "text": "OCTOBER 2002:\nFOAM LOST AGAIN"
+  },
+  {
+   "at": "maintenance",
+   "type": "card",
+   "text": "“A MAINTENANCE\nPROBLEM”",
+   "red": true
+  },
+  {
+   "at": "team",
+   "type": "card",
+   "text": "ASKING TO LOOK",
+   "sub": "CHAPTER 3 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Rocha,",
+   "type": "card",
+   "text": "RODNEY ROCHA",
+   "sub": "NASA STRUCTURAL ENGINEER"
+  },
+  {
+   "at": "model",
+   "type": "card",
+   "text": "THE DAMAGE MODEL",
+   "sub": "BUILT FOR TINY DEBRIS"
+  },
+  {
+   "at": "hundreds",
+   "type": "card",
+   "text": "HUNDREDS OF TIMES\nLARGER",
+   "red": true
+  },
+  {
+   "at": "know",
+   "type": "card",
+   "text": "THEY DIDN'T\nKNOW"
+  },
+  {
+   "at": "requests",
+   "type": "card",
+   "text": "3+ REQUESTS\nFOR IMAGES"
+  },
+  {
+   "at": "military",
+   "type": "photo",
+   "photo": "photo-orbit.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "COULD MILITARY TELESCOPES SEE THE WING?"
+  },
+  {
+   "at": "22nd,",
+   "type": "card",
+   "text": "22 JANUARY"
+  },
+  {
+   "at": "cancelled.",
+   "type": "card",
+   "text": "REQUEST\nCANCELLED",
+   "sub": "LINDA HAM · MISSION MANAGEMENT TEAM CHAIR",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "requirement",
+   "type": "card",
+   "text": "“NO REQUIREMENT”"
+  },
+  {
+   "at": "backwards.",
+   "type": "card",
+   "text": "BACKWARDS"
+  },
+  {
+   "at": "pictures.",
+   "type": "card",
+   "text": "NO PROOF\nWITHOUT PICTURES"
+  },
+  {
+   "at": "email",
+   "type": "card",
+   "text": "ROCHA'S EMAIL",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "irresponsible.",
+   "type": "card",
+   "text": "“THE WRONG (AND\nBORDERING ON\nIRRESPONSIBLE) ANSWER”",
+   "sub": "RODNEY ROCHA",
+   "red": true
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "NEVER\nSENT",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "eight",
+   "type": "card",
+   "text": "NO CONCERN",
+   "sub": "CHAPTER 4 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Husband",
+   "type": "photo",
+   "photo": "photo-cockpit.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE STS-107 CREW IN ORBIT"
+  },
+  {
+   "at": "absolutely",
+   "type": "card",
+   "text": "“ABSOLUTELY NO\nCONCERN FOR ENTRY”",
+   "sub": "FLIGHT DIRECTOR EMAIL · 23 JAN"
+  },
+  {
+   "at": "worth",
+   "type": "card",
+   "text": "“NOT EVEN WORTH\nMENTIONING”",
+   "red": true
+  },
+  {
+   "at": "probably",
+   "type": "card",
+   "text": "“PROBABLY\nSURVIVE”"
+  },
+  {
+   "at": "24th,",
+   "type": "card",
+   "text": "24 JANUARY",
+   "sub": "MISSION MANAGEMENT TEAM"
+  },
+  {
+   "at": "presented",
+   "type": "card",
+   "text": "A SHORT\nBRIEFING"
+  },
+  {
+   "at": "accepted",
+   "type": "card",
+   "text": "ACCEPTED WITH\nLITTLE DISCUSSION"
+  },
+  {
+   "at": "unchallenged.",
+   "type": "card",
+   "text": "ESSENTIALLY\nUNCHALLENGED",
+   "red": true
+  },
+  {
+   "at": "science",
+   "type": "photo",
+   "photo": "photo-crew.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.2
+   ],
+   "label": "AROUND THE CLOCK · 2+ WEEKS"
+  },
+  {
+   "at": "idea",
+   "type": "card",
+   "text": "A HOLE IN\nTHEIR WING",
+   "red": true
+  },
+  {
+   "at": "fired",
+   "type": "card",
+   "text": "FEBRUARY 1ST",
+   "sub": "CHAPTER 5 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "superheated",
+   "type": "card",
+   "text": "SUPERHEATED AIR\nINTO THE LEFT WING",
+   "red": true
+  },
+  {
+   "at": "sensor",
+   "type": "card",
+   "text": "STRANGE SENSOR\nREADINGS"
+  },
+  {
+   "at": "offline,",
+   "type": "card",
+   "text": "SENSORS\nGO OFFLINE"
+  },
+  {
+   "at": "tire",
+   "type": "card",
+   "text": "LEFT TIRE\nPRESSURES: LOST",
+   "sfx": [
+    [
+     "radio",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Cain,",
+   "type": "card",
+   "text": "LEROY CAIN",
+   "sub": "FLIGHT DIRECTOR"
+  },
+  {
+   "at": "lost.",
+   "type": "card",
+   "text": "“ROGER, UH—”\nSIGNAL LOST",
+   "sub": "CMDR. RICK HUSBAND · LAST WORDS",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Texas,",
+   "type": "card",
+   "text": "~9:00 AM ET",
+   "sub": "200,000 FT · MACH 18 · OVER TEXAS",
+   "sfx": [
+    [
+     "boom",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "streaks",
+   "type": "card",
+   "text": "STREAKS OF LIGHT"
+  },
+  {
+   "at": "Debris",
+   "type": "photo",
+   "photo": "photo-hangar.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE RECONSTRUCTION TEAM · 80,000+ PIECES"
+  },
+  {
+   "at": "Rick",
+   "type": "photo",
+   "photo": "photo-crew.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "HUSBAND · McCOOL · ANDERSON · CHAWLA · BROWN · CLARK · RAMON"
+  },
+  {
+   "at": "independent",
+   "type": "card",
+   "text": "WHAT THE FILE TELLS US",
+   "sub": "CHAPTER 6 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Investigation",
+   "type": "card",
+   "text": "COLUMBIA ACCIDENT\nINVESTIGATION BOARD"
+  },
+  {
+   "at": "July",
+   "type": "card",
+   "text": "JULY 2003",
+   "sub": "THE FOAM TEST"
+  },
+  {
+   "at": "panel.",
+   "type": "photo",
+   "photo": "photo-foamtest.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "THE TESTED PANEL",
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "sixteen",
+   "type": "photo",
+   "photo": "photo-foamtest.jpg",
+   "focus": [
+    0.45,
+    0.4
+   ],
+   "zoom": [
+    1.6,
+    1.8
+   ],
+   "label": "~16-INCH HOLE"
+  },
+  {
+   "at": "gasped.",
+   "type": "card",
+   "text": "“GASPS”",
+   "sub": "REPORTEDLY"
+  },
+  {
+   "at": "Atlantis,",
+   "type": "photo",
+   "photo": "photo-atlantis.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ATLANTIS · A POSSIBLE RESCUE"
+  },
+  {
+   "at": "difficult",
+   "type": "card",
+   "text": "DIFFICULT.\nRISKY.\nPOSSIBLE."
+  },
+  {
+   "at": "culture",
+   "type": "card",
+   "text": "NASA'S CULTURE\n= AS LARGE A ROLE\nAS THE FOAM",
+   "red": true
+  },
+  {
+   "at": "Challenger",
+   "type": "card",
+   "text": "THE SAME PATTERN\nAS CHALLENGER"
+  },
+  {
+   "at": "normal.",
+   "type": "card",
+   "text": "WARNING SIGNS\nBECAME NORMAL",
+   "red": true
+  },
+  {
+   "at": "2005,",
+   "type": "photo",
+   "photo": "photo-return.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "RETURN TO FLIGHT · 2005"
+  },
+  {
+   "at": "retired.",
+   "type": "card",
+   "text": "2011:\nSHUTTLE RETIRED"
+  },
+  {
+   "at": "noticed.",
+   "type": "card",
+   "text": "IT WASN'T\nTHAT NOBODY NOTICED"
+  },
+  {
+   "at": "prove",
+   "type": "card",
+   "text": "ASKED TO PROVE IT\nWITHOUT LOOKING",
+   "red": true
+  },
+  {
+   "at": "sent",
+   "type": "card",
+   "text": "WOULD YOU HAVE\nSENT THAT EMAIL?",
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
