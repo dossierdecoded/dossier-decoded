@@ -1,0 +1,216 @@
+{
+ "title": "THE CHERNOBYL BUTTON",
+ "case": "045",
+ "scenes": [
+  {
+   "at": "At",
+   "type": "photo",
+   "photo": "photo-reactor.jpg",
+   "focus": [
+    0.5,
+    0.55
+   ],
+   "zoom": [
+    1.35,
+    1.1
+   ],
+   "label": "CHERNOBYL REACTOR 4 · 1986",
+   "stamp": "FLAW KNOWN",
+   "stamp_at": "earlier",
+   "sfx_at": [
+    [
+     "hit",
+     "At"
+    ]
+   ]
+  },
+  {
+   "at": "April",
+   "type": "card",
+   "text": "26 APRIL 1986",
+   "sub": "REACTOR NUMBER 4"
+  },
+  {
+   "at": "test",
+   "type": "photo",
+   "photo": "photo-plant.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CHERNOBYL UNITS 1–4 · 3D MODEL",
+   "fit": "contain"
+  },
+  {
+   "at": "dropped",
+   "type": "card",
+   "text": "POWER DROPPED\nDANGEROUSLY LOW"
+  },
+  {
+   "at": "pulled",
+   "type": "card",
+   "text": "MOST CONTROL\nRODS PULLED OUT",
+   "red": true
+  },
+  {
+   "at": "twentythree",
+   "type": "card",
+   "text": "1:23 AM",
+   "sfx_at": [
+    [
+     "alarm",
+     "twentythree"
+    ]
+   ]
+  },
+  {
+   "at": "AZ5.",
+   "type": "card",
+   "text": "AZ-5",
+   "sub": "EMERGENCY SHUTDOWN BUTTON",
+   "red": true
+  },
+  {
+   "at": "every",
+   "type": "card",
+   "text": "EVERY ROD\nIN AT ONCE"
+  },
+  {
+   "at": "graphite.",
+   "type": "card",
+   "text": "GRAPHITE\nTIPS"
+  },
+  {
+   "at": "cooling",
+   "type": "card",
+   "text": "PUSHED OUT\nCOOLING WATER"
+  },
+  {
+   "at": "up",
+   "type": "card",
+   "text": "POWER WENT\nUP",
+   "red": true
+  },
+  {
+   "at": "exploded.",
+   "type": "photo",
+   "photo": "photo-reactor.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "REACTOR 4 AFTER THE EXPLOSION",
+   "sfx_at": [
+    [
+     "hit",
+     "exploded"
+    ]
+   ]
+  },
+  {
+   "at": "1983,",
+   "type": "card",
+   "text": "1983"
+  },
+  {
+   "at": "Ignalina.",
+   "type": "photo",
+   "photo": "photo-ignalina.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "IGNALINA · SAME REACTOR DESIGN",
+   "fit": "contain"
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "RESTRICTIONS:\nNEVER IMPOSED",
+   "red": true
+  },
+  {
+   "at": "told.",
+   "type": "card",
+   "text": "OPERATORS NEVER\nCLEARLY TOLD",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "told"
+    ]
+   ]
+  },
+  {
+   "at": "Two",
+   "type": "photo",
+   "photo": "photo-control.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "MEMORIAL TO VALERY KHODEMCHUK",
+   "fit": "contain"
+  },
+  {
+   "at": "Twentyeight",
+   "type": "card",
+   "text": "28 MORE",
+   "sub": "RADIATION SICKNESS · WITHIN MONTHS",
+   "sfx_at": [
+    [
+     "geiger",
+     "Twentyeight"
+    ]
+   ]
+  },
+  {
+   "at": "Pripyat",
+   "type": "photo",
+   "photo": "photo-pripyat.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "PRIPYAT · ~36 HOURS TO EVACUATE"
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-reactor.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.2
+   ],
+   "label": "CHERNOBYL · 1986"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
