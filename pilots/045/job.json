@@ -1,0 +1,76 @@
+{
+ "slug": "045-chernobyl-button",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] At Chernobyl, the button that was supposed to shut the reactor down helped blow it up. And the flaw had been spotted three years earlier. April 26th, 1986. Reactor Number Four was running a safety test in the middle of the night. Its power had dropped dangerously low, and the operators had pulled out most of the control rods to bring it back up. At one twenty-three a.m., someone pressed the emergency button, called AZ-5. It drove every control rod back into the core at once. But the tip of each rod was made of graphite. As the rods entered, for the first few seconds, they pushed out cooling water, and power at the bottom of the core went up instead of down. Within seconds, the reactor exploded. That effect had been seen in 1983, at another plant of the same design, called Ignalina. Restrictions were supposed to follow. They never did. And the operators at Chernobyl were never clearly told. Two workers died that night. Twenty-eight more died of radiation sickness within months. The nearby city of Pripyat wasn't evacuated for about thirty-six hours. Send this to someone who thinks an emergency button always makes things safer. This is Dossier Decoded. Case file number forty-five. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "reactor",
+   "query": "Chernobyl reactor 4 destroyed 1986 photograph",
+   "n": 1
+  },
+  {
+   "slug": "plant",
+   "query": "Chernobyl nuclear power plant 1986",
+   "n": 1
+  },
+  {
+   "slug": "control",
+   "query": "Chernobyl control room reactor 4",
+   "n": 1
+  },
+  {
+   "slug": "pripyat",
+   "query": "Pripyat abandoned city Ferris wheel",
+   "n": 1
+  },
+  {
+   "slug": "sarcophagus",
+   "query": "Chernobyl sarcophagus",
+   "n": 1
+  },
+  {
+   "slug": "ignalina",
+   "query": "Ignalina Nuclear Power Plant",
+   "n": 1
+  },
+  {
+   "slug": "rbmk",
+   "query": "RBMK reactor hall top",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "alarm",
+   "text": "industrial control room alarm buzzer",
+   "seconds": 2
+  },
+  {
+   "slug": "geiger",
+   "text": "geiger counter clicking faster",
+   "seconds": 3
+  }
+ ]
+}
