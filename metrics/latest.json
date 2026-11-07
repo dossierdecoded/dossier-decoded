@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T22:25:18+00:00",
+ "updated": "2026-11-07T01:31:16+00:00",
  "youtube_channel": {
-  "subscribers": 369,
+  "subscribers": 373,
   "views": 13228
  },
  "instagram_account": {
@@ -1410,7 +1410,7 @@
    "yt": {
     "id": "mBhv3oQLIRE",
     "url": "https://youtube.com/shorts/mBhv3oQLIRE",
-    "views": 361,
+    "views": 363,
     "likes": 20,
     "comments": 5,
     "privacy": "public",
@@ -1465,9 +1465,16 @@
     "url": "https://youtube.com/shorts/1GSajlB0Qgc",
     "views": 25,
     "likes": 2,
-    "comments": 0,
+    "comments": 1,
     "privacy": "public",
-    "published": "2026-11-05T23:40:56Z"
+    "published": "2026-11-05T23:40:56Z",
+    "comment_text": [
+     {
+      "author": "@nunyabidness3202",
+      "text": "Yes it was their money and NOT their hubris that caused this. Hating rich people for being rich is no better than hating poor people for being poor.",
+      "at": "2026-11-06T22:26:07Z"
+     }
+    ]
    },
    "ig": {
     "id": "18087808196338616",
@@ -1490,8 +1497,8 @@
    "yt": {
     "id": "LYfd58FzZC8",
     "url": "https://youtube.com/shorts/LYfd58FzZC8",
-    "views": 80,
-    "likes": 10,
+    "views": 192,
+    "likes": 13,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-06T21:50:16Z"
@@ -1499,14 +1506,14 @@
    "ig": {
     "id": "18106245137021840",
     "url": "https://www.instagram.com/reel/DfanKJqlv81/",
-    "views": 15,
-    "reach": 0,
+    "views": 106,
+    "reach": 101,
     "likes": 0,
     "comments": 0,
     "shares": 0,
-    "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "saved": 1,
+    "total_interactions": 1,
+    "avg_watch_sec": 9.3
    },
    "title": "Radar Saw the Pearl Harbor Attack Coming 53 Minutes Early. Here's What Happened",
    "duration": 75.3
@@ -1669,8 +1676,8 @@
    "yt": {
     "id": "Cg0yuGeoJho",
     "url": "https://youtube.com/watch?v=Cg0yuGeoJho",
-    "views": 568,
-    "likes": 2,
+    "views": 572,
+    "likes": 3,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T17:19:36Z",
