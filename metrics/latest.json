@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T17:24:41+00:00",
+ "updated": "2026-11-08T20:07:21+00:00",
  "youtube_channel": {
   "subscribers": 449,
   "views": 14249
@@ -1181,7 +1181,7 @@
       "at": "2026-11-03T22:39:01Z"
      }
     ],
-    "avg_view_pct": 43.9,
+    "avg_view_pct": 43.78,
     "avg_view_sec": 28,
     "shares": 0,
     "subs_gained": 2
@@ -1245,7 +1245,7 @@
    "yt": {
     "id": "gzpXn_HFS9w",
     "url": "https://youtube.com/shorts/gzpXn_HFS9w",
-    "views": 1127,
+    "views": 1129,
     "likes": 59,
     "comments": 3,
     "privacy": "public",
@@ -1298,7 +1298,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T22:25:09Z",
-    "avg_view_pct": 90.13,
+    "avg_view_pct": 90.24,
     "avg_view_sec": 65,
     "shares": 0,
     "subs_gained": 1
@@ -1336,7 +1336,7 @@
       "at": "2026-11-03T01:43:52Z"
      }
     ],
-    "avg_view_pct": 60.94,
+    "avg_view_pct": 60.870000000000005,
     "avg_view_sec": 45,
     "shares": 2,
     "subs_gained": 10
@@ -1437,7 +1437,7 @@
       "at": "2026-11-04T22:48:43Z"
      }
     ],
-    "avg_view_pct": 76.42,
+    "avg_view_pct": 76.62,
     "avg_view_sec": 63,
     "shares": 0,
     "subs_gained": 2
@@ -1475,8 +1475,8 @@
       "at": "2026-11-06T22:26:07Z"
      }
     ],
-    "avg_view_pct": 48.5,
-    "avg_view_sec": 38,
+    "avg_view_pct": 41.54,
+    "avg_view_sec": 32,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1501,11 +1501,15 @@
    "yt": {
     "id": "LYfd58FzZC8",
     "url": "https://youtube.com/shorts/LYfd58FzZC8",
-    "views": 518,
-    "likes": 30,
+    "views": 521,
+    "likes": 31,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-06T21:50:16Z"
+    "published": "2026-11-06T21:50:16Z",
+    "avg_view_pct": 91.36,
+    "avg_view_sec": 69,
+    "shares": 0,
+    "subs_gained": 2
    },
    "ig": {
     "id": "18106245137021840",
@@ -1528,7 +1532,7 @@
    "yt": {
     "id": "maXaxdrgjr4",
     "url": "https://youtube.com/shorts/maXaxdrgjr4",
-    "views": 213,
+    "views": 214,
     "likes": 16,
     "comments": 0,
     "privacy": "public",
@@ -1537,14 +1541,14 @@
    "ig": {
     "id": "17960651835016601",
     "url": "https://www.instagram.com/reel/DfdQDimnCii/",
-    "views": 114,
-    "reach": 103,
+    "views": 119,
+    "reach": 104,
     "likes": 2,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "avg_watch_sec": 6.7
+    "avg_watch_sec": 6.8
    },
    "title": "Chernobyl's Emergency Button Helped Blow It Up. The Flaw Was Known 3 Years Earlier",
    "duration": 73.8
@@ -1631,13 +1635,13 @@
    "yt": {
     "id": "TcbPukLf_Q8",
     "url": "https://youtube.com/watch?v=TcbPukLf_Q8",
-    "views": 153,
+    "views": 154,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 20.66,
-    "avg_view_sec": 98,
+    "avg_view_pct": 19.82,
+    "avg_view_sec": 94,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1693,8 +1697,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-29T16:32:01Z",
-    "avg_view_pct": 2.16,
-    "avg_view_sec": 8,
+    "avg_view_pct": 4.1,
+    "avg_view_sec": 16,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1707,12 +1711,12 @@
    "yt": {
     "id": "Cg0yuGeoJho",
     "url": "https://youtube.com/watch?v=Cg0yuGeoJho",
-    "views": 818,
-    "likes": 7,
+    "views": 819,
+    "likes": 6,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T17:19:36Z",
-    "avg_view_pct": 7.429999999999999,
+    "avg_view_pct": 7.359999999999999,
     "avg_view_sec": 32,
     "shares": 0,
     "subs_gained": 2
@@ -1745,7 +1749,7 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
