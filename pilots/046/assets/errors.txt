@@ -1,7 +1,8 @@
-commons: nothing usable for Dyatlov group 1959 hikers photograph #1
-
-commons: nothing usable for Dyatlov group 1959 hikers photograph #2
-
-commons: nothing usable for Dyatlov Pass search party 1959 #1
-
-commons: nothing usable for Dyatlov Pass Kholat Syakhl landscape #1
+[commons]
+Traceback (most recent call last):
+  File "/home/runner/work/dossier-decoded/dossier-decoded/scripts/fetch_pilot.py", line 22, in deco
+    fn()
+  File "/home/runner/work/dossier-decoded/dossier-decoded/scripts/fetch_pilot.py", line 146, in _
+    ii = p["imageinfo"][0]; em = ii.get("extmetadata", {})
+         ~^^^^^^^^^^^^^
+KeyError: 'imageinfo'
