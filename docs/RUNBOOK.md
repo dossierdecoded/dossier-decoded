@@ -228,3 +228,8 @@ Template: `pilots/L01/` (D. B. Cooper) — copy its `script.py` and `scenes_src.
 
 ## 14. TikTok dropped (Tanmay, 19 Oct 2026)
 We post only to YouTube and Instagram. Do not send TikTok files or TikTok captions in nudges or check-ins. Still render <case>-ig.mp4 (it is the Instagram cut). `tiktok_caption` in draft.json is no longer needed.
+
+## 15. Publish timing (added 2026-11-08)
+GitHub runs scheduled (cron) workflows only every ~3–5 hours on this repo, even though publish-scheduled is set hourly and collect-metrics every 30 min. Do NOT rely on cron for posting on time.
+- Stage B: besides the ~20-min-later check-in, schedule a send_later AT the slot time (e.g. 22:00Z for 5 pm ET) whose only job is to dispatch publish-scheduled.yml if <case>/youtube.json doesn't exist yet. Dispatched runs start within seconds and take ~2 min.
+- Metrics: a fresh pull = dispatch collect-metrics + ~2.5 min run. Quick answers can read metrics/latest.json as-is (state its age).
