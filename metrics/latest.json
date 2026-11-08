@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-08T20:07:21+00:00",
+ "updated": "2026-11-08T22:25:00+00:00",
  "youtube_channel": {
-  "subscribers": 449,
+  "subscribers": 460,
   "views": 14249
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 46,
+  "media_count": 47,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -1464,7 +1464,7 @@
     "id": "1GSajlB0Qgc",
     "url": "https://youtube.com/shorts/1GSajlB0Qgc",
     "views": 43,
-    "likes": 4,
+    "likes": 5,
     "comments": 1,
     "privacy": "public",
     "published": "2026-11-05T23:40:56Z",
@@ -1501,8 +1501,8 @@
    "yt": {
     "id": "LYfd58FzZC8",
     "url": "https://youtube.com/shorts/LYfd58FzZC8",
-    "views": 521,
-    "likes": 31,
+    "views": 529,
+    "likes": 32,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-06T21:50:16Z",
@@ -1532,11 +1532,18 @@
    "yt": {
     "id": "maXaxdrgjr4",
     "url": "https://youtube.com/shorts/maXaxdrgjr4",
-    "views": 214,
-    "likes": 16,
-    "comments": 0,
+    "views": 226,
+    "likes": 18,
+    "comments": 1,
     "privacy": "public",
-    "published": "2026-11-07T22:26:11Z"
+    "published": "2026-11-07T22:26:11Z",
+    "comment_text": [
+     {
+      "author": "@larontaylor5727",
+      "text": "Wild",
+      "at": "2026-11-08T17:51:07Z"
+     }
+    ]
    },
    "ig": {
     "id": "17960651835016601",
@@ -1552,6 +1559,33 @@
    },
    "title": "Chernobyl's Emergency Button Helped Blow It Up. The Flaw Was Known 3 Years Earlier",
    "duration": 73.8
+  },
+  {
+   "case": "046",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "3srHzgM77Ik",
+    "url": "https://youtube.com/shorts/3srHzgM77Ik",
+    "views": 100,
+    "likes": 7,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-08T22:03:17Z"
+   },
+   "ig": {
+    "id": "18000701555825194",
+    "url": "https://www.instagram.com/reel/DffyQ04ibEN/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "9 Hikers Cut Their Way Out of Their Own Tent. None Survived. | Dyatlov Pass",
+   "duration": 83.8
   },
   {
    "case": "L01",
@@ -1711,7 +1745,7 @@
    "yt": {
     "id": "Cg0yuGeoJho",
     "url": "https://youtube.com/watch?v=Cg0yuGeoJho",
-    "views": 819,
+    "views": 822,
     "likes": 6,
     "comments": 0,
     "privacy": "public",
