@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T22:54:07+00:00",
+ "updated": "2026-11-08T02:00:26+00:00",
  "youtube_channel": {
-  "subscribers": 413,
+  "subscribers": 424,
   "views": 13339
  },
  "instagram_account": {
@@ -1463,7 +1463,7 @@
    "yt": {
     "id": "1GSajlB0Qgc",
     "url": "https://youtube.com/shorts/1GSajlB0Qgc",
-    "views": 41,
+    "views": 43,
     "likes": 4,
     "comments": 1,
     "privacy": "public",
@@ -1501,7 +1501,7 @@
    "yt": {
     "id": "LYfd58FzZC8",
     "url": "https://youtube.com/shorts/LYfd58FzZC8",
-    "views": 493,
+    "views": 498,
     "likes": 27,
     "comments": 0,
     "privacy": "public",
@@ -1528,8 +1528,8 @@
    "yt": {
     "id": "maXaxdrgjr4",
     "url": "https://youtube.com/shorts/maXaxdrgjr4",
-    "views": 80,
-    "likes": 12,
+    "views": 133,
+    "likes": 15,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-07T22:26:11Z"
@@ -1537,14 +1537,14 @@
    "ig": {
     "id": "17960651835016601",
     "url": "https://www.instagram.com/reel/DfdQDimnCii/",
-    "views": 4,
-    "reach": 0,
-    "likes": 1,
+    "views": 112,
+    "reach": 102,
+    "likes": 2,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 1,
-    "avg_watch_sec": 0.0
+    "total_interactions": 2,
+    "avg_watch_sec": 6.8
    },
    "title": "Chernobyl's Emergency Button Helped Blow It Up. The Flaw Was Known 3 Years Earlier",
    "duration": 73.8
@@ -1631,7 +1631,7 @@
    "yt": {
     "id": "TcbPukLf_Q8",
     "url": "https://youtube.com/watch?v=TcbPukLf_Q8",
-    "views": 148,
+    "views": 150,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1707,8 +1707,8 @@
    "yt": {
     "id": "Cg0yuGeoJho",
     "url": "https://youtube.com/watch?v=Cg0yuGeoJho",
-    "views": 646,
-    "likes": 6,
+    "views": 672,
+    "likes": 7,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T17:19:36Z",
