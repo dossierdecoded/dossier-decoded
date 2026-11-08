@@ -1,0 +1,71 @@
+{
+ "slug": "046-dyatlov-pass",
+ "pillar": "Unsolved",
+ "format": "case-file",
+ "script": "[serious] In 1959, nine hikers in the Soviet Union cut their way out of their own tent, from the inside, and ran into the snow without their shoes. None of them survived. They were experienced students, led by twenty-three-year-old Igor Dyatlov, skiing to a mountain in the northern Urals. A tenth member, Yuri Yudin, turned back early because he was sick. He was the only one who came home. When searchers found the tent, it had been slashed open from the inside. Their boots and coats were still in it. Footprints, in socks and bare feet, led down the slope toward the trees. The first bodies were found by the remains of a small fire, more than a kilometer away, dressed only in underwear. They had died of cold. The last four were found two months later, buried in snow, in a ravine. Three had crushing injuries to the skull or chest, but almost no wounds on the outside. The Soviet investigators wrote that they had died because of a compelling natural force. Then they closed the file. Theories ran wild. Secret weapons. The KGB. Even a yeti. In 2021, Swiss scientists ran simulations showing that a small slab avalanche could have hit the tent, and caused injuries like these. But even they say nobody really knows what happened. Send this to someone who thinks every mystery has an answer. This is Dossier Decoded. Case file number forty-six. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "tent",
+   "query": "Dyatlov Pass tent found 1959 photograph",
+   "n": 1
+  },
+  {
+   "slug": "group",
+   "query": "Dyatlov group 1959 hikers photograph",
+   "n": 2
+  },
+  {
+   "slug": "dyatlov",
+   "query": "Igor Dyatlov portrait",
+   "n": 1
+  },
+  {
+   "slug": "search",
+   "query": "Dyatlov Pass search party 1959",
+   "n": 1
+  },
+  {
+   "slug": "pass",
+   "query": "Dyatlov Pass Kholat Syakhl landscape",
+   "n": 1
+  },
+  {
+   "slug": "memorial",
+   "query": "Dyatlov Pass memorial",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "wind",
+   "text": "howling mountain wind in a blizzard",
+   "seconds": 4
+  },
+  {
+   "slug": "rip",
+   "text": "knife slicing through canvas tent fabric",
+   "seconds": 1.5
+  }
+ ]
+}

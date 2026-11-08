@@ -318,6 +318,15 @@
   },
   {
    "case": "046",
+   "slug": "dyatlov-pass",
+   "topic": "Dyatlov Pass: nine hikers cut their way out of their own tent",
+   "pillar": "Unsolved",
+   "format": "case-file",
+   "target_seconds": 70,
+   "hints": "Dyatlov group's own photos are PD (Commons)"
+  },
+  {
+   "case": "047",
    "slug": "stargate",
    "topic": "Project Stargate: the US government's psychic spies",
    "pillar": "Strange but true",
@@ -326,7 +335,7 @@
    "hints": "CIA reading room STARGATE collection; 1995 AIR evaluation"
   },
   {
-   "case": "047",
+   "case": "048",
    "slug": "popeye",
    "topic": "Operation Popeye: cloud seeding as a weapon over the Ho Chi Minh Trail",
    "pillar": "Turned out true",
@@ -335,7 +344,7 @@
    "hints": "1974 Senate hearing transcript on weather modification"
   },
   {
-   "case": "048",
+   "case": "049",
    "slug": "cointelpro",
    "topic": "COINTELPRO and the 1971 Media, Pennsylvania FBI office burglary that exposed it",
    "pillar": "Exposed",
@@ -344,7 +353,7 @@
    "hints": "FBI Vault COINTELPRO files; Church Committee report (senate.gov)"
   },
   {
-   "case": "049",
+   "case": "050",
    "slug": "sea-spray",
    "topic": "Operation Sea-Spray: the US Navy sprayed bacteria over San Francisco (1950)",
    "pillar": "Turned out true",
@@ -353,7 +362,7 @@
    "hints": "1977 Senate subcommittee hearings on Army biological testing"
   },
   {
-   "case": "050",
+   "case": "051",
    "slug": "mockingbird",
    "topic": "Operation Mockingbird and the CIA 'Family Jewels'",
    "pillar": "Exposed",
@@ -362,7 +371,7 @@
    "hints": "CIA Family Jewels PDF (cia.gov reading room); Church Committee"
   },
   {
-   "case": "051",
+   "case": "052",
    "slug": "iceworm",
    "topic": "Project Iceworm and Camp Century: a nuclear base hidden under Greenland's ice",
    "pillar": "Turned out true",
@@ -371,7 +380,7 @@
    "hints": "US Army Corps of Engineers PD photos and film stills"
   },
   {
-   "case": "052",
+   "case": "053",
    "slug": "mattoon",
    "topic": "The Mad Gasser of Mattoon (1944)",
    "pillar": "Unsolved",
@@ -380,7 +389,7 @@
    "hints": "Contemporary newspaper scans on Commons"
   },
   {
-   "case": "053",
+   "case": "054",
    "slug": "bat-bombs",
    "topic": "Project X-Ray: the US plan to firebomb Japan with bats",
    "pillar": "Strange but true",
@@ -389,7 +398,7 @@
    "hints": "USMC/US Army PD photos; the bats burned down a test base"
   },
   {
-   "case": "054",
+   "case": "055",
    "slug": "washtub",
    "topic": "Operation Washtub: FBI-trained stay-behind agents in Alaska",
    "pillar": "Turned out true",
