@@ -1,0 +1,207 @@
+{
+ "title": "THE HINDENBURG",
+ "case": "047",
+ "scenes": [
+  {
+   "at": "The",
+   "type": "photo",
+   "photo": "photo-fire-1.jpg",
+   "focus": [
+    0.45,
+    0.4
+   ],
+   "zoom": [
+    1.4,
+    1.15
+   ],
+   "label": "THE HINDENBURG · 6 MAY 1937",
+   "stamp": "34 SECONDS",
+   "stamp_at": "seconds",
+   "sfx_at": [
+    [
+     "hit",
+     "The"
+    ]
+   ]
+  },
+  {
+   "at": "nobody",
+   "type": "card",
+   "text": "NOBODY KNOWS\nEXACTLY WHY",
+   "red": true
+  },
+  {
+   "at": "May",
+   "type": "card",
+   "text": "6 MAY 1937",
+   "sub": "LAKEHURST, NEW JERSEY"
+  },
+  {
+   "at": "largest",
+   "type": "photo",
+   "photo": "photo-mast.jpg",
+   "focus": [
+    0.72,
+    0.5
+   ],
+   "zoom": [
+    1.7,
+    1.8
+   ],
+   "label": "LZ 129 HINDENBURG"
+  },
+  {
+   "at": "three",
+   "type": "card",
+   "text": "LONGER THAN\n3 BOEING 747s"
+  },
+  {
+   "at": "Ninetyseven",
+   "type": "card",
+   "text": "97 ABOARD"
+  },
+  {
+   "at": "hydrogen,",
+   "type": "card",
+   "text": "HYDROGEN",
+   "red": true
+  },
+  {
+   "at": "helium,",
+   "type": "card",
+   "text": "NOT HELIUM",
+   "sub": "HELIUM DOESN'T BURN"
+  },
+  {
+   "at": "law",
+   "type": "card",
+   "text": "U.S. HELIUM:\nNO EXPORTS"
+  },
+  {
+   "at": "raining.",
+   "type": "card",
+   "text": "RAIN.\nA STORM.",
+   "sfx_at": [
+    [
+     "rain",
+     "raining"
+    ]
+   ]
+  },
+  {
+   "at": "ropes",
+   "type": "card",
+   "text": "LANDING ROPES\nDROPPED"
+  },
+  {
+   "at": "flame",
+   "type": "card",
+   "text": "A SMALL FLAME\nNEAR THE TAIL",
+   "red": true
+  },
+  {
+   "at": "whole",
+   "type": "photo",
+   "photo": "photo-fire-1.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "34 SECONDS, TAIL TO NOSE",
+   "sfx_at": [
+    [
+     "whoosh",
+     "whole"
+    ]
+   ]
+  },
+  {
+   "at": "Morrison",
+   "type": "card",
+   "text": "HERBERT MORRISON",
+   "sub": "RADIO REPORTER · RECORDING"
+  },
+  {
+   "at": "humanity.",
+   "type": "card",
+   "text": "“OH, THE\nHUMANITY.”",
+   "red": true
+  },
+  {
+   "at": "sixtytwo",
+   "type": "card",
+   "text": "62\nSURVIVED",
+   "sub": "MANY BY JUMPING"
+  },
+  {
+   "at": "Thirtysix",
+   "type": "photo",
+   "photo": "photo-wreck.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "36 DIED"
+  },
+  {
+   "at": "leaked",
+   "type": "card",
+   "text": "A HYDROGEN LEAK\nNEAR THE TAIL"
+  },
+  {
+   "at": "static",
+   "type": "card",
+   "text": "A SPARK OF\nSTATIC ELECTRICITY",
+   "sub": "FROM THE STORM"
+  },
+  {
+   "at": "why",
+   "type": "card",
+   "text": "WHY WAS IT\nLEAKING?",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "why"
+    ]
+   ]
+  },
+  {
+   "at": "sabotage.",
+   "type": "card",
+   "text": "SABOTAGE?",
+   "sub": "STILL ARGUED"
+  },
+  {
+   "at": "age",
+   "type": "card",
+   "text": "THE END OF\nTHE AIRSHIP AGE"
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-fire-1.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "LAKEHURST · 1937"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
