@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T23:06:18+00:00",
+ "updated": "2026-11-09T23:59:10+00:00",
  "youtube_channel": {
   "subscribers": 472,
   "views": 14845
@@ -1076,7 +1076,7 @@
    "yt": {
     "id": "X2OHVFxZaqE",
     "url": "https://youtube.com/shorts/X2OHVFxZaqE",
-    "views": 111,
+    "views": 113,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -1138,7 +1138,7 @@
    "yt": {
     "id": "p0gwVuirHqk",
     "url": "https://youtube.com/shorts/p0gwVuirHqk",
-    "views": 119,
+    "views": 120,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -1602,7 +1602,7 @@
    "yt": {
     "id": "HJvpg2dZWVU",
     "url": "https://youtube.com/shorts/HJvpg2dZWVU",
-    "views": 44,
+    "views": 43,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1611,14 +1611,14 @@
    "ig": {
     "id": "18226487383339221",
     "url": "https://www.instagram.com/reel/DfiXJANkTAz/",
-    "views": 23,
-    "reach": 12,
+    "views": 55,
+    "reach": 45,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 8.4
+    "avg_watch_sec": 11.8
    },
    "title": "The Hindenburg Burned in 34 Seconds. Nobody Knows Why the Hydrogen Leaked",
    "duration": 87.4
