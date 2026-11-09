@@ -1,0 +1,71 @@
+{
+ "slug": "047-hindenburg",
+ "pillar": "Unsolved",
+ "format": "case-file",
+ "script": "[serious] The Hindenburg burned from tail to nose in thirty-four seconds. Almost ninety years later, nobody knows exactly why. May 6th, 1937. Lakehurst, New Jersey. The largest aircraft ever built, longer than three Boeing 747s, was coming in to land after crossing the Atlantic. Ninety-seven people on board. It was filled with hydrogen, one of the most flammable gases there is. It was supposed to use helium, which doesn't burn. But the United States had the world's supply of helium, and a law against exporting it. It was raining. A storm had just passed. The landing ropes dropped to the ground crew. Then, a small flame near the tail. In seconds, the whole ship was on fire. On the ground, radio reporter Herbert Morrison was recording. Oh, the humanity. Incredibly, sixty-two people survived, many by jumping as it came down. Thirty-six died, including one man on the ground. Investigators concluded that hydrogen had leaked near the tail, and a spark of static electricity, from the storm, set it off. But nobody has ever explained why the hydrogen was leaking in the first place. And people still argue about sabotage. It ended the age of the airship. Send this to someone who thinks we've solved every famous disaster. This is Dossier Decoded. Case file number forty-seven. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "fire",
+   "query": "Hindenburg disaster 1937 photograph burning Lakehurst",
+   "n": 2
+  },
+  {
+   "slug": "flight",
+   "query": "Hindenburg over Manhattan 1936",
+   "n": 1
+  },
+  {
+   "slug": "morrison",
+   "query": "Herbert Morrison reporter Hindenburg",
+   "n": 1
+  },
+  {
+   "slug": "wreck",
+   "query": "Hindenburg wreckage Lakehurst May 7 1937",
+   "n": 1
+  },
+  {
+   "slug": "interior",
+   "query": "Hindenburg passenger lounge",
+   "n": 1
+  },
+  {
+   "slug": "mast",
+   "query": "Hindenburg mooring mast Lakehurst",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "rain",
+   "text": "light rain and distant thunder",
+   "seconds": 3
+  },
+  {
+   "slug": "whoosh",
+   "text": "huge fire whoosh igniting",
+   "seconds": 2
+  }
+ ]
+}
