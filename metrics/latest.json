@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-09T13:12:21+00:00",
+ "updated": "2026-11-09T22:26:00+00:00",
  "youtube_channel": {
   "subscribers": 472,
-  "views": 14327
+  "views": 14845
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 47,
+  "media_count": 48,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -83,8 +83,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-03T00:28:45Z",
-    "avg_view_pct": 66.33,
-    "avg_view_sec": 45,
+    "avg_view_pct": 65.38,
+    "avg_view_sec": 44,
     "shares": 0,
     "subs_gained": 0
    },
@@ -302,7 +302,7 @@
    "yt": {
     "id": "MheENVQxwuQ",
     "url": "https://youtube.com/shorts/MheENVQxwuQ",
-    "views": 19,
+    "views": 20,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1293,7 +1293,7 @@
    "yt": {
     "id": "Wk5cAeDhyD4",
     "url": "https://youtube.com/shorts/Wk5cAeDhyD4",
-    "views": 149,
+    "views": 150,
     "likes": 8,
     "comments": 0,
     "privacy": "public",
@@ -1437,7 +1437,7 @@
       "at": "2026-11-04T22:48:43Z"
      }
     ],
-    "avg_view_pct": 76.62,
+    "avg_view_pct": 76.31,
     "avg_view_sec": 63,
     "shares": 0,
     "subs_gained": 2
@@ -1475,8 +1475,8 @@
       "at": "2026-11-06T22:26:07Z"
      }
     ],
-    "avg_view_pct": 41.54,
-    "avg_view_sec": 32,
+    "avg_view_pct": 43.72,
+    "avg_view_sec": 34,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1506,10 +1506,10 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-06T21:50:16Z",
-    "avg_view_pct": 91.36,
-    "avg_view_sec": 69,
-    "shares": 0,
-    "subs_gained": 2
+    "avg_view_pct": 90.07,
+    "avg_view_sec": 68,
+    "shares": 1,
+    "subs_gained": 3
    },
    "ig": {
     "id": "18106245137021840",
@@ -1532,7 +1532,7 @@
    "yt": {
     "id": "maXaxdrgjr4",
     "url": "https://youtube.com/shorts/maXaxdrgjr4",
-    "views": 247,
+    "views": 252,
     "likes": 21,
     "comments": 2,
     "privacy": "public",
@@ -1548,7 +1548,11 @@
       "text": "Wild",
       "at": "2026-11-08T17:51:07Z"
      }
-    ]
+    ],
+    "avg_view_pct": 60.4,
+    "avg_view_sec": 44,
+    "shares": 1,
+    "subs_gained": 1
    },
    "ig": {
     "id": "17960651835016601",
@@ -1571,7 +1575,7 @@
    "yt": {
     "id": "3srHzgM77Ik",
     "url": "https://youtube.com/shorts/3srHzgM77Ik",
-    "views": 280,
+    "views": 278,
     "likes": 12,
     "comments": 0,
     "privacy": "public",
@@ -1591,6 +1595,33 @@
    },
    "title": "9 Hikers Cut Their Way Out of Their Own Tent. None Survived. | Dyatlov Pass",
    "duration": 83.8
+  },
+  {
+   "case": "047",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "HJvpg2dZWVU",
+    "url": "https://youtube.com/shorts/HJvpg2dZWVU",
+    "views": 27,
+    "likes": 3,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-09T22:04:08Z"
+   },
+   "ig": {
+    "id": "18226487383339221",
+    "url": "https://www.instagram.com/reel/DfiXJANkTAz/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "The Hindenburg Burned in 34 Seconds. Nobody Knows Why the Hydrogen Leaked",
+   "duration": 87.4
   },
   {
    "case": "L01",
@@ -1622,8 +1653,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-08T16:23:42Z",
-    "avg_view_pct": 62.77,
-    "avg_view_sec": 266,
+    "avg_view_pct": 56.67,
+    "avg_view_sec": 240,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1679,8 +1710,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 19.82,
-    "avg_view_sec": 94,
+    "avg_view_pct": 19.29,
+    "avg_view_sec": 92,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1698,8 +1729,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-22T16:21:10Z",
-    "avg_view_pct": 30.620000000000005,
-    "avg_view_sec": 152,
+    "avg_view_pct": 25.120000000000005,
+    "avg_view_sec": 125,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1755,8 +1786,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T17:19:36Z",
-    "avg_view_pct": 7.359999999999999,
-    "avg_view_sec": 32,
+    "avg_view_pct": 6.52,
+    "avg_view_sec": 28,
     "shares": 0,
     "subs_gained": 2
    },
@@ -1774,8 +1805,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-05T17:26:28Z",
-    "avg_view_pct": 0,
-    "avg_view_sec": 0,
+    "avg_view_pct": 1.6500000000000001,
+    "avg_view_sec": 7,
     "shares": 0,
     "subs_gained": 0
    },
