@@ -1,0 +1,232 @@
+{
+ "title": "THE APOLLO 13 TANK",
+ "case": "048",
+ "scenes": [
+  {
+   "at": "Apollo",
+   "type": "photo",
+   "photo": "photo-launch.jpg",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "zoom": [
+    1.3,
+    1.1
+   ],
+   "label": "APOLLO 13 · 11 APRIL 1970",
+   "stamp": "DAMAGED ON EARTH",
+   "stamp_at": "twice",
+   "sfx_at": [
+    [
+     "hit",
+     "Apollo"
+    ]
+   ]
+  },
+  {
+   "at": "1968,",
+   "type": "card",
+   "text": "1968",
+   "sub": "THE FACTORY"
+  },
+  {
+   "at": "dropped",
+   "type": "card",
+   "text": "DROPPED\n~2 INCHES",
+   "red": true
+  },
+  {
+   "at": "fine.",
+   "type": "card",
+   "text": "“PROBABLY\nFINE”"
+  },
+  {
+   "at": "sixtyfive",
+   "type": "card",
+   "text": "65 VOLTS",
+   "sub": "ON THE LAUNCH PAD"
+  },
+  {
+   "at": "twentyeight.",
+   "type": "card",
+   "text": "NOT JUST 28"
+  },
+  {
+   "at": "except",
+   "type": "card",
+   "text": "EVERY PART UPGRADED\nEXCEPT ONE",
+   "red": true
+  },
+  {
+   "at": "switches",
+   "type": "photo",
+   "photo": "photo-tank.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE TANK · REDESIGNED AFTER APOLLO 13",
+   "fit": "contain"
+  },
+  {
+   "at": "drain",
+   "type": "card",
+   "text": "2 WEEKS BEFORE LAUNCH",
+   "sub": "IT WOULDN'T DRAIN"
+  },
+  {
+   "at": "hours",
+   "type": "card",
+   "text": "HEATER ON\nFOR HOURS"
+  },
+  {
+   "at": "welded",
+   "type": "card",
+   "text": "SWITCHES\nWELDED SHUT",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "welded"
+    ]
+   ]
+  },
+  {
+   "at": "thousand",
+   "type": "card",
+   "text": "~1,000°F",
+   "red": true
+  },
+  {
+   "at": "insulation",
+   "type": "card",
+   "text": "WIRE INSULATION\nBURNED"
+  },
+  {
+   "at": "gauge",
+   "type": "card",
+   "text": "THE GAUGE\nTOPPED OUT AT 80°F"
+  },
+  {
+   "at": "knew.",
+   "type": "card",
+   "text": "NOBODY\nKNEW",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "knew"
+    ]
+   ]
+  },
+  {
+   "at": "April",
+   "type": "card",
+   "text": "13 APRIL 1970",
+   "sub": "200,000 MILES FROM EARTH"
+  },
+  {
+   "at": "fans",
+   "type": "card",
+   "text": "FANS\nSWITCHED ON"
+  },
+  {
+   "at": "explosion.",
+   "type": "card",
+   "text": "EXPLOSION",
+   "red": true,
+   "sfx_at": [
+    [
+     "bang",
+     "explosion"
+    ]
+   ]
+  },
+  {
+   "at": "Houston,",
+   "type": "photo",
+   "photo": "photo-mcc.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "“HOUSTON, WE'VE HAD A PROBLEM”",
+   "sfx_at": [
+    [
+     "radio",
+     "Houston"
+    ]
+   ]
+  },
+  {
+   "at": "Lovell,",
+   "type": "photo",
+   "photo": "photo-crew.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HAISE · SWIGERT · LOVELL"
+  },
+  {
+   "at": "lifeboat,",
+   "type": "photo",
+   "photo": "photo-lm.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "AQUARIUS · THE LIFEBOAT",
+   "fit": "contain"
+  },
+  {
+   "at": "home.",
+   "type": "photo",
+   "photo": "photo-splash.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SPLASHDOWN · 17 APRIL 1970"
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-launch.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.2
+   ],
+   "label": "APOLLO 13"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
