@@ -1,0 +1,76 @@
+{
+ "slug": "048-apollo13-tank",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] Apollo 13 was in trouble before it ever left the ground. The oxygen tank that exploded had been damaged on Earth, twice, and nobody caught it. In 1968, at the factory, the shelf holding that tank was accidentally dropped about two inches. Engineers decided it was probably fine. Years earlier, the tank's heaters had been redesigned to handle sixty-five volts on the launch pad, not just the spacecraft's twenty-eight. Every part was upgraded except one. The tiny safety switches that cut the heater off. Two weeks before launch, the tank wouldn't drain during a test. So technicians ran its heater for hours to boil the oxygen off. The safety switches welded shut. The heat inside likely passed a thousand degrees, and burned the insulation off the wires. But the gauge only read up to eighty degrees, so nobody knew. April 13th, 1970. Two hundred thousand miles from Earth, the crew switched on the fans in that tank. A spark. An explosion. Houston, we've had a problem. Jim Lovell, Fred Haise and Jack Swigert used their lunar module as a lifeboat, and made it home. Send this to someone who thinks one tiny part can't matter. This is Dossier Decoded. Case file number forty-eight. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "launch",
+   "query": "Apollo 13 launch April 11 1970",
+   "n": 1
+  },
+  {
+   "slug": "crew",
+   "query": "Apollo 13 crew Lovell Swigert Haise portrait",
+   "n": 1
+  },
+  {
+   "slug": "sm",
+   "query": "Apollo 13 damaged service module photograph",
+   "n": 1
+  },
+  {
+   "slug": "mcc",
+   "query": "Apollo 13 mission control flight directors",
+   "n": 1
+  },
+  {
+   "slug": "lm",
+   "query": "Apollo 13 lunar module Aquarius jettison",
+   "n": 1
+  },
+  {
+   "slug": "splash",
+   "query": "Apollo 13 splashdown recovery Iwo Jima",
+   "n": 1
+  },
+  {
+   "slug": "tank",
+   "query": "Apollo service module oxygen tank",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "radio",
+   "text": "NASA mission control radio static and quindar beep",
+   "seconds": 2
+  },
+  {
+   "slug": "bang",
+   "text": "muffled metallic bang inside a spacecraft",
+   "seconds": 2
+  }
+ ]
+}
