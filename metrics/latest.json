@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-09T23:59:10+00:00",
+ "updated": "2026-11-10T04:44:25+00:00",
  "youtube_channel": {
   "subscribers": 472,
-  "views": 14845
+  "views": 14857
  },
  "instagram_account": {
   "followers_count": 9,
@@ -1219,8 +1219,8 @@
       "at": "2026-10-30T00:09:44Z"
      }
     ],
-    "avg_view_pct": 71.01,
-    "avg_view_sec": 46,
+    "avg_view_pct": 72.34,
+    "avg_view_sec": 47,
     "shares": 0,
     "subs_gained": 1
    },
@@ -1245,7 +1245,7 @@
    "yt": {
     "id": "gzpXn_HFS9w",
     "url": "https://youtube.com/shorts/gzpXn_HFS9w",
-    "views": 1131,
+    "views": 1132,
     "likes": 59,
     "comments": 3,
     "privacy": "public",
@@ -1336,7 +1336,7 @@
       "at": "2026-11-03T01:43:52Z"
      }
     ],
-    "avg_view_pct": 60.870000000000005,
+    "avg_view_pct": 60.92999999999999,
     "avg_view_sec": 45,
     "shares": 2,
     "subs_gained": 10
@@ -1384,7 +1384,7 @@
       "at": "2026-11-03T22:34:38Z"
      }
     ],
-    "avg_view_pct": 71.63,
+    "avg_view_pct": 71.64,
     "avg_view_sec": 53,
     "shares": 2,
     "subs_gained": 8
@@ -1532,7 +1532,7 @@
    "yt": {
     "id": "maXaxdrgjr4",
     "url": "https://youtube.com/shorts/maXaxdrgjr4",
-    "views": 253,
+    "views": 254,
     "likes": 21,
     "comments": 2,
     "privacy": "public",
@@ -1575,7 +1575,7 @@
    "yt": {
     "id": "3srHzgM77Ik",
     "url": "https://youtube.com/shorts/3srHzgM77Ik",
-    "views": 278,
+    "views": 284,
     "likes": 12,
     "comments": 0,
     "privacy": "public",
@@ -1602,23 +1602,30 @@
    "yt": {
     "id": "HJvpg2dZWVU",
     "url": "https://youtube.com/shorts/HJvpg2dZWVU",
-    "views": 43,
-    "likes": 3,
-    "comments": 0,
+    "views": 97,
+    "likes": 4,
+    "comments": 1,
     "privacy": "public",
-    "published": "2026-11-09T22:04:08Z"
+    "published": "2026-11-09T22:04:08Z",
+    "comment_text": [
+     {
+      "author": "@terrymcnamara1099",
+      "text": "Nothing like AI telling us about human tragedy. Who wants this? Why is the world going this way?",
+      "at": "2026-11-10T01:29:26Z"
+     }
+    ]
    },
    "ig": {
     "id": "18226487383339221",
     "url": "https://www.instagram.com/reel/DfiXJANkTAz/",
-    "views": 55,
-    "reach": 45,
-    "likes": 0,
+    "views": 122,
+    "reach": 115,
+    "likes": 2,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 11.8
+    "total_interactions": 2,
+    "avg_watch_sec": 11.6
    },
    "title": "The Hindenburg Burned in 34 Seconds. Nobody Knows Why the Hydrogen Leaked",
    "duration": 87.4
@@ -1743,7 +1750,7 @@
    "yt": {
     "id": "85gpQX54OBQ",
     "url": "https://youtube.com/watch?v=85gpQX54OBQ",
-    "views": 291,
+    "views": 293,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1786,7 +1793,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T17:19:36Z",
-    "avg_view_pct": 6.52,
+    "avg_view_pct": 6.47,
     "avg_view_sec": 28,
     "shares": 0,
     "subs_gained": 2
