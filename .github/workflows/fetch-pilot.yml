@@ -20,7 +20,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: timeout 300 sudo apt-get install -y -qq --no-install-recommends poppler-utils tesseract-ocr ffmpeg >/dev/null || (timeout 300 sudo apt-get update -qq && timeout 300 sudo apt-get install -y -qq --no-install-recommends poppler-utils tesseract-ocr ffmpeg >/dev/null)
+      - name: Install tools (apt optional; PyPI ffmpeg fallback)
+        run: |
+          timeout 150 sudo apt-get install -y -qq --no-install-recommends poppler-utils tesseract-ocr ffmpeg >/dev/null || echo 'apt unavailable, using PyPI ffmpeg'
+          pip install -q imageio-ffmpeg mutagen
+          command -v ffmpeg >/dev/null || sudo ln -sf "$(python -c 'import imageio_ffmpeg as m; print(m.get_ffmpeg_exe())')" /usr/local/bin/ffmpeg
+          ffmpeg -version | head -1
       - run: pip install requests
       - name: Fetch assets for changed pilots
         env:

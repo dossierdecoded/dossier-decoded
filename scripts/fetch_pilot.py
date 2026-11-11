@@ -14,6 +14,16 @@ H = {"xi-api-key": os.environ["ELEVENLABS_API_KEY"], "Content-Type": "applicatio
 UA = {"User-Agent": "DossierDecodedBot/1.0 (dossierdecoded@gmail.com)"}
 errors, meta = [], {}
 
+
+def audio_duration(f):
+    """Duration in seconds: ffprobe if installed, else mutagen (pure Python, used when apt is down)."""
+    import shutil
+    if shutil.which("ffprobe"):
+        return float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(f)],
+                                    capture_output=True, text=True).stdout.strip())
+    from mutagen.mp3 import MP3
+    return MP3(str(f)).info.length
+
 def step(name):
     def deco(fn):
         if ONLY and name != ONLY:
@@ -42,8 +52,7 @@ def narrate_chapters():
             f.write_bytes(base64.b64decode(j["audio_base64"]))
             (A / f"alignment-{i:02d}.json").write_text(json.dumps(j.get("normalized_alignment") or j.get("alignment")))
         al = json.loads((A / f"alignment-{i:02d}.json").read_text())
-        dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(f)],
-                                   capture_output=True, text=True).stdout.strip())
+        dur = audio_duration(f)
         chaps.append({"title": ch["title"], "start": round(t0, 2)})
         if chars: chars.append(" "); st.append(t0 - 0.01); en.append(t0)
         chars += al["characters"]; st += [x + t0 for x in al["character_start_times_seconds"]]
