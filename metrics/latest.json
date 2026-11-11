@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T00:59:53+00:00",
+ "updated": "2026-11-11T07:34:23+00:00",
  "youtube_channel": {
   "subscribers": 473,
-  "views": 14857
+  "views": 15026
  },
  "instagram_account": {
   "followers_count": 9,
@@ -907,7 +907,7 @@
    "yt": {
     "id": "TOUldQj1KCk",
     "url": "https://youtube.com/shorts/TOUldQj1KCk",
-    "views": 226,
+    "views": 227,
     "likes": 9,
     "comments": 0,
     "privacy": "public",
@@ -1575,7 +1575,7 @@
    "yt": {
     "id": "3srHzgM77Ik",
     "url": "https://youtube.com/shorts/3srHzgM77Ik",
-    "views": 289,
+    "views": 291,
     "likes": 13,
     "comments": 0,
     "privacy": "public",
@@ -1606,7 +1606,7 @@
    "yt": {
     "id": "HJvpg2dZWVU",
     "url": "https://youtube.com/shorts/HJvpg2dZWVU",
-    "views": 139,
+    "views": 147,
     "likes": 4,
     "comments": 1,
     "privacy": "public",
@@ -1649,14 +1649,14 @@
    "ig": {
     "id": "18122136568988490",
     "url": "https://www.instagram.com/reel/Dfk7qZnhY9a/",
-    "views": 44,
-    "reach": 39,
-    "likes": 0,
+    "views": 107,
+    "reach": 97,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 13.4
+    "total_interactions": 1,
+    "avg_watch_sec": 11.1
    },
    "title": "Apollo 13's Oxygen Tank Was Damaged on Earth. Twice. Nobody Caught It.",
    "duration": 74.5
