@@ -1,0 +1,209 @@
+{
+ "title": "THE TITANIC KEY",
+ "case": "049",
+ "scenes": [
+  {
+   "at": "The",
+   "type": "photo",
+   "photo": "photo-titanic-2.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.3,
+    1.1
+   ],
+   "label": "RMS TITANIC · 1912",
+   "stamp": "NO BINOCULARS",
+   "stamp_at": "binoculars",
+   "sfx_at": [
+    [
+     "hit",
+     "The"
+    ]
+   ]
+  },
+  {
+   "at": "key",
+   "type": "card",
+   "text": "THE KEY WALKED\nOFF THE SHIP",
+   "red": true,
+   "sfx_at": [
+    [
+     "keys",
+     "key"
+    ]
+   ]
+  },
+  {
+   "at": "Blair",
+   "type": "photo",
+   "photo": "photo-blair.jpg",
+   "focus": [
+    0.5,
+    0.3
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "2ND OFFICER DAVID BLAIR"
+  },
+  {
+   "at": "replaced",
+   "type": "card",
+   "text": "REPLACED\nAT THE LAST MINUTE"
+  },
+  {
+   "at": "Southampton.",
+   "type": "photo",
+   "photo": "photo-southampton.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SOUTHAMPTON · 10 APRIL 1912"
+  },
+  {
+   "at": "pocket",
+   "type": "card",
+   "text": "IN HIS POCKET:\nA SMALL KEY",
+   "sfx_at": [
+    [
+     "keys",
+     "pocket"
+    ]
+   ]
+  },
+  {
+   "at": "locker",
+   "type": "card",
+   "text": "THE CROW'S NEST\nBINOCULARS LOCKER"
+  },
+  {
+   "at": "whole",
+   "type": "card",
+   "text": "THE WHOLE\nVOYAGE"
+  },
+  {
+   "at": "bare",
+   "type": "card",
+   "text": "BARE\nEYES",
+   "red": true
+  },
+  {
+   "at": "April",
+   "type": "card",
+   "text": "14 APRIL 1912"
+  },
+  {
+   "at": "Fleet",
+   "type": "photo",
+   "photo": "photo-iceberg.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "LOOKOUT FRED FLEET · THE ICEBERG",
+   "sfx_at": [
+    [
+     "bell",
+     "Fleet"
+    ]
+   ]
+  },
+  {
+   "at": "late.",
+   "type": "card",
+   "text": "TOO LATE",
+   "red": true
+  },
+  {
+   "at": "inquiry,",
+   "type": "card",
+   "text": "THE INQUIRY"
+  },
+  {
+   "at": "sooner.",
+   "type": "card",
+   "text": "“SEEN IT\nSOONER”",
+   "sub": "FRED FLEET"
+  },
+  {
+   "at": "Enough",
+   "type": "card",
+   "text": "“ENOUGH TO GET\nOUT OF THE WAY”",
+   "red": true
+  },
+  {
+   "at": "doubt",
+   "type": "card",
+   "text": "SOME EXPERTS\nDOUBT IT",
+   "sub": "A MOONLESS NIGHT"
+  },
+  {
+   "at": "know.",
+   "type": "card",
+   "text": "WE'LL NEVER\nKNOW"
+  },
+  {
+   "at": "kept",
+   "type": "photo",
+   "photo": "photo-blair.jpg",
+   "focus": [
+    0.5,
+    0.3
+   ],
+   "zoom": [
+    1.2,
+    1.3
+   ],
+   "label": "HE KEPT THE KEY FOR LIFE"
+  },
+  {
+   "at": "2007,",
+   "type": "card",
+   "text": "2007",
+   "sub": "AUCTION"
+  },
+  {
+   "at": "ninety",
+   "type": "card",
+   "text": "£90,000",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "ninety"
+    ]
+   ]
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-titanic.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE WRECK TODAY"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
