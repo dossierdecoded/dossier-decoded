@@ -1,0 +1,572 @@
+{
+ "title": "THE RADIUM GIRLS",
+ "case": "040",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "In",
+   "type": "photo",
+   "photo": "photo-factory.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.25,
+    1.05
+   ],
+   "label": "DIAL PAINTERS AT WORK · 1920s",
+   "sfx": [
+    [
+     "tick",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "radioactive",
+   "type": "card",
+   "text": "RADIOACTIVE PAINT\nIN THEIR MOUTHS",
+   "red": true
+  },
+  {
+   "at": "safe.",
+   "type": "card",
+   "text": "“SAFE”",
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "teeth",
+   "type": "card",
+   "text": "TEETH FELL OUT\nJAWS CRUMBLED",
+   "red": true
+  },
+  {
+   "at": "glow",
+   "type": "card",
+   "text": "THEY GLOWED\nIN THE DARK",
+   "sub": "THE RADIUM DUST"
+  },
+  {
+   "at": "Doctors",
+   "type": "card",
+   "text": "COMPANY DOCTORS:\n“SOMETHING ELSE”"
+  },
+  {
+   "at": "sue",
+   "type": "card",
+   "text": "THEY SUED",
+   "red": true
+  },
+  {
+   "at": "report",
+   "type": "card",
+   "text": "COMING UP:\nTHE HIDDEN REPORT\nTHE BONES\nTHE COURTROOM"
+  },
+  {
+   "at": "discovered",
+   "type": "card",
+   "text": "THE MIRACLE ELEMENT",
+   "sub": "CHAPTER 2 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "1898.",
+   "type": "photo",
+   "photo": "photo-curie.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "PIERRE & MARIE CURIE · THEIR LAB",
+   "fit": "contain"
+  },
+  {
+   "at": "glowed.",
+   "type": "card",
+   "text": "IT GLOWED"
+  },
+  {
+   "at": "tonics,",
+   "type": "photo",
+   "photo": "photo-radithor.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "“CERTIFIED RADIOACTIVE WATER”",
+   "fit": "contain"
+  },
+  {
+   "at": "cancer,",
+   "type": "card",
+   "text": "“A LITTLE RADIUM\nIS GOOD FOR YOU”"
+  },
+  {
+   "at": "luminous",
+   "type": "card",
+   "text": "LUMINOUS\nPAINT"
+  },
+  {
+   "at": "Undark.",
+   "type": "photo",
+   "photo": "photo-undark.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "“UNDARK” · 1921 ADVERT",
+   "fit": "contain"
+  },
+  {
+   "at": "War,",
+   "type": "card",
+   "text": "WORLD WAR I",
+   "sub": "WATCHES · INSTRUMENT DIALS"
+  },
+  {
+   "at": "invented",
+   "type": "card",
+   "text": "SABIN VON SOCHOCKY",
+   "sub": "INVENTED UNDARK"
+  },
+  {
+   "at": "1928.",
+   "type": "card",
+   "text": "DIED 1928",
+   "sub": "RADIUM POISONING",
+   "red": true
+  },
+  {
+   "at": "teenagers,",
+   "type": "card",
+   "text": "MANY WERE\nTEENAGERS"
+  },
+  {
+   "at": "paid",
+   "type": "card",
+   "text": "THE DIAL PAINTERS",
+   "sub": "CHAPTER 3 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "glamorous",
+   "type": "card",
+   "text": "“A GLAMOROUS JOB”"
+  },
+  {
+   "at": "camel",
+   "type": "card",
+   "text": "CAMEL-HAIR\nBRUSHES"
+  },
+  {
+   "at": "Lip,",
+   "type": "card",
+   "text": "LIP.\nDIP.\nPAINT.",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Over",
+   "type": "photo",
+   "photo": "photo-factory.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.4,
+    1.6
+   ],
+   "label": "OVER AND OVER, ALL DAY"
+  },
+  {
+   "at": "fifty",
+   "type": "card",
+   "text": "~250 DIALS\nA DAY"
+  },
+  {
+   "at": "swallowed",
+   "type": "card",
+   "text": "SWALLOWED\nEVERY DAY",
+   "red": true
+  },
+  {
+   "at": "harmless.",
+   "type": "card",
+   "text": "“HARMLESS”"
+  },
+  {
+   "at": "nails",
+   "type": "card",
+   "text": "NAILS · TEETH\nFOR FUN"
+  },
+  {
+   "at": "Dust",
+   "type": "card",
+   "text": "DUST ON\nHAIR AND CLOTHES"
+  },
+  {
+   "at": "chemists",
+   "type": "card",
+   "text": "THE CHEMISTS:\nLEAD SCREENS · MASKS · TONGS",
+   "red": true
+  },
+  {
+   "at": "calcium",
+   "type": "card",
+   "text": "RADIUM ≈ CALCIUM"
+  },
+  {
+   "at": "bones.",
+   "type": "card",
+   "text": "INTO THE\nBONES",
+   "red": true,
+   "sfx": [
+    [
+     "geiger",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Around",
+   "type": "card",
+   "text": "RADIUM JAW",
+   "sub": "CHAPTER 4 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Teeth",
+   "type": "card",
+   "text": "TEETH FELL OUT"
+  },
+  {
+   "at": "Jawbones",
+   "type": "card",
+   "text": "JAWBONES\nCRUMBLED",
+   "red": true
+  },
+  {
+   "at": "Mollie",
+   "type": "card",
+   "text": "MOLLIE MAGGIA",
+   "sub": "DIED 1922 · BLAMED ON SYPHILIS"
+  },
+  {
+   "at": "dentist",
+   "type": "card",
+   "text": "“RADIUM JAW”",
+   "sub": "A NEW YORK DENTIST"
+  },
+  {
+   "at": "1924,",
+   "type": "card",
+   "text": "1924:\nTHE PAINT IS\nLIKELY THE CAUSE",
+   "sub": "A HARVARD STUDY",
+   "red": true,
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "share",
+   "type": "card",
+   "text": "NOT SHARED",
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "health.",
+   "type": "card",
+   "text": "“WORKERS IN\nGOOD HEALTH”",
+   "sub": "REPORT GIVEN TO STATE OFFICIALS"
+  },
+  {
+   "at": "Martland,",
+   "type": "card",
+   "text": "HARRISON MARTLAND",
+   "sub": "NEWARK MEDICAL EXAMINER"
+  },
+  {
+   "at": "breath.",
+   "type": "card",
+   "text": "RADIOACTIVE\nBREATH",
+   "sfx": [
+    [
+     "geiger",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "first",
+   "type": "card",
+   "text": "FIRST PROOF:\nRADIUM BUILDS UP\nIN THE BODY"
+  },
+  {
+   "at": "exhumed.",
+   "type": "card",
+   "text": "1927",
+   "sub": "MOLLIE MAGGIA EXHUMED"
+  },
+  {
+   "at": "radioactive.",
+   "type": "card",
+   "text": "HER BONES:\nRADIOACTIVE",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "NEVER\nSYPHILIS",
+   "red": true
+  },
+  {
+   "at": "By",
+   "type": "card",
+   "text": "THE TRIAL",
+   "sub": "CHAPTER 5 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Fryer",
+   "type": "photo",
+   "photo": "photo-fryer.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GRACE FRYER",
+   "fit": "contain"
+  },
+  {
+   "at": "afraid",
+   "type": "card",
+   "text": "LAWYERS\nWERE AFRAID"
+  },
+  {
+   "at": "Berry",
+   "type": "card",
+   "text": "RAYMOND BERRY",
+   "sub": "LAWYER · 1927"
+  },
+  {
+   "at": "clock.",
+   "type": "card",
+   "text": "THE CLOCK"
+  },
+  {
+   "at": "long.",
+   "type": "card",
+   "text": "“WAITED TOO LONG”",
+   "red": true
+  },
+  {
+   "at": "admit",
+   "type": "card",
+   "text": "AN INJURY NO ONE\nWOULD ADMIT"
+  },
+  {
+   "at": "Hussman,",
+   "type": "card",
+   "text": "GRACE FRYER · EDNA HUSSMAN\nKATHERINE SCHAUB\nQUINTA McDONALD · ALBINA LARICE"
+  },
+  {
+   "at": "Radium",
+   "type": "card",
+   "text": "THE RADIUM GIRLS"
+  },
+  {
+   "at": "Curie",
+   "type": "card",
+   "text": "MARIE CURIE",
+   "sub": "“NO KNOWN WAY TO REMOVE IT”"
+  },
+  {
+   "at": "cured.",
+   "type": "card",
+   "text": "NOT SUING\nTO BE CURED"
+  },
+  {
+   "at": "delay,",
+   "type": "card",
+   "text": "DELAY"
+  },
+  {
+   "at": "oath.",
+   "type": "card",
+   "text": "TOO SICK TO\nRAISE THEIR ARMS",
+   "red": true
+  },
+  {
+   "at": "thousand",
+   "type": "card",
+   "text": "$10,000 EACH\n$600 A YEAR",
+   "sub": "1928 SETTLEMENT · + MEDICAL AND LEGAL COSTS",
+   "sfx": [
+    [
+     "gavel",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "decade.",
+   "type": "card",
+   "text": "MOST DEAD\nWITHIN A DECADE",
+   "red": true
+  },
+  {
+   "at": "Ottawa,",
+   "type": "card",
+   "text": "OTTAWA, ILLINOIS",
+   "sub": "RADIUM DIAL COMPANY"
+  },
+  {
+   "at": "Donohue,",
+   "type": "card",
+   "text": "CATHERINE DONOHUE",
+   "sub": "1938 · SHE WON",
+   "red": true
+  },
+  {
+   "at": "home,",
+   "type": "card",
+   "text": "THE HEARING\nAT HER HOME"
+  },
+  {
+   "at": "1939,",
+   "type": "card",
+   "text": "1939",
+   "sub": "THE COMPANY LOST"
+  },
+  {
+   "at": "changed",
+   "type": "card",
+   "text": "WHAT THE FILE TELLS US",
+   "sub": "CHAPTER 6 OF 6",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "sue",
+   "type": "card",
+   "text": "THE RIGHT TO SUE\nFOR JOB DISEASES"
+  },
+  {
+   "at": "bomb",
+   "type": "card",
+   "text": "THE ATOMIC AGE",
+   "sub": "SAFETY LIMITS FOR RADIATION"
+  },
+  {
+   "at": "decades",
+   "type": "card",
+   "text": "STUDIED\nFOR DECADES"
+  },
+  {
+   "at": "volunteered,",
+   "type": "card",
+   "text": "THEY VOLUNTEERED"
+  },
+  {
+   "at": "chemists",
+   "type": "photo",
+   "photo": "photo-factory.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "THE CHEMISTS PROTECTED THEMSELVES"
+  },
+  {
+   "at": "named",
+   "type": "card",
+   "text": "A REPORT THAT\nNAMED THE CAUSE",
+   "red": true
+  },
+  {
+   "at": "truth,",
+   "type": "card",
+   "text": "THE TRUTH"
+  },
+  {
+   "at": "believe",
+   "type": "card",
+   "text": "HOW LONG WOULD\nYOU BELIEVE IT?",
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
