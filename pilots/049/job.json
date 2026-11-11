@@ -1,0 +1,66 @@
+{
+ "slug": "049-titanic-key",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] The Titanic's lookouts had no binoculars. Because the key to them walked off the ship before it sailed. David Blair was the Titanic's second officer. Days before the maiden voyage, he was replaced in a last-minute crew change. He packed up and left in Southampton. In his pocket was a small key. It opened the locker that held the binoculars for the crow's nest. So for the whole voyage, the lookouts high on the mast watched the dark ocean with their bare eyes. On April 14th, 1912, lookout Fred Fleet spotted the iceberg. Too late. At the inquiry, he was asked if binoculars would have made a difference. He said they would have seen it sooner. Enough to get out of the way. Some experts doubt it, on a moonless night. We'll never know. Blair kept the key for the rest of his life. In 2007, it sold at auction for ninety thousand pounds. Send this to someone who always loses their keys. This is Dossier Decoded. Case file number forty-nine. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "blair",
+   "query": "David Blair Titanic second officer",
+   "n": 1
+  },
+  {
+   "slug": "crowsnest",
+   "query": "Titanic crow's nest foremast photograph",
+   "n": 1
+  },
+  {
+   "slug": "fleet",
+   "query": "Frederick Fleet lookout Titanic portrait",
+   "n": 1
+  },
+  {
+   "slug": "southampton",
+   "query": "Titanic leaving Southampton April 10 1912",
+   "n": 1
+  },
+  {
+   "slug": "titanic",
+   "query": "RMS Titanic 1912 photograph",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "keys",
+   "text": "small metal key jingling and turning in a lock",
+   "seconds": 2
+  },
+  {
+   "slug": "bell",
+   "text": "ship crow's nest warning bell rung three times",
+   "seconds": 2
+  }
+ ]
+}
