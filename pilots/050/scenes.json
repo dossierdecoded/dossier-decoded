@@ -1,0 +1,220 @@
+{
+ "title": "GALLOPING GERTIE",
+ "case": "050",
+ "scenes": [
+  {
+   "at": "This",
+   "type": "photo",
+   "photo": "photo-collapse-1.jpg",
+   "focus": [
+    0.45,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "TACOMA NARROWS BRIDGE · 7 NOV 1940",
+   "stamp": "ON CAMERA",
+   "stamp_at": "camera",
+   "sfx_at": [
+    [
+     "creak",
+     "This"
+    ]
+   ],
+   "fit": "contain"
+  },
+  {
+   "at": "Tacoma",
+   "type": "photo",
+   "photo": "photo-opening.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "OPENING DAY · 1 JULY 1940"
+  },
+  {
+   "at": "suspension",
+   "type": "card",
+   "text": "3RD-LONGEST\nSUSPENSION BRIDGE",
+   "sub": "IN THE WORLD"
+  },
+  {
+   "at": "money,",
+   "type": "card",
+   "text": "TO SAVE\nMONEY"
+  },
+  {
+   "at": "Moisseiff,",
+   "type": "card",
+   "text": "LEON MOISSEIFF",
+   "sub": "DESIGNER"
+  },
+  {
+   "at": "trusses",
+   "type": "card",
+   "text": "25-FT TRUSSES\n→ 8-FT GIRDERS",
+   "red": true
+  },
+  {
+   "at": "eleven",
+   "type": "card",
+   "text": "$11M → $8M"
+  },
+  {
+   "at": "bounced",
+   "type": "card",
+   "text": "THE DECK\nBOUNCED",
+   "sfx_at": [
+    [
+     "wind",
+     "bounced"
+    ]
+   ]
+  },
+  {
+   "at": "Galloping",
+   "type": "card",
+   "text": "“GALLOPING\nGERTIE”",
+   "red": true
+  },
+  {
+   "at": "Drivers",
+   "type": "photo",
+   "photo": "photo-opening.jpg",
+   "focus": [
+    0.4,
+    0.7
+   ],
+   "zoom": [
+    1.3,
+    1.5
+   ],
+   "label": "DRIVERS CAME FOR THE RIDE"
+  },
+  {
+   "at": "wrong",
+   "type": "card",
+   "text": "“SOMETHING\nWAS WRONG”",
+   "sub": "AN ENGINEER · FROM OPENING NIGHT"
+  },
+  {
+   "at": "cables.",
+   "type": "card",
+   "text": "THEY ADDED\nCABLES"
+  },
+  {
+   "at": "snapped.",
+   "type": "card",
+   "text": "ONE\nSNAPPED",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "snapped"
+    ]
+   ]
+  },
+  {
+   "at": "November",
+   "type": "card",
+   "text": "7 NOVEMBER 1940",
+   "sub": "~40 MPH WIND"
+  },
+  {
+   "at": "twist.",
+   "type": "photo",
+   "photo": "photo-collapse-1.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "THE TWIST",
+   "sfx_at": [
+    [
+     "creak",
+     "twist"
+    ]
+   ]
+  },
+  {
+   "at": "wave.",
+   "type": "photo",
+   "photo": "photo-collapse-1.jpg",
+   "focus": [
+    0.3,
+    0.55
+   ],
+   "zoom": [
+    1.5,
+    1.8
+   ],
+   "label": "ROLLING LIKE A WAVE"
+  },
+  {
+   "at": "Puget",
+   "type": "photo",
+   "photo": "photo-collapse-2.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "11:02 AM · INTO PUGET SOUND",
+   "sfx_at": [
+    [
+     "splash",
+     "Puget"
+    ]
+   ]
+  },
+  {
+   "at": "person",
+   "type": "card",
+   "text": "NO PERSON\nDIED"
+  },
+  {
+   "at": "Tubby,",
+   "type": "card",
+   "text": "TUBBY",
+   "sub": "A COCKER SPANIEL · THE ONLY VICTIM"
+  },
+  {
+   "at": "tunnel",
+   "type": "card",
+   "text": "WIND-TUNNEL TESTS\nFOR EVERY BRIDGE",
+   "red": true
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-collapse-1.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.2
+   ],
+   "label": "GALLOPING GERTIE · 1940"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
