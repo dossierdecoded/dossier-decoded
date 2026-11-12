@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-12T05:39:59+00:00",
+ "updated": "2026-11-12T11:39:30+00:00",
  "youtube_channel": {
   "subscribers": 473,
-  "views": 15038
+  "views": 15049
  },
  "instagram_account": {
   "followers_count": 9,
@@ -147,7 +147,7 @@
    "yt": {
     "id": "bSRzb4l7KlU",
     "url": "https://youtube.com/shorts/bSRzb4l7KlU",
-    "views": 53,
+    "views": 54,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1014,7 +1014,7 @@
    "yt": {
     "id": "su-ANClAuUU",
     "url": "https://youtube.com/shorts/su-ANClAuUU",
-    "views": 49,
+    "views": 50,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1463,7 +1463,7 @@
    "yt": {
     "id": "1GSajlB0Qgc",
     "url": "https://youtube.com/shorts/1GSajlB0Qgc",
-    "views": 46,
+    "views": 47,
     "likes": 5,
     "comments": 1,
     "privacy": "public",
@@ -1606,7 +1606,7 @@
    "yt": {
     "id": "HJvpg2dZWVU",
     "url": "https://youtube.com/shorts/HJvpg2dZWVU",
-    "views": 150,
+    "views": 151,
     "likes": 4,
     "comments": 1,
     "privacy": "public",
@@ -1671,8 +1671,8 @@
    "yt": {
     "id": "dg2gILo5XrI",
     "url": "https://youtube.com/shorts/dg2gILo5XrI",
-    "views": 38,
-    "likes": 2,
+    "views": 47,
+    "likes": 3,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-11T22:04:57Z"
@@ -1680,14 +1680,14 @@
    "ig": {
     "id": "17941488690385747",
     "url": "https://www.instagram.com/reel/Dfnhc96SmZO/",
-    "views": 6,
-    "reach": 5,
+    "views": 11,
+    "reach": 9,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 2.7
+    "avg_watch_sec": 3.1
    },
    "title": "The Titanic's Lookouts Had No Binoculars. The Key Left the Ship Before It Sailed.",
    "duration": 58.6
