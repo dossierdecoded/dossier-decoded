@@ -1,0 +1,76 @@
+{
+ "slug": "050-galloping-gertie",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] This bridge started moving the day it opened. Four months later, it tore itself apart, on camera. The Tacoma Narrows Bridge in Washington State opened on July 1st, 1940. It was the third-longest suspension bridge in the world. To save money, its designer, Leon Moisseiff, replaced the deep, twenty-five-foot steel trusses in the original plan with slim girders just eight feet deep. It cut the cost from eleven million dollars to eight. From the first day, the road deck bounced up and down in the wind. Workers called it Galloping Gertie. Drivers came just for the ride. One engineer said they knew something was wrong from the night it opened. They added cables. One snapped. November 7th, 1940. In a forty mile an hour wind, the bridge began to twist. Its center span rolled like a wave. At eleven oh two, it fell into Puget Sound. No person died. The only victim was Tubby, a cocker spaniel left in a car on the bridge. Since then, every major bridge design has been tested in a wind tunnel first. Send this to someone who thinks it's just a bit of wobble. This is Dossier Decoded. Case file number fifty. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "twist",
+   "query": "Tacoma Narrows Bridge 1940 twisting photograph",
+   "n": 2
+  },
+  {
+   "slug": "fall",
+   "query": "Tacoma Narrows Bridge collapse falling 1940",
+   "n": 1
+  },
+  {
+   "slug": "opening",
+   "query": "Tacoma Narrows Bridge 1940 opening day",
+   "n": 1
+  },
+  {
+   "slug": "moisseiff",
+   "query": "Leon Moisseiff engineer",
+   "n": 1
+  },
+  {
+   "slug": "car",
+   "query": "Tacoma Narrows Bridge abandoned car Coatsworth",
+   "n": 1
+  },
+  {
+   "slug": "after",
+   "query": "Tacoma Narrows Bridge after collapse 1940 towers",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "wind",
+   "text": "strong gusting wind across water",
+   "seconds": 4
+  },
+  {
+   "slug": "creak",
+   "text": "huge steel structure groaning and twisting, metal stress",
+   "seconds": 3
+  },
+  {
+   "slug": "splash",
+   "text": "massive concrete and steel crashing into water",
+   "seconds": 3
+  }
+ ]
+}
