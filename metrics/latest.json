@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-12T19:27:36+00:00",
+ "updated": "2026-11-12T22:39:23+00:00",
  "youtube_channel": {
   "subscribers": 473,
   "views": 15106
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 50,
+  "media_count": 51,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -912,8 +912,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-20T21:17:58Z",
-    "avg_view_pct": 59.86,
-    "avg_view_sec": 43,
+    "avg_view_pct": 59.54999999999999,
+    "avg_view_sec": 42,
     "shares": 2,
     "subs_gained": 1
    },
@@ -988,8 +988,8 @@
       "at": "2026-10-22T21:53:19Z"
      }
     ],
-    "avg_view_pct": 75.28,
-    "avg_view_sec": 51,
+    "avg_view_pct": 73.84,
+    "avg_view_sec": 50,
     "shares": 1,
     "subs_gained": 1
    },
@@ -1169,7 +1169,7 @@
    "yt": {
     "id": "4GE63V_gnS0",
     "url": "https://youtube.com/shorts/4GE63V_gnS0",
-    "views": 955,
+    "views": 956,
     "likes": 25,
     "comments": 1,
     "privacy": "public",
@@ -1549,7 +1549,7 @@
       "at": "2026-11-08T17:51:07Z"
      }
     ],
-    "avg_view_pct": 64.37,
+    "avg_view_pct": 64.52,
     "avg_view_sec": 47,
     "shares": 1,
     "subs_gained": 1
@@ -1580,7 +1580,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-08T22:03:17Z",
-    "avg_view_pct": 94.72,
+    "avg_view_pct": 94.69,
     "avg_view_sec": 79,
     "shares": 0,
     "subs_gained": 3
@@ -1618,8 +1618,8 @@
       "at": "2026-11-10T01:29:26Z"
      }
     ],
-    "avg_view_pct": 72.76,
-    "avg_view_sec": 64,
+    "avg_view_pct": 70.71,
+    "avg_view_sec": 62,
     "shares": 0,
     "subs_gained": 1
    },
@@ -1644,11 +1644,15 @@
    "yt": {
     "id": "3t5E5NuEs6E",
     "url": "https://youtube.com/shorts/3t5E5NuEs6E",
-    "views": 4,
+    "views": 6,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-10T22:01:38Z"
+    "published": "2026-11-10T22:01:38Z",
+    "avg_view_pct": 0,
+    "avg_view_sec": 0,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18122136568988490",
@@ -1691,6 +1695,33 @@
    },
    "title": "The Titanic's Lookouts Had No Binoculars. The Key Left the Ship Before It Sailed.",
    "duration": 58.6
+  },
+  {
+   "case": "050",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "pOWqFbFJlT8",
+    "url": "https://youtube.com/shorts/pOWqFbFJlT8",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-12T22:36:00Z"
+   },
+   "ig": {
+    "id": "18132579694756406",
+    "url": "https://www.instagram.com/reel/DfqJKWCNJUy/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "This Bridge Started Moving the Day It Opened. 4 Months Later It Tore Itself Apart",
+   "duration": 65.3
   },
   {
    "case": "L01",
@@ -1779,8 +1810,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 19.33,
-    "avg_view_sec": 92,
+    "avg_view_pct": 19.2,
+    "avg_view_sec": 91,
     "shares": 1,
     "subs_gained": 0
    },
