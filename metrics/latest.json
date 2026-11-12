@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-12T11:39:30+00:00",
+ "updated": "2026-11-12T17:26:45+00:00",
  "youtube_channel": {
   "subscribers": 473,
-  "views": 15049
+  "views": 15106
  },
  "instagram_account": {
   "followers_count": 9,
@@ -1169,7 +1169,7 @@
    "yt": {
     "id": "4GE63V_gnS0",
     "url": "https://youtube.com/shorts/4GE63V_gnS0",
-    "views": 953,
+    "views": 955,
     "likes": 25,
     "comments": 1,
     "privacy": "public",
@@ -1644,7 +1644,7 @@
    "yt": {
     "id": "3t5E5NuEs6E",
     "url": "https://youtube.com/shorts/3t5E5NuEs6E",
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1671,7 +1671,7 @@
    "yt": {
     "id": "dg2gILo5XrI",
     "url": "https://youtube.com/shorts/dg2gILo5XrI",
-    "views": 47,
+    "views": 51,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1680,14 +1680,14 @@
    "ig": {
     "id": "17941488690385747",
     "url": "https://www.instagram.com/reel/Dfnhc96SmZO/",
-    "views": 11,
-    "reach": 9,
+    "views": 12,
+    "reach": 10,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 3.1
+    "avg_watch_sec": 3.4
    },
    "title": "The Titanic's Lookouts Had No Binoculars. The Key Left the Ship Before It Sailed.",
    "duration": 58.6
@@ -1736,7 +1736,7 @@
    "yt": {
     "id": "q4Vax-_VW2Q",
     "url": "https://youtube.com/watch?v=q4Vax-_VW2Q",
-    "views": 25,
+    "views": 26,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1900,6 +1900,21 @@
    },
    "title": "Columbia: The Engineers Who Asked to Look at the Wing",
    "duration": 412.4
+  },
+  {
+   "case": "L12",
+   "pillar": "Exposed",
+   "yt": {
+    "id": "R39ndkHmhho",
+    "url": "https://youtube.com/watch?v=R39ndkHmhho",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-12T17:03:55Z"
+   },
+   "title": "The Radium Girls: Told It Was Safe, They Sued and Changed the Law",
+   "duration": 411.9
   }
  ],
  "carousels": [
