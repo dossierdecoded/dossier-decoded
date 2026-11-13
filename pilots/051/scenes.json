@@ -1,0 +1,210 @@
+{
+ "title": "MRS. O'LEARY'S COW",
+ "case": "051",
+ "scenes": [
+  {
+   "at": "Everyone",
+   "type": "photo",
+   "photo": "photo-fire-1.jpg",
+   "focus": [
+    0.45,
+    0.4
+   ],
+   "zoom": [
+    1.35,
+    1.1
+   ],
+   "label": "“CHICAGO IN FLAMES” · CURRIER & IVES, 1871",
+   "stamp": "MADE UP",
+   "stamp_at": "up",
+   "sfx_at": [
+    [
+     "fire",
+     "Everyone"
+    ]
+   ]
+  },
+  {
+   "at": "reporter",
+   "type": "card",
+   "text": "THE REPORTER\nMADE IT UP",
+   "red": true
+  },
+  {
+   "at": "October",
+   "type": "card",
+   "text": "8 OCTOBER 1871",
+   "sub": "~9 PM"
+  },
+  {
+   "at": "barn",
+   "type": "photo",
+   "photo": "photo-cottage.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE O'LEARY HOME · 137 DeKOVEN ST",
+   "fit": "contain"
+  },
+  {
+   "at": "winds",
+   "type": "card",
+   "text": "WIND +\nA CITY OF WOOD"
+  },
+  {
+   "at": "two",
+   "type": "photo",
+   "photo": "photo-fire-1.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "TWO DAYS"
+  },
+  {
+   "at": "three",
+   "type": "card",
+   "text": "~300 DEAD\n100,000 HOMELESS",
+   "red": true
+  },
+  {
+   "at": "newspapers",
+   "type": "photo",
+   "photo": "photo-ruins-1.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "THE RUINS · 1871"
+  },
+  {
+   "at": "cow",
+   "type": "card",
+   "text": "THE COW\nKICKED A LANTERN",
+   "sfx_at": [
+    [
+     "moo",
+     "cow"
+    ]
+   ]
+  },
+  {
+   "at": "drunk.",
+   "type": "card",
+   "text": "“A DRUNK”",
+   "sub": "SOME PAPERS",
+   "red": true
+  },
+  {
+   "at": "Irish",
+   "type": "card",
+   "text": "AN IRISH IMMIGRANT",
+   "sub": "ANTI-IRISH PREJUDICE EVERYWHERE"
+  },
+  {
+   "at": "bed.",
+   "type": "card",
+   "text": "SHE SWORE\nSHE WAS IN BED"
+  },
+  {
+   "at": "Decades",
+   "type": "card",
+   "text": "DECADES LATER",
+   "sfx_at": [
+    [
+     "paper",
+     "Decades"
+    ]
+   ]
+  },
+  {
+   "at": "Ahern",
+   "type": "card",
+   "text": "MICHAEL AHERN",
+   "sub": "REPORTER"
+  },
+  {
+   "at": "invented",
+   "type": "card",
+   "text": "“WE INVENTED IT”",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "invented"
+    ]
+   ]
+  },
+  {
+   "at": "color",
+   "type": "card",
+   "text": "“TO ADD COLOR\nTO OUR COPY”"
+  },
+  {
+   "at": "late.",
+   "type": "card",
+   "text": "TOO LATE",
+   "red": true
+  },
+  {
+   "at": "recluse,",
+   "type": "card",
+   "text": "A RECLUSE",
+   "sub": "TURNED REPORTERS AWAY EVERY YEAR"
+  },
+  {
+   "at": "1895.",
+   "type": "card",
+   "text": "DIED 1895"
+  },
+  {
+   "at": "1997,",
+   "type": "card",
+   "text": "1997",
+   "sub": "CHICAGO CITY COUNCIL"
+  },
+  {
+   "at": "cleared",
+   "type": "card",
+   "text": "CLEARED.\nAND THE COW.",
+   "red": true,
+   "sfx_at": [
+    [
+     "moo",
+     "cleared"
+    ]
+   ]
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-fire-1.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.2
+   ],
+   "label": "CHICAGO · 1871"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
