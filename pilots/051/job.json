@@ -1,0 +1,66 @@
+{
+ "slug": "051-olearys-cow",
+ "pillar": "Exposed",
+ "format": "case-file",
+ "script": "[serious] Everyone knows a cow started the Great Chicago Fire. The reporter who wrote that story later admitted he made it up. October 8th, 1871. Around nine at night, a fire broke out in a barn behind the home of Patrick and Catherine O'Leary, on DeKoven Street. Strong winds and a city built of wood did the rest. For two days it burned. About three hundred people died. A hundred thousand were left homeless. Within days, newspapers had their culprit. Catherine O'Leary's cow had kicked over a lantern while she was milking it. Some papers called her a drunk. She was an Irish immigrant, and anti-Irish prejudice was everywhere. She swore she was in bed. Decades later, a reporter named Michael Ahern admitted that he and two other reporters had invented the cow story, to add color to their copy. It was too late. Catherine lived as a recluse, turned reporters away every year, and died in 1895. In 1997, the Chicago City Council officially cleared her, and her cow. Send this to someone who still believes the cow did it. This is Dossier Decoded. Case file number fifty-one. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "fire",
+   "query": "Great Chicago Fire 1871 lithograph Currier Ives",
+   "n": 2
+  },
+  {
+   "slug": "ruins",
+   "query": "Chicago ruins after fire 1871 photograph",
+   "n": 2
+  },
+  {
+   "slug": "cottage",
+   "query": "O'Leary cottage DeKoven Street 1871",
+   "n": 1
+  },
+  {
+   "slug": "cow",
+   "query": "Mrs O'Leary cow illustration 1871 lantern",
+   "n": 1
+  },
+  {
+   "slug": "catherine",
+   "query": "Catherine O'Leary portrait",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "moo",
+   "text": "a single cow mooing in a barn",
+   "seconds": 2
+  },
+  {
+   "slug": "fire",
+   "text": "roaring large fire with crackling timber",
+   "seconds": 3
+  }
+ ]
+}
