@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T22:39:23+00:00",
+ "updated": "2026-11-13T00:39:28+00:00",
  "youtube_channel": {
-  "subscribers": 473,
+  "subscribers": 475,
   "views": 15106
  },
  "instagram_account": {
@@ -1675,7 +1675,7 @@
    "yt": {
     "id": "dg2gILo5XrI",
     "url": "https://youtube.com/shorts/dg2gILo5XrI",
-    "views": 51,
+    "views": 56,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1702,8 +1702,8 @@
    "yt": {
     "id": "pOWqFbFJlT8",
     "url": "https://youtube.com/shorts/pOWqFbFJlT8",
-    "views": 0,
-    "likes": 0,
+    "views": 64,
+    "likes": 3,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-12T22:36:00Z"
@@ -1711,14 +1711,14 @@
    "ig": {
     "id": "18132579694756406",
     "url": "https://www.instagram.com/reel/DfqJKWCNJUy/",
-    "views": 0,
-    "reach": 0,
+    "views": 64,
+    "reach": 56,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 5.9
    },
    "title": "This Bridge Started Moving the Day It Opened. 4 Months Later It Tore Itself Apart",
    "duration": 65.3
@@ -1919,7 +1919,7 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
