@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-14T20:00:18+00:00",
+ "updated": "2026-11-14T22:23:58+00:00",
  "youtube_channel": {
   "subscribers": 486,
   "views": 15369
  },
  "instagram_account": {
   "followers_count": 10,
-  "media_count": 52,
+  "media_count": 53,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -1706,7 +1706,7 @@
    "yt": {
     "id": "pOWqFbFJlT8",
     "url": "https://youtube.com/shorts/pOWqFbFJlT8",
-    "views": 174,
+    "views": 176,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1747,16 +1747,43 @@
     "id": "18124576373069639",
     "url": "https://www.instagram.com/reel/DftMjWOq0LW/",
     "views": 109,
-    "reach": 99,
+    "reach": 105,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "avg_watch_sec": 8.9
+    "avg_watch_sec": 8.4
    },
    "title": "A Cow Didn't Start the Great Chicago Fire. A Reporter Made It Up.",
    "duration": 62.9
+  },
+  {
+   "case": "052",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "hHPnZXTt-2U",
+    "url": "https://youtube.com/shorts/hHPnZXTt-2U",
+    "views": 3,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-14T22:02:31Z"
+   },
+   "ig": {
+    "id": "17993893935075363",
+    "url": "https://www.instagram.com/reel/DfvO8Bcz2vZ/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "Three Mile Island Had Already Happened Once, 18 Months Earlier. Nobody Passed On the Warning.",
+   "duration": 78.5
   },
   {
    "case": "L01",
