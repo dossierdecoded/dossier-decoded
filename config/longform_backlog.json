@@ -80,9 +80,16 @@
   },
   {
    "id": "L13",
+   "case": "044",
+   "topic": "Pearl Harbor: the radar warning",
+   "post": "2026-11-15T12:00:00-05:00",
+   "reuse": "pilots/044"
+  },
+  {
+   "id": "L14",
    "case": "010",
    "topic": "The Somerton Man (Tamam Shud)",
-   "post": "2026-11-15T12:00:00-05:00",
+   "post": "2026-11-19T12:00:00-05:00",
    "reuse": "pilots/010"
   }
  ]
