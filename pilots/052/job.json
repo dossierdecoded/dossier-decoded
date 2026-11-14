@@ -1,0 +1,66 @@
+{
+ "slug": "052-three-mile-island",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] America's worst nuclear accident had already happened once before, at another plant, eighteen months earlier. And the warning never reached the people who needed it. March 28th, 1979. Three Mile Island, Pennsylvania. Just after four in the morning, a valve on Reactor Number Two stuck open. Cooling water began escaping. But a light in the control room told the operators the valve was closed. Thinking the reactor had too much water, they turned down the emergency cooling. Within hours, about half the core had melted. In September 1977, at the Davis-Besse plant in Ohio, a reactor built by the same company had the same kind of stuck valve. Its operators made the same mistake. They caught it in time. A senior engineer at the manufacturer wrote a memo warning that operators needed clearer instructions. Another engineer, at a different utility, raised the same concern. Neither warning reached the plant operators. The presidential commission found that if that warning had been heeded, the accident could have been prevented. No one died. But no new nuclear reactor was ordered in America for decades. Send this to someone who thinks one memo can't matter. This is Dossier Decoded. Case file number fifty-two. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "plant",
+   "query": "Three Mile Island nuclear plant cooling towers",
+   "n": 2
+  },
+  {
+   "slug": "control",
+   "query": "Three Mile Island control room 1979",
+   "n": 1
+  },
+  {
+   "slug": "carter",
+   "query": "Jimmy Carter visits Three Mile Island control room 1979",
+   "n": 1
+  },
+  {
+   "slug": "davisbesse",
+   "query": "Davis-Besse Nuclear Power Station",
+   "n": 1
+  },
+  {
+   "slug": "core",
+   "query": "TMI-2 core end state diagram",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "alarm",
+   "text": "industrial control room alarm buzzer",
+   "seconds": 2
+  },
+  {
+   "slug": "hiss",
+   "text": "pressurized steam hissing from a valve",
+   "seconds": 3
+  }
+ ]
+}
