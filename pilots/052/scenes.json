@@ -1,0 +1,190 @@
+{
+ "title": "THREE MILE ISLAND",
+ "case": "052",
+ "scenes": [
+  {
+   "at": "America's",
+   "type": "photo",
+   "photo": "photo-plant-1.jpg",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "zoom": [
+    1.3,
+    1.1
+   ],
+   "label": "THREE MILE ISLAND · PENNSYLVANIA",
+   "stamp": "IT HAPPENED BEFORE",
+   "stamp_at": "earlier",
+   "sfx_at": [
+    [
+     "hit",
+     "America's"
+    ]
+   ]
+  },
+  {
+   "at": "warning",
+   "type": "card",
+   "text": "THE WARNING NEVER\nREACHED THE OPERATORS",
+   "red": true
+  },
+  {
+   "at": "March",
+   "type": "card",
+   "text": "28 MARCH 1979",
+   "sub": "~4 AM"
+  },
+  {
+   "at": "valve",
+   "type": "card",
+   "text": "A VALVE\nSTUCK OPEN",
+   "red": true,
+   "sfx_at": [
+    [
+     "hiss",
+     "valve"
+    ]
+   ]
+  },
+  {
+   "at": "light",
+   "type": "photo",
+   "photo": "photo-control.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A CONTROL-ROOM PANEL · PRESIDENT'S COMMISSION",
+   "fit": "contain"
+  },
+  {
+   "at": "closed.",
+   "type": "card",
+   "text": "THE LIGHT SAID:\n“CLOSED”"
+  },
+  {
+   "at": "emergency",
+   "type": "card",
+   "text": "THEY TURNED DOWN\nEMERGENCY COOLING",
+   "red": true,
+   "sfx_at": [
+    [
+     "alarm",
+     "emergency"
+    ]
+   ]
+  },
+  {
+   "at": "half",
+   "type": "card",
+   "text": "~HALF THE CORE\nMELTED",
+   "red": true
+  },
+  {
+   "at": "September",
+   "type": "card",
+   "text": "SEPTEMBER 1977",
+   "sub": "DAVIS-BESSE, OHIO"
+  },
+  {
+   "at": "Ohio,",
+   "type": "photo",
+   "photo": "photo-davisbesse.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "DAVIS-BESSE NUCLEAR STATION",
+   "fit": "contain"
+  },
+  {
+   "at": "same",
+   "type": "card",
+   "text": "SAME MANUFACTURER\nSAME STUCK VALVE"
+  },
+  {
+   "at": "mistake.",
+   "type": "card",
+   "text": "SAME MISTAKE",
+   "red": true
+  },
+  {
+   "at": "caught",
+   "type": "card",
+   "text": "CAUGHT IN TIME"
+  },
+  {
+   "at": "memo",
+   "type": "card",
+   "text": "A MEMO:\nCLEARER INSTRUCTIONS",
+   "sfx_at": [
+    [
+     "paper",
+     "memo"
+    ]
+   ]
+  },
+  {
+   "at": "Another",
+   "type": "card",
+   "text": "A SECOND\nENGINEER, SAME CONCERN"
+  },
+  {
+   "at": "Neither",
+   "type": "card",
+   "text": "NEITHER WARNING\nREACHED THE OPERATORS",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "Neither"
+    ]
+   ]
+  },
+  {
+   "at": "commission",
+   "type": "card",
+   "text": "“COULD HAVE BEEN\nPREVENTED”",
+   "sub": "PRESIDENT'S COMMISSION, 1979",
+   "red": true
+  },
+  {
+   "at": "died.",
+   "type": "card",
+   "text": "NO ONE DIED"
+  },
+  {
+   "at": "reactor",
+   "type": "card",
+   "text": "NO NEW REACTOR\nORDERED FOR DECADES"
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-plant-1.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.2
+   ],
+   "label": "THREE MILE ISLAND"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
