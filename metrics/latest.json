@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-14T01:58:17+00:00",
+ "updated": "2026-11-14T03:06:31+00:00",
  "youtube_channel": {
   "subscribers": 482,
-  "views": 15310
+  "views": 15331
  },
  "instagram_account": {
   "followers_count": 9,
-  "media_count": 51,
+  "media_count": 52,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -1606,7 +1606,7 @@
    "yt": {
     "id": "HJvpg2dZWVU",
     "url": "https://youtube.com/shorts/HJvpg2dZWVU",
-    "views": 157,
+    "views": 159,
     "likes": 4,
     "comments": 1,
     "privacy": "public",
@@ -1706,7 +1706,7 @@
    "yt": {
     "id": "pOWqFbFJlT8",
     "url": "https://youtube.com/shorts/pOWqFbFJlT8",
-    "views": 165,
+    "views": 163,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1726,6 +1726,33 @@
    },
    "title": "This Bridge Started Moving the Day It Opened. 4 Months Later It Tore Itself Apart",
    "duration": 65.3
+  },
+  {
+   "case": "051",
+   "pillar": "Exposed",
+   "yt": {
+    "id": "KMiehc7mqlA",
+    "url": "https://youtube.com/shorts/KMiehc7mqlA",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-14T03:02:08Z"
+   },
+   "ig": {
+    "id": "18124576373069639",
+    "url": "https://www.instagram.com/reel/DftMjWOq0LW/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "A Cow Didn't Start the Great Chicago Fire. A Reporter Made It Up.",
+   "duration": 62.9
   },
   {
    "case": "L01",
