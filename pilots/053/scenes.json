@@ -1,0 +1,191 @@
+{
+ "title": "HUBBLE'S MIRROR",
+ "case": "053",
+ "scenes": [
+  {
+   "at": "NASA",
+   "type": "photo",
+   "photo": "photo-blur.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "label": "HUBBLE · BEFORE AND AFTER THE FIX",
+   "stamp": "WRONG SHAPE",
+   "stamp_at": "shape",
+   "sfx_at": [
+    [
+     "hit",
+     "NASA"
+    ]
+   ],
+   "fit": "contain"
+  },
+  {
+   "at": "test",
+   "type": "card",
+   "text": "A TEST HAD\nALREADY SHOWN IT",
+   "red": true
+  },
+  {
+   "at": "April",
+   "type": "card",
+   "text": "APRIL 1990"
+  },
+  {
+   "at": "Hubble",
+   "type": "photo",
+   "photo": "photo-hubble.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HUBBLE SPACE TELESCOPE · ARTIST'S VIEW",
+   "fit": "contain"
+  },
+  {
+   "at": "months",
+   "type": "card",
+   "text": "TWO MONTHS LATER",
+   "sfx_at": [
+    [
+     "click",
+     "months"
+    ]
+   ]
+  },
+  {
+   "at": "Blurry.",
+   "type": "card",
+   "text": "BLURRY",
+   "red": true
+  },
+  {
+   "at": "halo.",
+   "type": "card",
+   "text": "EVERY STAR\nIN A HALO"
+  },
+  {
+   "at": "flat",
+   "type": "card",
+   "text": "TOO FLAT\nAT THE EDGES"
+  },
+  {
+   "at": "onefiftieth",
+   "type": "card",
+   "text": "1/50 THE WIDTH\nOF A HUMAN HAIR",
+   "red": true
+  },
+  {
+   "at": "measuring",
+   "type": "card",
+   "text": "A MEASURING\nDEVICE"
+  },
+  {
+   "at": "lenses",
+   "type": "card",
+   "text": "ONE LENS IN\nTHE WRONG PLACE",
+   "red": true
+  },
+  {
+   "at": "smooth,",
+   "type": "card",
+   "text": "PERFECTLY SMOOTH.\nPERFECTLY WRONG."
+  },
+  {
+   "at": "second",
+   "type": "card",
+   "text": "A SECOND TEST\nSHOWED THE ERROR",
+   "sfx_at": [
+    [
+     "paper",
+     "second"
+    ]
+   ]
+  },
+  {
+   "at": "overruled.",
+   "type": "card",
+   "text": "OVERRULED",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "overruled"
+    ]
+   ]
+  },
+  {
+   "at": "assumed",
+   "type": "card",
+   "text": "“THE MIRROR\nIS FINE”"
+  },
+  {
+   "at": "technoturkey.",
+   "type": "card",
+   "text": "“A TECHNO-TURKEY”",
+   "sub": "A U.S. SENATOR"
+  },
+  {
+   "at": "December",
+   "type": "photo",
+   "photo": "photo-spacewalk.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "DECEMBER 1993 · THE REPAIR MISSION"
+  },
+  {
+   "at": "glasses,",
+   "type": "card",
+   "text": "GLASSES FOR\nA TELESCOPE"
+  },
+  {
+   "at": "stunning.",
+   "type": "photo",
+   "photo": "photo-costar.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "BEFORE · AFTER",
+   "fit": "contain"
+  },
+  {
+   "at": "Send",
+   "type": "photo",
+   "photo": "photo-blur.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GALAXY M100 · BEFORE AND AFTER",
+   "fit": "contain"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
