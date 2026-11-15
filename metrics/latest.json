@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-15T15:12:56+00:00",
+ "updated": "2026-11-15T17:24:12+00:00",
  "youtube_channel": {
-  "subscribers": 489,
-  "views": 15388
+  "subscribers": 490,
+  "views": 15434
  },
  "instagram_account": {
   "followers_count": 10,
@@ -1764,7 +1764,7 @@
    "yt": {
     "id": "hHPnZXTt-2U",
     "url": "https://youtube.com/shorts/hHPnZXTt-2U",
-    "views": 25,
+    "views": 26,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1981,7 +1981,7 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 27,
+    "views": 29,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -2012,6 +2012,21 @@
    },
    "title": "The Radium Girls: Told It Was Safe, They Sued and Changed the Law",
    "duration": 411.9
+  },
+  {
+   "case": "L13",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "amkPF-HCKHo",
+    "url": "https://youtube.com/watch?v=amkPF-HCKHo",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-15T17:02:18Z"
+   },
+   "title": "Pearl Harbor: Radar Saw the Attack Coming 53 Minutes Early",
+   "duration": 402.2
   }
  ],
  "carousels": [
