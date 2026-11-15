@@ -1,0 +1,71 @@
+{
+ "slug": "053-hubble-mirror",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] NASA launched a one-and-a-half-billion-dollar telescope with a mirror ground to the wrong shape. And a test had already shown it. April 1990. The Hubble Space Telescope reached orbit, promising the sharpest pictures of the universe ever taken. Two months later, the first images came back. Blurry. Every star wrapped in a fuzzy halo. The main mirror was too flat at its edges, by about one-fiftieth the width of a human hair. It was enough to ruin everything. The cause was a measuring device used to guide the polishing. One of its lenses was in the wrong place. So the mirror came out perfectly smooth, and perfectly wrong. A second testing device had actually shown the error. Its results were overruled. The team trusted the main device, and assumed the mirror was fine. A senator called Hubble a techno-turkey. In December 1993, astronauts flew up and gave it glasses, a set of corrective mirrors. The new pictures were stunning. Send this to someone who thinks a second opinion is a waste of time. This is Dossier Decoded. Case file number fifty-three. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "hubble",
+   "query": "Hubble Space Telescope in orbit STS-31 deployment",
+   "n": 1
+  },
+  {
+   "slug": "mirror",
+   "query": "Hubble primary mirror Perkin-Elmer grinding 1979",
+   "n": 1
+  },
+  {
+   "slug": "blur",
+   "query": "Hubble M100 before and after COSTAR comparison",
+   "n": 1
+  },
+  {
+   "slug": "spacewalk",
+   "query": "STS-61 Hubble servicing mission spacewalk 1993",
+   "n": 1
+  },
+  {
+   "slug": "costar",
+   "query": "COSTAR corrective optics Hubble",
+   "n": 1
+  },
+  {
+   "slug": "launch",
+   "query": "STS-31 Discovery launch April 1990",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "click",
+   "text": "camera shutter click",
+   "seconds": 1
+  },
+  {
+   "slug": "whoosh",
+   "text": "soft space ambience whoosh",
+   "seconds": 2
+  }
+ ]
+}
