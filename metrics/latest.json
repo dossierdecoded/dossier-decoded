@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-15T19:01:32+00:00",
+ "updated": "2026-11-15T22:23:58+00:00",
  "youtube_channel": {
-  "subscribers": 493,
+  "subscribers": 494,
   "views": 15434
  },
  "instagram_account": {
   "followers_count": 10,
-  "media_count": 53,
+  "media_count": 54,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -407,7 +407,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-05T21:39:30Z",
-    "avg_view_pct": 68.15,
+    "avg_view_pct": 68.27,
     "avg_view_sec": 28,
     "shares": 1,
     "subs_gained": 3
@@ -881,7 +881,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-19T21:16:14Z",
-    "avg_view_pct": 62.580000000000005,
+    "avg_view_pct": 62.419999999999995,
     "avg_view_sec": 42,
     "shares": 0,
     "subs_gained": 0
@@ -912,7 +912,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-20T21:17:58Z",
-    "avg_view_pct": 59.54999999999999,
+    "avg_view_pct": 59.209999999999994,
     "avg_view_sec": 42,
     "shares": 2,
     "subs_gained": 1
@@ -1298,7 +1298,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-01T22:25:09Z",
-    "avg_view_pct": 89.67,
+    "avg_view_pct": 89.61,
     "avg_view_sec": 65,
     "shares": 0,
     "subs_gained": 1
@@ -1618,7 +1618,7 @@
       "at": "2026-11-10T01:29:26Z"
      }
     ],
-    "avg_view_pct": 70.35,
+    "avg_view_pct": 69.77,
     "avg_view_sec": 61,
     "shares": 0,
     "subs_gained": 1
@@ -1680,8 +1680,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-11T22:04:57Z",
-    "avg_view_pct": 57.54,
-    "avg_view_sec": 33,
+    "avg_view_pct": 58.68,
+    "avg_view_sec": 34,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1711,8 +1711,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-12T22:36:00Z",
-    "avg_view_pct": 64.71,
-    "avg_view_sec": 42,
+    "avg_view_pct": 65.24,
+    "avg_view_sec": 43,
     "shares": 0,
     "subs_gained": 2
    },
@@ -1737,11 +1737,15 @@
    "yt": {
     "id": "KMiehc7mqlA",
     "url": "https://youtube.com/shorts/KMiehc7mqlA",
-    "views": 32,
+    "views": 37,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-14T03:02:08Z"
+    "published": "2026-11-14T03:02:08Z",
+    "avg_view_pct": 65.66,
+    "avg_view_sec": 41,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18124576373069639",
@@ -1764,7 +1768,7 @@
    "yt": {
     "id": "hHPnZXTt-2U",
     "url": "https://youtube.com/shorts/hHPnZXTt-2U",
-    "views": 25,
+    "views": 29,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1784,6 +1788,33 @@
    },
    "title": "Three Mile Island Had Already Happened Once, 18 Months Earlier. Nobody Passed On the Warning.",
    "duration": 78.5
+  },
+  {
+   "case": "053",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "SRUHyVy97sw",
+    "url": "https://youtube.com/shorts/SRUHyVy97sw",
+    "views": 6,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-15T22:03:48Z"
+   },
+   "ig": {
+    "id": "18031194089914836",
+    "url": "https://www.instagram.com/reel/Dfxz35suVcS/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "NASA Launched Hubble With the Wrong Mirror. A Test Had Already Shown It.",
+   "duration": 60.2
   },
   {
    "case": "L01",
@@ -1967,7 +1998,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-05T17:26:28Z",
-    "avg_view_pct": 1.04,
+    "avg_view_pct": 1.06,
     "avg_view_sec": 4,
     "shares": 0,
     "subs_gained": 0
@@ -1981,13 +2012,13 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 29,
+    "views": 32,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-08T17:03:26Z",
-    "avg_view_pct": 27.279999999999998,
-    "avg_view_sec": 112,
+    "avg_view_pct": 14.26,
+    "avg_view_sec": 58,
     "shares": 0,
     "subs_gained": 0
    },
