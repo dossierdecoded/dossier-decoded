@@ -1,0 +1,197 @@
+{
+ "title": "PROJECT STAR GATE",
+ "case": "054",
+ "scenes": [
+  {
+   "at": "For",
+   "type": "photo",
+   "photo": "photo-cia.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CIA HEADQUARTERS \u00b7 LANGLEY",
+   "stamp": "PSYCHIC SPIES",
+   "stamp_at": "psychics",
+   "sfx_at": [
+    [
+     "hit",
+     "For"
+    ]
+   ]
+  },
+  {
+   "at": "files",
+   "type": "card",
+   "text": "THE FILES ARE\nDECLASSIFIED",
+   "red": true,
+   "sfx_at": [
+    [
+     "paper",
+     "files"
+    ]
+   ]
+  },
+  {
+   "at": "started",
+   "type": "card",
+   "text": "EARLY 1970s"
+  },
+  {
+   "at": "California",
+   "type": "photo",
+   "photo": "photo-sri.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "SRI INTERNATIONAL \u00b7 MENLO PARK, CA"
+  },
+  {
+   "at": "remote",
+   "type": "card",
+   "text": "\"REMOTE\nVIEWING\"",
+   "red": true
+  },
+  {
+   "at": "close",
+   "type": "card",
+   "text": "EYES CLOSED"
+  },
+  {
+   "at": "thousands",
+   "type": "card",
+   "text": "THOUSANDS\nOF MILES AWAY"
+  },
+  {
+   "at": "Army",
+   "type": "card",
+   "text": "THE ARMY\nBUILDS A UNIT"
+  },
+  {
+   "at": "Meade",
+   "type": "photo",
+   "photo": "photo-meade.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FORT MEADE, MARYLAND"
+  },
+  {
+   "at": "sketch",
+   "type": "card",
+   "text": "SKETCH SITES\nTHEY'VE NEVER SEEN",
+   "sfx_at": [
+    [
+     "pencil",
+     "sketch"
+    ]
+   ]
+  },
+  {
+   "at": "Grill",
+   "type": "card",
+   "text": "GRILL FLAME",
+   "sub": "1978"
+  },
+  {
+   "at": "Sun",
+   "type": "card",
+   "text": "SUN STREAK",
+   "sub": "1985"
+  },
+  {
+   "at": "Finally",
+   "type": "card",
+   "text": "STAR GATE",
+   "sub": "1991",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "Star"
+    ]
+   ]
+  },
+  {
+   "at": "twenty",
+   "type": "card",
+   "text": "~$20 MILLION",
+   "sub": "OVER 20+ YEARS",
+   "red": true
+  },
+  {
+   "at": "work",
+   "type": "card",
+   "text": "DID IT WORK?"
+  },
+  {
+   "at": "ninetyfive",
+   "type": "card",
+   "text": "1995 \u00b7 OUTSIDE\nEVALUATION",
+   "sfx_at": [
+    [
+     "paper",
+     "ninetyfive"
+    ]
+   ]
+  },
+  {
+   "at": "statistician",
+   "type": "card",
+   "text": "STATISTICIAN:\nLAB EFFECT REAL"
+  },
+  {
+   "at": "psychologist",
+   "type": "card",
+   "text": "PSYCHOLOGIST:\nNOT CONVINCED"
+  },
+  {
+   "at": "clear",
+   "type": "card",
+   "text": "BUT ON ONE POINT..."
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "NEVER USED TO GUIDE\nAN INTELLIGENCE OPERATION",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "never"
+    ]
+   ]
+  },
+  {
+   "at": "shut",
+   "type": "card",
+   "text": "TERMINATE",
+   "red": true,
+   "stamp": "SHUT DOWN",
+   "stamp_at": "down"
+  },
+  {
+   "at": "Send",
+   "type": "card",
+   "text": "SEND THIS TO SOMEONE\nWHO THINKS WASTE\nIS NEW"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
