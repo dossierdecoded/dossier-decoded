@@ -1,0 +1,66 @@
+{
+ "slug": "054-stargate",
+ "pillar": "Strange but true",
+ "format": "case-file",
+ "script": "[serious] For more than twenty years, the United States government paid psychics to spy on its enemies. And it has the files to prove it. It started in the early nineteen-seventies. The CIA funded research at a California lab into something called remote viewing: the claim that a person could sit in a room, close their eyes, and describe a place thousands of miles away. Then the Army built a unit. At Fort Meade, Maryland, soldiers were trained to sketch Soviet sites they had never seen. The program kept changing its name. Grill Flame. Sun Streak. Finally, Star Gate. Around twenty million dollars, over more than two decades. So did it work? In nineteen ninety-five, the CIA hired outside experts to find out. One statistician said the lab results were real. A psychologist disagreed. But on one point, the report was clear. The psychics had never produced information used to guide an intelligence operation. The recommendation: shut it down. Send this to someone who thinks government waste is a modern problem. This is Dossier Decoded. Case file number fifty-four. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "cia",
+   "query": "CIA headquarters Langley seal lobby",
+   "n": 1
+  },
+  {
+   "slug": "sri",
+   "query": "SRI International Menlo Park building",
+   "n": 1
+  },
+  {
+   "slug": "meade",
+   "query": "Fort George G. Meade aerial view",
+   "n": 1
+  },
+  {
+   "slug": "soviet",
+   "query": "Cold War Soviet missile site aerial reconnaissance photograph",
+   "n": 1
+  },
+  {
+   "slug": "pentagon",
+   "query": "The Pentagon aerial view 1990s",
+   "n": 1
+  },
+  {
+   "slug": "files",
+   "query": "declassified CIA document Stargate remote viewing",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "pencil",
+   "text": "pencil sketching quickly on paper, close up",
+   "seconds": 1.5
+  }
+ ]
+}
