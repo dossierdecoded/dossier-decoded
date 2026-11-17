@@ -1,0 +1,186 @@
+{
+ "title": "DEEPWATER HORIZON",
+ "case": "055",
+ "scenes": [
+  {
+   "at": "Hours",
+   "type": "photo",
+   "photo": "photo-fire-2.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "DEEPWATER HORIZON \u00b7 APRIL 2010",
+   "stamp": "THEY WERE WARNED",
+   "stamp_at": "leaking",
+   "sfx_at": [
+    [
+     "hit",
+     "Hours"
+    ]
+   ]
+  },
+  {
+   "at": "decided",
+   "type": "card",
+   "text": "\"IT'S FINE\"",
+   "red": true
+  },
+  {
+   "at": "April",
+   "type": "card",
+   "text": "APRIL 20, 2010"
+  },
+  {
+   "at": "Gulf",
+   "type": "card",
+   "text": "GULF OF MEXICO\nA DEEP OIL WELL"
+  },
+  {
+   "at": "cement",
+   "type": "card",
+   "text": "SEAL IT\nWITH CEMENT"
+  },
+  {
+   "at": "safety",
+   "type": "card",
+   "text": "THE SAFETY CHECK",
+   "sub": "NEGATIVE PRESSURE TEST",
+   "sfx_at": [
+    [
+     "paper",
+     "safety"
+    ]
+   ]
+  },
+  {
+   "at": "held",
+   "type": "card",
+   "text": "IF THE CEMENT HOLDS:\nPRESSURE = 0"
+  },
+  {
+   "at": "didn't",
+   "type": "card",
+   "text": "IT DIDN'T",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "didn't"
+    ]
+   ]
+  },
+  {
+   "at": "building",
+   "type": "card",
+   "text": "PRESSURE\nBUILDING",
+   "red": true
+  },
+  {
+   "at": "seeping",
+   "type": "card",
+   "text": "OIL AND GAS\nLEAKING IN"
+  },
+  {
+   "at": "supervisors",
+   "type": "card",
+   "text": "\"FACIALLY\nIMPLAUSIBLE\"",
+   "sub": "CHIEF COUNSEL'S REPORT, 2011",
+   "red": true
+  },
+  {
+   "at": "success",
+   "type": "card",
+   "text": "TEST: PASSED",
+   "stamp": "PASSED",
+   "stamp_at": "success"
+  },
+  {
+   "at": "engineer",
+   "type": "card",
+   "text": "NO SECOND\nOPINION"
+  },
+  {
+   "at": "evening",
+   "type": "card",
+   "text": "MORE WARNING SIGNS",
+   "sfx_at": [
+    [
+     "alarm",
+     "evening"
+    ]
+   ]
+  },
+  {
+   "at": "fortynine",
+   "type": "card",
+   "text": "9:49 PM",
+   "red": true
+  },
+  {
+   "at": "exploded",
+   "type": "photo",
+   "photo": "photo-fire-1.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "DEEPWATER HORIZON ON FIRE \u00b7 US COAST GUARD",
+   "sfx_at": [
+    [
+     "hit",
+     "exploded"
+    ]
+   ]
+  },
+  {
+   "at": "Eleven",
+   "type": "card",
+   "text": "11 WORKERS\nKILLED",
+   "red": true
+  },
+  {
+   "at": "Gulf",
+   "type": "photo",
+   "photo": "photo-slick.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "OIL SLICK FROM SPACE \u00b7 MAY 2010 \u00b7 NASA",
+   "fit": "contain"
+  },
+  {
+   "at": "eightyseven",
+   "type": "card",
+   "text": "87 DAYS"
+  },
+  {
+   "at": "commission",
+   "type": "card",
+   "text": "\"A MAJOR\nCONTRIBUTING FACTOR\"",
+   "sub": "PRESIDENTIAL COMMISSION"
+  },
+  {
+   "at": "Send",
+   "type": "card",
+   "text": "SEND THIS TO SOMEONE\nWHO SAYS THE NUMBERS\nARE PROBABLY FINE"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
