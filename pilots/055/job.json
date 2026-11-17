@@ -1,0 +1,66 @@
+{
+ "slug": "055-deepwater-test",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] Hours before the Deepwater Horizon exploded, a test told the crew the well was leaking. They decided it was fine. April twentieth, twenty ten. A drilling rig in the Gulf of Mexico was sealing a deep oil well with cement, to come back for it later. Before leaving, the crew ran a safety check, called a negative pressure test. If the cement held, the pressure should stay at zero. It didn't. The readings showed pressure building, a sign that oil and gas were seeping into the well. The supervisors accepted an explanation that later investigators called facially implausible, and declared the test a success. No one called an engineer on shore for a second opinion. That evening, warning signs kept coming. At nine forty-nine p.m., mud and gas burst onto the rig floor. Then it exploded. Eleven workers were killed. The oil flowed into the Gulf for eighty-seven days. The presidential commission called the test a major contributing factor. Send this to someone who says the numbers are probably fine. This is Dossier Decoded. Case file number fifty-five. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "fire",
+   "query": "Deepwater Horizon fire offshore supply vessels fighting the fire",
+   "n": 1
+  },
+  {
+   "slug": "rig",
+   "query": "Deepwater Horizon semi-submersible drilling rig before explosion",
+   "n": 1
+  },
+  {
+   "slug": "slick",
+   "query": "Deepwater Horizon oil slick from space MODIS",
+   "n": 1
+  },
+  {
+   "slug": "memorial",
+   "query": "Deepwater Horizon eleven workers memorial",
+   "n": 1
+  },
+  {
+   "slug": "commission",
+   "query": "National Commission on the BP Deepwater Horizon Oil Spill report cover",
+   "n": 1
+  },
+  {
+   "slug": "bop",
+   "query": "Deepwater Horizon blowout preventer",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "alarm",
+   "text": "industrial alarm klaxon, distant, short",
+   "seconds": 2
+  }
+ ]
+}
