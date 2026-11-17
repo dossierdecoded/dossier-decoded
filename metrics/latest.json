@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-17T12:15:20+00:00",
+ "updated": "2026-11-17T21:11:43+00:00",
  "youtube_channel": {
-  "subscribers": 499,
-  "views": 15640
+  "subscribers": 501,
+  "views": 15657
  },
  "instagram_account": {
   "followers_count": 10,
@@ -402,7 +402,7 @@
    "yt": {
     "id": "DQN6liMW32w",
     "url": "https://youtube.com/shorts/DQN6liMW32w",
-    "views": 446,
+    "views": 447,
     "likes": 7,
     "comments": 0,
     "privacy": "public",
@@ -907,7 +907,7 @@
    "yt": {
     "id": "TOUldQj1KCk",
     "url": "https://youtube.com/shorts/TOUldQj1KCk",
-    "views": 230,
+    "views": 231,
     "likes": 9,
     "comments": 0,
     "privacy": "public",
@@ -1181,7 +1181,7 @@
       "at": "2026-11-03T22:39:01Z"
      }
     ],
-    "avg_view_pct": 43.96,
+    "avg_view_pct": 43.92,
     "avg_view_sec": 28,
     "shares": 0,
     "subs_gained": 2
@@ -1549,7 +1549,7 @@
       "at": "2026-11-08T17:51:07Z"
      }
     ],
-    "avg_view_pct": 64.2,
+    "avg_view_pct": 63.84000000000001,
     "avg_view_sec": 47,
     "shares": 1,
     "subs_gained": 1
@@ -1742,8 +1742,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-14T03:02:08Z",
-    "avg_view_pct": 55.36,
-    "avg_view_sec": 34,
+    "avg_view_pct": 67.05,
+    "avg_view_sec": 42,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1773,8 +1773,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-14T22:02:31Z",
-    "avg_view_pct": 55.49000000000001,
-    "avg_view_sec": 43,
+    "avg_view_pct": 51.25999999999999,
+    "avg_view_sec": 40,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1799,11 +1799,15 @@
    "yt": {
     "id": "SRUHyVy97sw",
     "url": "https://youtube.com/shorts/SRUHyVy97sw",
-    "views": 175,
+    "views": 176,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-15T22:03:48Z"
+    "published": "2026-11-15T22:03:48Z",
+    "avg_view_pct": 47.91,
+    "avg_view_sec": 29,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18031194089914836",
@@ -1826,7 +1830,7 @@
    "yt": {
     "id": "8p4b3NXAFC4",
     "url": "https://youtube.com/shorts/8p4b3NXAFC4",
-    "views": 6,
+    "views": 9,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1835,14 +1839,14 @@
    "ig": {
     "id": "17916052398483440",
     "url": "https://www.instagram.com/reel/Df0bI-divNp/",
-    "views": 96,
-    "reach": 86,
+    "views": 113,
+    "reach": 105,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "avg_watch_sec": 5.6
+    "avg_watch_sec": 6.5
    },
    "title": "The US Government Paid Psychics to Spy for 20 Years | Project Star Gate",
    "duration": 64.2
@@ -1858,8 +1862,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-04T18:01:29Z",
-    "avg_view_pct": 9.4,
-    "avg_view_sec": 64,
+    "avg_view_pct": 9.34,
+    "avg_view_sec": 63,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1929,7 +1933,7 @@
    "yt": {
     "id": "TcbPukLf_Q8",
     "url": "https://youtube.com/watch?v=TcbPukLf_Q8",
-    "views": 165,
+    "views": 166,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -2043,13 +2047,13 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 37,
+    "views": 40,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-08T17:03:26Z",
-    "avg_view_pct": 20.03,
-    "avg_view_sec": 82,
+    "avg_view_pct": 16.54,
+    "avg_view_sec": 68,
     "shares": 0,
     "subs_gained": 0
    },
@@ -2085,7 +2089,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-15T17:02:18Z"
+    "published": "2026-11-15T17:02:18Z",
+    "avg_view_pct": 0,
+    "avg_view_sec": 0,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "Pearl Harbor: Radar Saw the Attack Coming 53 Minutes Early",
    "duration": 402.2
