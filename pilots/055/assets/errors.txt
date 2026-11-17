@@ -1,7 +1,8 @@
-commons: nothing usable for Deepwater Horizon fire offshore supply vessels fighting the fire #1
-
-commons: nothing usable for Deepwater Horizon semi-submersible drilling rig before explosion #1
-
-commons: nothing usable for Deepwater Horizon eleven workers memorial #1
-
-commons: nothing usable for National Commission on the BP Deepwater Horizon Oil Spill report cover #1
+[commons]
+Traceback (most recent call last):
+  File "/home/runner/work/dossier-decoded/dossier-decoded/scripts/fetch_pilot.py", line 32, in deco
+    fn()
+  File "/home/runner/work/dossier-decoded/dossier-decoded/scripts/fetch_pilot.py", line 155, in _
+    ii = p["imageinfo"][0]; em = ii.get("extmetadata", {})
+         ~^^^^^^^^^^^^^
+KeyError: 'imageinfo'
