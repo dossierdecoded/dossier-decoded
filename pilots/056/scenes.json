@@ -1,0 +1,185 @@
+{
+ "title": "HURRICANE PAM",
+ "case": "056",
+ "scenes": [
+  {
+   "at": "One",
+   "type": "photo",
+   "photo": "photo-flood.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "NEW ORLEANS \u00b7 SEPTEMBER 2005",
+   "stamp": "PREDICTED",
+   "stamp_at": "drown",
+   "sfx_at": [
+    [
+     "hit",
+     "One"
+    ]
+   ]
+  },
+  {
+   "at": "July",
+   "type": "card",
+   "text": "JULY 2004",
+   "sub": "BATON ROUGE, LOUISIANA"
+  },
+  {
+   "at": "FEMA",
+   "type": "card",
+   "text": "FEMA-FUNDED\nDRILL",
+   "sub": "~270 EXPERTS \u00b7 ONE WEEK",
+   "sfx_at": [
+    [
+     "paper",
+     "FEMA"
+    ]
+   ]
+  },
+  {
+   "at": "Pam",
+   "type": "card",
+   "text": "\"HURRICANE PAM\"",
+   "red": true,
+   "sfx_at": [
+    [
+     "rain",
+     "Pam"
+    ]
+   ]
+  },
+  {
+   "at": "slow",
+   "type": "card",
+   "text": "A FAKE STORM.\nTARGET:\nNEW ORLEANS"
+  },
+  {
+   "at": "grim",
+   "type": "card",
+   "text": "THE RESULTS"
+  },
+  {
+   "at": "Floodwater",
+   "type": "card",
+   "text": "FLOODWATER\n10+ FEET DEEP"
+  },
+  {
+   "at": "million",
+   "type": "card",
+   "text": "1,000,000+\nEVACUATED"
+  },
+  {
+   "at": "Hundreds",
+   "type": "card",
+   "text": "HUNDREDS OF\nTHOUSANDS OF\nBUILDINGS\nDESTROYED"
+  },
+  {
+   "at": "death",
+   "type": "card",
+   "text": "PROJECTED\nDEATHS:\n60,000+",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "sixty"
+    ]
+   ]
+  },
+  {
+   "at": "plan",
+   "type": "card",
+   "text": "NEXT STEP:\nA REAL PLAN"
+  },
+  {
+   "at": "former",
+   "type": "card",
+   "text": "\"MONEY WAS\nNOT AVAILABLE\nTO DO THE\nFOLLOW-UP\"",
+   "sub": "FORMER FEMA DIRECTOR",
+   "red": true
+  },
+  {
+   "at": "Thirteen",
+   "type": "photo",
+   "photo": "photo-sat.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HURRICANE KATRINA \u00b7 NASA",
+   "fit": "contain"
+  },
+  {
+   "at": "August",
+   "type": "card",
+   "text": "AUGUST 29, 2005",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "Katrina"
+    ]
+   ]
+  },
+  {
+   "at": "levees",
+   "type": "card",
+   "text": "LEVEES FAILED\nIN 50+ PLACES",
+   "red": true
+  },
+  {
+   "at": "eighty",
+   "type": "photo",
+   "photo": "photo-flood.jpg",
+   "focus": [
+    0.5,
+    0.6
+   ],
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "label": "~80% OF NEW ORLEANS UNDERWATER"
+  },
+  {
+   "at": "thousand",
+   "type": "photo",
+   "photo": "photo-superdome.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "LOUISIANA SUPERDOME \u00b7 2005",
+   "stamp": "1,000+ DEAD IN LOUISIANA",
+   "stamp_at": "alone"
+  },
+  {
+   "at": "Army",
+   "type": "card",
+   "text": "ARMY CORPS\nOF ENGINEERS",
+   "sub": "2006: \"WE HAD PROBLEMS WITH THE DESIGN\""
+  },
+  {
+   "at": "Send",
+   "type": "card",
+   "text": "SEND THIS TO\nSOMEONE WHO THINKS\nA PLAN ON PAPER\nIS A PLAN"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
