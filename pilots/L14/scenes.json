@@ -1,0 +1,766 @@
+{
+ "title": "THE LOST COLONY",
+ "case": "027",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "On",
+   "type": "photo",
+   "photo": "photo-croatoan2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.05
+   ],
+   "label": "\"CRO\" TREE · MODERN RECREATION, FORT RALEIGH",
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "walked",
+   "type": "card",
+   "text": "AUGUST 18, 1590"
+  },
+  {
+   "at": "birthday.",
+   "type": "card",
+   "text": "HIS GRANDDAUGHTER'S\n3RD BIRTHDAY"
+  },
+  {
+   "at": "nine",
+   "type": "card",
+   "text": "LAST SEEN:\n9 DAYS OLD"
+  },
+  {
+   "at": "hundred",
+   "type": "card",
+   "text": "115 MEN, WOMEN\nAND CHILDREN"
+  },
+  {
+   "at": "gone.",
+   "type": "card",
+   "text": "THE HOUSES\nWERE GONE",
+   "red": true
+  },
+  {
+   "at": "tall",
+   "type": "photo",
+   "photo": "photo-fort.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FORT RALEIGH · ROANOKE ISLAND",
+   "fit": "contain"
+  },
+  {
+   "at": "people.",
+   "type": "card",
+   "text": "NO PEOPLE · NO BODIES\nNO GRAVES",
+   "red": true
+  },
+  {
+   "at": "Carved",
+   "type": "card",
+   "text": "ONE WORD",
+   "sfx": [
+    [
+     "carve",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Croatoan.",
+   "type": "photo",
+   "photo": "photo-croatoan2.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.3,
+    1.6
+   ],
+   "label": "\"CRO\" · MODERN RECREATION"
+  },
+  {
+   "at": "four",
+   "type": "card",
+   "text": "400+ YEARS LATER"
+  },
+  {
+   "at": "Lost",
+   "type": "card",
+   "text": "THE LOST COLONY\nOF ROANOKE",
+   "red": true
+  },
+  {
+   "at": "To",
+   "type": "card",
+   "text": "THE FIRST ATTEMPT",
+   "sub": "CHAPTER 2 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "foothold",
+   "type": "card",
+   "text": "A FOOTHOLD IN\nNORTH AMERICA"
+  },
+  {
+   "at": "Elizabeth",
+   "type": "photo",
+   "photo": "photo-elizabeth.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "QUEEN ELIZABETH I",
+   "fit": "contain"
+  },
+  {
+   "at": "favorites,",
+   "type": "photo",
+   "photo": "photo-raleigh.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "WALTER RALEIGH",
+   "fit": "contain"
+  },
+  {
+   "at": "1584,",
+   "type": "photo",
+   "photo": "photo-outerbanks.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE OUTER BANKS · NORTH CAROLINA",
+   "sfx": [
+    [
+     "waves",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "glowing",
+   "type": "card",
+   "text": "GLOWING\nREPORTS"
+  },
+  {
+   "at": "Manteo",
+   "type": "card",
+   "text": "MANTEO & WANCHESE"
+  },
+  {
+   "at": "Croatoan,",
+   "type": "card",
+   "text": "MANTEO:\nA CROATOAN",
+   "red": true
+  },
+  {
+   "at": "1585,",
+   "type": "card",
+   "text": "1585",
+   "sub": "~100 MEN · ROANOKE ISLAND"
+  },
+  {
+   "at": "badly.",
+   "type": "card",
+   "text": "IT WENT BADLY"
+  },
+  {
+   "at": "food.",
+   "type": "card",
+   "text": "DEPENDENT ON NATIVE\nCOMMUNITIES FOR FOOD"
+  },
+  {
+   "at": "Lane,",
+   "type": "card",
+   "text": "RALPH LANE ATTACKS\nWINGINA",
+   "red": true
+  },
+  {
+   "at": "June",
+   "type": "card",
+   "text": "JUNE 1586",
+   "sub": "DRAKE TAKES THEM HOME"
+  },
+  {
+   "at": "relief",
+   "type": "card",
+   "text": "A RELIEF FLEET\nFINDS IT DESERTED"
+  },
+  {
+   "at": "fifteen",
+   "type": "card",
+   "text": "15 MEN\nLEFT BEHIND"
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "NEVER SEEN AGAIN",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Raleigh",
+   "type": "card",
+   "text": "THE SECOND COLONY",
+   "sub": "CHAPTER 3 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "1587,",
+   "type": "card",
+   "text": "1587",
+   "sub": "~115 COLONISTS"
+  },
+  {
+   "at": "governor",
+   "type": "photo",
+   "photo": "photo-secotan.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "JOHN WHITE · VILLAGE OF SECOTAN (WATERCOLOR)",
+   "fit": "contain"
+  },
+  {
+   "at": "Eleanor,",
+   "type": "card",
+   "text": "ELEANOR DARE",
+   "sub": "PREGNANT"
+  },
+  {
+   "at": "plan",
+   "type": "card",
+   "text": "THE PLAN:\nNOT ROANOKE"
+  },
+  {
+   "at": "Chesapeake",
+   "type": "photo",
+   "photo": "photo-white.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "JOHN WHITE'S MAP OF THE COAST",
+   "fit": "contain"
+  },
+  {
+   "at": "Fernandes,",
+   "type": "card",
+   "text": "SIMON FERNANDES\nREFUSED",
+   "red": true
+  },
+  {
+   "at": "Howe,",
+   "type": "card",
+   "text": "GEORGE HOWE\nKILLED"
+  },
+  {
+   "at": "Eleanor",
+   "type": "card",
+   "text": "AUGUST 18, 1587"
+  },
+  {
+   "at": "Virginia",
+   "type": "photo",
+   "photo": "photo-dare.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "VIRGINIA DARE (19TH-CENTURY ILLUSTRATION)",
+   "fit": "contain"
+  },
+  {
+   "at": "supplies,",
+   "type": "card",
+   "text": "JOHN WHITE SAILS\nFOR SUPPLIES"
+  },
+  {
+   "at": "moved,",
+   "type": "card",
+   "text": "IF THEY MOVED:\nCARVE WHERE"
+  },
+  {
+   "at": "danger,",
+   "type": "card",
+   "text": "IF IN DANGER:\nADD A CROSS",
+   "red": true
+  },
+  {
+   "at": "White",
+   "type": "card",
+   "text": "THE WAR THAT GOT IN THE WAY",
+   "sub": "CHAPTER 4 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "crisis.",
+   "type": "card",
+   "text": "SPAIN PREPARES\nTO INVADE"
+  },
+  {
+   "at": "Armada",
+   "type": "photo",
+   "photo": "photo-armada.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "THE SPANISH ARMADA",
+   "fit": "contain"
+  },
+  {
+   "at": "seaworthy",
+   "type": "card",
+   "text": "EVERY SHIP\nSTAYS HOME"
+  },
+  {
+   "at": "robbed",
+   "type": "card",
+   "text": "ATTACKED AND\nROBBED AT SEA",
+   "red": true
+  },
+  {
+   "at": "summer",
+   "type": "card",
+   "text": "SUMMER 1588",
+   "sub": "THE ARMADA"
+  },
+  {
+   "at": "priority.",
+   "type": "card",
+   "text": "NOT A PRIORITY"
+  },
+  {
+   "at": "ride",
+   "type": "card",
+   "text": "1590",
+   "sub": "ON PRIVATEER SHIPS"
+  },
+  {
+   "at": "weather",
+   "type": "photo",
+   "photo": "photo-storm.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "STORM AT SEA (17TH-CENTURY PAINTING)",
+   "fit": "contain",
+   "sfx": [
+    [
+     "waves",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "seven",
+   "type": "card",
+   "text": "7 SAILORS\nDROWNED",
+   "red": true
+  },
+  {
+   "at": "smoke",
+   "type": "card",
+   "text": "SMOKE ON\nTHE ISLAND"
+  },
+  {
+   "at": "songs",
+   "type": "card",
+   "text": "A TRUMPET\nINTO THE DARK",
+   "sfx": [
+    [
+     "trumpet",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Nobody",
+   "type": "card",
+   "text": "NOBODY\nANSWERED",
+   "red": true
+  },
+  {
+   "at": "On",
+   "type": "card",
+   "text": "WHAT WHITE FOUND",
+   "sub": "CHAPTER 5 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "C,",
+   "type": "card",
+   "text": "C · R · O",
+   "sfx": [
+    [
+     "carve",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "palisade",
+   "type": "photo",
+   "photo": "photo-fort.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A NEW WOODEN WALL",
+   "fit": "contain"
+  },
+  {
+   "at": "full",
+   "type": "photo",
+   "photo": "photo-croatoan2.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.5
+   ],
+   "label": "MODERN RECREATION · FORT RALEIGH"
+  },
+  {
+   "at": "cross.",
+   "type": "card",
+   "text": "NO CROSS",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Croatoan",
+   "type": "photo",
+   "photo": "photo-hatteras.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CROATOAN ISLAND (HATTERAS TODAY)"
+  },
+  {
+   "at": "chests",
+   "type": "card",
+   "text": "CHESTS DUG UP"
+  },
+  {
+   "at": "books",
+   "type": "card",
+   "text": "BOOKS TORN\nMAPS RUINED\nARMOR RUSTING"
+  },
+  {
+   "at": "decided",
+   "type": "card",
+   "text": "BURIED BY THE\nCOLONISTS?"
+  },
+  {
+   "at": "ready",
+   "type": "card",
+   "text": "READY TO SAIL\nFOR CROATOAN"
+  },
+  {
+   "at": "anchor",
+   "type": "card",
+   "text": "AN ANCHOR\nCABLE SNAPS",
+   "red": true
+  },
+  {
+   "at": "fleet",
+   "type": "card",
+   "text": "THEY HEAD HOME"
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "WHITE NEVER\nMADE IT BACK",
+   "red": true
+  },
+  {
+   "at": "So",
+   "type": "card",
+   "text": "THE THEORIES",
+   "sub": "CHAPTER 6 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "first,",
+   "type": "card",
+   "text": "THEORY 1:\nTHEY JOINED THE CROATOAN"
+  },
+  {
+   "at": "2013,",
+   "type": "photo",
+   "photo": "photo-hatteras.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.1,
+    1.25
+   ],
+   "label": "HATTERAS ISLAND"
+  },
+  {
+   "at": "sword,",
+   "type": "card",
+   "text": "SWORD PIECES · GUN PART\nA WRITING SLATE"
+  },
+  {
+   "at": "mixed",
+   "type": "card",
+   "text": "OR JUST\nTRADE GOODS?"
+  },
+  {
+   "at": "second",
+   "type": "card",
+   "text": "THEORY 2:\nA HIDDEN MAP"
+  },
+  {
+   "at": "patch",
+   "type": "photo",
+   "photo": "photo-white.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "JOHN WHITE'S MAP · BRITISH MUSEUM",
+   "fit": "contain"
+  },
+  {
+   "at": "fifty",
+   "type": "card",
+   "text": "50 MILES INLAND",
+   "red": true
+  },
+  {
+   "at": "Site",
+   "type": "card",
+   "text": "\"SITE X\""
+  },
+  {
+   "at": "graves",
+   "type": "card",
+   "text": "NO GRAVES\nNO BUILDINGS"
+  },
+  {
+   "at": "third",
+   "type": "card",
+   "text": "THEORY 3:\nKILLED",
+   "red": true
+  },
+  {
+   "at": "Jamestown",
+   "type": "card",
+   "text": "JAMESTOWN · 1607"
+  },
+  {
+   "at": "proven.",
+   "type": "card",
+   "text": "NEVER PROVEN",
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "1998,",
+   "type": "card",
+   "text": "1998 · TREE RINGS"
+  },
+  {
+   "at": "droughts",
+   "type": "card",
+   "text": "WORST DROUGHT\nIN ~800 YEARS",
+   "red": true
+  },
+  {
+   "at": "Here's",
+   "type": "card",
+   "text": "OUR ANALYSIS",
+   "sub": "CHAPTER 7 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "houses",
+   "type": "card",
+   "text": "TIME TO TAKE\nTHE HOUSES APART"
+  },
+  {
+   "at": "distress",
+   "type": "card",
+   "text": "NO DISTRESS SIGN"
+  },
+  {
+   "at": "guess",
+   "type": "card",
+   "text": "THEY SPLIT UP?",
+   "red": true
+  },
+  {
+   "at": "south",
+   "type": "photo",
+   "photo": "photo-hatteras.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.15,
+    1.0
+   ],
+   "label": "SOUTH: CROATOAN"
+  },
+  {
+   "at": "inland,",
+   "type": "photo",
+   "photo": "photo-white.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "INLAND: SITE X",
+   "fit": "contain"
+  },
+  {
+   "at": "drought,",
+   "type": "card",
+   "text": "TOO MANY\nTO FEED"
+  },
+  {
+   "at": "married",
+   "type": "card",
+   "text": "MARRIED INTO\nNATIVE COMMUNITIES"
+  },
+  {
+   "at": "lost.",
+   "type": "card",
+   "text": "NEVER LOST.\nJUST NEVER FOUND.",
+   "red": true
+  },
+  {
+   "at": "think",
+   "type": "card",
+   "text": "WHAT HAPPENED\nTO THEM?",
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
