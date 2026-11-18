@@ -1,0 +1,61 @@
+{
+ "slug": "056-hurricane-pam",
+ "pillar": "Turned out true",
+ "format": "case-file",
+ "script": "[serious] One year before Hurricane Katrina, the government ran a drill. It predicted New Orleans would drown. July twenty oh four. In Baton Rouge, FEMA paid for a week-long exercise with around two hundred and seventy experts. They invented a storm and named it Hurricane Pam. A slow, powerful hurricane, heading straight for New Orleans. The results were grim. Floodwater over ten feet deep. More than a million people evacuated. Hundreds of thousands of buildings destroyed. And a projected death toll of more than sixty thousand. The plan was supposed to come next. But the former head of FEMA later said, money was not available to do the follow-up. Thirteen months later, on August twenty-ninth, twenty oh five, Katrina hit. The levees failed in more than fifty places. About eighty percent of New Orleans went underwater. More than a thousand people died in Louisiana alone. The next year, the Army Corps of Engineers admitted it had problems with the design. Send this to someone who thinks a plan on paper is a plan. This is Dossier Decoded. Case file number fifty-six. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "flood",
+   "query": "Hurricane Katrina New Orleans flooded aerial 2005",
+   "n": 1
+  },
+  {
+   "slug": "sat",
+   "query": "Hurricane Katrina satellite image August 28 2005",
+   "n": 1
+  },
+  {
+   "slug": "levee",
+   "query": "17th Street Canal levee breach Katrina",
+   "n": 1
+  },
+  {
+   "slug": "superdome",
+   "query": "Superdome Hurricane Katrina 2005",
+   "n": 1
+  },
+  {
+   "slug": "cat",
+   "query": "Category:Flooding of New Orleans after Hurricane Katrina",
+   "n": 3
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "rain",
+   "text": "heavy rain and wind storm, ominous, short",
+   "seconds": 2
+  }
+ ]
+}
