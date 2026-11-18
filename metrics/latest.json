@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T22:24:28+00:00",
+ "updated": "2026-11-18T01:44:02+00:00",
  "youtube_channel": {
-  "subscribers": 501,
+  "subscribers": 502,
   "views": 15657
  },
  "instagram_account": {
@@ -695,8 +695,8 @@
    "yt": {
     "id": "Vg0XGYFVrrE",
     "url": "https://youtube.com/shorts/Vg0XGYFVrrE",
-    "views": 536,
-    "likes": 19,
+    "views": 538,
+    "likes": 20,
     "comments": 1,
     "privacy": "public",
     "published": "2026-10-14T21:19:33Z",
@@ -1293,7 +1293,7 @@
    "yt": {
     "id": "Wk5cAeDhyD4",
     "url": "https://youtube.com/shorts/Wk5cAeDhyD4",
-    "views": 153,
+    "views": 154,
     "likes": 8,
     "comments": 0,
     "privacy": "public",
@@ -1799,7 +1799,7 @@
    "yt": {
     "id": "SRUHyVy97sw",
     "url": "https://youtube.com/shorts/SRUHyVy97sw",
-    "views": 178,
+    "views": 179,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1830,7 +1830,7 @@
    "yt": {
     "id": "8p4b3NXAFC4",
     "url": "https://youtube.com/shorts/8p4b3NXAFC4",
-    "views": 9,
+    "views": 11,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1857,7 +1857,7 @@
    "yt": {
     "id": "XAqwIiXHRng",
     "url": "https://youtube.com/shorts/XAqwIiXHRng",
-    "views": 0,
+    "views": 11,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1866,14 +1866,14 @@
    "ig": {
     "id": "18141204136633787",
     "url": "https://www.instagram.com/reel/Df29c_stC_u/",
-    "views": 0,
-    "reach": 0,
+    "views": 20,
+    "reach": 15,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 3.3
    },
    "title": "Deepwater Horizon Failed a Safety Test Hours Before It Exploded",
    "duration": 65.1
@@ -2074,7 +2074,7 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 40,
+    "views": 42,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -2112,7 +2112,7 @@
    "yt": {
     "id": "amkPF-HCKHo",
     "url": "https://youtube.com/watch?v=amkPF-HCKHo",
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
