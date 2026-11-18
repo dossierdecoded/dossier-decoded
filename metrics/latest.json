@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:44:02+00:00",
+ "updated": "2026-11-18T03:00:46+00:00",
  "youtube_channel": {
   "subscribers": 502,
   "views": 15657
@@ -1840,7 +1840,7 @@
     "id": "17916052398483440",
     "url": "https://www.instagram.com/reel/Df0bI-divNp/",
     "views": 113,
-    "reach": 105,
+    "reach": 106,
     "likes": 1,
     "comments": 0,
     "shares": 0,
@@ -1857,7 +1857,7 @@
    "yt": {
     "id": "XAqwIiXHRng",
     "url": "https://youtube.com/shorts/XAqwIiXHRng",
-    "views": 11,
+    "views": 13,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1866,14 +1866,14 @@
    "ig": {
     "id": "18141204136633787",
     "url": "https://www.instagram.com/reel/Df29c_stC_u/",
-    "views": 20,
-    "reach": 15,
+    "views": 39,
+    "reach": 34,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 3.3
+    "avg_watch_sec": 5.8
    },
    "title": "Deepwater Horizon Failed a Safety Test Hours Before It Exploded",
    "duration": 65.1
@@ -2074,7 +2074,7 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 42,
+    "views": 43,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
