@@ -152,6 +152,7 @@ def _():
         pages = sorted(q.get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
         for p in pages:
             if p["title"] in seen or p["title"].lower().endswith((".pdf", ".djvu", ".tif", ".tiff", ".webm", ".ogv")): continue
+            if not p.get("imageinfo"): continue
             ii = p["imageinfo"][0]; em = ii.get("extmetadata", {})
             lname = (em.get("LicenseShortName", {}).get("value") or "")
             if not ii.get("thumburl") or not any(kw in lname.lower() for kw in ("public domain", "pd", "cc0", "cc by")):
