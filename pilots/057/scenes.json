@@ -1,0 +1,176 @@
+{
+ "title": "THE PINTO MEMO",
+ "case": "057",
+ "scenes": [
+  {
+   "at": "You've",
+   "type": "photo",
+   "photo": "photo-wagon.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "1972 FORD PINTO",
+   "stamp": "THE PINTO MYTH",
+   "stamp_at": "burn",
+   "sfx_at": [
+    [
+     "hit",
+     "You've"
+    ]
+   ]
+  },
+  {
+   "at": "stranger.",
+   "type": "card",
+   "text": "THE REAL STORY\nIS STRANGER"
+  },
+  {
+   "at": "Mother",
+   "type": "card",
+   "text": "1977 \u00b7 MOTHER JONES",
+   "sfx_at": [
+    [
+     "paper",
+     "Mother"
+    ]
+   ]
+  },
+  {
+   "at": "price",
+   "type": "card",
+   "text": "A PRICE ON\nA HUMAN LIFE"
+  },
+  {
+   "at": "Two",
+   "type": "card",
+   "text": "$200,000",
+   "red": true,
+   "sfx_at": [
+    [
+     "calc",
+     "Two"
+    ]
+   ]
+  },
+  {
+   "at": "eleven",
+   "type": "card",
+   "text": "$11 FIX =\n$137 MILLION"
+  },
+  {
+   "at": "Paying",
+   "type": "card",
+   "text": "180 BURN DEATHS\n= ~$49 MILLION",
+   "red": true
+  },
+  {
+   "at": "exploded.",
+   "type": "card",
+   "text": "THE STORY\nEXPLODES",
+   "sfx_at": [
+    [
+     "hit",
+     "exploded."
+    ]
+   ]
+  },
+  {
+   "at": "recalled",
+   "type": "photo",
+   "photo": "photo-pinto2.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "1.5 MILLION PINTOS RECALLED \u00b7 1978"
+  },
+  {
+   "at": "Juries",
+   "type": "card",
+   "text": "JURIES PUNISH FORD"
+  },
+  {
+   "at": "missed.",
+   "type": "card",
+   "text": "WHAT MOST\nPEOPLE MISSED"
+  },
+  {
+   "at": "wasn't",
+   "type": "card",
+   "text": "IT WASN'T ABOUT\nTHE PINTO",
+   "red": true,
+   "stamp": "MYTH",
+   "stamp_at": "Pinto."
+  },
+  {
+   "at": "covered",
+   "type": "card",
+   "text": "ALL CARS AND\nLIGHT TRUCKS"
+  },
+  {
+   "at": "rollover",
+   "type": "card",
+   "text": "ROLLOVERS.\nNOT REAR-END\nFIRES."
+  },
+  {
+   "at": "federal",
+   "type": "card",
+   "text": "WRITTEN FOR\nFEDERAL\nREGULATORS"
+  },
+  {
+   "at": "government's",
+   "type": "card",
+   "text": "THE GOVERNMENT'S\nOWN VALUE\nOF A LIFE"
+  },
+  {
+   "at": "As",
+   "type": "photo",
+   "photo": "photo-wagon.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.2,
+    1.3
+   ],
+   "label": "FORD PINTO"
+  },
+  {
+   "at": "twentyseven",
+   "type": "card",
+   "text": "27 DEATHS",
+   "sub": "REAR-END FUEL FIRES \u00b7 NHTSA REVIEW",
+   "red": true
+  },
+  {
+   "at": "real.",
+   "type": "card",
+   "text": "THE DANGER\nWAS REAL"
+  },
+  {
+   "at": "famous",
+   "type": "card",
+   "text": "THE MEMO WASN'T\nTHE PROOF",
+   "red": true
+  },
+  {
+   "at": "Send",
+   "type": "card",
+   "text": "SEND THIS TO\nSOMEONE WHO STILL\nTELLS THE PINTO STORY"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
