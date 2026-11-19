@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T01:36:25+00:00",
+ "updated": "2026-11-19T09:02:32+00:00",
  "youtube_channel": {
   "subscribers": 503,
-  "views": 15675
+  "views": 15719
  },
  "instagram_account": {
-  "followers_count": 10,
+  "followers_count": 11,
   "media_count": 57,
   "username": "dossierdecoded"
  },
@@ -695,7 +695,7 @@
    "yt": {
     "id": "Vg0XGYFVrrE",
     "url": "https://youtube.com/shorts/Vg0XGYFVrrE",
-    "views": 538,
+    "views": 539,
     "likes": 20,
     "comments": 1,
     "privacy": "public",
@@ -1293,7 +1293,7 @@
    "yt": {
     "id": "Wk5cAeDhyD4",
     "url": "https://youtube.com/shorts/Wk5cAeDhyD4",
-    "views": 154,
+    "views": 155,
     "likes": 8,
     "comments": 0,
     "privacy": "public",
@@ -1706,7 +1706,7 @@
    "yt": {
     "id": "pOWqFbFJlT8",
     "url": "https://youtube.com/shorts/pOWqFbFJlT8",
-    "views": 180,
+    "views": 179,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1799,7 +1799,7 @@
    "yt": {
     "id": "SRUHyVy97sw",
     "url": "https://youtube.com/shorts/SRUHyVy97sw",
-    "views": 179,
+    "views": 173,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1830,7 +1830,7 @@
    "yt": {
     "id": "8p4b3NXAFC4",
     "url": "https://youtube.com/shorts/8p4b3NXAFC4",
-    "views": 18,
+    "views": 20,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1861,7 +1861,7 @@
    "yt": {
     "id": "XAqwIiXHRng",
     "url": "https://youtube.com/shorts/XAqwIiXHRng",
-    "views": 21,
+    "views": 26,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1888,7 +1888,7 @@
    "yt": {
     "id": "slatXkYrKR8",
     "url": "https://youtube.com/shorts/slatXkYrKR8",
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1897,14 +1897,14 @@
    "ig": {
     "id": "18092852006265818",
     "url": "https://www.instagram.com/reel/Df56TmIhFZq/",
-    "views": 0,
-    "reach": 0,
-    "likes": 0,
+    "views": 106,
+    "reach": 96,
+    "likes": 2,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "total_interactions": 2,
+    "avg_watch_sec": 8.1
    },
    "title": "The Government Predicted Katrina a Year Early | Hurricane Pam",
    "duration": 65.7
