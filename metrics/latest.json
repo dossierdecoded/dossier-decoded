@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-19T01:22:59+00:00",
+ "updated": "2026-11-19T01:36:25+00:00",
  "youtube_channel": {
   "subscribers": 503,
   "views": 15675
  },
  "instagram_account": {
   "followers_count": 10,
-  "media_count": 56,
+  "media_count": 57,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -1830,7 +1830,7 @@
    "yt": {
     "id": "8p4b3NXAFC4",
     "url": "https://youtube.com/shorts/8p4b3NXAFC4",
-    "views": 16,
+    "views": 18,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1861,7 +1861,7 @@
    "yt": {
     "id": "XAqwIiXHRng",
     "url": "https://youtube.com/shorts/XAqwIiXHRng",
-    "views": 24,
+    "views": 21,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1881,6 +1881,33 @@
    },
    "title": "Deepwater Horizon Failed a Safety Test Hours Before It Exploded",
    "duration": 65.1
+  },
+  {
+   "case": "056",
+   "pillar": "Turned out true",
+   "yt": {
+    "id": "slatXkYrKR8",
+    "url": "https://youtube.com/shorts/slatXkYrKR8",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-19T01:33:49Z"
+   },
+   "ig": {
+    "id": "18092852006265818",
+    "url": "https://www.instagram.com/reel/Df56TmIhFZq/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "The Government Predicted Katrina a Year Early | Hurricane Pam",
+   "duration": 65.7
   },
   {
    "case": "L01",
