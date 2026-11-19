@@ -1,0 +1,56 @@
+{
+ "slug": "057-pinto-memo",
+ "pillar": "Myth vs fact",
+ "format": "case-file",
+ "script": "[serious] You've probably heard that Ford did the math, and decided it was cheaper to let people burn than to fix the Pinto. The real story is stranger. In nineteen seventy-seven, Mother Jones magazine published a Ford memo. It put a price on a human life. Two hundred thousand dollars. An eleven dollar fix, it said, would cost a hundred and thirty-seven million. Paying for a hundred and eighty burn deaths would cost about forty-nine million. The story exploded. Ford recalled one and a half million Pintos. Juries punished the company. But here's what most people missed. The memo wasn't about the Pinto. It covered all cars and light trucks, it was about rollover crashes, not the Pinto's rear-end fires, and it was written for federal regulators, using the government's own value of a life. As for the Pinto, the government's review found twenty-seven deaths from rear-end fuel fires. The danger was real. The famous memo just wasn't the proof. Send this to someone who still tells the Pinto story. This is Dossier Decoded. Case file number fifty-seven. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "pinto",
+   "query": "Ford Pinto 1971 sedan",
+   "n": 1
+  },
+  {
+   "slug": "pinto2",
+   "query": "Ford Pinto rear view",
+   "n": 1
+  },
+  {
+   "slug": "wagon",
+   "query": "Ford Pinto wagon",
+   "n": 1
+  },
+  {
+   "slug": "hq",
+   "query": "Ford World Headquarters Dearborn",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "calc",
+   "text": "old mechanical adding machine calculator printing, short",
+   "seconds": 1.5
+  }
+ ]
+}
