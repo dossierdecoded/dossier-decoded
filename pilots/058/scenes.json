@@ -1,0 +1,186 @@
+{
+ "title": "EINSTEIN'S MATH",
+ "case": "058",
+ "scenes": [
+  {
+   "at": "Albert",
+   "type": "photo",
+   "photo": "photo-older.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ALBERT EINSTEIN \u00b7 1921",
+   "stamp": "FAILED MATH?",
+   "stamp_at": "math.",
+   "sfx_at": [
+    [
+     "hit",
+     "Albert"
+    ]
+   ]
+  },
+  {
+   "at": "repeated",
+   "type": "card",
+   "text": "ONE OF HISTORY'S\nMOST REPEATED\n\"FACTS\""
+  },
+  {
+   "at": "isn't",
+   "type": "card",
+   "text": "IT ISN'T TRUE",
+   "red": true,
+   "stamp": "MYTH",
+   "stamp_at": "true."
+  },
+  {
+   "at": "thirtyfive",
+   "type": "card",
+   "text": "1935 \u00b7 PRINCETON"
+  },
+  {
+   "at": "Ripley's",
+   "type": "card",
+   "text": "RIPLEY'S\nBELIEVE IT OR NOT!",
+   "sfx_at": [
+    [
+     "paper",
+     "Ripley's"
+    ]
+   ]
+  },
+  {
+   "at": "headline",
+   "type": "card",
+   "text": "\"GREATEST LIVING\nMATHEMATICIAN\nFAILED IN\nMATHEMATICS\"",
+   "red": true
+  },
+  {
+   "at": "laughed.",
+   "type": "card",
+   "text": "EINSTEIN\nLAUGHED"
+  },
+  {
+   "at": "never",
+   "type": "card",
+   "text": "\"I NEVER FAILED\nIN MATHEMATICS\""
+  },
+  {
+   "at": "fifteen,",
+   "type": "card",
+   "text": "CALCULUS\nBEFORE 15",
+   "red": true,
+   "sfx_at": [
+    [
+     "chalk",
+     "fifteen,"
+    ]
+   ]
+  },
+  {
+   "at": "where",
+   "type": "card",
+   "text": "SO WHERE DID\nTHE MYTH COME FROM?"
+  },
+  {
+   "at": "real",
+   "type": "card",
+   "text": "A REAL FAILURE",
+   "red": true
+  },
+  {
+   "at": "sixteen,",
+   "type": "card",
+   "text": "AGE 16",
+   "sub": "~2 YEARS YOUNGER THAN OTHER APPLICANTS"
+  },
+  {
+   "at": "entrance",
+   "type": "card",
+   "text": "ENTRANCE EXAM",
+   "sub": "SWISS FEDERAL POLYTECHNIC, ZURICH"
+  },
+  {
+   "at": "physics,",
+   "type": "card",
+   "text": "MATH & PHYSICS:\nVERY GOOD"
+  },
+  {
+   "at": "other",
+   "type": "card",
+   "text": "OTHER SUBJECTS:\nNOT ENOUGH"
+  },
+  {
+   "at": "admitted.",
+   "type": "card",
+   "text": "NOT ADMITTED",
+   "red": true,
+   "sfx_at": [
+    [
+     "stamp",
+     "admitted."
+    ]
+   ]
+  },
+  {
+   "at": "Aarau",
+   "type": "photo",
+   "photo": "photo-aarau.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "CANTONAL SCHOOL \u00b7 AARAU, SWITZERLAND"
+  },
+  {
+   "at": "certificate",
+   "type": "photo",
+   "photo": "photo-cert.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.25
+   ],
+   "label": "EINSTEIN'S FINAL CERTIFICATE \u00b7 1896",
+   "fit": "contain"
+  },
+  {
+   "at": "six,",
+   "type": "card",
+   "text": "ALGEBRA: 6\nGEOMETRY: 6",
+   "sub": "6 = TOP GRADE",
+   "red": true
+  },
+  {
+   "at": "opposite",
+   "type": "card",
+   "text": "THE \"BACKWARDS\nSCALE\" THEORY",
+   "sub": "1 = BEST?"
+  },
+  {
+   "at": "record",
+   "type": "card",
+   "text": "THE RECORD\nIS CLEAR"
+  },
+  {
+   "at": "Send",
+   "type": "card",
+   "text": "SEND THIS TO SOMEONE\nWHO USES EINSTEIN\nAS THEIR EXCUSE"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
