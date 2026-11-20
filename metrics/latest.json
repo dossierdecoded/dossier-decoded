@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T16:46:23+00:00",
+ "updated": "2026-11-20T21:07:20+00:00",
  "youtube_channel": {
-  "subscribers": 504,
+  "subscribers": 505,
   "views": 15746
  },
  "instagram_account": {
@@ -707,7 +707,7 @@
       "at": "2026-10-15T00:19:06Z"
      }
     ],
-    "avg_view_pct": 80.12,
+    "avg_view_pct": 80.06,
     "avg_view_sec": 54,
     "shares": 0,
     "subs_gained": 0
@@ -1138,7 +1138,7 @@
    "yt": {
     "id": "p0gwVuirHqk",
     "url": "https://youtube.com/shorts/p0gwVuirHqk",
-    "views": 121,
+    "views": 122,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -1773,8 +1773,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-14T22:02:31Z",
-    "avg_view_pct": 49.97,
-    "avg_view_sec": 39,
+    "avg_view_pct": 47.91,
+    "avg_view_sec": 37,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1835,8 +1835,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-16T22:25:06Z",
-    "avg_view_pct": 45.61,
-    "avg_view_sec": 29,
+    "avg_view_pct": 49.98,
+    "avg_view_sec": 32,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1873,8 +1873,8 @@
       "at": "2026-11-19T10:14:51Z"
      }
     ],
-    "avg_view_pct": 37.13,
-    "avg_view_sec": 24,
+    "avg_view_pct": 35.19,
+    "avg_view_sec": 23,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1903,7 +1903,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-19T01:33:49Z"
+    "published": "2026-11-19T01:33:49Z",
+    "avg_view_pct": 52.88,
+    "avg_view_sec": 34,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18092852006265818",
@@ -1936,13 +1940,13 @@
     "id": "18108139322006549",
     "url": "https://www.instagram.com/reel/Df8TFMAhcqU/",
     "views": 120,
-    "reach": 101,
+    "reach": 102,
     "likes": 3,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 3,
-    "avg_watch_sec": 9.5
+    "avg_watch_sec": 9.4
    },
    "title": "The Famous Ford Pinto Memo Wasn't About the Pinto",
    "duration": 61.4
@@ -2143,13 +2147,13 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 56,
+    "views": 58,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-08T17:03:26Z",
-    "avg_view_pct": 17.99,
-    "avg_view_sec": 74,
+    "avg_view_pct": 16.23,
+    "avg_view_sec": 67,
     "shares": 0,
     "subs_gained": 0
    },
