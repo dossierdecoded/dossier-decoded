@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T07:58:49+00:00",
+ "updated": "2026-11-20T16:46:23+00:00",
  "youtube_channel": {
-  "subscribers": 503,
+  "subscribers": 504,
   "views": 15746
  },
  "instagram_account": {
@@ -1830,7 +1830,7 @@
    "yt": {
     "id": "8p4b3NXAFC4",
     "url": "https://youtube.com/shorts/8p4b3NXAFC4",
-    "views": 21,
+    "views": 23,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1899,7 +1899,7 @@
    "yt": {
     "id": "slatXkYrKR8",
     "url": "https://youtube.com/shorts/slatXkYrKR8",
-    "views": 4,
+    "views": 5,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1926,7 +1926,7 @@
    "yt": {
     "id": "cI-F1BLPm8U",
     "url": "https://youtube.com/shorts/cI-F1BLPm8U",
-    "views": 244,
+    "views": 308,
     "likes": 8,
     "comments": 0,
     "privacy": "public",
@@ -1935,14 +1935,14 @@
    "ig": {
     "id": "18108139322006549",
     "url": "https://www.instagram.com/reel/Df8TFMAhcqU/",
-    "views": 101,
-    "reach": 80,
-    "likes": 2,
+    "views": 120,
+    "reach": 101,
+    "likes": 3,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 2,
-    "avg_watch_sec": 9.6
+    "total_interactions": 3,
+    "avg_watch_sec": 9.5
    },
    "title": "The Famous Ford Pinto Memo Wasn't About the Pinto",
    "duration": 61.4
@@ -2124,7 +2124,7 @@
    "yt": {
     "id": "tJglAsY7FDI",
     "url": "https://youtube.com/watch?v=tJglAsY7FDI",
-    "views": 4,
+    "views": 6,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
