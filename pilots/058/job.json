@@ -1,0 +1,61 @@
+{
+ "slug": "058-einstein-math",
+ "pillar": "Myth vs fact",
+ "format": "case-file",
+ "script": "[serious] Albert Einstein failed math. It's one of the most repeated facts in history. And it isn't true. In nineteen thirty-five, a rabbi in Princeton showed Einstein a newspaper clipping from Ripley's Believe It or Not. The headline said, greatest living mathematician failed in mathematics. Einstein laughed. He said he had never failed in mathematics. Before he was fifteen, he had mastered differential and integral calculus. So where did the myth come from? There's a real failure in the story. At sixteen, about two years younger than the other applicants, Einstein took the entrance exam for a top Swiss university. He did very well in math and physics, but not well enough in the other subjects, and he wasn't admitted. He finished school in Aarau first. His final certificate had the top grade, a six, in algebra and geometry. One popular explanation says the school had once used the opposite scale, where one was the best, and later readers got confused. Either way, the record is clear. Send this to someone who uses Einstein as their excuse. This is Dossier Decoded. Case file number fifty-eight. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "young",
+   "query": "Albert Einstein 1893 age 14",
+   "n": 1
+  },
+  {
+   "slug": "cert",
+   "query": "Einstein Matura certificate Aarau 1896",
+   "n": 1
+  },
+  {
+   "slug": "aarau",
+   "query": "Alte Kantonsschule Aarau",
+   "n": 1
+  },
+  {
+   "slug": "eth",
+   "query": "ETH Zurich main building 19th century",
+   "n": 1
+  },
+  {
+   "slug": "older",
+   "query": "Albert Einstein 1921 portrait",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "chalk",
+   "text": "chalk writing on a blackboard, close up, short",
+   "seconds": 1.5
+  }
+ ]
+}
