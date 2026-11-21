@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-21T18:49:37+00:00",
+ "updated": "2026-11-21T22:24:23+00:00",
  "youtube_channel": {
   "subscribers": 506,
   "views": 16187
  },
  "instagram_account": {
   "followers_count": 11,
-  "media_count": 59,
+  "media_count": 60,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -433,7 +433,7 @@
    "yt": {
     "id": "T4LHdmkHn0Y",
     "url": "https://youtube.com/shorts/T4LHdmkHn0Y",
-    "views": 90,
+    "views": 91,
     "likes": 4,
     "comments": 0,
     "privacy": "public",
@@ -707,7 +707,7 @@
       "at": "2026-10-15T00:19:06Z"
      }
     ],
-    "avg_view_pct": 80.06,
+    "avg_view_pct": 79.88,
     "avg_view_sec": 54,
     "shares": 0,
     "subs_gained": 0
@@ -1575,13 +1575,13 @@
    "yt": {
     "id": "3srHzgM77Ik",
     "url": "https://youtube.com/shorts/3srHzgM77Ik",
-    "views": 293,
+    "views": 294,
     "likes": 13,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-08T22:03:17Z",
-    "avg_view_pct": 95.55,
-    "avg_view_sec": 80,
+    "avg_view_pct": 95.1,
+    "avg_view_sec": 79,
     "shares": 0,
     "subs_gained": 3
    },
@@ -1644,7 +1644,7 @@
    "yt": {
     "id": "3t5E5NuEs6E",
     "url": "https://youtube.com/shorts/3t5E5NuEs6E",
-    "views": 8,
+    "views": 9,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1799,7 +1799,7 @@
    "yt": {
     "id": "SRUHyVy97sw",
     "url": "https://youtube.com/shorts/SRUHyVy97sw",
-    "views": 171,
+    "views": 172,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1835,7 +1835,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-16T22:25:06Z",
-    "avg_view_pct": 49.98,
+    "avg_view_pct": 49.75,
     "avg_view_sec": 32,
     "shares": 0,
     "subs_gained": 0
@@ -1873,8 +1873,8 @@
       "at": "2026-11-19T10:14:51Z"
      }
     ],
-    "avg_view_pct": 35.19,
-    "avg_view_sec": 23,
+    "avg_view_pct": 209.98999999999998,
+    "avg_view_sec": 138,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1904,8 +1904,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-19T01:33:49Z",
-    "avg_view_pct": 52.88,
-    "avg_view_sec": 34,
+    "avg_view_pct": 37.36,
+    "avg_view_sec": 24,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1930,11 +1930,15 @@
    "yt": {
     "id": "cI-F1BLPm8U",
     "url": "https://youtube.com/shorts/cI-F1BLPm8U",
-    "views": 445,
+    "views": 452,
     "likes": 11,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-19T23:48:43Z"
+    "published": "2026-11-19T23:48:43Z",
+    "avg_view_pct": 57.61999999999999,
+    "avg_view_sec": 35,
+    "shares": 4,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18108139322006549",
@@ -1957,8 +1961,8 @@
    "yt": {
     "id": "rRvPsq8guk4",
     "url": "https://youtube.com/shorts/rRvPsq8guk4",
-    "views": 74,
-    "likes": 0,
+    "views": 76,
+    "likes": 1,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-20T22:02:43Z"
@@ -1977,6 +1981,33 @@
    },
    "title": "Einstein Never Failed Math. Here's Where the Myth Came From",
    "duration": 64.6
+  },
+  {
+   "case": "059",
+   "pillar": "Myth vs fact",
+   "yt": {
+    "id": "TkAawj8RRZA",
+    "url": "https://youtube.com/shorts/TkAawj8RRZA",
+    "views": 9,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-21T22:02:49Z"
+   },
+   "ig": {
+    "id": "17934555945162874",
+    "url": "https://www.instagram.com/reel/DgBQiUHyHjN/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "Napoleon Wasn't Short. A British Cartoonist Made You Think So",
+   "duration": 58.5
   },
   {
    "case": "L01",
@@ -2179,8 +2210,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-08T17:03:26Z",
-    "avg_view_pct": 16.23,
-    "avg_view_sec": 67,
+    "avg_view_pct": 16.05,
+    "avg_view_sec": 66,
     "shares": 0,
     "subs_gained": 0
    },
@@ -2235,7 +2266,11 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-19T17:02:41Z"
+    "published": "2026-11-19T17:02:41Z",
+    "avg_view_pct": 0,
+    "avg_view_sec": 0,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "115 People Vanished and Left One Word Behind | The Lost Colony of Roanoke",
    "duration": 497.1
