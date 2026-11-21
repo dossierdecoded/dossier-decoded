@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "steps": [
+    {
+      "call": "GET /18136518733745349",
+      "status": 200,
+      "body": "{\"status_code\":\"IN_PROGRESS\",\"status\":\"IN_PROGRESS\",\"id\":\"18136518733745349\"}"
+    },
+    {
+      "call": "GET /18136518733745349",
+      "status": 200,
+      "body": "{\"status_code\":\"IN_PROGRESS\",\"status\":\"IN_PROGRESS\",\"id\":\"18136518733745349\"}"
+    },
+    {
+      "call": "GET /18136518733745349",
+      "status": 200,
+      "body": "{\"status_code\":\"IN_PROGRESS\",\"status\":\"IN_PROGRESS\",\"id\":\"18136518733745349\"}"
+    },
+    {
+      "call": "GET /18136518733745349",
+      "status": 200,
+      "body": "{\"status_code\":\"IN_PROGRESS\",\"status\":\"IN_PROGRESS\",\"id\":\"18136518733745349\"}"
+    },
+    {
+      "call": "GET /18136518733745349",
+      "status": 200,
+      "body": "{\"status_code\":\"IN_PROGRESS\",\"status\":\"IN_PROGRESS\",\"id\":\"18136518733745349\"}"
+    },
+    {
+      "call": "GET /18136518733745349",
+      "status": 200,
+      "body": "{\"status_code\":\"FINISHED\",\"status\":\"FINISHED\",\"id\":\"18136518733745349\"}"
+    },
+    {
+      "call": "POST /17841422360455121/media_publish",
+      "status": 200,
+      "body": "{\"id\":\"17934555945162874\"}"
+    },
+    {
+      "call": "GET /17934555945162874",
+      "status": 200,
+      "body": "{\"permalink\":\"https:\\/\\/www.instagram.com\\/reel\\/DgBQiUHyHjN\\/\",\"id\":\"17934555945162874\"}"
+    }
+  ],
+  "username": "dossierdecoded",
+  "media_id": "17934555945162874",
+  "permalink": "https://www.instagram.com/reel/DgBQiUHyHjN/"
+}
