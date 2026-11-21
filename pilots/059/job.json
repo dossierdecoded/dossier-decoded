@@ -1,0 +1,61 @@
+{
+ "slug": "059-napoleon-height",
+ "pillar": "Myth vs fact",
+ "format": "case-file",
+ "script": "[serious] Napoleon Bonaparte was short. It's so famous, there's a whole complex named after him. But he probably wasn't. After his death in eighteen twenty-one, his height was recorded as five feet two. But those were French feet and inches, and a French inch was longer than an English one. Convert it, and Napoleon stood around five foot six or five foot seven. For a Frenchman of his time, that was about average, or even a little above. So why does the whole world think he was tiny? Blame a British cartoonist. James Gillray drew Napoleon again and again as a small, angry man throwing tantrums. He called him Little Boney, and the name stuck. Napoleon himself is said to have complained that Gillray did more to bring him down than all the armies of Europe. It didn't help that his soldiers called him the little corporal. That was a term of affection, not a measurement. And his elite guards were picked partly for their height. Send this to someone with a Napoleon complex. This is Dossier Decoded. Case file number fifty-nine. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "david",
+   "query": "Napoleon Crossing the Alps David",
+   "n": 1
+  },
+  {
+   "slug": "gillray",
+   "query": "Gillray Maniac-raving's Little Boney",
+   "n": 1
+  },
+  {
+   "slug": "gillray2",
+   "query": "James Gillray Napoleon caricature",
+   "n": 1
+  },
+  {
+   "slug": "study",
+   "query": "The Emperor Napoleon in His Study at the Tuileries",
+   "n": 1
+  },
+  {
+   "slug": "guard",
+   "query": "Old Guard Napoleon grenadiers painting",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "drum",
+   "text": "military snare drum roll, short",
+   "seconds": 1.5
+  }
+ ]
+}
