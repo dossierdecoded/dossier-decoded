@@ -1,0 +1,649 @@
+{
+ "title": "JIMMY HOFFA",
+ "case": "013",
+ "landscape": true,
+ "scenes": [
+  {
+   "at": "On",
+   "type": "photo",
+   "photo": "photo-detroit.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.2,
+    1.05
+   ],
+   "label": "SITE OF THE MACHUS RED FOX · BLOOMFIELD TOWNSHIP, MI",
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "thirtieth,",
+   "type": "card",
+   "text": "JULY 30, 1975"
+  },
+  {
+   "at": "waiting",
+   "type": "card",
+   "text": "WAITING FOR\nA MEETING"
+  },
+  {
+   "at": "pay",
+   "type": "card",
+   "text": "2:15 PM · PAY PHONE",
+   "sfx": [
+    [
+     "phone",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "stood",
+   "type": "card",
+   "text": "\"STOOD UP\"",
+   "red": true
+  },
+  {
+   "at": "gone.",
+   "type": "card",
+   "text": "GONE",
+   "red": true
+  },
+  {
+   "at": "unlocked,",
+   "type": "card",
+   "text": "HIS CAR: UNLOCKED\nSAME PARKING LOT"
+  },
+  {
+   "at": "note.",
+   "type": "card",
+   "text": "NO NOTE · NO STRUGGLE\nNO BODY",
+   "red": true
+  },
+  {
+   "at": "Jimmy",
+   "type": "photo",
+   "photo": "photo-hoffa-1.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "JAMES R. \"JIMMY\" HOFFA",
+   "fit": "contain"
+  },
+  {
+   "at": "fifty",
+   "type": "card",
+   "text": "50+ YEARS"
+  },
+  {
+   "at": "rose,",
+   "type": "card",
+   "text": "THE RISE · THE FALL\nTHE EVIDENCE"
+  },
+  {
+   "at": "James",
+   "type": "card",
+   "text": "THE RISE",
+   "sub": "CHAPTER 2 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Indiana,",
+   "type": "card",
+   "text": "BRAZIL, INDIANA · 1913"
+  },
+  {
+   "at": "fourteen",
+   "type": "card",
+   "text": "LEFT SCHOOL\nAT 14"
+  },
+  {
+   "at": "strike.",
+   "type": "card",
+   "text": "HIS FIRST STRIKE",
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "1932,",
+   "type": "card",
+   "text": "1932",
+   "sub": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS"
+  },
+  {
+   "at": "arrested",
+   "type": "card",
+   "text": "ARRESTED\nMANY TIMES"
+  },
+  {
+   "at": "national",
+   "type": "photo",
+   "photo": "photo-teamsters.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "TEAMSTERS HEADQUARTERS · WASHINGTON, D.C.",
+   "fit": "contain"
+  },
+  {
+   "at": "1957,",
+   "type": "card",
+   "text": "1957 · PRESIDENT",
+   "red": true
+  },
+  {
+   "at": "two",
+   "type": "card",
+   "text": "~2 MILLION\nMEMBERS"
+  },
+  {
+   "at": "contract",
+   "type": "card",
+   "text": "FIRST NATIONAL\nTRUCKING CONTRACT"
+  },
+  {
+   "at": "hero",
+   "type": "card",
+   "text": "A HERO\nTO MEMBERS"
+  },
+  {
+   "at": "organized",
+   "type": "card",
+   "text": "TIES TO\nORGANIZED CRIME",
+   "red": true
+  },
+  {
+   "at": "By",
+   "type": "card",
+   "text": "THE FEUD",
+   "sub": "CHAPTER 3 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Senate",
+   "type": "card",
+   "text": "SENATE INVESTIGATION\nINTO UNION CORRUPTION"
+  },
+  {
+   "at": "Kennedy.",
+   "type": "card",
+   "text": "CHIEF COUNSEL:\nROBERT KENNEDY"
+  },
+  {
+   "at": "blood",
+   "type": "card",
+   "text": "\"A BLOOD FEUD\"",
+   "red": true
+  },
+  {
+   "at": "AFL-CIO",
+   "type": "card",
+   "text": "TEAMSTERS EXPELLED\nFROM THE AFL-CIO"
+  },
+  {
+   "at": "1961,",
+   "type": "card",
+   "text": "1961 · KENNEDY:\nATTORNEY GENERAL"
+  },
+  {
+   "at": "1964,",
+   "type": "card",
+   "text": "1964 · CONVICTED\nTWICE",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "tampering,",
+   "type": "card",
+   "text": "JURY TAMPERING"
+  },
+  {
+   "at": "fraud,",
+   "type": "card",
+   "text": "PENSION FUND FRAUD"
+  },
+  {
+   "at": "hundreds",
+   "type": "card",
+   "text": "HUNDREDS OF MILLIONS"
+  },
+  {
+   "at": "casinos",
+   "type": "card",
+   "text": "LOANS TO\nLAS VEGAS CASINOS",
+   "red": true
+  },
+  {
+   "at": "Whoever",
+   "type": "card",
+   "text": "CONTROL THE UNION =\nCONTROL THE MONEY"
+  },
+  {
+   "at": "1967,",
+   "type": "photo",
+   "photo": "photo-lewisburg.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "U.S. PENITENTIARY LEWISBURG",
+   "fit": "contain"
+  },
+  {
+   "at": "Even",
+   "type": "card",
+   "text": "THE DEAL",
+   "sub": "CHAPTER 4 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Fitzsimmons,",
+   "type": "card",
+   "text": "FRANK FITZSIMMONS"
+  },
+  {
+   "at": "resigned",
+   "type": "card",
+   "text": "1971 · HOFFA RESIGNS"
+  },
+  {
+   "at": "Nixon",
+   "type": "photo",
+   "photo": "photo-nixon.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "PRESIDENT RICHARD NIXON",
+   "fit": "contain"
+  },
+  {
+   "at": "catch.",
+   "type": "card",
+   "text": "THE CATCH",
+   "red": true
+  },
+  {
+   "at": "barred",
+   "type": "card",
+   "text": "BANNED FROM UNION\nMANAGEMENT UNTIL 1980",
+   "red": true
+  },
+  {
+   "at": "lost.",
+   "type": "card",
+   "text": "HE LOST"
+  },
+  {
+   "at": "back.",
+   "type": "card",
+   "text": "HE WANTED HIS\nUNION BACK"
+  },
+  {
+   "at": "pension",
+   "type": "card",
+   "text": "EASY ACCESS TO\nTHE PENSION FUND"
+  },
+  {
+   "at": "exposing",
+   "type": "card",
+   "text": "TALKING ABOUT EXPOSING\nMOB INFLUENCE"
+  },
+  {
+   "at": "dangerous",
+   "type": "card",
+   "text": "DANGEROUS",
+   "red": true,
+   "sfx": [
+    [
+     "hit",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Which",
+   "type": "card",
+   "text": "THE LAST AFTERNOON",
+   "sub": "CHAPTER 5 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "calendar",
+   "type": "card",
+   "text": "2:00 PM"
+  },
+  {
+   "at": "Machus",
+   "type": "photo",
+   "photo": "photo-detroit.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "SITE OF THE MACHUS RED FOX"
+  },
+  {
+   "at": "Giacalone,",
+   "type": "card",
+   "text": "ANTHONY GIACALONE"
+  },
+  {
+   "at": "Provenzano,",
+   "type": "card",
+   "text": "ANTHONY PROVENZANO"
+  },
+  {
+   "at": "Neither",
+   "type": "card",
+   "text": "NEITHER CAME",
+   "red": true
+  },
+  {
+   "at": "alibi",
+   "type": "card",
+   "text": "ALIBIS"
+  },
+  {
+   "at": "quarter",
+   "type": "card",
+   "text": "LAST SEEN\n~2:45 PM",
+   "red": true
+  },
+  {
+   "at": "struggle,",
+   "type": "card",
+   "text": "NO STRUGGLE"
+  },
+  {
+   "at": "maroon",
+   "type": "photo",
+   "photo": "photo-car.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "A 1970s MERCURY (SIMILAR MODEL)",
+   "fit": "contain",
+   "sfx": [
+    [
+     "car",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "O'Brien,",
+   "type": "card",
+   "text": "CHARLES \"CHUCKIE\" O'BRIEN"
+  },
+  {
+   "at": "dogs",
+   "type": "card",
+   "text": "POLICE DOGS:\nHOFFA'S SCENT"
+  },
+  {
+   "at": "DNA",
+   "type": "card",
+   "text": "2001 · DNA"
+  },
+  {
+   "at": "denied",
+   "type": "card",
+   "text": "NEVER CHARGED",
+   "red": true
+  },
+  {
+   "at": "The",
+   "type": "card",
+   "text": "THE SEARCH",
+   "sub": "CHAPTER 6 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Hundreds",
+   "type": "photo",
+   "photo": "photo-fbi.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "FEDERAL BUREAU OF INVESTIGATION",
+   "fit": "contain"
+  },
+  {
+   "at": "Hoffex",
+   "type": "card",
+   "text": "THE \"HOFFEX\" MEMO · 1976",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "killed",
+   "type": "card",
+   "text": "KILLED BY\nORGANIZED CRIME?",
+   "red": true
+  },
+  {
+   "at": "Nobody",
+   "type": "card",
+   "text": "NOBODY CHARGED\nWITH MURDER"
+  },
+  {
+   "at": "1982,",
+   "type": "card",
+   "text": "1982 · DECLARED\nLEGALLY DEAD"
+  },
+  {
+   "at": "Giants",
+   "type": "photo",
+   "photo": "photo-giants.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GIANTS STADIUM · EAST RUTHERFORD, NJ"
+  },
+  {
+   "at": "torn",
+   "type": "card",
+   "text": "2010 · DEMOLISHED\nNOTHING FOUND"
+  },
+  {
+   "at": "2004,",
+   "type": "card",
+   "text": "2004 · DETROIT\nFLOORBOARDS",
+   "sfx": [
+    [
+     "dig",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Irishman.",
+   "type": "card",
+   "text": "\"THE IRISHMAN\""
+  },
+  {
+   "at": "2006,",
+   "type": "card",
+   "text": "2006 · HORSE FARM",
+   "sfx": [
+    [
+     "dig",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "2013,",
+   "type": "card",
+   "text": "2013 · A FIELD"
+  },
+  {
+   "at": "2021,",
+   "type": "photo",
+   "photo": "photo-skyway.jpg",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "label": "PULASKI SKYWAY · JERSEY CITY"
+  },
+  {
+   "at": "drum.",
+   "type": "card",
+   "text": "\"A STEEL DRUM\""
+  },
+  {
+   "at": "evidentiary",
+   "type": "card",
+   "text": "\"NOTHING OF\nEVIDENTIARY VALUE\"",
+   "red": true,
+   "sfx": [
+    [
+     "stamp",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "Here's",
+   "type": "card",
+   "text": "OUR ANALYSIS",
+   "sub": "CHAPTER 7 OF 7",
+   "sfx": [
+    [
+     "paper",
+     0.0
+    ]
+   ]
+  },
+  {
+   "at": "memo.",
+   "type": "card",
+   "text": "THE FBI'S\nOWN THEORY"
+  },
+  {
+   "at": "setup.",
+   "type": "card",
+   "text": "A SETUP?",
+   "red": true
+  },
+  {
+   "at": "willingly.",
+   "type": "card",
+   "text": "HE GOT IN\nWILLINGLY?"
+  },
+  {
+   "at": "runs",
+   "type": "card",
+   "text": "THE EVIDENCE\nRUNS OUT"
+  },
+  {
+   "at": "dead.",
+   "type": "card",
+   "text": "MOST SUSPECTS:\nDEAD"
+  },
+  {
+   "at": "open.",
+   "type": "card",
+   "text": "CASE STILL OPEN",
+   "red": true
+  },
+  {
+   "at": "Where",
+   "type": "card",
+   "text": "WHERE IS\nJIMMY HOFFA?",
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "Dossier",
+   "type": "end"
+  }
+ ]
+}
