@@ -1,0 +1,163 @@
+{
+ "title": "NAPOLEON'S HEIGHT",
+ "case": "059",
+ "scenes": [
+  {
+   "at": "Napoleon",
+   "type": "photo",
+   "photo": "photo-study.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "NAPOLEON · JACQUES-LOUIS DAVID, 1812",
+   "stamp": "SHORT?",
+   "stamp_at": "short.",
+   "sfx_at": [
+    [
+     "hit",
+     "Napoleon"
+    ]
+   ]
+  },
+  {
+   "at": "complex",
+   "type": "card",
+   "text": "A WHOLE COMPLEX\nNAMED AFTER HIM"
+  },
+  {
+   "at": "wasn't.",
+   "type": "card",
+   "text": "HE PROBABLY\nWASN'T",
+   "red": true,
+   "stamp": "MYTH",
+   "stamp_at": "wasn't."
+  },
+  {
+   "at": "death",
+   "type": "card",
+   "text": "1821 · RECORDED\nHEIGHT: 5'2\"",
+   "sfx_at": [
+    [
+     "paper",
+     "death"
+    ]
+   ]
+  },
+  {
+   "at": "French",
+   "type": "card",
+   "text": "FRENCH FEET\nAND INCHES"
+  },
+  {
+   "at": "longer",
+   "type": "card",
+   "text": "FRENCH INCH\n≈ 2.7 CM",
+   "sub": "ENGLISH INCH = 2.54 CM"
+  },
+  {
+   "at": "Convert",
+   "type": "card",
+   "text": "≈ 5'6\"–5'7\"",
+   "red": true
+  },
+  {
+   "at": "average,",
+   "type": "card",
+   "text": "AVERAGE OR\nA LITTLE ABOVE"
+  },
+  {
+   "at": "tiny?",
+   "type": "card",
+   "text": "SO WHY \"TINY\"?"
+  },
+  {
+   "at": "British",
+   "type": "card",
+   "text": "BLAME A BRITISH\nCARTOONIST",
+   "red": true
+  },
+  {
+   "at": "Gillray",
+   "type": "photo",
+   "photo": "photo-gillray.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "\"LITTLE BONEY IN A STRONG FIT\" · GILLRAY, 1803",
+   "fit": "contain"
+  },
+  {
+   "at": "Boney,",
+   "type": "photo",
+   "photo": "photo-gillray2.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "\"THE PLUMB-PUDDING IN DANGER\" · GILLRAY, 1805",
+   "fit": "contain",
+   "stamp": "LITTLE BONEY",
+   "stamp_at": "Boney,"
+  },
+  {
+   "at": "complained",
+   "type": "card",
+   "text": "\"DID MORE THAN\nALL THE ARMIES\nOF EUROPE\"",
+   "sub": "ATTRIBUTED TO NAPOLEON"
+  },
+  {
+   "at": "corporal.",
+   "type": "card",
+   "text": "\"LE PETIT\nCAPORAL\"",
+   "sub": "THE LITTLE CORPORAL",
+   "sfx_at": [
+    [
+     "drum",
+     "corporal."
+    ]
+   ]
+  },
+  {
+   "at": "affection,",
+   "type": "card",
+   "text": "AFFECTION,\nNOT MEASUREMENT"
+  },
+  {
+   "at": "guards",
+   "type": "photo",
+   "photo": "photo-guard.jpg",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GRENADIER OF THE OLD GUARD"
+  },
+  {
+   "at": "Send",
+   "type": "card",
+   "text": "SEND THIS TO\nSOMEONE WITH A\nNAPOLEON COMPLEX"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
