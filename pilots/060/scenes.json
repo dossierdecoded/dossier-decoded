@@ -1,0 +1,183 @@
+{
+ "title": "VIKING HELMETS",
+ "case": "060",
+ "scenes": [
+  {
+   "at": "Vikings",
+   "type": "card",
+   "text": "VIKINGS WORE\nHORNED\nHELMETS",
+   "stamp": "MYTH",
+   "stamp_at": "problem.",
+   "sfx_at": [
+    [
+     "horn",
+     "Vikings"
+    ]
+   ]
+  },
+  {
+   "at": "cartoon,",
+   "type": "card",
+   "text": "EVERY CARTOON,\nCOSTUME AND LOGO"
+  },
+  {
+   "at": "problem.",
+   "type": "card",
+   "text": "ONE PROBLEM"
+  },
+  {
+   "at": "Archaeologists",
+   "type": "card",
+   "text": "NEVER FOUND\nA SINGLE ONE",
+   "red": true
+  },
+  {
+   "at": "Only",
+   "type": "card",
+   "text": "ONLY ONE NEARLY\nCOMPLETE VIKING HELMET"
+  },
+  {
+   "at": "nineteen",
+   "type": "photo",
+   "photo": "photo-gjermundbu.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GJERMUNDBU HELMET · NORWAY · 10TH CENTURY",
+   "fit": "contain",
+   "sfx_at": [
+    [
+     "paper",
+     "nineteen"
+    ]
+   ]
+  },
+  {
+   "at": "rounded",
+   "type": "card",
+   "text": "ROUNDED IRON CAP\nEYE & NOSE GUARD"
+  },
+  {
+   "at": "horns.",
+   "type": "card",
+   "text": "NO HORNS",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "horns."
+    ]
+   ]
+  },
+  {
+   "at": "where",
+   "type": "card",
+   "text": "SO WHERE DID\nTHE HORNS COME FROM?"
+  },
+  {
+   "at": "opera.",
+   "type": "card",
+   "text": "AN OPERA",
+   "red": true
+  },
+  {
+   "at": "eighteen",
+   "type": "photo",
+   "photo": "photo-bayreuth.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "BAYREUTH FESTSPIELHAUS · 1876"
+  },
+  {
+   "at": "Ring",
+   "type": "card",
+   "text": "WAGNER'S\n\"RING\" CYCLE"
+  },
+  {
+   "at": "Doepler,",
+   "type": "card",
+   "text": "COSTUME DESIGNER:\nCARL EMIL DOEPLER"
+  },
+  {
+   "at": "helmets",
+   "type": "card",
+   "text": "HELMETS\nWITH HORNS",
+   "red": true,
+   "stamp": "1876",
+   "stamp_at": "horns."
+  },
+  {
+   "at": "Painters",
+   "type": "card",
+   "text": "PAINTERS COPIED IT"
+  },
+  {
+   "at": "stuck.",
+   "type": "card",
+   "text": "IT STUCK"
+  },
+  {
+   "at": "exist",
+   "type": "card",
+   "text": "HORNED HELMETS\nDID EXIST..."
+  },
+  {
+   "at": "Veksø.",
+   "type": "photo",
+   "photo": "photo-veksø.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "VEKSØ HELMETS · NATIONAL MUSEUM OF DENMARK",
+   "fit": "contain"
+  },
+  {
+   "at": "twenty",
+   "type": "card",
+   "text": "2022 · DATED",
+   "sfx_at": [
+    [
+     "paper",
+     "twenty"
+    ]
+   ]
+  },
+  {
+   "at": "nine",
+   "type": "card",
+   "text": "~900 BC",
+   "red": true
+  },
+  {
+   "at": "fifteen",
+   "type": "card",
+   "text": "1,500+ YEARS\nBEFORE THE\nVIKINGS",
+   "red": true
+  },
+  {
+   "at": "Send",
+   "type": "card",
+   "text": "SEND THIS TO SOMEONE\nWHO STILL HAS A\nHORNED HELMET"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
