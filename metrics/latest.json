@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:25:11+00:00",
+ "updated": "2026-11-22T20:14:54+00:00",
  "youtube_channel": {
   "subscribers": 509,
   "views": 16365
@@ -1076,7 +1076,7 @@
    "yt": {
     "id": "X2OHVFxZaqE",
     "url": "https://youtube.com/shorts/X2OHVFxZaqE",
-    "views": 116,
+    "views": 117,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -1873,8 +1873,8 @@
       "at": "2026-11-19T10:14:51Z"
      }
     ],
-    "avg_view_pct": 209.98999999999998,
-    "avg_view_sec": 138,
+    "avg_view_pct": 202.70999999999998,
+    "avg_view_sec": 133,
     "shares": 1,
     "subs_gained": 0
    },
@@ -1935,8 +1935,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-19T23:48:43Z",
-    "avg_view_pct": 57.61999999999999,
-    "avg_view_sec": 35,
+    "avg_view_pct": 58.660000000000004,
+    "avg_view_sec": 36,
     "shares": 4,
     "subs_gained": 0
    },
@@ -1961,23 +1961,27 @@
    "yt": {
     "id": "rRvPsq8guk4",
     "url": "https://youtube.com/shorts/rRvPsq8guk4",
-    "views": 136,
+    "views": 135,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-20T22:02:43Z"
+    "published": "2026-11-20T22:02:43Z",
+    "avg_view_pct": 99.96,
+    "avg_view_sec": 64,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "18225052150344921",
     "url": "https://www.instagram.com/reel/Df-rvEbTHOz/",
-    "views": 120,
-    "reach": 105,
+    "views": 121,
+    "reach": 106,
     "likes": 0,
     "comments": 0,
     "shares": 0,
-    "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 11.0
+    "saved": 1,
+    "total_interactions": 1,
+    "avg_watch_sec": 11.1
    },
    "title": "Einstein Never Failed Math. Here's Where the Myth Came From",
    "duration": 64.6
@@ -1988,7 +1992,7 @@
    "yt": {
     "id": "TkAawj8RRZA",
     "url": "https://youtube.com/shorts/TkAawj8RRZA",
-    "views": 141,
+    "views": 140,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -1998,13 +2002,13 @@
     "id": "17934555945162874",
     "url": "https://www.instagram.com/reel/DgBQiUHyHjN/",
     "views": 18,
-    "reach": 17,
+    "reach": 18,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 3.2
+    "avg_watch_sec": 3.8
    },
    "title": "Napoleon Wasn't Short. A British Cartoonist Made You Think So",
    "duration": 58.5
@@ -2205,13 +2209,13 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 66,
+    "views": 67,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-08T17:03:26Z",
-    "avg_view_pct": 16.05,
-    "avg_view_sec": 66,
+    "avg_view_pct": 15.64,
+    "avg_view_sec": 64,
     "shares": 0,
     "subs_gained": 0
    },
@@ -2266,11 +2270,7 @@
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-19T17:02:41Z",
-    "avg_view_pct": 0,
-    "avg_view_sec": 0,
-    "shares": 0,
-    "subs_gained": 0
+    "published": "2026-11-19T17:02:41Z"
    },
    "title": "115 People Vanished and Left One Word Behind | The Lost Colony of Roanoke",
    "duration": 497.1
