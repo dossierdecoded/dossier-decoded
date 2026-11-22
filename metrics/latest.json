@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T14:46:42+00:00",
+ "updated": "2026-11-22T17:25:11+00:00",
  "youtube_channel": {
   "subscribers": 509,
-  "views": 16226
+  "views": 16365
  },
  "instagram_account": {
   "followers_count": 11,
@@ -1961,7 +1961,7 @@
    "yt": {
     "id": "rRvPsq8guk4",
     "url": "https://youtube.com/shorts/rRvPsq8guk4",
-    "views": 134,
+    "views": 136,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -1997,7 +1997,7 @@
    "ig": {
     "id": "17934555945162874",
     "url": "https://www.instagram.com/reel/DgBQiUHyHjN/",
-    "views": 17,
+    "views": 18,
     "reach": 17,
     "likes": 0,
     "comments": 0,
@@ -2205,7 +2205,7 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 64,
+    "views": 66,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -2274,6 +2274,21 @@
    },
    "title": "115 People Vanished and Left One Word Behind | The Lost Colony of Roanoke",
    "duration": 497.1
+  },
+  {
+   "case": "L15",
+   "pillar": "Unsolved",
+   "yt": {
+    "id": "0HlIi4wTMBU",
+    "url": "https://youtube.com/watch?v=0HlIi4wTMBU",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-22T16:53:08Z"
+   },
+   "title": "Where Is Jimmy Hoffa? The 50-Year Mystery, Explained",
+   "duration": 452.8
   }
  ],
  "carousels": [
