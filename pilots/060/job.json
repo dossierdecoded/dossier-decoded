@@ -1,0 +1,61 @@
+{
+ "slug": "060-viking-horns",
+ "pillar": "Myth vs fact",
+ "format": "case-file",
+ "script": "[serious] Vikings wore horned helmets. Every cartoon, costume and sports logo says so. There's just one problem. Archaeologists have never found one. Only one nearly complete Viking helmet has ever been discovered. It was dug up in nineteen forty-three, on a farm in Norway called Gjermundbu. It's a rounded iron cap with a guard around the eyes and nose. No horns. So where did the horns come from? An opera. In eighteen seventy-six, Richard Wagner premiered his epic Ring cycle, inspired by Norse and Germanic legends. His costume designer, Carl Emil Doepler, gave the warriors helmets with horns. Audiences loved it. Painters and illustrators copied it, and the image stuck. Horned helmets did exist in Scandinavia. Two bronze ones were found in a Danish bog in Veks\u00f8. But in twenty twenty-two, researchers dated them to around nine hundred B C, more than fifteen hundred years before the first Viking raids. Send this to someone who still has a horned helmet for Halloween. This is Dossier Decoded. Case file number sixty. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "gjermundbu",
+   "query": "Gjermundbu helmet",
+   "n": 1
+  },
+  {
+   "slug": "doepler",
+   "query": "Carl Emil Doepler Ring des Nibelungen costume Hunding",
+   "n": 1
+  },
+  {
+   "slug": "veks\u00f8",
+   "query": "Veks\u00f8 helmets National Museum of Denmark",
+   "n": 1
+  },
+  {
+   "slug": "bayreuth",
+   "query": "Bayreuth Festspielhaus 1876",
+   "n": 1
+  },
+  {
+   "slug": "vikings",
+   "query": "Vikings horned helmets 19th century painting",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "horn",
+   "text": "deep viking war horn blast, short",
+   "seconds": 2
+  }
+ ]
+}
