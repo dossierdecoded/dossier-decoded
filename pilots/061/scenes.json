@@ -1,0 +1,173 @@
+{
+ "title": "LET THEM EAT CAKE",
+ "case": "061",
+ "scenes": [
+  {
+   "at": "Marie",
+   "type": "photo",
+   "photo": "photo-ma.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "MARIE ANTOINETTE · VIGÉE LE BRUN, 1783",
+   "sfx_at": [
+    [
+     "hit",
+     "Marie"
+    ]
+   ]
+  },
+  {
+   "at": "let",
+   "type": "card",
+   "text": "\"LET THEM\nEAT CAKE\"",
+   "red": true,
+   "sfx_at": [
+    [
+     "crowd",
+     "let"
+    ]
+   ]
+  },
+  {
+   "at": "famous",
+   "type": "card",
+   "text": "ONE OF HISTORY'S\nMOST FAMOUS LINES"
+  },
+  {
+   "at": "evidence",
+   "type": "card",
+   "text": "NO EVIDENCE\nSHE SAID IT",
+   "red": true,
+   "stamp": "MYTH",
+   "stamp_at": "it."
+  },
+  {
+   "at": "Rousseau.",
+   "type": "photo",
+   "photo": "photo-rousseau.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "JEAN-JACQUES ROUSSEAU"
+  },
+  {
+   "at": "Confessions,",
+   "type": "card",
+   "text": "\"CONFESSIONS\""
+  },
+  {
+   "at": "great",
+   "type": "card",
+   "text": "\"A GREAT\nPRINCESS\""
+  },
+  {
+   "at": "brioche.",
+   "type": "card",
+   "text": "\"LET THEM\nEAT BRIOCHE\"",
+   "red": true
+  },
+  {
+   "at": "rich",
+   "type": "card",
+   "text": "BRIOCHE:\nBUTTER & EGG\nBREAD"
+  },
+  {
+   "at": "problem.",
+   "type": "card",
+   "text": "THE PROBLEM",
+   "sfx_at": [
+    [
+     "paper",
+     "problem."
+    ]
+   ]
+  },
+  {
+   "at": "sixtyfive.",
+   "type": "card",
+   "text": "WRITTEN ~1765"
+  },
+  {
+   "at": "nine",
+   "type": "photo",
+   "photo": "photo-young.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "MARIA ANTONIA (FUTURE MARIE ANTOINETTE)",
+   "stamp": "AGE 9",
+   "stamp_at": "old,"
+  },
+  {
+   "at": "hadn't",
+   "type": "card",
+   "text": "NOT YET\nIN FRANCE"
+  },
+  {
+   "at": "named",
+   "type": "card",
+   "text": "PRINCESS:\nNEVER NAMED"
+  },
+  {
+   "at": "made",
+   "type": "card",
+   "text": "MAYBE INVENTED",
+   "red": true
+  },
+  {
+   "at": "Historians",
+   "type": "card",
+   "text": "NO RECORD\nOF HER SAYING IT"
+  },
+  {
+   "at": "pinned",
+   "type": "card",
+   "text": "PINNED ON HER\nLATER",
+   "red": true
+  },
+  {
+   "at": "symbol",
+   "type": "photo",
+   "photo": "photo-ma.jpg",
+   "focus": [
+    0.5,
+    0.3
+   ],
+   "zoom": [
+    1.2,
+    1.35
+   ],
+   "label": "THE SYMBOL OF THE MONARCHY"
+  },
+  {
+   "at": "fit",
+   "type": "card",
+   "text": "IT FIT TOO WELL"
+  },
+  {
+   "at": "Send",
+   "type": "card",
+   "text": "SEND THIS TO\nSOMEONE WHO QUOTES IT\nAT EVERY PARTY"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
