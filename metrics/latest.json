@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T13:35:19+00:00",
+ "updated": "2026-11-23T21:37:03+00:00",
  "youtube_channel": {
   "subscribers": 511,
-  "views": 16375
+  "views": 16528
  },
  "instagram_account": {
   "followers_count": 11,
@@ -438,8 +438,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-06T21:22:10Z",
-    "avg_view_pct": 52.12,
-    "avg_view_sec": 41,
+    "avg_view_pct": 51.2,
+    "avg_view_sec": 40,
     "shares": 0,
     "subs_gained": 1
    },
@@ -1773,8 +1773,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-14T22:02:31Z",
-    "avg_view_pct": 50.25999999999999,
-    "avg_view_sec": 39,
+    "avg_view_pct": 48.54,
+    "avg_view_sec": 38,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1804,7 +1804,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-15T22:03:48Z",
-    "avg_view_pct": 42.96,
+    "avg_view_pct": 43.56,
     "avg_view_sec": 26,
     "shares": 1,
     "subs_gained": 0
@@ -1899,7 +1899,7 @@
    "yt": {
     "id": "slatXkYrKR8",
     "url": "https://youtube.com/shorts/slatXkYrKR8",
-    "views": 16,
+    "views": 18,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1935,8 +1935,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-19T23:48:43Z",
-    "avg_view_pct": 58.660000000000004,
-    "avg_view_sec": 36,
+    "avg_view_pct": 57.48,
+    "avg_view_sec": 35,
     "shares": 4,
     "subs_gained": 0
    },
@@ -1966,8 +1966,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-20T22:02:43Z",
-    "avg_view_pct": 99.96,
-    "avg_view_sec": 64,
+    "avg_view_pct": 88.94,
+    "avg_view_sec": 57,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1996,7 +1996,11 @@
     "likes": 3,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-21T22:02:49Z"
+    "published": "2026-11-21T22:02:49Z",
+    "avg_view_pct": 63.55,
+    "avg_view_sec": 37,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "17934555945162874",
@@ -2100,7 +2104,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-10-18T16:10:09Z",
-    "avg_view_pct": 22.76,
+    "avg_view_pct": 22.62,
     "avg_view_sec": 108,
     "shares": 1,
     "subs_gained": 0
@@ -2209,13 +2213,13 @@
    "yt": {
     "id": "0a2UT59efkg",
     "url": "https://youtube.com/watch?v=0a2UT59efkg",
-    "views": 69,
+    "views": 68,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-08T17:03:26Z",
-    "avg_view_pct": 15.64,
-    "avg_view_sec": 64,
+    "avg_view_pct": 17.34,
+    "avg_view_sec": 71,
     "shares": 0,
     "subs_gained": 0
    },
