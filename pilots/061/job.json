@@ -1,0 +1,61 @@
+{
+ "slug": "061-let-them-eat-cake",
+ "pillar": "Myth vs fact",
+ "format": "case-file",
+ "script": "[serious] Marie Antoinette heard that the people of France had no bread, and said, let them eat cake. It's one of the most famous lines in history. There's no evidence she ever said it. The story comes from the philosopher Jean-Jacques Rousseau. In his autobiography, Confessions, he remembered the words of a great princess who, told that the peasants had no bread, replied, let them eat brioche. That's a rich bread made with butter and eggs, not exactly cake. But here's the problem. Rousseau wrote that part around seventeen sixty-five. Marie Antoinette was nine years old, and still living in Austria. She hadn't even come to France yet. He never named the princess, and he may have made the story up. Historians have found no record of Marie Antoinette saying it. The line was only pinned on her long after she was gone. By then, she was already the symbol of everything people hated about the monarchy, and the quote fit too well to let go. Send this to someone who quotes it at every party. This is Dossier Decoded. Case file number sixty-one. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "ma",
+   "query": "Marie Antoinette Vig\u00e9e Le Brun 1783 rose",
+   "n": 1
+  },
+  {
+   "slug": "rousseau",
+   "query": "Jean-Jacques Rousseau portrait Quentin de La Tour",
+   "n": 1
+  },
+  {
+   "slug": "young",
+   "query": "Marie Antoinette child Archduchess Maria Antonia 1762",
+   "n": 1
+  },
+  {
+   "slug": "brioche",
+   "query": "brioche bread",
+   "n": 1
+  },
+  {
+   "slug": "versailles",
+   "query": "Palace of Versailles aerial",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "crowd",
+   "text": "angry 18th century crowd murmur, short",
+   "seconds": 2
+  }
+ ]
+}
