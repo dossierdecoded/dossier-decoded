@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-24T16:52:20+00:00",
+ "updated": "2026-11-24T22:24:33+00:00",
  "youtube_channel": {
   "subscribers": 511,
-  "views": 16531
+  "views": 16535
  },
  "instagram_account": {
   "followers_count": 11,
-  "media_count": 61,
+  "media_count": 62,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -1644,7 +1644,7 @@
    "yt": {
     "id": "3t5E5NuEs6E",
     "url": "https://youtube.com/shorts/3t5E5NuEs6E",
-    "views": 9,
+    "views": 10,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1676,7 +1676,7 @@
     "id": "dg2gILo5XrI",
     "url": "https://youtube.com/shorts/dg2gILo5XrI",
     "views": 64,
-    "likes": 3,
+    "likes": 4,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-11T22:04:57Z",
@@ -1707,7 +1707,7 @@
     "id": "pOWqFbFJlT8",
     "url": "https://youtube.com/shorts/pOWqFbFJlT8",
     "views": 179,
-    "likes": 3,
+    "likes": 4,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-12T22:36:00Z",
@@ -1738,7 +1738,7 @@
     "id": "KMiehc7mqlA",
     "url": "https://youtube.com/shorts/KMiehc7mqlA",
     "views": 43,
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-14T03:02:08Z",
@@ -1769,7 +1769,7 @@
     "id": "hHPnZXTt-2U",
     "url": "https://youtube.com/shorts/hHPnZXTt-2U",
     "views": 33,
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-14T22:02:31Z",
@@ -1800,7 +1800,7 @@
     "id": "SRUHyVy97sw",
     "url": "https://youtube.com/shorts/SRUHyVy97sw",
     "views": 172,
-    "likes": 3,
+    "likes": 4,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-15T22:03:48Z",
@@ -1831,7 +1831,7 @@
     "id": "8p4b3NXAFC4",
     "url": "https://youtube.com/shorts/8p4b3NXAFC4",
     "views": 23,
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-16T22:25:06Z",
@@ -1862,11 +1862,16 @@
     "id": "XAqwIiXHRng",
     "url": "https://youtube.com/shorts/XAqwIiXHRng",
     "views": 38,
-    "likes": 1,
-    "comments": 1,
+    "likes": 2,
+    "comments": 2,
     "privacy": "public",
     "published": "2026-11-17T22:02:46Z",
     "comment_text": [
+     {
+      "author": "@larontaylor5727",
+      "text": "The crew said that? Or the upper executives???",
+      "at": "2026-11-24T22:10:49Z"
+     },
      {
       "author": "@ootpik2440",
       "text": "Negligence !",
@@ -1900,12 +1905,19 @@
     "id": "slatXkYrKR8",
     "url": "https://youtube.com/shorts/slatXkYrKR8",
     "views": 18,
-    "likes": 0,
-    "comments": 0,
+    "likes": 1,
+    "comments": 1,
     "privacy": "public",
     "published": "2026-11-19T01:33:49Z",
-    "avg_view_pct": 37.36,
-    "avg_view_sec": 24,
+    "comment_text": [
+     {
+      "author": "@larontaylor5727",
+      "text": "Thats because they did it.",
+      "at": "2026-11-24T22:09:28Z"
+     }
+    ],
+    "avg_view_pct": 50.029999999999994,
+    "avg_view_sec": 33,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1931,7 +1943,7 @@
     "id": "cI-F1BLPm8U",
     "url": "https://youtube.com/shorts/cI-F1BLPm8U",
     "views": 454,
-    "likes": 11,
+    "likes": 12,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-19T23:48:43Z",
@@ -1962,12 +1974,12 @@
     "id": "rRvPsq8guk4",
     "url": "https://youtube.com/shorts/rRvPsq8guk4",
     "views": 140,
-    "likes": 2,
+    "likes": 3,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-20T22:02:43Z",
-    "avg_view_pct": 88.94,
-    "avg_view_sec": 57,
+    "avg_view_pct": 85.76,
+    "avg_view_sec": 55,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1993,11 +2005,11 @@
     "id": "TkAawj8RRZA",
     "url": "https://youtube.com/shorts/TkAawj8RRZA",
     "views": 140,
-    "likes": 3,
+    "likes": 4,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-21T22:02:49Z",
-    "avg_view_pct": 63.55,
+    "avg_view_pct": 63.05,
     "avg_view_sec": 37,
     "shares": 0,
     "subs_gained": 0
@@ -2023,8 +2035,8 @@
    "yt": {
     "id": "oblsBZrTb-U",
     "url": "https://youtube.com/shorts/oblsBZrTb-U",
-    "views": 3,
-    "likes": 0,
+    "views": 4,
+    "likes": 1,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-23T22:03:55Z"
@@ -2043,6 +2055,33 @@
    },
    "title": "Vikings Never Wore Horned Helmets. An Opera Did",
    "duration": 62.6
+  },
+  {
+   "case": "061",
+   "pillar": "Myth vs fact",
+   "yt": {
+    "id": "KcUSGEhvcpg",
+    "url": "https://youtube.com/shorts/KcUSGEhvcpg",
+    "views": 1,
+    "likes": 1,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-24T22:03:13Z"
+   },
+   "ig": {
+    "id": "18109066283200535",
+    "url": "https://www.instagram.com/reel/DgI--j-iGH4/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "Marie Antoinette Never Said \"Let Them Eat Cake\"",
+   "duration": 63.4
   },
   {
    "case": "L01",
@@ -2245,8 +2284,8 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-08T17:03:26Z",
-    "avg_view_pct": 17.34,
-    "avg_view_sec": 71,
+    "avg_view_pct": 19.16,
+    "avg_view_sec": 79,
     "shares": 0,
     "subs_gained": 0
    },
@@ -2312,11 +2351,15 @@
    "yt": {
     "id": "0HlIi4wTMBU",
     "url": "https://youtube.com/watch?v=0HlIi4wTMBU",
-    "views": 2,
+    "views": 3,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-22T16:53:08Z"
+    "published": "2026-11-22T16:53:08Z",
+    "avg_view_pct": 50.12,
+    "avg_view_sec": 227,
+    "shares": 0,
+    "subs_gained": 0
    },
    "title": "Where Is Jimmy Hoffa? The 50-Year Mystery, Explained",
    "duration": 452.8
