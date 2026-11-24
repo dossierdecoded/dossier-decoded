@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T22:24:01+00:00",
+ "updated": "2026-11-24T05:43:41+00:00",
  "youtube_channel": {
   "subscribers": 511,
-  "views": 16528
+  "views": 16531
  },
  "instagram_account": {
   "followers_count": 11,
@@ -1606,7 +1606,7 @@
    "yt": {
     "id": "HJvpg2dZWVU",
     "url": "https://youtube.com/shorts/HJvpg2dZWVU",
-    "views": 162,
+    "views": 163,
     "likes": 4,
     "comments": 1,
     "privacy": "public",
@@ -1899,7 +1899,7 @@
    "yt": {
     "id": "slatXkYrKR8",
     "url": "https://youtube.com/shorts/slatXkYrKR8",
-    "views": 17,
+    "views": 18,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -2023,7 +2023,7 @@
    "yt": {
     "id": "oblsBZrTb-U",
     "url": "https://youtube.com/shorts/oblsBZrTb-U",
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -2032,14 +2032,14 @@
    "ig": {
     "id": "17876515323601981",
     "url": "https://www.instagram.com/reel/DgGaQa5JO30/",
-    "views": 0,
-    "reach": 0,
+    "views": 96,
+    "reach": 83,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 5.3
    },
    "title": "Vikings Never Wore Horned Helmets. An Opera Did",
    "duration": 62.6
