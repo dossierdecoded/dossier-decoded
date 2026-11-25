@@ -1,0 +1,183 @@
+{
+ "title": "COLUMBUS & THE FLAT EARTH",
+ "case": "062",
+ "scenes": [
+  {
+   "at": "Christopher",
+   "type": "photo",
+   "photo": "photo-columbus.jpg",
+   "focus": [
+    0.5,
+    0.3
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "\"PORTRAIT OF A MAN, SAID TO BE COLUMBUS\" · 1519",
+   "sfx_at": [
+    [
+     "hit",
+     "Christopher"
+    ]
+   ]
+  },
+  {
+   "at": "prove",
+   "type": "card",
+   "text": "\"PROVE THE EARTH\nWAS ROUND\"",
+   "sfx_at": [
+    [
+     "waves",
+     "prove"
+    ]
+   ]
+  },
+  {
+   "at": "taught.",
+   "type": "card",
+   "text": "WHAT KIDS\nWERE TAUGHT"
+  },
+  {
+   "at": "happened.",
+   "type": "card",
+   "text": "IT NEVER\nHAPPENED",
+   "red": true,
+   "stamp": "MYTH",
+   "stamp_at": "happened."
+  },
+  {
+   "at": "Educated",
+   "type": "card",
+   "text": "KNOWN FOR\n~2,000 YEARS"
+  },
+  {
+   "at": "forty",
+   "type": "card",
+   "text": "~240 BC"
+  },
+  {
+   "at": "Eratosthenes",
+   "type": "photo",
+   "photo": "photo-erat.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ERATOSTHENES' METHOD: SHADOWS & GEOMETRY",
+   "fit": "contain"
+  },
+  {
+   "at": "fight",
+   "type": "card",
+   "text": "SO WHAT WAS\nTHE FIGHT ABOUT?"
+  },
+  {
+   "at": "math.",
+   "type": "card",
+   "text": "COLUMBUS'S MATH",
+   "red": true,
+   "sfx_at": [
+    [
+     "paper",
+     "math."
+    ]
+   ]
+  },
+  {
+   "at": "smaller",
+   "type": "card",
+   "text": "EARTH:\nTOO SMALL"
+  },
+  {
+   "at": "Asia",
+   "type": "photo",
+   "photo": "photo-globe.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.2
+   ],
+   "label": "BEHAIM'S GLOBE · 1492 · NO AMERICAS"
+  },
+  {
+   "at": "Japan",
+   "type": "card",
+   "text": "\"JAPAN:\nA SHORT SAIL\""
+  },
+  {
+   "at": "experts",
+   "type": "card",
+   "text": "THE EXPERTS\nWERE RIGHT",
+   "red": true
+  },
+  {
+   "at": "ocean",
+   "type": "card",
+   "text": "TOO WIDE\nTO CROSS"
+  },
+  {
+   "at": "survived",
+   "type": "card",
+   "text": "SAVED BY\nTWO CONTINENTS",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "continents"
+    ]
+   ]
+  },
+  {
+   "at": "flat",
+   "type": "card",
+   "text": "SO WHERE DID THE\nFLAT EARTH STORY\nCOME FROM?"
+  },
+  {
+   "at": "Washington",
+   "type": "photo",
+   "photo": "photo-irving.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.3,
+    1.4
+   ],
+   "label": "WASHINGTON IRVING"
+  },
+  {
+   "at": "Sleepy",
+   "type": "card",
+   "text": "AUTHOR OF\n\"SLEEPY HOLLOW\""
+  },
+  {
+   "at": "biography",
+   "type": "card",
+   "text": "1828 BIOGRAPHY\nOF COLUMBUS",
+   "red": true
+  },
+  {
+   "at": "textbooks.",
+   "type": "card",
+   "text": "INTO THE\nTEXTBOOKS"
+  },
+  {
+   "at": "Send",
+   "type": "card",
+   "text": "SEND THIS TO\nSOMEONE WHO BELIEVES\nTHE TEXTBOOK"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
