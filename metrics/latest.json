@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:24:33+00:00",
+ "updated": "2026-11-25T01:14:59+00:00",
  "youtube_channel": {
   "subscribers": 511,
   "views": 16535
@@ -1532,7 +1532,7 @@
    "yt": {
     "id": "maXaxdrgjr4",
     "url": "https://youtube.com/shorts/maXaxdrgjr4",
-    "views": 261,
+    "views": 262,
     "likes": 21,
     "comments": 2,
     "privacy": "public",
@@ -1575,8 +1575,8 @@
    "yt": {
     "id": "3srHzgM77Ik",
     "url": "https://youtube.com/shorts/3srHzgM77Ik",
-    "views": 294,
-    "likes": 13,
+    "views": 295,
+    "likes": 14,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-08T22:03:17Z",
@@ -1606,8 +1606,8 @@
    "yt": {
     "id": "HJvpg2dZWVU",
     "url": "https://youtube.com/shorts/HJvpg2dZWVU",
-    "views": 163,
-    "likes": 4,
+    "views": 167,
+    "likes": 5,
     "comments": 1,
     "privacy": "public",
     "published": "2026-11-09T22:04:08Z",
@@ -1644,7 +1644,7 @@
    "yt": {
     "id": "3t5E5NuEs6E",
     "url": "https://youtube.com/shorts/3t5E5NuEs6E",
-    "views": 10,
+    "views": 12,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -1675,7 +1675,7 @@
    "yt": {
     "id": "dg2gILo5XrI",
     "url": "https://youtube.com/shorts/dg2gILo5XrI",
-    "views": 64,
+    "views": 65,
     "likes": 4,
     "comments": 0,
     "privacy": "public",
@@ -1706,7 +1706,7 @@
    "yt": {
     "id": "pOWqFbFJlT8",
     "url": "https://youtube.com/shorts/pOWqFbFJlT8",
-    "views": 179,
+    "views": 180,
     "likes": 4,
     "comments": 0,
     "privacy": "public",
@@ -1737,7 +1737,7 @@
    "yt": {
     "id": "KMiehc7mqlA",
     "url": "https://youtube.com/shorts/KMiehc7mqlA",
-    "views": 43,
+    "views": 44,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -1768,7 +1768,7 @@
    "yt": {
     "id": "hHPnZXTt-2U",
     "url": "https://youtube.com/shorts/hHPnZXTt-2U",
-    "views": 33,
+    "views": 34,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -1799,7 +1799,7 @@
    "yt": {
     "id": "SRUHyVy97sw",
     "url": "https://youtube.com/shorts/SRUHyVy97sw",
-    "views": 172,
+    "views": 173,
     "likes": 4,
     "comments": 0,
     "privacy": "public",
@@ -1830,7 +1830,7 @@
    "yt": {
     "id": "8p4b3NXAFC4",
     "url": "https://youtube.com/shorts/8p4b3NXAFC4",
-    "views": 23,
+    "views": 25,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -1861,7 +1861,7 @@
    "yt": {
     "id": "XAqwIiXHRng",
     "url": "https://youtube.com/shorts/XAqwIiXHRng",
-    "views": 38,
+    "views": 40,
     "likes": 2,
     "comments": 2,
     "privacy": "public",
@@ -1942,7 +1942,7 @@
    "yt": {
     "id": "cI-F1BLPm8U",
     "url": "https://youtube.com/shorts/cI-F1BLPm8U",
-    "views": 454,
+    "views": 455,
     "likes": 12,
     "comments": 0,
     "privacy": "public",
@@ -1973,7 +1973,7 @@
    "yt": {
     "id": "rRvPsq8guk4",
     "url": "https://youtube.com/shorts/rRvPsq8guk4",
-    "views": 140,
+    "views": 141,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -2004,7 +2004,7 @@
    "yt": {
     "id": "TkAawj8RRZA",
     "url": "https://youtube.com/shorts/TkAawj8RRZA",
-    "views": 140,
+    "views": 141,
     "likes": 4,
     "comments": 0,
     "privacy": "public",
@@ -2062,8 +2062,8 @@
    "yt": {
     "id": "KcUSGEhvcpg",
     "url": "https://youtube.com/shorts/KcUSGEhvcpg",
-    "views": 1,
-    "likes": 1,
+    "views": 8,
+    "likes": 2,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-24T22:03:13Z"
@@ -2071,14 +2071,14 @@
    "ig": {
     "id": "18109066283200535",
     "url": "https://www.instagram.com/reel/DgI--j-iGH4/",
-    "views": 0,
-    "reach": 0,
-    "likes": 0,
+    "views": 130,
+    "reach": 95,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
-    "saved": 0,
-    "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "saved": 1,
+    "total_interactions": 2,
+    "avg_watch_sec": 5.6
    },
    "title": "Marie Antoinette Never Said \"Let Them Eat Cake\"",
    "duration": 63.4
