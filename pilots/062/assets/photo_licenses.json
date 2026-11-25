@@ -1,0 +1,30 @@
+[
+ {
+  "slug": "columbus",
+  "title": "File:Portrait of a Man, Said to be Christopher Columbus.jpg",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Sebastiano_del_Piombo\" class=\"extiw\" title=\"w:en:Sebastiano del Piombo\"><span title=\"Italian painter (c.1485-1547)\">Sebastiano del Piombo</span></a></bdi",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Man,_Said_to_be_Christopher_Columbus.jpg"
+ },
+ {
+  "slug": "globe",
+  "title": "File:Behaims Erdapfel.jpg",
+  "license": "CC BY-SA 2.0 de",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Martin_Behaim\" class=\"extiw\" title=\"w:en:Martin Behaim\"><span title=\"German navigator and geographer to the King of Portugal (1459\u20131507)\">Martin Behaim</",
+  "page": "https://commons.wikimedia.org/wiki/File:Behaims_Erdapfel.jpg"
+ },
+ {
+  "slug": "irving",
+  "title": "File:Portrait of Washington Irving (4674138).jpg",
+  "license": "Public domain",
+  "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q18508412\" class=\"extiw\" title=\"d:Q18508412\"><span title=\"British engraver (1769\u20131850)\">John Roffe</span></a></bdi>",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Washington_Irving_(4674138).jpg"
+ },
+ {
+  "slug": "erat",
+  "title": "File:Eratosthenes & measurement of the Earth.png",
+  "license": "CC BY-SA 3.0",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Eratosthenes_%26_measurement_of_the_Earth.png"
+ }
+]
