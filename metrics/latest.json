@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:42:01+00:00",
+ "updated": "2026-11-25T20:03:40+00:00",
  "youtube_channel": {
   "subscribers": 512,
   "views": 16539
@@ -1904,7 +1904,7 @@
    "yt": {
     "id": "slatXkYrKR8",
     "url": "https://youtube.com/shorts/slatXkYrKR8",
-    "views": 19,
+    "views": 20,
     "likes": 1,
     "comments": 1,
     "privacy": "public",
@@ -1916,8 +1916,8 @@
       "at": "2026-11-24T22:09:28Z"
      }
     ],
-    "avg_view_pct": 50.029999999999994,
-    "avg_view_sec": 33,
+    "avg_view_pct": 51.88,
+    "avg_view_sec": 34,
     "shares": 0,
     "subs_gained": 0
    },
@@ -1947,7 +1947,7 @@
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-19T23:48:43Z",
-    "avg_view_pct": 57.48,
+    "avg_view_pct": 57.35,
     "avg_view_sec": 35,
     "shares": 4,
     "subs_gained": 0
@@ -2035,11 +2035,15 @@
    "yt": {
     "id": "oblsBZrTb-U",
     "url": "https://youtube.com/shorts/oblsBZrTb-U",
-    "views": 6,
+    "views": 5,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
-    "published": "2026-11-23T22:03:55Z"
+    "published": "2026-11-23T22:03:55Z",
+    "avg_view_pct": 127.93999999999998,
+    "avg_view_sec": 80,
+    "shares": 0,
+    "subs_gained": 0
    },
    "ig": {
     "id": "17876515323601981",
@@ -2062,7 +2066,7 @@
    "yt": {
     "id": "KcUSGEhvcpg",
     "url": "https://youtube.com/shorts/KcUSGEhvcpg",
-    "views": 18,
+    "views": 19,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -2146,7 +2150,7 @@
    "yt": {
     "id": "ET2TsnV-uLk",
     "url": "https://youtube.com/watch?v=ET2TsnV-uLk",
-    "views": 14,
+    "views": 15,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
