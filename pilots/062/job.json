@@ -1,0 +1,61 @@
+{
+ "slug": "062-columbus-flat-earth",
+ "pillar": "Myth vs fact",
+ "format": "case-file",
+ "script": "[serious] Christopher Columbus sailed west to prove the Earth was round, while everyone else thought he'd fall off the edge. That's what generations of kids were taught. It never happened. Educated Europeans had known the Earth was round for nearly two thousand years. Around two hundred and forty B C, a Greek scholar named Eratosthenes even estimated its size, using shadows and geometry. So what was the fight about? Columbus's math. He believed the Earth was much smaller than it really is, and that Asia stretched much further east. By his numbers, Japan was a short sail away. The experts who advised against him were right. The ocean was far too wide to cross with the supplies he had. Columbus only survived because two continents nobody in Europe knew about were in the way. So where did the flat Earth story come from? Largely from Washington Irving, the author of The Legend of Sleepy Hollow. His eighteen twenty-eight biography of Columbus dramatized the story, and it ended up in school textbooks. Send this to someone who still believes the textbook version. This is Dossier Decoded. Case file number sixty-two. A new file every day.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "columbus",
+   "query": "Christopher Columbus portrait Sebastiano del Piombo",
+   "n": 1
+  },
+  {
+   "slug": "globe",
+   "query": "Behaim Erdapfel globe 1492",
+   "n": 1
+  },
+  {
+   "slug": "irving",
+   "query": "Washington Irving portrait",
+   "n": 1
+  },
+  {
+   "slug": "ships",
+   "query": "Santa Maria Nina Pinta 1892 painting",
+   "n": 1
+  },
+  {
+   "slug": "erat",
+   "query": "Eratosthenes measurement Earth circumference diagram",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "waves",
+   "text": "ocean waves against a wooden ship hull, creaking, short",
+   "seconds": 2
+  }
+ ]
+}
