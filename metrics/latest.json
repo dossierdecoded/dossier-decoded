@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T01:14:59+00:00",
+ "updated": "2026-11-25T10:06:07+00:00",
  "youtube_channel": {
-  "subscribers": 511,
-  "views": 16535
+  "subscribers": 512,
+  "views": 16539
  },
  "instagram_account": {
   "followers_count": 11,
@@ -1904,7 +1904,7 @@
    "yt": {
     "id": "slatXkYrKR8",
     "url": "https://youtube.com/shorts/slatXkYrKR8",
-    "views": 18,
+    "views": 19,
     "likes": 1,
     "comments": 1,
     "privacy": "public",
@@ -1942,7 +1942,7 @@
    "yt": {
     "id": "cI-F1BLPm8U",
     "url": "https://youtube.com/shorts/cI-F1BLPm8U",
-    "views": 455,
+    "views": 456,
     "likes": 12,
     "comments": 0,
     "privacy": "public",
@@ -2035,7 +2035,7 @@
    "yt": {
     "id": "oblsBZrTb-U",
     "url": "https://youtube.com/shorts/oblsBZrTb-U",
-    "views": 4,
+    "views": 6,
     "likes": 1,
     "comments": 0,
     "privacy": "public",
@@ -2062,7 +2062,7 @@
    "yt": {
     "id": "KcUSGEhvcpg",
     "url": "https://youtube.com/shorts/KcUSGEhvcpg",
-    "views": 8,
+    "views": 17,
     "likes": 2,
     "comments": 0,
     "privacy": "public",
@@ -2071,14 +2071,14 @@
    "ig": {
     "id": "18109066283200535",
     "url": "https://www.instagram.com/reel/DgI--j-iGH4/",
-    "views": 130,
-    "reach": 95,
+    "views": 138,
+    "reach": 128,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 1,
     "total_interactions": 2,
-    "avg_watch_sec": 5.6
+    "avg_watch_sec": 4.5
    },
    "title": "Marie Antoinette Never Said \"Let Them Eat Cake\"",
    "duration": 63.4
