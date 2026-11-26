@@ -1,0 +1,61 @@
+{
+ "slug": "063-first-thanksgiving",
+ "pillar": "Myth vs fact",
+ "format": "case-file",
+ "script": "[serious] The first Thanksgiving probably had no turkey. And nobody called it Thanksgiving. Almost everything we know about the feast of sixteen twenty-one comes from one short letter, by a colonist named Edward Winslow. He wrote that four men went out hunting birds, and that the Wampanoag leader Massasoit arrived with about ninety men, who went out and killed five deer. They feasted for three days. That's it. The only foods we can be sure of are deer and wild fowl, which may have meant ducks or geese. Turkey is never mentioned. No pumpkin pie either. They had no ovens for it. And those black outfits with big buckles? Buckles weren't in fashion yet. Painters added them much later. Winslow never called it Thanksgiving. The name was attached in the eighteen forties, and it only became a national holiday in eighteen sixty-three, after a magazine editor named Sarah Josepha Hale spent years writing to presidents. Which Thanksgiving myth did you grow up with? Tell me in the comments. This is Dossier Decoded, case file sixty-three. Because the first Thanksgiving probably had no turkey.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "ferris",
+   "query": "The First Thanksgiving 1621 Jean Leon Gerome Ferris",
+   "n": 1
+  },
+  {
+   "slug": "brownscombe",
+   "query": "The First Thanksgiving at Plymouth Brownscombe 1914",
+   "n": 1
+  },
+  {
+   "slug": "hale",
+   "query": "Sarah Josepha Hale portrait",
+   "n": 1
+  },
+  {
+   "slug": "lincoln",
+   "query": "Abraham Lincoln 1863 portrait Gardner",
+   "n": 1
+  },
+  {
+   "slug": "plimoth",
+   "query": "Plimoth Patuxet museum village",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "fire",
+   "text": "crackling campfire, outdoors, short",
+   "seconds": 2
+  }
+ ]
+}
