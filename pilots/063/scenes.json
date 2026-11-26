@@ -1,0 +1,173 @@
+{
+ "title": "THE FIRST THANKSGIVING",
+ "case": "063",
+ "scenes": [
+  {
+   "at": "The",
+   "type": "card",
+   "text": "THE FIRST\nTHANKSGIVING:\nNO TURKEY?",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "The"
+    ]
+   ]
+  },
+  {
+   "at": "nobody",
+   "type": "card",
+   "text": "NOT CALLED\n\"THANKSGIVING\"",
+   "stamp": "MYTH",
+   "stamp_at": "Thanksgiving."
+  },
+  {
+   "at": "Almost",
+   "type": "card",
+   "text": "MYTHS YOU\nWERE TAUGHT\nIN SCHOOL",
+   "sub": "PART 1"
+  },
+  {
+   "at": "letter,",
+   "type": "card",
+   "text": "ONE SHORT LETTER",
+   "sub": "EDWARD WINSLOW · 1621",
+   "sfx_at": [
+    [
+     "paper",
+     "letter,"
+    ]
+   ]
+  },
+  {
+   "at": "hunting",
+   "type": "card",
+   "text": "4 MEN HUNT\n\"FOWL\""
+  },
+  {
+   "at": "Massasoit",
+   "type": "card",
+   "text": "MASSASOIT +\n~90 MEN"
+  },
+  {
+   "at": "deer.",
+   "type": "card",
+   "text": "5 DEER"
+  },
+  {
+   "at": "three",
+   "type": "card",
+   "text": "3 DAYS",
+   "sfx_at": [
+    [
+     "fire",
+     "three"
+    ]
+   ]
+  },
+  {
+   "at": "That's",
+   "type": "card",
+   "text": "THAT'S IT."
+  },
+  {
+   "at": "foods",
+   "type": "card",
+   "text": "CONFIRMED:\nDEER +\nWILD FOWL"
+  },
+  {
+   "at": "ducks",
+   "type": "card",
+   "text": "DUCKS? GEESE?"
+  },
+  {
+   "at": "Turkey",
+   "type": "card",
+   "text": "TURKEY:\nNEVER MENTIONED",
+   "red": true
+  },
+  {
+   "at": "pie",
+   "type": "card",
+   "text": "NO PUMPKIN PIE",
+   "sub": "NO OVENS"
+  },
+  {
+   "at": "black",
+   "type": "photo",
+   "photo": "photo-ferris.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.2
+   ],
+   "label": "\"THE FIRST THANKSGIVING\" · FERRIS, c. 1912"
+  },
+  {
+   "at": "Buckles",
+   "type": "card",
+   "text": "BUCKLES:\nNOT IN\nFASHION YET",
+   "red": true
+  },
+  {
+   "at": "Painters",
+   "type": "photo",
+   "photo": "photo-brownscombe.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "BROWNSCOMBE, 1914 · PAINTED ~300 YEARS LATER"
+  },
+  {
+   "at": "Winslow",
+   "type": "card",
+   "text": "NEVER CALLED IT\nTHANKSGIVING"
+  },
+  {
+   "at": "forties,",
+   "type": "card",
+   "text": "NAME ATTACHED:\n1840s"
+  },
+  {
+   "at": "national",
+   "type": "photo",
+   "photo": "photo-lincoln.jpg",
+   "focus": [
+    0.5,
+    0.3
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "ABRAHAM LINCOLN",
+   "stamp": "1863",
+   "stamp_at": "national"
+  },
+  {
+   "at": "Hale",
+   "type": "card",
+   "text": "SARAH JOSEPHA HALE",
+   "sub": "YEARS OF LETTERS TO PRESIDENTS"
+  },
+  {
+   "at": "Which",
+   "type": "card",
+   "text": "WHICH MYTH DID\nYOU GROW UP WITH?",
+   "red": true,
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
