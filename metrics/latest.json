@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-26T02:58:55+00:00",
+ "updated": "2026-11-26T11:58:11+00:00",
  "youtube_channel": {
   "subscribers": 512,
-  "views": 16580
+  "views": 16596
  },
  "instagram_account": {
   "followers_count": 11,
@@ -1410,7 +1410,7 @@
    "yt": {
     "id": "mBhv3oQLIRE",
     "url": "https://youtube.com/shorts/mBhv3oQLIRE",
-    "views": 373,
+    "views": 374,
     "likes": 21,
     "comments": 5,
     "privacy": "public",
@@ -2066,7 +2066,7 @@
    "yt": {
     "id": "KcUSGEhvcpg",
     "url": "https://youtube.com/shorts/KcUSGEhvcpg",
-    "views": 34,
+    "views": 35,
     "likes": 3,
     "comments": 0,
     "privacy": "public",
@@ -2102,14 +2102,14 @@
    "ig": {
     "id": "18118625785862903",
     "url": "https://www.instagram.com/reel/DgLj7f-uCn1/",
-    "views": 6,
-    "reach": 5,
+    "views": 8,
+    "reach": 7,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 1.7
+    "avg_watch_sec": 9.2
    },
    "title": "Columbus Didn't Prove the Earth Was Round. Everyone Already Knew",
    "duration": 64.5
@@ -2291,7 +2291,7 @@
    "yt": {
     "id": "tJglAsY7FDI",
     "url": "https://youtube.com/watch?v=tJglAsY7FDI",
-    "views": 6,
+    "views": 7,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
