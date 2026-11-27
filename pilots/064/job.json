@@ -1,0 +1,61 @@
+{
+ "slug": "064-paul-revere",
+ "pillar": "Myth vs fact",
+ "format": "case-file",
+ "script": "[serious] Paul Revere never shouted, the British are coming. And he never made it to Concord. Myths you were taught in school, part two. April eighteenth, seventeen seventy-five. British troops are about to march out of Boston. Revere slips across the river and rides toward Lexington to warn the rebel leaders. But shouting the British are coming would have made no sense. Most colonists still thought of themselves as British. The mission was quiet. Wake the right people, and let them spread the alarm. By his own account, his warning was, the Regulars are coming out. And he wasn't alone. William Dawes rode a different route with the same message. On the road to Concord, they were joined by a young doctor, Samuel Prescott. Then a British patrol stopped them. Prescott escaped and reached Concord. Revere was captured. So why is he the famous one? A poem. In eighteen sixty, Henry Wadsworth Longfellow wrote Paul Revere's Ride, and left the other riders out. What school myth should I bust next? Tell me in the comments. This is Dossier Decoded, case file sixty-four. Because Paul Revere never shouted, the British are coming.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "revere",
+   "query": "Paul Revere portrait Copley",
+   "n": 1
+  },
+  {
+   "slug": "ride",
+   "query": "Midnight Ride of Paul Revere Grant Wood",
+   "n": 1
+  },
+  {
+   "slug": "oldnorth",
+   "query": "Old North Church Boston",
+   "n": 1
+  },
+  {
+   "slug": "longfellow",
+   "query": "Henry Wadsworth Longfellow portrait",
+   "n": 1
+  },
+  {
+   "slug": "capture",
+   "query": "Paul Revere capture site Minute Man National Historical Park",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "hooves",
+   "text": "single horse galloping at night on a dirt road, short",
+   "seconds": 2
+  }
+ ]
+}
