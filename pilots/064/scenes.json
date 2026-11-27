@@ -1,0 +1,183 @@
+{
+ "title": "PAUL REVERE",
+ "case": "064",
+ "scenes": [
+  {
+   "at": "Paul",
+   "type": "card",
+   "text": "\"THE BRITISH\nARE COMING!\"",
+   "red": true,
+   "stamp": "NEVER SAID",
+   "stamp_at": "coming.",
+   "sfx_at": [
+    [
+     "hooves",
+     "Paul"
+    ]
+   ]
+  },
+  {
+   "at": "Concord.",
+   "type": "card",
+   "text": "NEVER REACHED\nCONCORD",
+   "red": true
+  },
+  {
+   "at": "Myths",
+   "type": "card",
+   "text": "MYTHS YOU\nWERE TAUGHT\nIN SCHOOL",
+   "sub": "PART 2"
+  },
+  {
+   "at": "April",
+   "type": "card",
+   "text": "APRIL 18, 1775"
+  },
+  {
+   "at": "Revere",
+   "type": "photo",
+   "photo": "photo-revere.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "PAUL REVERE · JOHN SINGLETON COPLEY, c. 1768"
+  },
+  {
+   "at": "shouting",
+   "type": "card",
+   "text": "SHOUTING IT\nMADE NO SENSE"
+  },
+  {
+   "at": "British.",
+   "type": "card",
+   "text": "COLONISTS\nSAW THEMSELVES\nAS BRITISH"
+  },
+  {
+   "at": "quiet.",
+   "type": "card",
+   "text": "A QUIET MISSION"
+  },
+  {
+   "at": "account,",
+   "type": "card",
+   "text": "HIS OWN WORDS:",
+   "sfx_at": [
+    [
+     "paper",
+     "account,"
+    ]
+   ]
+  },
+  {
+   "at": "Regulars",
+   "type": "card",
+   "text": "\"THE REGULARS\nARE COMING OUT\"",
+   "red": true
+  },
+  {
+   "at": "alone.",
+   "type": "card",
+   "text": "NOT ALONE"
+  },
+  {
+   "at": "Dawes",
+   "type": "card",
+   "text": "WILLIAM DAWES",
+   "sub": "ANOTHER ROUTE"
+  },
+  {
+   "at": "Prescott.",
+   "type": "card",
+   "text": "DR. SAMUEL PRESCOTT"
+  },
+  {
+   "at": "patrol",
+   "type": "card",
+   "text": "A BRITISH\nPATROL",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "patrol"
+    ]
+   ]
+  },
+  {
+   "at": "escaped",
+   "type": "card",
+   "text": "PRESCOTT ESCAPED\n→ CONCORD"
+  },
+  {
+   "at": "captured.",
+   "type": "photo",
+   "photo": "photo-capture.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "REVERE CAPTURE SITE · LINCOLN, MASSACHUSETTS",
+   "stamp": "CAPTURED",
+   "stamp_at": "captured."
+  },
+  {
+   "at": "famous",
+   "type": "card",
+   "text": "SO WHY IS HE\nTHE FAMOUS ONE?"
+  },
+  {
+   "at": "poem.",
+   "type": "photo",
+   "photo": "photo-longfellow.jpg",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "HENRY WADSWORTH LONGFELLOW"
+  },
+  {
+   "at": "Ride,",
+   "type": "photo",
+   "photo": "photo-ride.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "\"THE MIDNIGHT RIDE OF PAUL REVERE\" · GRANT WOOD, 1931",
+   "stamp": "1860 POEM",
+   "stamp_at": "Ride,"
+  },
+  {
+   "at": "other",
+   "type": "card",
+   "text": "LEFT THE OTHER\nRIDERS OUT"
+  },
+  {
+   "at": "What",
+   "type": "card",
+   "text": "WHAT SCHOOL MYTH\nSHOULD I BUST NEXT?",
+   "red": true,
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
