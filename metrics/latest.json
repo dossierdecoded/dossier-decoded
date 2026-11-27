@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-27T21:51:47+00:00",
+ "updated": "2026-11-27T22:24:28+00:00",
  "youtube_channel": {
   "subscribers": 512,
   "views": 16649
  },
  "instagram_account": {
   "followers_count": 11,
-  "media_count": 64,
+  "media_count": 65,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -2148,6 +2148,33 @@
    },
    "title": "The First Thanksgiving Probably Had No Turkey",
    "duration": 63.9
+  },
+  {
+   "case": "064",
+   "pillar": "Myth vs fact",
+   "yt": {
+    "id": "DKj48OMYX5A",
+    "url": "https://youtube.com/shorts/DKj48OMYX5A",
+    "views": 2,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-27T22:03:38Z"
+   },
+   "ig": {
+    "id": "18210399493375399",
+    "url": "https://www.instagram.com/reel/DgQtaELJ3YS/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "Paul Revere Never Shouted \"The British Are Coming\"",
+   "duration": 62.5
   },
   {
    "case": "L01",
