@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:42:54+00:00",
+ "updated": "2026-11-27T12:59:36+00:00",
  "youtube_channel": {
   "subscribers": 512,
   "views": 16610
@@ -1169,7 +1169,7 @@
    "yt": {
     "id": "4GE63V_gnS0",
     "url": "https://youtube.com/shorts/4GE63V_gnS0",
-    "views": 958,
+    "views": 960,
     "likes": 25,
     "comments": 1,
     "privacy": "public",
@@ -2097,7 +2097,7 @@
    "yt": {
     "id": "tRSMvIjznqo",
     "url": "https://youtube.com/shorts/tRSMvIjznqo",
-    "views": 6,
+    "views": 8,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -2124,8 +2124,8 @@
    "yt": {
     "id": "tGAFwJ3sQKA",
     "url": "https://youtube.com/shorts/tGAFwJ3sQKA",
-    "views": 0,
-    "likes": 0,
+    "views": 35,
+    "likes": 2,
     "comments": 0,
     "privacy": "public",
     "published": "2026-11-27T03:39:43Z"
@@ -2133,14 +2133,14 @@
    "ig": {
     "id": "18220719988357166",
     "url": "https://www.instagram.com/reel/DgOvEYkBeYk/",
-    "views": 0,
-    "reach": 0,
+    "views": 2,
+    "reach": 2,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 1.9
    },
    "title": "The First Thanksgiving Probably Had No Turkey",
    "duration": 63.9
