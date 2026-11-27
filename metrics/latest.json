@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-27T03:30:22+00:00",
+ "updated": "2026-11-27T03:42:54+00:00",
  "youtube_channel": {
   "subscribers": 512,
   "views": 16610
  },
  "instagram_account": {
   "followers_count": 11,
-  "media_count": 63,
+  "media_count": 64,
   "username": "dossierdecoded"
  },
  "videos": [
@@ -2117,6 +2117,33 @@
    },
    "title": "Columbus Didn't Prove the Earth Was Round. Everyone Already Knew",
    "duration": 64.5
+  },
+  {
+   "case": "063",
+   "pillar": "Myth vs fact",
+   "yt": {
+    "id": "tGAFwJ3sQKA",
+    "url": "https://youtube.com/shorts/tGAFwJ3sQKA",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "privacy": "public",
+    "published": "2026-11-27T03:39:43Z"
+   },
+   "ig": {
+    "id": "18220719988357166",
+    "url": "https://www.instagram.com/reel/DgOvEYkBeYk/",
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "avg_watch_sec": 0.0
+   },
+   "title": "The First Thanksgiving Probably Had No Turkey",
+   "duration": 63.9
   },
   {
    "case": "L01",
