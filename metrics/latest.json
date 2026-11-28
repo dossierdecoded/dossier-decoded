@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-28T03:42:33+00:00",
+ "updated": "2026-11-28T12:40:15+00:00",
  "youtube_channel": {
   "subscribers": 512,
-  "views": 16649
+  "views": 16650
  },
  "instagram_account": {
   "followers_count": 11,
@@ -1324,7 +1324,7 @@
    "yt": {
     "id": "D7jd7x3QXJE",
     "url": "https://youtube.com/shorts/D7jd7x3QXJE",
-    "views": 1052,
+    "views": 1053,
     "likes": 70,
     "comments": 1,
     "privacy": "public",
@@ -1904,7 +1904,7 @@
    "yt": {
     "id": "slatXkYrKR8",
     "url": "https://youtube.com/shorts/slatXkYrKR8",
-    "views": 23,
+    "views": 24,
     "likes": 1,
     "comments": 1,
     "privacy": "public",
@@ -2155,7 +2155,7 @@
    "yt": {
     "id": "DKj48OMYX5A",
     "url": "https://youtube.com/shorts/DKj48OMYX5A",
-    "views": 10,
+    "views": 14,
     "likes": 0,
     "comments": 0,
     "privacy": "public",
@@ -2164,14 +2164,14 @@
    "ig": {
     "id": "18210399493375399",
     "url": "https://www.instagram.com/reel/DgQtaELJ3YS/",
-    "views": 0,
-    "reach": 0,
+    "views": 5,
+    "reach": 4,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "avg_watch_sec": 0.0
+    "avg_watch_sec": 1.9
    },
    "title": "Paul Revere Never Shouted \"The British Are Coming\"",
    "duration": 62.5
