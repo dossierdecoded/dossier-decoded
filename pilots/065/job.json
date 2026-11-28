@@ -1,0 +1,61 @@
+{
+ "slug": "065-washington-teeth",
+ "pillar": "Myth vs fact",
+ "format": "case-file",
+ "script": "[serious] George Washington never had wooden teeth. The truth is much stranger. Myths you were taught in school, part three. Washington had terrible teeth. His first one was pulled when he was twenty-four. By the time he became president in seventeen eighty-nine, he had exactly one natural tooth left. So he wore dentures. Several sets, over the years. And Mount Vernon, which still has his only complete surviving set, lists what went into them. Hippopotamus ivory. Walrus ivory. Cow and horse teeth. Lead, brass, and gold springs. And human teeth. Whose? Records show that in seventeen eighty-four, nine teeth were bought from enslaved people at Mount Vernon, on Washington's account. Whether those exact teeth ended up in his dentures, historians can't say. So where did the wooden part come from? Ivory stains over time, and old, discolored dentures can look like grained wood. The myth stuck. Which school myth should I bust next? Tell me in the comments. This is Dossier Decoded, case file sixty-five. Because George Washington never had wooden teeth.",
+ "pdf": null,
+ "commons": [
+  {
+   "slug": "dentures",
+   "query": "George Washington dentures Mount Vernon",
+   "n": 1
+  },
+  {
+   "slug": "stuart",
+   "query": "George Washington Gilbert Stuart Athenaeum portrait",
+   "n": 1
+  },
+  {
+   "slug": "mv",
+   "query": "Mount Vernon mansion east front",
+   "n": 1
+  },
+  {
+   "slug": "greenwood",
+   "query": "John Greenwood dentist portrait",
+   "n": 1
+  },
+  {
+   "slug": "inaug",
+   "query": "Washington inauguration 1789 Federal Hall painting",
+   "n": 1
+  }
+ ],
+ "sfx": [
+  {
+   "slug": "drone",
+   "text": "dark low ambient drone, tense documentary underscore, slow pulsing sub bass, no melody, seamless",
+   "seconds": 22
+  },
+  {
+   "slug": "stamp",
+   "text": "a heavy rubber stamp slamming down on paper on a wooden desk, single hit, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "paper",
+   "text": "a single sheet of paper being slid across a desk and flipped, close up",
+   "seconds": 1.2
+  },
+  {
+   "slug": "hit",
+   "text": "deep cinematic impact hit, single boom, short tail",
+   "seconds": 1.5
+  },
+  {
+   "slug": "click",
+   "text": "teeth clicking, dentures clack, short",
+   "seconds": 1
+  }
+ ]
+}
