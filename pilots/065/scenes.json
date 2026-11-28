@@ -1,0 +1,161 @@
+{
+ "title": "WASHINGTON'S TEETH",
+ "case": "065",
+ "scenes": [
+  {
+   "at": "George",
+   "type": "card",
+   "text": "WASHINGTON'S\nWOODEN\nTEETH?",
+   "red": true,
+   "stamp": "MYTH",
+   "stamp_at": "teeth.",
+   "sfx_at": [
+    [
+     "click",
+     "George"
+    ]
+   ]
+  },
+  {
+   "at": "stranger.",
+   "type": "card",
+   "text": "THE TRUTH IS\nSTRANGER"
+  },
+  {
+   "at": "Myths",
+   "type": "card",
+   "text": "MYTHS YOU\nWERE TAUGHT\nIN SCHOOL",
+   "sub": "PART 3"
+  },
+  {
+   "at": "terrible",
+   "type": "photo",
+   "photo": "photo-stuart.jpg",
+   "focus": [
+    0.5,
+    0.35
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "GEORGE WASHINGTON · GILBERT STUART"
+  },
+  {
+   "at": "twentyfour.",
+   "type": "card",
+   "text": "FIRST TOOTH PULLED:\nAGE 24"
+  },
+  {
+   "at": "president",
+   "type": "photo",
+   "photo": "photo-inaug.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "label": "INAUGURATION · 1789",
+   "stamp": "1 TOOTH LEFT",
+   "stamp_at": "left."
+  },
+  {
+   "at": "dentures.",
+   "type": "card",
+   "text": "DENTURES",
+   "sub": "SEVERAL SETS"
+  },
+  {
+   "at": "Mount",
+   "type": "photo",
+   "photo": "photo-dent-1.jpg",
+   "focus": [
+    0.52,
+    0.25
+   ],
+   "zoom": [
+    2.2,
+    2.5
+   ],
+   "label": "WASHINGTON'S DENTURES · MOUNT VERNON"
+  },
+  {
+   "at": "Hippopotamus",
+   "type": "card",
+   "text": "HIPPOPOTAMUS\nIVORY",
+   "sfx_at": [
+    [
+     "paper",
+     "Hippopotamus"
+    ]
+   ]
+  },
+  {
+   "at": "Walrus",
+   "type": "card",
+   "text": "WALRUS IVORY"
+  },
+  {
+   "at": "Cow",
+   "type": "card",
+   "text": "COW & HORSE\nTEETH"
+  },
+  {
+   "at": "Lead,",
+   "type": "card",
+   "text": "LEAD · BRASS\nGOLD SPRINGS"
+  },
+  {
+   "at": "human",
+   "type": "card",
+   "text": "HUMAN TEETH",
+   "red": true,
+   "sfx_at": [
+    [
+     "hit",
+     "human"
+    ]
+   ]
+  },
+  {
+   "at": "Whose?",
+   "type": "card",
+   "text": "WHOSE?"
+  },
+  {
+   "at": "seventeen",
+   "type": "card",
+   "text": "1784 · 9 TEETH\nBOUGHT FROM\nENSLAVED PEOPLE",
+   "red": true
+  },
+  {
+   "at": "Whether",
+   "type": "card",
+   "text": "IN HIS DENTURES?\nHISTORIANS CAN'T SAY"
+  },
+  {
+   "at": "wooden",
+   "type": "card",
+   "text": "SO WHY \"WOODEN\"?"
+  },
+  {
+   "at": "Ivory",
+   "type": "card",
+   "text": "STAINED IVORY\nLOOKS LIKE\nWOOD"
+  },
+  {
+   "at": "Which",
+   "type": "card",
+   "text": "WHICH SCHOOL MYTH\nSHOULD I BUST NEXT?",
+   "red": true,
+   "sub": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "at": "This",
+   "type": "end"
+  }
+ ]
+}
